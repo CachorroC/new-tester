@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-11-04T05:00:00.000Z",
+  "idProcesos": [50632410],
+  "idRegUltimaAct": 997260750,
+  "llaveProceso": "11001400306920170075400",
+  "nombre": "GUSTAVO SANTAMARIA MOSQUERA",
+  "numero": 123,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:40.593Z"
+}

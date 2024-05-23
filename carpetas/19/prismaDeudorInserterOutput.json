@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 19,
+    "cedula": "80001905",
+    "primerNombre": "eliacid",
+    "primerApellido": "obando",
+    "segundoNombre": "chaves",
+    "segundoApellido": null,
+    "direccion": "calle 42 sur no 87 c -18  interior 2 apartamento 203",
+    "email": "eliacid@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 19
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 3,
+      "tipo": "JUZGADO 003 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ - LOCALIDAD SUBA",
+      "url": "https://www.ramajudicial.gov.cojuzgado-003-de-pequeñas-causas--y-competencia-múltiple-de-bogotá---localidad-suba"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "26/04/2020",
+    "obligacion": {
+      "A": 2405037
+    },
+    "capitalAdeudado": "$ 15.946.341",
+    "entregaGarantiasAbogado": "11/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SUBA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00909",
+    "llaveProceso": "11001418900320170090900",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "24/05/2017",
+    "notificacion": {
+      "291": {
+        "resultado": "BOGOTA",
+        "fechaAporta": "AUTOMOVIL MARCA KIA MODELO 2013 COLOR PLATA SERVICIO PARTICULAR LINEA PICANTO EX"
+      }
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 82112341,
+      "idConexion": 320,
+      "llaveProceso": "11001418900320170090900",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2020-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "ADMISION",
+      "fechaPresentacion": ["2017-05-24T05:00:00.000Z"],
+      "municipio": "SUBA",
+      "obligacion": [2405037],
+      "radicado": "2017 - 00909"
+    }
+  ],
+  "numero": 10,
+  "llaveProceso": "11001418900320170090900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3202705987
+    },
+    "primerNombre": "MARINA",
+    "segundoNombre": "MORALES",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": null,
+    "cedula": 52396019,
+    "direccion": "CARRERA 109A No. 148-91 BOGOTA",
+    "email": null
+  },
+  "cc": 52396019,
+  "procesos": [
+    {
+      "idProceso": 82112341,
+      "idConexion": 320,
+      "llaveProceso": "11001418900320170090900",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 003 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ - LOCALIDAD SUBA",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [82112341],
+  "nombre": "MARINA MORALES HERNANDEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

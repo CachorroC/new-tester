@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 212,
+    "numero": 212,
+    "llaveProceso": "11001400304620170103500",
+    "nombre": "fernando null vera farfan",
+    "idProcesos": [10134513],
+    "category": "Terminados"
+  }
+}

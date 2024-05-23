@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 189,
+    "cedula": "53053612",
+    "primerNombre": "diana",
+    "primerApellido": "sanchez",
+    "segundoNombre": "patricia",
+    "segundoApellido": "salcedo",
+    "direccion": "tranversal 142 # 150 - 50 casa 2 et 8",
+    "email": "baldini@mybosi.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 192
+  }
+}

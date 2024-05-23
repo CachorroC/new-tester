@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 505,
+    "numero": 505,
+    "llaveProceso": "11001418902520180246200",
+    "nombre": "william  giovanny garzon,lopez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

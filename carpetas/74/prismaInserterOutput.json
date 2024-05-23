@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 74,
+    "numero": 74,
+    "llaveProceso": "11001400304820170050700",
+    "nombre": "carlos andrés borray arce",
+    "idProcesos": [10681823],
+    "category": "Terminados"
+  }
+}

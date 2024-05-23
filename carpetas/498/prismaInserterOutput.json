@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 498,
+    "numero": 498,
+    "llaveProceso": "25899400300320180042900",
+    "nombre": "jose alexander becerra barrera",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

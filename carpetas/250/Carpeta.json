@@ -1,0 +1,108 @@
+{
+  "id": 72165243,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "VIVIANA ANDREA ARBOLEDA HERNANDEZ",
+    "cedula": "52454328",
+    "direccion": "CALLE 3 No 5-56 APARTAMENTO 101 SOPO",
+    "telefono": "8715525",
+    "id": 250
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "46432606",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.982Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.992Z"],
+    "id": 250,
+    "llaveProceso": "25758418900120170059900",
+    "mandamientoPago": [],
+    "municipio": "SOPO",
+    "notificacion": {
+      "id": 250,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "37781325203 /4513088996703762",
+      "5303729275150891 /12642123"
+    ],
+    "radicado": "2017 - 00599",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.976Z"],
+    "medidasCautelares": {
+      "id": 250,
+      "fechaOrdenaMedida": "2024-02-10T00:54:42.741Z",
+      "medidaSolicitada": "PERSONAL"
+    }
+  },
+  "deudor": {
+    "id": 250,
+    "telCelular": "3135348199",
+    "telFijo": "8715525 ",
+    "primerNombre": "FRANCISCO",
+    "segundoNombre": "CONTRERAS",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": null,
+    "cedula": "72165243",
+    "direccion": "CALLE 3 A No 5-56 APARTAAMENTO 101 SOPO",
+    "email": "vivipu@hotmail.com.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25758418900120170059900",
+  "nombre": "francisco contreras ramirez",
+  "numero": 250,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 250,
+      "createdAt": "2024-02-10T00:54:42.741Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 27 DE FEBRERO DE 2019 SE TERMINO EL PROCESO POR TRANSACCION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 250,
+      "createdAt": "2024-02-10T00:54:42.741Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 27 DE JUNIO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 250,
+      "createdAt": "2024-02-10T00:54:42.741Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL VEHICULO YA NO FIGURA EN RUNT A NOMBRE DEL DEMANDADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:42.742Z"
+}

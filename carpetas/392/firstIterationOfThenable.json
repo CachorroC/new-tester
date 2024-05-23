@@ -1,0 +1,87 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "22/08/2020",
+    "obligacion": {
+      "A": 3320087751,
+      "B": 3320088190
+    },
+    "capitalAdeudado": "$ 38.847.950",
+    "entregaGarantiasAbogado": "9/11/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "ZIPAQUIRA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00131",
+    "llaveProceso": "25899400300220170013100",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "20/11/2017",
+    "mandamientoPago": "12/04/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "11/06/2019",
+        "resultado": "POSITIVO",
+        "fechaAporta": "31/07/2019"
+      },
+      "292": {
+        "fechaRecibido": "3/07/2019",
+        "fechaAporta": "31/07/2019",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "NO",
+      "fisico": "SI",
+      "tipo": "CORREO",
+      "autoNotificado": "12/12/2019"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "12/04/2018",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 392,
+  "llaveProceso": "25899400300220170013100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "EDGAR",
+    "segundoNombre": "JOBANNY",
+    "primerApellido": "MATEUS",
+    "segundoApellido": "CASTILLO",
+    "cedula": 79712791,
+    "direccion": "CALLE 3 C No  13 - 07   ZIPAQUIRA",
+    "email": "giovannymat@yahoo.com"
+  },
+  "cc": 79712791,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "EDGAR JOBANNY MATEUS CASTILLO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2019-06-11T05:00:00.000Z",
+        "fechaAporta": "2019-07-31T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2019-07-03T05:00:00.000Z",
+        "fechaAporta": "2019-07-31T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "12/12/2019"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "7/09/2025",
+    "obligacion": {
+      "A": "2273 320131950"
+    },
+    "capitalAdeudado": "$ 13.684.674",
+    "entregaGarantiasAbogado": "11/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00480",
+    "llaveProceso": "25754418900220170048000",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "30/05/2017",
+    "mandamientoPago": "22/08/2017",
+    "notificacion": {
+      "tipo": "OK"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "22/08/2017",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 17,
+  "llaveProceso": "25754418900220170048000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "YEDSY",
+    "segundoNombre": "CAROLAY",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "GAMBOA",
+    "cedula": 52953923,
+    "direccion": "CALLE 17 No. 24 C-17 SUR BOGOTA",
+    "email": "importex1112@gmail.com"
+  },
+  "cc": 52953923,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "YEDSY CAROLAY ROJAS GAMBOA",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

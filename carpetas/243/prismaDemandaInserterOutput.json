@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 240,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "46109381",
+    "entregaGarantiasAbogado": "2017-08-25T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "etapaProcesal": "EN EJECUCIÓN LIQUIDACIÓN CREDITO SOLICITADA A COVINOC",
+    "fechaPresentacion": "2017-08-31T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["12577419"],
+    "radicado": "2017 - 00845",
+    "vencimientoPagare": ["2020-08-01T00:00:00.000Z"],
+    "expediente": "11001400306920170084500",
+    "carpetaNumero": 243,
+    "despacho": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:40.866Z",
+  "proceso": {
+    "idProceso": 86958040,
+    "idConexion": 259,
+    "llaveProceso": "11001418901620190108500",
+    "fechaProceso": "2021-03-12T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-16T05:00:00.000Z",
+    "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANGELICA NATHALY ROZO FRANCO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 2,
+      "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-02-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

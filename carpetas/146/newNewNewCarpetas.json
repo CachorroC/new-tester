@@ -1,0 +1,50 @@
+{
+  "id": 4520757,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12730731", "377813515714351."],
+    "llaveProceso": "11001400308620170082600",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-11-12T05:00:00.000Z",
+      "medidaSolicitada": "VEHICULO"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-08-22T05:00:00.000Z"],
+    "mandamientoPago": "2017-11-12T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00826",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-08-11T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 2103564,
+      "celular": 3116216567
+    },
+    "primerNombre": "PEDRO",
+    "segundoNombre": "NEL",
+    "primerApellido": "PELAEZ",
+    "segundoApellido": "TISNES",
+    "cedula": 4520757,
+    "direccion": "TRANVERSAL 3 # 52B - 09 APTO 405",
+    "email": "pelaezpedro@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308620170082600",
+  "nombre": "PEDRO NEL PELAEZ TISNES",
+  "numero": 146,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:35.098Z"
+}

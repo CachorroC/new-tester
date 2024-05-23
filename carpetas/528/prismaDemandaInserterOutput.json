@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 516,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "46371154",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2019-02-09T00:00:00.000Z",
+    "etapaProcesal": "2.543040030012019e+22",
+    "fechaPresentacion": null,
+    "municipio": "MADRID",
+    "obligacion": ["2273 320186673"],
+    "radicado": "2019 - 01160",
+    "vencimientoPagare": ["2030-08-01T00:00:00.000Z"],
+    "expediente": "25473400100120190116000",
+    "carpetaNumero": 528,
+    "despacho": null
+  }
+}

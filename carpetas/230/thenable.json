@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305220170090600",
+  "numero": 230,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1014185483,
+    "direccion": "calle 95 # 71 - 45 torre 8 apto 1604",
+    "email": "alexander.arquitecto@gmail.com",
+    "tel": {
+      "fijo": 8137713,
+      "celular": 3057528084
+    },
+    "primerNombre": "fredy",
+    "segundoNombre": "alexander",
+    "primerApellido": "muñoz",
+    "segundoApellido": "castañeda"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400305220170090600",
+    "capitalAdeudado": 29908812,
+    "etapaProcesal": "1.100140030522017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12519174],
+    "radicado": "2017 - 00906",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1014185483,
+  "idProcesos": null
+}

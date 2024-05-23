@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50521480,
+      "idConexion": 259,
+      "llaveProceso": "11001400303420170083600",
+      "fechaProceso": "2017-06-21T00:00:00",
+      "fechaUltimaActuacion": "2023-12-13T00:00:00",
+      "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS ESNEIDER ORDUZ FARFAN ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 81728891,
+      "idConexion": 320,
+      "llaveProceso": "11001400303420170083600",
+      "fechaProceso": "2017-09-14T00:00:00",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: LUIS ESNEIDER ORDUZ FARFAN | Defensor Privado: MARIA HELENA SUAREZ GARCIA | Tercero Vinculado: ACREEEDORES    (Emplazado) ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400303420170083600",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

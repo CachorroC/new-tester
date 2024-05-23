@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:28.156Z",
+  "proceso": {
+    "idProceso": 51357750,
+    "idConexion": 259,
+    "llaveProceso": "11001400307920170108200",
+    "fechaProceso": "2018-08-09T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-23T05:00:00.000Z",
+    "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: JHON ALEXANDER VALENCIA MARQUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 1,
+      "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-01-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

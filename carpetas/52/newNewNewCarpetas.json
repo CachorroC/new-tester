@@ -1,0 +1,62 @@
+{
+  "id": 35412591,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "HECTOR MANUEL MANJARRES VEGA",
+    "cedula": "11337901",
+    "direccion": "CARRERA 7 No. 25-51 BQ/ TO 9 APTO 104 PARQUE RESIDENCIAL VILLAZO ZIPAQUIRA",
+    "telefono": "3114720151",
+    "id": 52
+  },
+  "demanda": {
+    "obligacion": ["320 160226", "160226//377813713927961"],
+    "llaveProceso": "25899400300220170025600",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-06T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-06-22T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "ZIPAQUIRA",
+    "radicado": "2017 - 00256",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2031-01-18T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3114720151
+    },
+    "primerNombre": "MARTHA",
+    "segundoNombre": "STELLA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "BOLIVAR",
+    "cedula": 35412591,
+    "direccion": "CARRERA 7 No. 25-51 BQ/ TO 9 APTO 104 PARQUE RESIDENCIAL VILLAZO ZIPAQUIRA",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25899400300220170025600",
+  "nombre": "MARTHA STELLA GOMEZ BOLIVAR",
+  "numero": 52,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:56.628Z"
+}

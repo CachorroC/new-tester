@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307320170113500",
+  "numero": 151,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 88227428,
+    "direccion": "calle 180 # 12a - 16 int 3 apt 202 etapa 3 // calle 137 # 91 - 40 int 5 apto 404",
+    "email": "higuitac@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "andres",
+    "segundoNombre": "felipe",
+    "primerApellido": "higuita",
+    "segundoApellido": "cardona"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400307320170113500",
+    "capitalAdeudado": 0,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": ["2273320123786.", 337815690656158],
+    "radicado": "2017 - 01135",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 88227428,
+  "idProcesos": null
+}

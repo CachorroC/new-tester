@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301120170108400",
+  "numero": 179,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 12254068,
+    "direccion": "carrera 30 no.68 j-08 sur",
+    "email": "guillermogonzalez_tagua@hotmail.com",
+    "tel": {
+      "fijo": 5642974,
+      "celular": 3218180993
+    },
+    "primerNombre": "guillermo",
+    "primerApellido": "gonzalez",
+    "segundoApellido": "tagua",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-21T00:00:00.000Z",
+    "mandamientoPago": "2017-11-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400301120170108400",
+    "capitalAdeudado": 12687427,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [5670085162],
+    "radicado": "2017 - 01084",
+    "vencimientoPagare": ["2019-11-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 12254177,
+    "direccion": "DIAGONAL 68 J No.26-15 SUR",
+    "nombre": "javier gonzalez tagua",
+    "telefono": "5643632//3125598323"
+  },
+  "cc": 12254068,
+  "idProcesos": null
+}

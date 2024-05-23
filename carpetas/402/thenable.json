@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420180021800",
+  "numero": 402,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 39766624,
+    "direccion": "calle 92 sur no 14 a 57",
+    "email": "geraldin316@hotmail.com",
+    "tel": {
+      "fijo": 4596827,
+      "celular": 3205307727
+    },
+    "primerNombre": "blanca",
+    "segundoNombre": "cecilia",
+    "primerApellido": "ardila",
+    "segundoApellido": "huertas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306420180021800",
+    "capitalAdeudado": 4114601390,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [154048],
+    "radicado": "2018 - 00218",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39766624,
+  "idProcesos": null
+}

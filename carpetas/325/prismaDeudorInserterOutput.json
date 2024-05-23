@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 322,
+    "cedula": "30583011",
+    "primerNombre": "marcela",
+    "primerApellido": "diaz",
+    "segundoNombre": "patricia",
+    "segundoApellido": "pereira",
+    "direccion": null,
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 325
+  }
+}

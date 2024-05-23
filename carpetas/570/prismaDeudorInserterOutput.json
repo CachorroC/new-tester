@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 558,
+    "cedula": "21386342",
+    "primerNombre": "martha",
+    "primerApellido": "ospina",
+    "segundoNombre": "cecilia",
+    "segundoApellido": "arenas",
+    "direccion": "av suba no. 136-80 bl b ap 502 cerros de suba – gratamira //kr 75 no. 65 - 78 ap 402 edificio montreal p.h. medellín // vereda potrerito ?",
+    "email": "martacospina@hotmail.com",
+    "telCelular": "3163096532",
+    "telFijo": "2977768",
+    "carpetaNumero": 570
+  }
+}

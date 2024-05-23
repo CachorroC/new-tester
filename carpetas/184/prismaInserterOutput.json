@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 184,
+    "numero": 184,
+    "llaveProceso": "11001400302520170080700",
+    "nombre": "juan carlos tovar toledo",
+    "idProcesos": [50623380, 81652411],
+    "category": "Reintegra"
+  }
+}

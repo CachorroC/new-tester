@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:10.071Z",
+  "proceso": {
+    "idProceso": 121826111,
+    "idConexion": 320,
+    "llaveProceso": "25307400300320210053900",
+    "fechaProceso": "2021-10-27T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-03-10T05:00:00.000Z",
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE GIRARDOT ",
+    "departamento": "CUNDINAMARCA",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: adriana  vanegas peña | Defensor Privado: CARMEN CECILIA RAMIREZ MUÑOZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 3,
+      "tipo": "JUZGADO 003 CIVIL MUNICIPAL DE GIRARDOT",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-03-civil-municipal-de-girardot"
+    }
+  }
+}

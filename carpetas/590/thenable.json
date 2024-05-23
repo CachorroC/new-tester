@@ -1,0 +1,36 @@
+{
+  "llaveProceso": null,
+  "numero": 590,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 10051411,
+    "direccion": "calle 6a.  c no. 82a - 91",
+    "email": "edisoccer_3@hotmail.com",
+    "tel": {
+      "fijo": 2650706,
+      "celular": 6012650706
+    },
+    "primerNombre": "edwin",
+    "primerApellido": "jaramillo",
+    "segundoApellido": "gallego",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-10-09T00:00:00.000Z",
+    "expediente": null,
+    "capitalAdeudado": 56478909,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [310149501, "101269167 T.C. MASTER CARD 5303730423512131"],
+    "radicado": null,
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 10051411,
+  "idProcesos": null
+}

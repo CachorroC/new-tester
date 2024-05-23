@@ -1,0 +1,78 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "27/07/2028",
+    "telefono": null,
+    "id": 363,
+    "carpetaNumero": 363
+  },
+  "demanda": {
+    "vencimientoPagare": "2210088055/158705",
+    "obligacion": {
+      "A": 4513077734943038,
+      "B": "31.247.705.94"
+    },
+    "capitalAdeudado": "04/12/2017",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00409",
+    "llaveProceso": "25754400300220170040900",
+    "etapaProcesal": "12/12/2017",
+    "fechaPresentacion": "16/01/2018",
+    "notificacion": {
+      "292": {
+        "resultado": "PERSONAL"
+      },
+      "tipo": "29/05/2018",
+      "autoNotificado": "16/01/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "INMUEBLE",
+      "medidaSolicitada": "0033"
+    }
+  },
+  "demandas": [],
+  "numero": 363,
+  "llaveProceso": "25754400300220170040900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "LILIANA",
+    "primerApellido": "CASTAÑEDA",
+    "segundoApellido": "ZAPATA",
+    "cedula": 52645617,
+    "direccion": null,
+    "email": "CARRERA 4 A ESTE No 38 - 56 CASA 127 SOACHA"
+  },
+  "cc": 52645617,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARIA LILIANA CASTAÑEDA ZAPATA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "16/01/2018"
+  }
+}

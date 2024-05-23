@@ -1,0 +1,34 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 51042800,
+      "idConexion": 259,
+      "llaveProceso": "11001400305620180022100",
+      "fechaProceso": "2018-03-01T00:00:00",
+      "fechaUltimaActuacion": "2023-12-07T00:00:00",
+      "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400305620180022100",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 1,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": null,
+  "numero": 588,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 52711493,
+    "direccion": "carrera 10 bis no. 8 - 82 sur // carrrera 28 no. 11 - 67 oficina 145 bogotá",
+    "email": "kalexa17@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3123137083
+    },
+    "primerNombre": "karen",
+    "segundoNombre": "alexandra",
+    "primerApellido": "castañeda",
+    "segundoApellido": "guerrero"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-10-07T00:00:00.000Z",
+    "expediente": null,
+    "capitalAdeudado": 89544516,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["Q0000000052711493027001", "300103191 // 87122211"],
+    "radicado": null,
+    "vencimientoPagare": [null, null, null, "2026-04-09T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52711493,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 105,
+    "numero": 105,
+    "llaveProceso": "11001400300720170111300",
+    "nombre": "estelio de jesus ,roldan,pozo",
+    "idProcesos": [50593940],
+    "category": "Terminados"
+  }
+}

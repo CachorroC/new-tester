@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 311,
+    "cedula": "1075655673",
+    "primerNombre": "tatiana",
+    "primerApellido": "pepicano",
+    "segundoNombre": "ramon",
+    "segundoApellido": null,
+    "direccion": "carrera 2 b - no 2 j - 55  lote 6 mz 25",
+    "email": "revisionvillavicencio@gmail.co",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 314
+  }
+}

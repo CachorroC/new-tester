@@ -1,0 +1,41 @@
+{
+  "llaveProceso": "25126408900220170076800",
+  "numero": 314,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1075655673,
+    "direccion": "carrera 2 b - no 2 j - 55  lote 6 mz 25",
+    "email": "revisionvillavicencio@gmail.co",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "tatiana",
+    "primerApellido": "ramon",
+    "segundoApellido": "pepicano",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-08T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-10-31T00:00:00.000Z",
+    "expediente": "25126408900220170076800",
+    "capitalAdeudado": 2113964863,
+    "etapaProcesal": "TERMINADO",
+    "municipio": "CAJICA",
+    "obligacion": [161979],
+    "radicado": "2017 - 00768",
+    "vencimientoPagare": ["2033-03-06T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 17644906,
+    "direccion": "NO SE CONOCE",
+    "nombre": "norbey ramon chavarro"
+  },
+  "cc": 1075655673,
+  "idProcesos": null
+}

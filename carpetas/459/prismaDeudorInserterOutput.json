@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 454,
+    "cedula": "79857627",
+    "primerNombre": "cesar",
+    "primerApellido": "vanegas",
+    "segundoNombre": "armando",
+    "segundoApellido": null,
+    "direccion": "calle 131  no 109-13",
+    "email": "cesarvanegas1425@gmail.com",
+    "telCelular": "3108121876",
+    "telFijo": null,
+    "carpetaNumero": 459
+  }
+}

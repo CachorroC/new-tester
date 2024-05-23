@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2021-12-10T05:00:00.000Z",
+  "idProcesos": [112783650, 81628051],
+  "idRegUltimaAct": 1237916570,
+  "llaveProceso": "11001400300420170080100",
+  "nombre": "JHON FREDY MURILLO DAZA",
+  "numero": 176,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:48.508Z"
+}

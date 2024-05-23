@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418901420230146500",
+  "numero": 571,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 53132436,
+    "direccion": "carrera 10 no. 5 - 62 bloque torre 1 apartamento 202 conjunto residencial belverde i del municipio de mosquera",
+    "email": "capryeyom@hotmail.com",
+    "tel": {
+      "fijo": 5751066,
+      "celular": 3126172174
+    },
+    "primerNombre": "erli",
+    "segundoNombre": "yaneth",
+    "primerApellido": "oyuela",
+    "segundoApellido": "martinez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-04T00:00:00.000Z",
+    "expediente": "11001418901420230146500",
+    "capitalAdeudado": 24843938,
+    "etapaProcesal": null,
+    "municipio": "MOSQUERA",
+    "obligacion": [1380089168],
+    "radicado": "2023 - 01289",
+    "vencimientoPagare": ["2026-03-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53132436,
+  "idProcesos": null
+}

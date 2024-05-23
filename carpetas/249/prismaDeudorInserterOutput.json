@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 246,
+    "cedula": "19069228",
+    "primerNombre": "jorge",
+    "primerApellido": "martinez",
+    "segundoNombre": "alberto",
+    "segundoApellido": "bendek",
+    "direccion": "carrera 15 # 188 - 39",
+    "email": "jorgemar24@gmail.com",
+    "telCelular": "3134749213",
+    "telFijo": "6701643",
+    "carpetaNumero": 249
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "MAGDA YANETH MORA MORENO",
+    "cedula": "39652702",
+    "direccion": "CALLLE 21 No 5-06",
+    "telefono": "314408",
+    "id": 439,
+    "carpetaNumero": 439
+  },
+  "demanda": {
+    "vencimientoPagare": "26/06/2028",
+    "obligacion": {
+      "A": 20990165412
+    },
+    "capitalAdeudado": "25.527.457",
+    "entregaGarantiasAbogado": "15/05/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00555",
+    "llaveProceso": "25899400300320180055500",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "31/05/2018"
+  },
+  "demandas": [],
+  "numero": 439,
+  "llaveProceso": "25899400300320180055500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3123170535
+    },
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ESNEYDER",
+    "primerApellido": "DEVIA",
+    "segundoApellido": "CEPEDA",
+    "cedula": 79812352,
+    "direccion": "TRANSVERSAL 78 No 68A-15 SUR",
+    "email": null
+  },
+  "cc": 79812352,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MIGUEL ESNEYDER DEVIA CEPEDA",
+  "notificacion": null
+}

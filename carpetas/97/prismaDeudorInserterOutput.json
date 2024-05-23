@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 96,
+    "cedula": "19270589",
+    "primerNombre": "jose",
+    "primerApellido": "riaño",
+    "segundoNombre": "alfredo",
+    "segundoApellido": "maldonado",
+    "direccion": "calle 52 a bis  no 35 b 41 sur",
+    "email": "conjuexeu@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 97
+  }
+}

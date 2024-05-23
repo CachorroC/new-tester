@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001310304520170035900",
+  "numero": 354,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80032437,
+    "direccion": "carrera 102 no 155 - 19 interior 5 apartamento  230",
+    "email": "bagilt@yahoo.com",
+    "tel": {
+      "fijo": 6854161,
+      "celular": 3003813863
+    },
+    "primerNombre": "bernardo",
+    "segundoNombre": "anibal",
+    "primerApellido": "gil",
+    "segundoApellido": "torres"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-29T00:00:00.000Z",
+    "mandamientoPago": "2018-01-31T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-24T00:00:00.000Z",
+    "expediente": "11001310304520170035900",
+    "capitalAdeudado": 16264574397,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [199177],
+    "radicado": "2017 - 00359",
+    "vencimientoPagare": ["2037-03-01T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1032388321,
+    "direccion": "CALLE 22C No 73 - 41",
+    "nombre": "eldy consuelo melo villalba",
+    "telefono": 2955785
+  },
+  "cc": 80032437,
+  "idProcesos": null
+}

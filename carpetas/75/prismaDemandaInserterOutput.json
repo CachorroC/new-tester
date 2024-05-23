@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 75,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-06-21T00:00:00.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["44690", "320 096597"],
+    "radicado": "2017 - 00918",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "11001400305820170091800",
+    "carpetaNumero": 75,
+    "despacho": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 48,
+    "cedula": "52837630",
+    "primerNombre": "jenny",
+    "primerApellido": "patarroyo",
+    "segundoNombre": "adriana",
+    "segundoApellido": "torres",
+    "direccion": "carrera  39 b no  27 a - 40 sur",
+    "email": "jennyadrianapt@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 48
+  }
+}

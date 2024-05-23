@@ -1,0 +1,97 @@
+{
+  "id": 1032411438,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 603
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "168578525",
+    "departamento": "BOYACA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-23T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 603,
+    "llaveProceso": " 15001405300420230047400",
+    "mandamientoPago": [],
+    "municipio": "TUNJA",
+    "notificacion": {
+      "id": 603,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2273 320178028"],
+    "radicado": "2023-474",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2034-10-10T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 603,
+      "fechaOrdenaMedida": "2024-02-10T00:55:10.830Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 603,
+    "telCelular": "3203403190",
+    "telFijo": "3403190 ",
+    "primerNombre": "FRANCY",
+    "segundoNombre": "TATIANA",
+    "primerApellido": "LEON",
+    "segundoApellido": "TOBARIA",
+    "cedula": "1032411438",
+    "direccion": "Carrera 2 BIS NO. 41 A - 90  Urbanización Terraza santa Ines Tunja (Boyacá)",
+    "email": "tatianaleon_6@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": " 15001405300420230047400",
+  "nombre": "francy tatiana leon tobaria",
+  "numero": 603,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 603,
+      "createdAt": "2024-02-10T00:55:10.830Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "28 NOV SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 603,
+      "createdAt": "2024-02-10T00:55:10.830Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 14 DIC 2023 AUTO RECHAZA POR COMPETENCIA ENVIAN A JUZGADO CIVIL CIRCUITO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:10.830Z"
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "2589940010020200028900",
+  "numero": 534,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 11337530,
+    "direccion": "vereda san jorge zipaquira",
+    "email": "maribelbonita86@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3115159670
+    },
+    "primerNombre": "pedro",
+    "segundoNombre": "julio",
+    "primerApellido": "triviño",
+    "segundoApellido": "valbuena"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2020-09-05T00:00:00.000Z",
+    "expediente": "2589940010020200028900",
+    "capitalAdeudado": 33000833,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": [377814085773793, 4.51307044512064e29],
+    "radicado": "2020 - 00289",
+    "vencimientoPagare": [],
+    "departamento": "CNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11337530,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 539,
+    "numero": 540,
+    "llaveProceso": "11001400301420180092900",
+    "nombre": "jose rodrigo garcia quintero",
+    "idProcesos": [51341610],
+    "category": "Reintegra"
+  }
+}

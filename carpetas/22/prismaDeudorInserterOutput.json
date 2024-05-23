@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 22,
+    "cedula": "80073174",
+    "primerNombre": "jose",
+    "primerApellido": "garces",
+    "segundoNombre": "edwin",
+    "segundoApellido": "ardila",
+    "direccion": "calle 160 no. 58-75 torre 6 apto 503 bogota /// yopal casanare",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 22
+  }
+}

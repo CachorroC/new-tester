@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 260,
+    "cedula": "9856710",
+    "primerNombre": "ancizar",
+    "primerApellido": "botero",
+    "segundoNombre": "giraldo",
+    "segundoApellido": null,
+    "direccion": "carrera  6 no 8-16 pensilvania",
+    "email": "latablita1404@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 263
+  }
+}

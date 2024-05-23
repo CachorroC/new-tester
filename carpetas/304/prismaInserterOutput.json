@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 304,
+    "numero": 304,
+    "llaveProceso": "11001400307320170141100",
+    "nombre": "fernando null gonzalez tellez",
+    "idProcesos": [50801260],
+    "category": "Terminados"
+  }
+}

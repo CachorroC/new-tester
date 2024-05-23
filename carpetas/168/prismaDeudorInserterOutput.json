@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 166,
+    "cedula": "21046826",
+    "primerNombre": "maria",
+    "primerApellido": "hernandez",
+    "segundoNombre": "stella",
+    "segundoApellido": "beltran",
+    "direccion": "carrera 7 # 71 - 24",
+    "email": "sergio830@hotmail.com",
+    "telCelular": "3164673352",
+    "telFijo": "6861327",
+    "carpetaNumero": 168
+  }
+}

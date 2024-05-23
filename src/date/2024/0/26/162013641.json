@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:25.829Z",
+  "proceso": {
+    "idProceso": 162013641,
+    "idConexion": 256,
+    "llaveProceso": "11001400304220230109900",
+    "fechaProceso": "2023-11-02T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-12-13T05:00:00.000Z",
+    "despacho": "JUZGADO 042 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ISMAEL CAMACHO GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 42,
+      "tipo": "JUZGADO 042 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-42-civil-municipal-de-bogota"
+    }
+  }
+}

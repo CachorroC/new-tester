@@ -1,0 +1,79 @@
+{
+  "id": 3208569,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": "FLOR ANGELA RODRIGUEZ ",
+    "cedula": "51955296",
+    "direccion": "DIAGONAL 77B No 119 A-74 APTO 504 INT6",
+    "telefono": "F 2286617",
+    "id": 499
+  },
+  "demanda": {
+    "capitalAdeudado": "24807317",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-10-08T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-10-12T05:00:16.000Z"],
+    "llaveProceso": "2019-708",
+    "mandamientoPago": "2019-07-31T05:00:16.000Z",
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 499,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2020-02-18T05:00:16.000Z",
+          "fechaAporta": "2020-02-18T05:00:16.000Z",
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "20990123680  7/  377813468472239",
+      "4513079359765043 // 53037220341399596"
+    ],
+    "radicado": "2019 - 00708",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2024-11-30T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 499,
+      "fechaOrdenaMedida": "2020-02-13T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "deudor": {
+    "id": 499,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "FLORESMIRO",
+    "segundoNombre": "APONTE",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": null,
+    "cedula": "3208569",
+    "direccion": "DIAGONAL 77B No 119 A-74 APTO 504 INT6",
+    "email": "dcentro@pcpplasticos.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2019-708",
+  "nombre": "FLORESMIRO APONTE ACOSTA",
+  "numero": 499,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:29.082Z"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:05.112Z",
+  "savedDate": 1568091600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1948561080,
+    "llaveProceso": "11001400304220170076000",
+    "consActuacion": 112,
+    "fechaActuacion": "2024-01-31T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "PROCESO HIBRIDO INGRESA AL DESPACHO PARA LO PERTINENTE //TRIVIÑO",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-29T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 112,
+    "isUltimaAct": true,
+    "idProceso": 50517060
+  }
+}

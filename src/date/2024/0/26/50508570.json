@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:10.279Z",
+  "proceso": {
+    "idProceso": 50508570,
+    "idConexion": 259,
+    "llaveProceso": "11001400303720170083900",
+    "fechaProceso": "2017-06-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-07-10T05:00:00.000Z",
+    "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JAVIER ROMERO REYES ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 14,
+      "tipo": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-14-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

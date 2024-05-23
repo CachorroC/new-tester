@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 258,
+    "cedula": "79901800",
+    "primerNombre": "daniel",
+    "primerApellido": "ibañez",
+    "segundoNombre": "alberto",
+    "segundoApellido": "delgado",
+    "direccion": "calle 1 no 78 m 21 bloque h4 apartamento 502",
+    "email": "dsenna_22@yahoo.com",
+    "telCelular": "3125489014",
+    "telFijo": "2737360",
+    "carpetaNumero": 261
+  }
+}

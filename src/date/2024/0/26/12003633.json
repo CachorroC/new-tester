@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:22.289Z",
+  "proceso": {
+    "idProceso": 12003633,
+    "idConexion": 261,
+    "llaveProceso": "11001400305320170145600",
+    "fechaProceso": "2017-10-26T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-26T05:00:00.000Z",
+    "despacho": "JUZGADO 053 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JAIME ORLANDO PEÑA ROJAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 53,
+      "tipo": "JUZGADO 053 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-053-civil-municipal-de-bogota"
+    }
+  }
+}

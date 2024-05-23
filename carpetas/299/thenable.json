@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754400300320170034600",
+  "numero": 299,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80879280,
+    "direccion": "carrera 9 este no 36-59 sur  soacha",
+    "email": "roberto.g12@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "roberto",
+    "segundoNombre": "stivenson",
+    "primerApellido": "acero",
+    "segundoApellido": "baron"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-10-17T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-13T00:00:00.000Z",
+    "expediente": "25754400300320170034600",
+    "capitalAdeudado": 2843214977,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [6980085637, 120353],
+    "radicado": "2017 - 00346",
+    "vencimientoPagare": ["2017-07-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53005799,
+    "direccion": "CALLE 75 C BIS No 2-09 SUR  BOGOTA",
+    "nombre": "laura del pilar aranda aroca",
+    "telefono": 3208790281
+  },
+  "cc": 80879280,
+  "idProcesos": null
+}

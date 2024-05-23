@@ -1,0 +1,173 @@
+{
+  "id": 19270589,
+  "actuaciones": [
+    {
+      "idRegActuacion": 996537750,
+      "llaveProceso": "11001400308520160031900",
+      "consActuacion": 2,
+      "fechaActuacion": "2020-10-27T05:00:00.000Z",
+      "actuacion": "Archivo Definitivo",
+      "anotacion": "Se envia a archivo definiivo Caja No. 02- 2020 ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2020-10-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 77695680,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:54:29.089Z"
+    },
+    {
+      "idRegActuacion": 976636660,
+      "llaveProceso": "11001400308520160031900",
+      "consActuacion": 1,
+      "fechaActuacion": "2020-06-24T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 24/06/2020 a las 13:24:27",
+      "fechaInicial": "2020-06-24T05:00:00.000Z",
+      "fechaFinal": "2020-06-24T05:00:00.000Z",
+      "fechaRegistro": "2020-06-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 77695680,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:29.089Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 97
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "79862886",
+    "departamento": "CUNDINAMARCA ",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.998Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": [],
+    "id": 97,
+    "llaveProceso": "11001400308520160031900",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 97,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990137187"],
+    "radicado": "2016 - 00319",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 97,
+      "fechaOrdenaMedida": "2024-02-10T00:54:29.034Z",
+      "medidaSolicitada": "P/NAL"
+    }
+  },
+  "deudor": {
+    "id": 97,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JOSE",
+    "segundoNombre": "ALFREDO",
+    "primerApellido": "RIAÑO",
+    "segundoApellido": "MALDONADO",
+    "cedula": "19270589",
+    "direccion": "CALLE 52 A BIS  No 35 B 41 SUR ",
+    "email": "conjuexeu@hotmail.com"
+  },
+  "fecha": "2020-10-27T05:00:00.000Z",
+  "idProcesos": [77695680],
+  "idRegUltimaAct": 996537750,
+  "llaveProceso": "11001400308520160031900",
+  "nombre": "jose alfredo riaño maldonado",
+  "numero": 97,
+  "procesos": [
+    {
+      "idProceso": 77695680,
+      "idConexion": 259,
+      "llaveProceso": "11001400308520160031900",
+      "fechaProceso": "2020-06-24T05:00:00.000Z",
+      "fechaUltimaActuacion": "2020-10-27T05:00:00.000Z",
+      "despacho": "JUZGADO 085 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCO PICHINCHA | Demandado: JOSE ALFREDO RIAÑO MALDONADO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 85,
+        "tipo": "JUZGADO 085 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-085-civil-municipal-de-bogotá-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 996537750,
+    "llaveProceso": "11001400308520160031900",
+    "consActuacion": 2,
+    "fechaActuacion": "2020-10-27T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "Se envia a archivo definiivo Caja No. 02- 2020 ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-10-27T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 2,
+    "idProceso": 77695680,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 97,
+      "createdAt": "2024-02-10T00:54:29.034Z",
+      "pathname": null,
+      "dueDate": "2018-06-28T05:00:00.000Z",
+      "text": "EL 28/05/2018 SE TERMINO EL PROCESO POR PAGO TOTAL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 97,
+      "createdAt": "2024-02-10T00:54:29.034Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 21 DE FEBRERO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 97,
+      "createdAt": "2024-02-10T00:54:29.034Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 18 DE FEBRERO DE 2019 SE HIZO LEVANTAMIENTO DE MEDIDAS CAUTELARES Y CERTIFICADO DE TRADICION",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:29.035Z"
+}

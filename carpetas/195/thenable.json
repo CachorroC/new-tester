@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "1100140030122017099100",
+  "numero": 195,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80244664,
+    "direccion": "carrera 95 bis # 90a - 12",
+    "email": "gufo2299@hotmail.com",
+    "tel": {
+      "fijo": 4429545,
+      "celular": 3118280782
+    },
+    "primerNombre": "douglas",
+    "segundoNombre": "fabian",
+    "primerApellido": "siza",
+    "segundoApellido": "cortes"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-30T00:00:00.000Z",
+    "mandamientoPago": "2017-09-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "expediente": "1100140030122017099100",
+    "capitalAdeudado": 2530306952,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [138546],
+    "radicado": "2017 - 0991",
+    "vencimientoPagare": ["2026-05-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52347132,
+    "direccion": "CARRERA 6 # 23 - 70 BLOQUE 29 CASA 34",
+    "nombre": "johanna esmeralda pulido duran",
+    "telefono": "8222969 // 3112842488"
+  },
+  "cc": 80244664,
+  "idProcesos": null
+}

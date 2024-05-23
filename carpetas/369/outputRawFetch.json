@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50817380,
+      "idConexion": 259,
+      "llaveProceso": "11001400302220170120800",
+      "fechaProceso": "2017-11-01T00:00:00",
+      "fechaUltimaActuacion": "2023-01-31T00:00:00",
+      "despacho": "JUZGADO 020 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CALZADO RIVOLI  S.A.S. | Demandado: MARTHA LUCIA CUARTAS  BETANCOURT ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 81647611,
+      "idConexion": 320,
+      "llaveProceso": "11001400302220170120800",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 022 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400302220170120800",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

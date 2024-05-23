@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:17.730Z",
+  "proceso": {
+    "idProceso": 51154840,
+    "idConexion": 259,
+    "llaveProceso": "11001400300620180045400",
+    "fechaProceso": "2018-04-30T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-04-10T05:00:00.000Z",
+    "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SMARTITECH SAS | Demandado: EDISSON ARMANDO KARL BUITRAGO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 17,
+      "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-17-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

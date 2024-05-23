@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-03-04T05:00:00.000Z",
+  "idProcesos": [50596080],
+  "idRegUltimaAct": 587295400,
+  "llaveProceso": "11001400300620170041700",
+  "nombre": "NANCY HERRERA MENDEZ",
+  "numero": 104,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:37.204Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 88,
+    "cedula": "1030551366",
+    "primerNombre": "julian",
+    "primerApellido": "acosta",
+    "segundoNombre": "armando",
+    "segundoApellido": "rodriguez",
+    "direccion": "carrera 78p bis # 33a - 91 sur",
+    "email": "jvargas88@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 89
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": 79712791,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 392
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "38847950",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-09T05:00:16.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-11-20T05:00:16.000Z"],
+    "id": 392,
+    "llaveProceso": "25899400300220170013100",
+    "mandamientoPago": ["2018-04-12T05:00:16.000Z"],
+    "municipio": "ZIPAQUIRA",
+    "notificacion": {
+      "id": 392,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2019-11-06T05:00:00.000Z",
+          "fechaAporta": "2019-07-31T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "2019-07-03T05:00:16.000Z",
+          "fechaAporta": "2019-07-31T05:00:16.000Z",
+          "resultado": true
+        }
+      ],
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "2019-12-12T05:00:16.000Z"
+    },
+    "obligacion": ["3320087751", "3320088190"],
+    "radicado": "2018 - 00131",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-08-22T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 392,
+      "fechaOrdenaMedida": "2018-04-12T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "deudor": {
+    "id": 392,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "EDGAR",
+    "segundoNombre": "JOBANNY",
+    "primerApellido": "MATEUS",
+    "segundoApellido": "CASTILLO",
+    "cedula": "79712791",
+    "direccion": "CALLE 3 C No  13 - 07   ZIPAQUIRA",
+    "email": "giovannymat@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25899400300220170013100",
+  "nombre": "edgar jobanny mateus castillo",
+  "numero": 392,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "PROCESO DIGITALIZADO NUBE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "RETIRAR DEL JUZGADO DESPACHO COMISORIO DE EMBARGO DE SALARIOS Y RADICAR EN LADRILLERA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 15 NIOV 2022 SE RADICA OFICIO EMBARGO SALARIOS LADRILLERA SAN MATEO VIA CORREO ELECTRONICO.  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 29 MARZO 23 SE SOLICITA LIQUIDACION DE CREDITO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " CUANDO LA ALLEGUEN, APORTARLA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 28 ABRIL 2023 SE APORTA LIQUIDACION DE CREDITO.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 392,
+      "createdAt": "2024-02-10T00:54:55.764Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 27 SEPT 2023 SE ENVIA OFICIO REQUIERE EMBARGO SALARIOS A ARCILLAS SAN MATEO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:55.764Z"
+}

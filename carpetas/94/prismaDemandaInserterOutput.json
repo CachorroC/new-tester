@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 93,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "9524471150",
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-06-29T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["177994"],
+    "radicado": "2017 - 00591",
+    "vencimientoPagare": ["2034-10-01T00:00:00.000Z"],
+    "expediente": "11001400305620170059100",
+    "carpetaNumero": 94,
+    "despacho": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": 79742224,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 424
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "978",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.202Z",
+    "etapaProcesal": "11001400301520180045900",
+    "fechaPresentacion": [
+      "2019-09-04T05:00:00.000Z",
+      "2019-03-18T05:00:00.000Z",
+      "2022-11-02T05:00:00.000Z"
+    ],
+    "id": 424,
+    "llaveProceso": "110014003015201800459",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 424,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["6980085367"],
+    "radicado": "2018 - 00459",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["8202-02-18T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 424,
+      "fechaOrdenaMedida": "2024-02-10T00:54:58.206Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 424,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JAIME",
+    "segundoNombre": "LEONARDO",
+    "primerApellido": "SOSA",
+    "segundoApellido": "ROODRIGUEZ",
+    "cedula": "79742224",
+    "direccion": "CALLE 31A No 22-13 SUR",
+    "email": "leo-sosa44@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "110014003015201800459",
+  "nombre": "jaime leonardo sosa roodriguez",
+  "numero": 424,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 424,
+      "createdAt": "2024-02-10T00:54:58.205Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 4/072019 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 424,
+      "createdAt": "2024-02-10T00:54:58.205Z",
+      "pathname": null,
+      "dueDate": "2019-04-26T05:00:00.000Z",
+      "text": " EL 26/03/2019 SE REALIZO LEVANTAMIENTO DE MEDIDA CAUTELAR DE EMBARGO DEL INMUEBLE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 424,
+      "createdAt": "2024-02-10T00:54:58.206Z",
+      "pathname": null,
+      "dueDate": "2019-04-18T05:00:00.000Z",
+      "text": " EL  18/03/2019 JUZGADO TERMINO PROCESO POR PAGO CUOTAS EN MORA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:58.206Z"
+}

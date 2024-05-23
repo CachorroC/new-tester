@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 317,
+    "numero": 317,
+    "llaveProceso": "11001400301820170181300",
+    "nombre": "wilson null javier sanchez",
+    "idProcesos": [50832550],
+    "category": "Terminados"
+  }
+}

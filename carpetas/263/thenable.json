@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307020170100700",
+  "numero": 263,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 9856710,
+    "direccion": "carrera  6 no 8-16 pensilvania",
+    "email": "latablita1404@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ancizar",
+    "primerApellido": "giraldo",
+    "segundoApellido": "botero",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-27T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-09-22T00:00:00.000Z",
+    "expediente": "11001400307020170100700",
+    "capitalAdeudado": 2143527832,
+    "etapaProcesal": null,
+    "municipio": "PENSILVANIA",
+    "obligacion": [12603197],
+    "radicado": "2017 - 01007",
+    "vencimientoPagare": ["2017-09-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 9856710,
+  "idProcesos": null
+}

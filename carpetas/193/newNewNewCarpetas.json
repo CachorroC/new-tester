@@ -1,0 +1,64 @@
+{
+  "id": 52465691,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12750180"],
+    "llaveProceso": "11001400302420170175000",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-06-26T05:00:00.000Z",
+        "fechaAporta": "2018-06-26T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-06-26T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "24/09/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-08-23T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01750",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-08-09T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7829236,
+      "celular": 3204792977
+    },
+    "primerNombre": "CARMEN",
+    "segundoNombre": "ELIZABETH",
+    "primerApellido": "QUESADA",
+    "segundoApellido": "MARTINEZ",
+    "cedula": 52465691,
+    "direccion": "CARRERA 80 # 70A - 09",
+    "email": "equesada01@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400302420170175000",
+  "nombre": "CARMEN ELIZABETH QUESADA MARTINEZ",
+  "numero": 193,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:48.607Z"
+}

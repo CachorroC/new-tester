@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 493,
+    "numero": 493,
+    "llaveProceso": "11001410375120180181700",
+    "nombre": "kelly yuliana quintero fierro",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 80162950,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 269
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "105666670",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 269,
+    "llaveProceso": "25286400300120180042100",
+    "mandamientoPago": [],
+    "municipio": "FUNZA ",
+    "notificacion": {
+      "id": 269,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["182524"],
+    "radicado": "2018 - 00421",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-03-31T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 269,
+      "fechaOrdenaMedida": "2024-02-10T00:54:44.390Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 269,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JUAN",
+    "segundoNombre": "CARLOS",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "CUERVO",
+    "cedula": "80162950",
+    "direccion": "CARRERA 16 No 14 - 36 ",
+    "email": "ju@yahoo.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25286400300120180042100",
+  "nombre": "juan carlos ortiz cuervo",
+  "numero": 269,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 269,
+      "createdAt": "2024-02-10T00:54:44.390Z",
+      "pathname": null,
+      "dueDate": "2019-03-27T05:00:00.000Z",
+      "text": "EL 27/02/2019 EL JUZGADO DECRETO TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 269,
+      "createdAt": "2024-02-10T00:54:44.390Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL DESGLOSE CON GARANTIAS Y EL LEVANTAMIENTO DE MEDIDAS CAUTELARES A CARGO DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:44.390Z"
+}

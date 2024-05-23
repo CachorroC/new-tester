@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 99,
+    "numero": 99,
+    "llaveProceso": "1100141037512017111000",
+    "nombre": "yoni alexander restrepo peñuela",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

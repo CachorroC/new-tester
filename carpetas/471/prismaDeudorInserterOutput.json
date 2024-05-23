@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 466,
+    "cedula": "80742720",
+    "primerNombre": "adriana",
+    "primerApellido": "aguilar",
+    "segundoNombre": "mireya",
+    "segundoApellido": null,
+    "direccion": "carrera 13 bis no 47 sur- 32",
+    "email": "nanaleo24@hotmail.com",
+    "telCelular": "3166997083",
+    "telFijo": "7608072",
+    "carpetaNumero": 471
+  }
+}

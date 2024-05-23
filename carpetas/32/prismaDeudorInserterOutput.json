@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 32,
+    "cedula": "1022940572",
+    "primerNombre": "jonathan",
+    "primerApellido": "",
+    "segundoNombre": "andres",
+    "segundoApellido": "bernal,parra",
+    "direccion": "calle 36 b sur no. 11-25 apto 1307 bogota",
+    "email": "jhonannicky@hotmail.com",
+    "telCelular": "3134775602",
+    "telFijo": null,
+    "carpetaNumero": 32
+  }
+}

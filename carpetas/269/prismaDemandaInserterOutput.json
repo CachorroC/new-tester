@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 266,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "10566667022",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "FUNZA",
+    "obligacion": ["182524"],
+    "radicado": "2018 - 00421",
+    "vencimientoPagare": ["2025-03-01T00:00:00.000Z"],
+    "expediente": "25286400300120180042100",
+    "carpetaNumero": 269,
+    "despacho": null
+  }
+}

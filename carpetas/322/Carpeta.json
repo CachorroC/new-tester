@@ -1,0 +1,105 @@
+{
+  "id": 63395806,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 322
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "87015973",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.033Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:43.046Z"],
+    "id": 322,
+    "llaveProceso": "11001400308620170120500",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 322,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["155766"],
+    "radicado": "2017 - 01205",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.641Z"],
+    "medidasCautelares": {
+      "id": 322,
+      "fechaOrdenaMedida": "2024-02-10T00:54:49.297Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 322,
+    "telCelular": "3112326151",
+    "telFijo": "5205695 ",
+    "primerNombre": "CLAUDIA",
+    "segundoNombre": "YAMILE",
+    "primerApellido": "SUAREZ",
+    "segundoApellido": "POBLADOR",
+    "cedula": "63395806",
+    "direccion": "CALLE 127 C - No  2 B - 18  APARTAMENTO 101",
+    "email": "claudiasuarezp@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400308620170120500",
+  "nombre": "claudia yamile suarez poblador",
+  "numero": 322,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 322,
+      "createdAt": "2024-02-10T00:54:49.297Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "6 DE DICIEMBRE de 2017 LA APODERADA DE LA DEMANDANTE RETIRO GARANTIAS PAGARE Y ESCRITURA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 322,
+      "createdAt": "2024-02-10T00:54:49.297Z",
+      "pathname": null,
+      "dueDate": "2018-02-19T05:00:00.000Z",
+      "text": " 19/01/2018 SE DEVOLVIERON GARANTIAS PAGARE Y ESCRITURA A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 322,
+      "createdAt": "2024-02-10T00:54:49.297Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SIN DECRETO DE MEDIDAS CAUTELARES EN CONTRA DE LA DEUDORA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:49.297Z"
+}

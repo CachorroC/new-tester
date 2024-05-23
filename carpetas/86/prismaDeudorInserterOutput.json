@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 85,
+    "cedula": "1087781966",
+    "primerNombre": "rhonald",
+    "primerApellido": "tarapues",
+    "segundoNombre": "meza",
+    "segundoApellido": null,
+    "direccion": "carrera 73 a bis no. 2 a-32 sur bogota",
+    "email": "mezaronald@yahoo.com",
+    "telCelular": null,
+    "telFijo": "4062925",
+    "carpetaNumero": 86
+  }
+}

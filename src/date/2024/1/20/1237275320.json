@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:31.812Z",
+  "savedDate": "2018-10-02T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1237275320,
+    "llaveProceso": "11001400300320180123600",
+    "consActuacion": 38,
+    "fechaActuacion": "2021-12-06T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CAJA 484 ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2021-12-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 38,
+    "isUltimaAct": true,
+    "idProceso": 51431830
+  }
+}

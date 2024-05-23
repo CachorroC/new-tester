@@ -1,0 +1,34 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50517510,
+      "idConexion": 259,
+      "llaveProceso": "11001400302920170055700",
+      "fechaProceso": "2017-06-20T00:00:00",
+      "fechaUltimaActuacion": "2018-02-22T00:00:00",
+      "despacho": "JUZGADO 029 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: RAFAEL ERNESTO CADENA PARGA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400302920170055700",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 1,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 273,
+    "cedula": "79200345",
+    "primerNombre": "nelson",
+    "primerApellido": "gomez",
+    "segundoNombre": "mayorga",
+    "segundoApellido": null,
+    "direccion": "carrera 5  no 5 - 30 apartamento 202 soacha",
+    "email": "nelson_mayorga@outlook.com",
+    "telCelular": "3204283595",
+    "telFijo": "9008364",
+    "carpetaNumero": 276
+  }
+}

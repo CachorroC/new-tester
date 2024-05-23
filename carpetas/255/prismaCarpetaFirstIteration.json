@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-11-02T05:00:00.000Z",
+  "idProcesos": [50692560, 73154161],
+  "idRegUltimaAct": 1486196010,
+  "llaveProceso": "11001400301220170102100",
+  "nombre": "YEIMI ZORAIDA PEREZ ACEVEDO",
+  "numero": 255,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:01.111Z"
+}

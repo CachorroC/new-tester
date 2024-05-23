@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 295,
+    "numero": 295,
+    "llaveProceso": "11001400305120170111300",
+    "nombre": "rita cecilia fernandez ibañez",
+    "idProcesos": [110568033],
+    "category": "Reintegra"
+  }
+}

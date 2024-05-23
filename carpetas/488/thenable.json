@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001418901020180083400",
+  "numero": 488,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52837807,
+    "direccion": null,
+    "email": "CARRERA 69J No 63A- 49",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "milena",
+    "primerApellido": "moreno",
+    "segundoApellido": "campuzano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001418901020180083400",
+    "capitalAdeudado": null,
+    "etapaProcesal": "20-09-2018",
+    "municipio": "BOGOTA",
+    "obligacion": ["25.547.970.61"],
+    "radicado": "2018 - 00834",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": "22-09-2024"
+  },
+  "cc": 52837807,
+  "idProcesos": null
+}

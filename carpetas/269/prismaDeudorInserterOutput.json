@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 266,
+    "cedula": "80162950",
+    "primerNombre": "juan",
+    "primerApellido": "ortiz",
+    "segundoNombre": "carlos",
+    "segundoApellido": "cuervo",
+    "direccion": "carrera 16 no 14 - 36",
+    "email": "ju@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 269
+  }
+}

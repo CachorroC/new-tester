@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 366,
+    "numero": 366,
+    "llaveProceso": "11001400300920170136100",
+    "nombre": "yuri andrea gonzalez torres",
+    "idProcesos": [50925430],
+    "category": "Terminados"
+  }
+}

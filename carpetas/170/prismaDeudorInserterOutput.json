@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 168,
+    "cedula": "55303731",
+    "primerNombre": "isabel",
+    "primerApellido": "garcia",
+    "segundoNombre": "cristina",
+    "segundoApellido": "duran",
+    "direccion": "calle 138 # 11b - 16 apto 401",
+    "email": "isagarcia@hotmail.com",
+    "telCelular": "3006509338",
+    "telFijo": "5514126",
+    "carpetaNumero": 170
+  }
+}

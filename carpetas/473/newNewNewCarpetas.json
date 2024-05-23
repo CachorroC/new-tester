@@ -1,0 +1,56 @@
+{
+  "id": 52725153,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": [],
+    "llaveProceso": "25754418900320180085500",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-10-08T05:00:00.000Z",
+        "resultado": null
+      },
+      "certimail": null,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 0,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "15/08/2018",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00855",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "VEGA",
+    "segundoApellido": "AVILA",
+    "cedula": 52725153,
+    "direccion": null,
+    "email": "TRANSVERSAL 2 ESTE No 32B-80 SUR"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900320180085500",
+  "nombre": "SANDRA MILENA VEGA AVILA",
+  "numero": 473,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:26.537Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 52064928,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 441
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "891",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.243Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.251Z"],
+    "id": 441,
+    "llaveProceso": "25899408900120180060900",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 441,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990156079"],
+    "radicado": "2018 - 00609",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:48.475Z"],
+    "medidasCautelares": {
+      "id": 441,
+      "fechaOrdenaMedida": "2024-02-10T00:54:59.477Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 441,
+    "telCelular": "3102762216",
+    "telFijo": null,
+    "primerNombre": "YANETH",
+    "segundoNombre": "MILLAN",
+    "primerApellido": "PRIETO",
+    "segundoApellido": null,
+    "cedula": "52064928",
+    "direccion": "CARRERA 5 No 7-40 SUR",
+    "email": "janeth2609@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25899408900120180060900",
+  "nombre": "yaneth millan prieto",
+  "numero": 441,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 441,
+      "createdAt": "2024-02-10T00:54:59.477Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "31 DE OCTUBRE DE 2018 SE AUTORIZO POR LA APODERADA EL RETIRO DE LA DEMANDA CON DEVOLUCIÓN DEL OFICIO DE EMBARGO SIN TRAMITAR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 441,
+      "createdAt": "2024-02-10T00:54:59.477Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 15 DE SEPTIEMBRE DE 2018 SE DEVOLVIERON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:59.477Z"
+}

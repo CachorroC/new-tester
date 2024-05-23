@@ -1,0 +1,34 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 62733402,
+      "idConexion": 180,
+      "llaveProceso": "11001310302720170037400",
+      "fechaProceso": "2017-05-25T00:00:00",
+      "fechaUltimaActuacion": "2022-03-09T00:00:00",
+      "despacho": "JUZGADO 027 CIVIL DEL CIRCUITO DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S. A. | Demandado: JOSE RICARDO PRIETO CRUZ ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001310302720170037400",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 1,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

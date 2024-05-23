@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 359,
+    "numero": 359,
+    "llaveProceso": "11001400306520170178600",
+    "nombre": "jose david peña saavedra",
+    "idProcesos": [18169790],
+    "category": "Terminados"
+  }
+}

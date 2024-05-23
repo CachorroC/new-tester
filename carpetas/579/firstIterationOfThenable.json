@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "21/03/2026 // 7/03/2026",
+    "llaveProceso": "SinEspecificar",
+    "obligacion": {
+      "A": 9440087467,
+      "B": "40733834 X T.C. VISA 4513080401547652"
+    },
+    "capitalAdeudado": "$ 20.488.522",
+    "entregaGarantiasAbogado": "18/08/2021",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 579,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [9440087467, "40733834 X T.C. VISA 4513080401547652"],
+      "radicado": null
+    }
+  ],
+  "numero": 579,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 8027134,
+      "celular": 3108012331
+    },
+    "primerNombre": "ANDREA",
+    "segundoNombre": "CAROLINA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "BARRETO",
+    "cedula": 1024481233,
+    "direccion": "Calle 114 No. 6 A 92",
+    "email": "suenopandapijamas@gmail.com"
+  },
+  "cc": 1024481233,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "ANDREA CAROLINA DIAZ BARRETO",
+  "notificacion": null
+}

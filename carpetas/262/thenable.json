@@ -1,0 +1,41 @@
+{
+  "llaveProceso": "2590400300220170063100",
+  "numero": 262,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1069737167,
+    "direccion": "diagonal 1c no 25b -18  fusagasuga",
+    "email": "rafael_moreno.z@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3103247146
+    },
+    "primerNombre": "rafael",
+    "segundoNombre": "andres",
+    "primerApellido": "moreno",
+    "segundoApellido": "zamora"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-27T00:00:00.000Z",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-12T00:00:00.000Z",
+    "expediente": "2590400300220170063100",
+    "capitalAdeudado": 1584054583,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "FUSAGASUGA",
+    "obligacion": ["9450082213 /0377847716751531", "0377847593768038"],
+    "radicado": "2017 - 00631",
+    "vencimientoPagare": ["2018-08-01T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "11.383.194",
+    "direccion": "DIAGONAL 1C No 25 B - 18  FUSAGASUFA",
+    "nombre": "rafael antonio moreno franco"
+  },
+  "cc": 1069737167,
+  "idProcesos": null
+}

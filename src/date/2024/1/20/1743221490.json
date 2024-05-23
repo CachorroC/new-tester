@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:32.014Z",
+  "savedDate": "2019-10-11T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1743221490,
+    "llaveProceso": "11001418901220180095100",
+    "consActuacion": 57,
+    "fechaActuacion": "2023-05-15T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "    SE  RECEPCIONA  EL EXPEDIENTE EN EL AREA  DE ESTADOS PARA LO PERTINENTE// LUIS G.  Y ZULMA C/               \r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-05-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 57,
+    "isUltimaAct": true,
+    "idProceso": 64673240
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 447,
+    "numero": 447,
+    "llaveProceso": "11001400300520180071100",
+    "nombre": "carlos antonio pacheco torres",
+    "idProcesos": [51277500],
+    "category": "Terminados"
+  }
+}

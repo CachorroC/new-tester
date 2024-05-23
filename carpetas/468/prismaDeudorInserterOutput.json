@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 463,
+    "cedula": "79719969",
+    "primerNombre": "carlos",
+    "primerApellido": "naranjo",
+    "segundoNombre": "eduardo",
+    "segundoApellido": "piñeros",
+    "direccion": "calle 63 bis no 69 a-29",
+    "email": "cenp11@hotmail.com",
+    "telCelular": "3102438242",
+    "telFijo": "2400591",
+    "carpetaNumero": 468
+  }
+}

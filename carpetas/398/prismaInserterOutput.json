@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 398,
+    "numero": 398,
+    "llaveProceso": "25754400300120180006400",
+    "nombre": "liliana andrea erazo lopez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

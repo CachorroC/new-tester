@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 240,
+    "cedula": "300388244",
+    "primerNombre": "maria",
+    "primerApellido": "castañeda",
+    "segundoNombre": "olga",
+    "segundoApellido": "perugachi",
+    "direccion": "calle 15 # 15 - 45",
+    "email": null,
+    "telCelular": "3222223988",
+    "telFijo": "1111111",
+    "carpetaNumero": 243
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 525,
+    "cedula": "52155023",
+    "primerNombre": "sandra",
+    "primerApellido": "liliana",
+    "segundoNombre": "",
+    "segundoApellido": "cruz,beltran",
+    "direccion": "calle 86a no 95a-15 apto 108",
+    "email": "mediconta@gmail.com",
+    "telCelular": "3108540511",
+    "telFijo": "5360278",
+    "carpetaNumero": 537
+  }
+}

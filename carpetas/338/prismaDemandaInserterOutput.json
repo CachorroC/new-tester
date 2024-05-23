@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 335,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "42530688",
+    "entregaGarantiasAbogado": "2017-09-21T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-11-09T00:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2017-10-19T00:00:00.000Z",
+    "municipio": "CAPARRAPI",
+    "obligacion": ["7910080245"],
+    "radicado": "2017 - 00096",
+    "vencimientoPagare": ["2020-04-01T00:00:00.000Z"],
+    "expediente": "25148408900120170009600",
+    "carpetaNumero": 338,
+    "despacho": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25320310300120170019500",
+  "numero": 27,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 79004127,
+    "direccion": "calle 4 no. 14-161 guaduas (cundinamarca)",
+    "email": "347620",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "norbey",
+    "primerApellido": "lombana",
+    "segundoApellido": "mahecha",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-05-31T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "expediente": "25320310300120170019500",
+    "capitalAdeudado": 96608106,
+    "etapaProcesal": "2.532031890012017e+22",
+    "municipio": "GUADUAS",
+    "obligacion": [7910080321],
+    "radicado": "2017 - 00195",
+    "vencimientoPagare": ["2017-04-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79004127,
+  "idProcesos": null
+}

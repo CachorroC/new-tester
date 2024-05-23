@@ -1,0 +1,54 @@
+{
+  "id": 79616846,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["4513087158442953", "5306966000650228"],
+    "llaveProceso": "25599400300120180000500",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43342"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 10725698,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-01-22T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "APULO",
+    "radicado": "2018 - 00005",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3112764286
+    },
+    "primerNombre": "RODRIGO",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "VILLALBA",
+    "cedula": 79616846,
+    "direccion": "CARRERA 5 # 12 - 53 APULO",
+    "email": "rodrigo_ruiz33@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25599400300120180000500",
+  "nombre": "RODRIGO ALBERTO RUIZ VILLALBA",
+  "numero": 373,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:55.673Z"
+}

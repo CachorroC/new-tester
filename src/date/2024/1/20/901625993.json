@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:11.313Z",
+  "savedDate": "2017-08-24T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 901625993,
+    "llaveProceso": "11001400304720170149100",
+    "consActuacion": 28,
+    "fechaActuacion": "2020-03-06T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "EL PROCESO SE DEVUELVE A ARCHIVO CENTRAL JFVE",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-03-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 28,
+    "isUltimaAct": true,
+    "idProceso": 10408413
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:21.321Z",
+  "proceso": {
+    "idProceso": 86396721,
+    "idConexion": 320,
+    "llaveProceso": "25754418900220170075200",
+    "fechaProceso": "2019-08-22T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-08-22T05:00:00.000Z",
+    "despacho": "JUZGADO 002 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+    "departamento": "CUNDINAMARCA",
+    "sujetosProcesales": "Demandante/accionante: ALVARO  CARRILLO  | Demandado/indiciado/causante: ABUNDIO  BOHORQUEZ VILLAMIL | Demandado/indiciado/causante: ACREEDORES DE ABUNDIO BOHORQUEZ    (Emplazado) | Defensor Privado: sANDER SENEY SIERRA CORREDOR ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 2,
+      "tipo": "JUZGADO 002 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-002-de-pequeñas-causas--y-competencia-múltiple-de-soacha-"
+    }
+  }
+}

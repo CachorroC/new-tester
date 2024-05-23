@@ -1,0 +1,47 @@
+{
+  "id": 63395806,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["155766"],
+    "llaveProceso": "11001400308620170120500",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 8701597335,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-11-07T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01205",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2027-09-11T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 5205695,
+      "celular": 3112326151
+    },
+    "primerNombre": "CLAUDIA",
+    "segundoNombre": "YAMILE",
+    "primerApellido": "SUAREZ",
+    "segundoApellido": "POBLADOR",
+    "cedula": 63395806,
+    "direccion": "CALLE 127 C - No  2 B - 18  APARTAMENTO 101",
+    "email": "claudiasuarezp@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308620170120500",
+  "nombre": "CLAUDIA YAMILE SUAREZ POBLADOR",
+  "numero": 322,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:35.270Z"
+}

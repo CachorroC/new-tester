@@ -1,0 +1,105 @@
+{
+  "id": 52031089,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 362
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "42269",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-05-12T05:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-12-12T05:00:00.000Z"],
+    "id": 362,
+    "llaveProceso": "25754400300220180003100",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 362,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["165609"],
+    "radicado": "2018 - 00031",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2036-07-03T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 362,
+      "fechaOrdenaMedida": "2018-08-03T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "deudor": {
+    "id": 362,
+    "telCelular": "3007553091",
+    "telFijo": "7553091 ",
+    "primerNombre": "YANETH",
+    "segundoNombre": "HERNANDEZ",
+    "primerApellido": "SUAREZ",
+    "segundoApellido": null,
+    "cedula": "52031089",
+    "direccion": "CARRERA 80 J No 73-27",
+    "email": "HERNANDEZ_YANETH@HOTMAIL.COM"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754400300220180003100",
+  "nombre": "yaneth hernandez suarez",
+  "numero": 362,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 362,
+      "createdAt": "2024-02-10T00:54:53.258Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 9 DE NOVIEMBRE DE 2018 AUTO TERMINA PROCESO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 362,
+      "createdAt": "2024-02-10T00:54:53.258Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 17 DE DICIEMBRE DE 2018 SE LEVANTA MEDIDA CAUTELAR DE EMBARGO DEL INMUEBLE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 362,
+      "createdAt": "2024-02-10T00:54:53.258Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 7 DE DICIEMBRE DE 2018 SE DEVOLVIERON GARANTIAS A AECSA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:53.258Z"
+}

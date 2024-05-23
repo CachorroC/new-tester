@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50692560,
+      "idConexion": 259,
+      "llaveProceso": "11001400301220170102100",
+      "fechaProceso": "2017-09-08T00:00:00",
+      "fechaUltimaActuacion": "2022-11-02T00:00:00",
+      "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YEIMY ZORAIDA PEREZ ACEVEDO | Demandado: PABLO ANDRES PEREZ ACEVEDO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 73154161,
+      "idConexion": 320,
+      "llaveProceso": "11001400301220170102100",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400301220170102100",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

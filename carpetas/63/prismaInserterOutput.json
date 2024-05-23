@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 63,
+    "numero": 63,
+    "llaveProceso": "11001418900920170008900",
+    "nombre": "diana marcela ipuz suarez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 234,
+    "cedula": "80237050",
+    "primerNombre": "numael",
+    "primerApellido": "gonzalez",
+    "segundoNombre": "augusto",
+    "segundoApellido": "salguero",
+    "direccion": "carrera 9 no 3-93",
+    "email": "numasue@gmail.com",
+    "telCelular": "3114602334",
+    "telFijo": "8656241",
+    "carpetaNumero": 237
+  }
+}

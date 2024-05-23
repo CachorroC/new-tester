@@ -1,0 +1,170 @@
+{
+  "id": 79533771,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1649571513,
+      "llaveProceso": "11001400308220180096400",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-08-29T05:00:00.000Z",
+      "actuacion": "Recepción Memorial Centro de Servicios Administrativos",
+      "anotacion": "dta allegan devulucion despacho comisiorio Nro 74 sin aux",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-08-29T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 3,
+      "idProceso": 112967583,
+      "isUltimaAct": true,
+      "createdAt": "2024-01-02T02:11:44.270Z"
+    },
+    {
+      "idRegActuacion": 1124270563,
+      "llaveProceso": "11001400308220180096400",
+      "consActuacion": 2,
+      "fechaActuacion": "2022-05-25T05:00:00.000Z",
+      "actuacion": "El Despacho Resuelve:.",
+      "anotacion": "SE ORDENA COMISIONAR - LOS OFICIOS Y/O DESPACHOS COMISORIOS CONTIENEN LA FIRMA ELECTRÓNICA DEL SECRETARIO. EN EL PORTAL WEB DE LA PÁGINA DE LA RAMA JUDICIAL, DONDE TAMBIÉN SE CONSULTAN LOS ESTADOS ELECTRONICOS, PODRÁ DESCARGARLOS PARA SER RADICADOS POR USTED ANTE LAS ENTIDADES RESPECTIVAS DE MANERA VIRTUAL. (NO IMPRIMIR) - SI LA ENTIDAD NO SE LO RECIBE DE FORMA DIGITAL, DEBERÁ ACUDIR PRESENCIALMENTE AL JUZGADO A RETIRARLO FÍSICO CON LA FIRMA AUTÓGRAFA Y SELLO DEL SECRETARIO. ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2022-05-25T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 3,
+      "idProceso": 112967583,
+      "isUltimaAct": false,
+      "createdAt": "2024-01-02T02:11:44.270Z"
+    },
+    {
+      "idRegActuacion": 1111340493,
+      "llaveProceso": "11001400308220180096400",
+      "consActuacion": 1,
+      "fechaActuacion": "2022-05-11T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 11/05/2022 a las 11:00:37",
+      "fechaInicial": "2022-05-11T05:00:00.000Z",
+      "fechaFinal": "2022-05-11T05:00:00.000Z",
+      "fechaRegistro": "2022-05-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 3,
+      "idProceso": 112967583,
+      "isUltimaAct": false,
+      "createdAt": "2024-01-02T02:11:44.270Z"
+    }
+  ],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "5491580436291960"],
+    "llaveProceso": "11001400308220180096400",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-10-25T05:00:00.000Z",
+        "fechaAporta": "2018-10-25T05:00:00.000Z",
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-11-04T05:00:00.000Z",
+        "fechaAporta": "2019-02-25T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "25/02/2019"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-09-10T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00964",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2021-04-15T05:00:00.000Z",
+      "2021-05-06T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "RAMON",
+    "primerApellido": "ESTRADA",
+    "segundoApellido": "CASTILLO",
+    "cedula": 79533771,
+    "direccion": "CARRERA 81 G No 48-03 SUR",
+    "email": "jrestradacastillo@gmail.com"
+  },
+  "fecha": "2023-08-29T05:00:00.000Z",
+  "idProcesos": [52160520, 112967583],
+  "idRegUltimaAct": 1649571513,
+  "llaveProceso": "11001400308220180096400",
+  "nombre": "JOSE RAMON ESTRADA CASTILLO",
+  "numero": 541,
+  "procesos": [
+    {
+      "idProceso": 52160520,
+      "idConexion": 259,
+      "llaveProceso": "11001400308220180096400",
+      "fechaProceso": "2019-02-15T05:00:00.000Z",
+      "fechaUltimaActuacion": "2022-03-24T05:00:00.000Z",
+      "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE RAMON ESTRADA CASTILLO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 14,
+        "tipo": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-14-de-ejecucion-civil-municipal-de-bogota"
+      }
+    },
+    {
+      "idProceso": 112967583,
+      "idConexion": 197,
+      "llaveProceso": "11001400308220180096400",
+      "fechaProceso": "2022-05-11T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-08-29T05:00:00.000Z",
+      "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE ENVIGADO ",
+      "departamento": "ANTIOQUIA",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE RAMON ESTRADA CASTILLO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 1,
+        "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE ENVIGADO",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-001-civil-municipal-de-envigado"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1649571513,
+    "llaveProceso": "11001400308220180096400",
+    "consActuacion": 3,
+    "fechaActuacion": "2023-08-29T05:00:00.000Z",
+    "actuacion": "Recepción Memorial Centro de Servicios Administrativos",
+    "anotacion": "dta allegan devulucion despacho comisiorio Nro 74 sin aux",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-08-29T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 3,
+    "idProceso": 112967583,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-01-02T02:11:43.750Z"
+}

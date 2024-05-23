@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 7,
+    "numero": 7,
+    "llaveProceso": "11001310302720170037400",
+    "nombre": "jose ricardo prieto cruz",
+    "idProcesos": [62733402],
+    "category": "Terminados"
+  }
+}

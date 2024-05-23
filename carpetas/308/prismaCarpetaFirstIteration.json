@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-05-28T05:00:00.000Z",
+  "idProcesos": [50801010],
+  "idRegUltimaAct": 690632090,
+  "llaveProceso": "11001400302220170117600",
+  "nombre": "OSCAR ERNESTO SERRANO VELASCO",
+  "numero": 308,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:08.824Z"
+}

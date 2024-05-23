@@ -1,0 +1,36 @@
+{
+  "llaveProceso": null,
+  "numero": 549,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79405147,
+    "direccion": null,
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "antonio",
+    "primerApellido": "bejarano",
+    "segundoApellido": "carreño"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": null,
+    "capitalAdeudado": 0,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [],
+    "radicado": "SIN NUMERO",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79405147,
+  "idProcesos": null
+}

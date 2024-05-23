@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301920170070200",
+  "numero": 66,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 66841096,
+    "direccion": "carrera 22 no. 161-26 piso 2",
+    "email": "sansuarez.ga@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3144113614
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "suarez",
+    "segundoApellido": "galvis"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-21T00:00:00.000Z",
+    "mandamientoPago": "2017-07-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400301920170070200",
+    "capitalAdeudado": 12845011,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12525003],
+    "radicado": "2017 - 00702",
+    "vencimientoPagare": ["2018-10-08T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 66841096,
+  "idProcesos": null
+}

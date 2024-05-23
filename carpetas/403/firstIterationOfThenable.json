@@ -1,0 +1,202 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 135518823,
+      "llaveProceso": "11001400304920180019100",
+      "consActuacion": 5,
+      "fechaActuacion": "2018-04-17T05:00:00.000Z",
+      "actuacion": "Retiro demanda admitida - Art.88",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-04-17T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 10955643,
+      "isUltimaAct": true,
+      "carpetaNumero": 403,
+      "createdAt": "2023-12-10T20:31:23.373Z"
+    },
+    {
+      "idRegActuacion": 135518813,
+      "llaveProceso": "11001400304920180019100",
+      "consActuacion": 4,
+      "fechaActuacion": "2018-04-02T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 02/04/2018 a las 14:48:04.",
+      "fechaInicial": "2018-04-03T05:00:00.000Z",
+      "fechaFinal": "2018-04-03T05:00:00.000Z",
+      "fechaRegistro": "2018-04-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 10955643,
+      "isUltimaAct": false,
+      "carpetaNumero": 403,
+      "createdAt": "2023-12-10T20:31:23.373Z"
+    },
+    {
+      "idRegActuacion": 135518803,
+      "llaveProceso": "11001400304920180019100",
+      "consActuacion": 3,
+      "fechaActuacion": "2018-04-02T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-04-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 10955643,
+      "isUltimaAct": false,
+      "carpetaNumero": 403,
+      "createdAt": "2023-12-10T20:31:23.373Z"
+    },
+    {
+      "idRegActuacion": 135518793,
+      "llaveProceso": "11001400304920180019100",
+      "consActuacion": 2,
+      "fechaActuacion": "2018-02-23T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-02-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 10955643,
+      "isUltimaAct": false,
+      "carpetaNumero": 403,
+      "createdAt": "2023-12-10T20:31:23.373Z"
+    },
+    {
+      "idRegActuacion": 135518783,
+      "llaveProceso": "11001400304920180019100",
+      "consActuacion": 1,
+      "fechaActuacion": "2018-02-22T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 22/02/2018 a las 08:42:55",
+      "fechaInicial": "2018-02-22T05:00:00.000Z",
+      "fechaFinal": "2018-02-22T05:00:00.000Z",
+      "fechaRegistro": "2018-02-22T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 10955643,
+      "isUltimaAct": false,
+      "carpetaNumero": 403,
+      "createdAt": "2023-12-10T20:31:23.373Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 49,
+      "tipo": "JUZGADO 049 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-049-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": {
+    "nombre": "BERTHA JUDITH AYA DE VALENCIA",
+    "cedula": "21046617",
+    "direccion": "CARRERA 89 B No 85 B-25",
+    "telefono": "74881010 / 3202269928",
+    "id": 403,
+    "carpetaNumero": 403
+  },
+  "demanda": {
+    "vencimientoPagare": "3/8/2017",
+    "obligacion": {
+      "A": 141356
+    },
+    "capitalAdeudado": "27.607.878",
+    "entregaGarantiasAbogado": "15/02/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018-0191",
+    "llaveProceso": "11001400304920180019100",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "20/02/2018"
+  },
+  "demandas": [
+    {
+      "idProceso": 10955643,
+      "idConexion": 261,
+      "llaveProceso": "11001400304920180019100",
+      "fechaProceso": "2018-02-22T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-04-17T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CLAUDIA YANNET VALENCIA AYA | Demandado: BERTHA JUDITH AYA DE VALENCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2017-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 27607878,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "ADMISION",
+      "fechaPresentacion": ["2018-02-20T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [141356],
+      "radicado": "2018-0191"
+    }
+  ],
+  "numero": 403,
+  "llaveProceso": "11001400304920180019100",
+  "fecha": "2018-04-17T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 135518823,
+    "llaveProceso": "11001400304920180019100",
+    "consActuacion": 5,
+    "fechaActuacion": "2018-04-17T00:00:00",
+    "actuacion": "Retiro demanda admitida - Art.88",
+    "anotacion": null,
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-04-17T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 5,
+    "idProceso": 10955643,
+    "isUltimaAct": true
+  },
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "CLAUDIA",
+    "segundoNombre": "YANETH",
+    "primerApellido": "VALENCIA",
+    "segundoApellido": "AYA",
+    "cedula": 52361215,
+    "direccion": "DIAGONAL 77 B No 123 A- 43 CASA 173",
+    "email": "claudia.1120@hotmail.com"
+  },
+  "cc": 52361215,
+  "procesos": [
+    {
+      "idProceso": 10955643,
+      "idConexion": 261,
+      "llaveProceso": "11001400304920180019100",
+      "fechaProceso": "2018-02-22T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-04-17T05:00:00.000Z",
+      "despacho": "JUZGADO 049 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CLAUDIA YANNET VALENCIA AYA | Demandado: BERTHA JUDITH AYA DE VALENCIA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [10955643],
+  "nombre": "CLAUDIA YANETH VALENCIA AYA",
+  "notificacion": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": 79882688,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 80
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "16208318.7",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.898Z",
+    "etapaProcesal": "25817408900120170035100",
+    "fechaPresentacion": [],
+    "id": 80,
+    "llaveProceso": "25817418900120170035100",
+    "mandamientoPago": [],
+    "municipio": "TOCANCIPA",
+    "notificacion": {
+      "id": 80,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:42.915Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["377816861734105"],
+    "radicado": "2017 - 00351",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:43.709Z"],
+    "medidasCautelares": {
+      "id": 80,
+      "fechaOrdenaMedida": "2024-02-10T00:54:27.502Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 80,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JORGE",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "PORRAS",
+    "segundoApellido": "VARGAS",
+    "cedula": "79882688",
+    "direccion": "CALLE 11 # 4 - 39 TOCANCIPA",
+    "email": "joranpo@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25817418900120170035100",
+  "nombre": "jorge andres porras vargas",
+  "numero": 80,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 80,
+      "createdAt": "2024-02-10T00:54:27.502Z",
+      "pathname": null,
+      "dueDate": "2021-02-21T05:00:00.000Z",
+      "text": "EL 21/01/2021 EL JUZGADO DA POR TERMINADO EL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 80,
+      "createdAt": "2024-02-10T00:54:27.502Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " GARANTIAS Y MEDIDAS CAUTELARES A CARGO DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:27.502Z"
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25307400300220180007500",
+  "numero": 400,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79652256,
+    "direccion": "xarrera 2 no 10-30b centenario - girardot",
+    "email": "ocaelmejor@yahoo.es",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "oscar",
+    "segundoNombre": "guillermo",
+    "primerApellido": "lozano",
+    "segundoApellido": "gonzalez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-09-02T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25307400300220180007500",
+    "capitalAdeudado": 1724737600,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "GIRARDOT",
+    "obligacion": [6590084682],
+    "radicado": "2018 - 00075",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79652256,
+  "idProcesos": null
+}

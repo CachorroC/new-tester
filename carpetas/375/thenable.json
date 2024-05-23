@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304020180012300",
+  "numero": 375,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 74845495,
+    "direccion": "calle 59a sur 45d - 15",
+    "email": "alfredozorromart@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jhon",
+    "segundoNombre": "alfredo",
+    "primerApellido": "zorro",
+    "segundoApellido": "martinez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-02-16T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400304020180012300",
+    "capitalAdeudado": 6625561724,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [179854],
+    "radicado": "2018 - 00123",
+    "vencimientoPagare": ["2034-08-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 74845495,
+  "idProcesos": null
+}

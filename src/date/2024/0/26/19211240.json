@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:35.266Z",
+  "proceso": {
+    "idProceso": 19211240,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820170124000",
+    "fechaProceso": "2017-09-22T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-08-06T05:00:00.000Z",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: JENNIFER ALEJANDRA MOGOLLON BERNAL | Demandado: LEONARDO LEON TALERO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 68,
+      "tipo": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-068-civil-municipal-de-bogota"
+    }
+  }
+}

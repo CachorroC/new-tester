@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 476,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "3532103375",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2018-08-10T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["20990114419"],
+    "radicado": "2018 - 00936",
+    "vencimientoPagare": [],
+    "expediente": "11001400307120180093600",
+    "carpetaNumero": 482,
+    "despacho": null
+  }
+}

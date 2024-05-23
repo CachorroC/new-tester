@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 104,
+    "numero": 104,
+    "llaveProceso": "11001400300620170041700",
+    "nombre": "nancy null herrera mendez",
+    "idProcesos": [50596080],
+    "category": "Terminados"
+  }
+}

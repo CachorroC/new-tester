@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 576,
+    "cedula": "52711493",
+    "primerNombre": "karen",
+    "primerApellido": "castañeda",
+    "segundoNombre": "alexandra",
+    "segundoApellido": "guerrero",
+    "direccion": "carrera 10 bis no. 8 - 82 sur // carrrera 28 no. 11 - 67 oficina 145 bogotá",
+    "email": "kalexa17@hotmail.com",
+    "telCelular": "3123137083",
+    "telFijo": null,
+    "carpetaNumero": 588
+  }
+}

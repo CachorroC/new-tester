@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400302820170085800",
+  "numero": 222,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79332273,
+    "direccion": "carrera 13 # 155 - 88 casa 39",
+    "email": "htcolombia@gmail.com",
+    "tel": {
+      "fijo": 5705869,
+      "celular": 3005705869
+    },
+    "primerNombre": "dufresny",
+    "primerApellido": "augusto",
+    "segundoApellido": "pinilla",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-09-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-30T00:00:00.000Z",
+    "expediente": "11001400302820170085800",
+    "capitalAdeudado": 5114547458,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [96356],
+    "radicado": "2017 - 00858",
+    "vencimientoPagare": ["2022-05-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 51922265,
+    "direccion": "CARRERA 25A # 155 - 88",
+    "nombre": "lucy stella osma rodriguez",
+    "telefono": "6443645 // 7584507"
+  },
+  "cc": 79332273,
+  "idProcesos": null
+}

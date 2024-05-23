@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25899400300220170027000",
+  "numero": 68,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 35412591,
+    "direccion": "carrera 7 no. 25-51 bq/ to 9 apto 104 parque residencial villazo zipaquira",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3114720151
+    },
+    "primerNombre": "martha",
+    "segundoNombre": "stella",
+    "primerApellido": "gomez",
+    "segundoApellido": "bolivar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-22T00:00:00.000Z",
+    "mandamientoPago": "2017-07-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "25899400300220170027000",
+    "capitalAdeudado": 16302625,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["320 160226", "160226//377813713927961"],
+    "radicado": "2017 - 00270",
+    "vencimientoPagare": ["2031-01-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 11337901
+  },
+  "cc": 35412591,
+  "idProcesos": null
+}

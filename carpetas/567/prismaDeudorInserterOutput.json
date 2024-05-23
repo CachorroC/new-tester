@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 555,
+    "cedula": "94254761",
+    "primerNombre": "wilson",
+    "primerApellido": "jesus",
+    "segundoNombre": "de",
+    "segundoApellido": "molina,quirama",
+    "direccion": "calle 71 f no. 78 c - 50 sur",
+    "email": "wilsonmolina16@hotmail.com",
+    "telCelular": "3144005060",
+    "telFijo": "7766244",
+    "carpetaNumero": 567
+  }
+}

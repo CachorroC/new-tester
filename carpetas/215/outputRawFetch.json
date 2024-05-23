@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50776700,
+      "idConexion": 259,
+      "llaveProceso": "11001400300820170127300",
+      "fechaProceso": "2017-10-13T00:00:00",
+      "fechaUltimaActuacion": "2018-03-08T00:00:00",
+      "despacho": "JUZGADO 008 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: ABOGADOS ESPECIALÑIZADOS EN CONBRANZAS SA - AECSA | Demandado: JORGE ARMANDO LOPEZ CASTAÑO | Demandado: LUZ DARY HURTADO RIOS ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 81589821,
+      "idConexion": 320,
+      "llaveProceso": "11001400300820170127300",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 008 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400300820170127300",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

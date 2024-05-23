@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-01-27T05:00:00.000Z",
+  "idProcesos": [50710250],
+  "idRegUltimaAct": 1628233540,
+  "llaveProceso": "11001400301820170151700",
+  "nombre": "FABIAN ALEXANDER GIL GIL",
+  "numero": 228,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:56.238Z"
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-12-01T05:00:00.000Z",
+  "idProcesos": [50511250],
+  "idRegUltimaAct": 1939554580,
+  "llaveProceso": "11001400302020170077600",
+  "nombre": "ERNESTO AUGUSTO IDARRAGA QUINTERO",
+  "numero": 65,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:30.947Z"
+}

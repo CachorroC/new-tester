@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300120210015300",
+  "numero": 547,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 348774,
+    "direccion": null,
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "edgar",
+    "primerApellido": "achuri",
+    "segundoApellido": "gonzalez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754400300120210015300",
+    "capitalAdeudado": 0,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [],
+    "radicado": "2021 - 00153",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 348774,
+  "idProcesos": null
+}

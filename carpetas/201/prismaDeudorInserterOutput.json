@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 198,
+    "cedula": "51733931",
+    "primerNombre": "piedad",
+    "primerApellido": "olga",
+    "segundoNombre": "maritza",
+    "segundoApellido": "rocio,prieto,vargas",
+    "direccion": "calle 127d # 21 - 80 apto 105",
+    "email": "sebantialbeltransprieto@hotmail.com",
+    "telCelular": "3108711046",
+    "telFijo": "6256456",
+    "carpetaNumero": 201
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 519,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "35608653",
+    "entregaGarantiasAbogado": "2020-10-07T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCION",
+    "fechaPresentacion": "2020-10-07T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "2020084294",
+      "2020087484 // 4594250317705437 //5303723260933890"
+    ],
+    "radicado": "2020 - 00535",
+    "vencimientoPagare": [],
+    "expediente": "11001400304220200053500",
+    "carpetaNumero": 531,
+    "despacho": null
+  }
+}

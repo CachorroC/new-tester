@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308220170125600",
+  "numero": 305,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19479861,
+    "direccion": "diagonal 5 d bis no 44 a -45",
+    "email": "serinconr@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "fernando",
+    "primerApellido": "rincon",
+    "segundoApellido": "rodriguez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-10-17T00:00:00.000Z",
+    "expediente": "11001400308220170125600",
+    "capitalAdeudado": 11961381,
+    "etapaProcesal": "1.100140030822017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12048231],
+    "radicado": "2017 - 01256",
+    "vencimientoPagare": ["2020-10-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19479861,
+  "idProcesos": null
+}

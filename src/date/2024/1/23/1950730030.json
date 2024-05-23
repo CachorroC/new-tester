@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:22.498Z",
+  "savedDate": "2023-05-23T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1950730030,
+    "llaveProceso": "11001400306320170129000",
+    "consActuacion": 102,
+    "fechaActuacion": "2024-02-06T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 1217-2024, No. Reloj Radicador: 18960, Entidad o Señor(a): SUPERINTENDENCIA DE NOTARIADO Y REGISTRO - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Memorial, Observaciones: RESPUESTA NOTA DEVOLUTIVA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 102,
+    "isUltimaAct": true,
+    "idProceso": 65701460
+  }
+}

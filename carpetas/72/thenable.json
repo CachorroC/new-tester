@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306020170124100",
+  "numero": 72,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1030545462,
+    "direccion": "carrera 88 # 26 - 68",
+    "email": "1988fac@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nestor",
+    "segundoNombre": "fabian",
+    "primerApellido": "espitia",
+    "segundoApellido": "fraile"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-16T00:00:00.000Z",
+    "mandamientoPago": "2017-12-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-12T00:00:00.000Z",
+    "expediente": "11001400306020170124100",
+    "capitalAdeudado": 0,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [2474005],
+    "radicado": "2017 - 01241",
+    "vencimientoPagare": ["2017-06-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1030545462,
+  "idProcesos": null
+}

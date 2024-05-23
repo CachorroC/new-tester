@@ -1,0 +1,64 @@
+{
+  "id": 41722029,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["2099120807"],
+    "llaveProceso": "11001410307520180060200",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-10-04T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "13/08/2018"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001410375220180060200",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "kENNEDY",
+    "radicado": "2018 - 00602",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2024-08-03T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "LUZ",
+    "segundoNombre": "YOLANDA",
+    "primerApellido": "MUÑOZ",
+    "segundoApellido": "MURCIA",
+    "cedula": 41722029,
+    "direccion": "CALLE 12 C- No 71C-60 INT. 6 APTO 403",
+    "email": "miyura1212@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001410307520180060200",
+  "nombre": "LUZ YOLANDA MUÑOZ MURCIA",
+  "numero": 422,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:12.070Z"
+}

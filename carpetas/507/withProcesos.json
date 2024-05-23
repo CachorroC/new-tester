@@ -1,0 +1,62 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "6/08/2018",
+    "telefono": null,
+    "id": 507,
+    "carpetaNumero": 507
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "A": 3380087493,
+      "B": "21.876.281"
+    },
+    "capitalAdeudado": "02/11/2018",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "UBATE",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00499",
+    "llaveProceso": "25843410300120180049900",
+    "fechaPresentacion": "SIN LEVANTAMIENTO DE MEDIDA CAUTELAR",
+    "notificacion": {
+      "certimail": "31 ENERO 2023 SE ENVIO MEMORIAL AL JUZGADO CON CAMARA Y CERTIFICADO"
+    }
+  },
+  "demandas": [],
+  "numero": 507,
+  "llaveProceso": "25843410300120180049900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "WILLIAM",
+    "segundoNombre": "",
+    "primerApellido": "YOVANY",
+    "segundoApellido": ["CASALLAS", "ROMERO"],
+    "cedula": 80468168,
+    "direccion": null,
+    "email": "CARRERA 4 A No 16 B-14  TORRE2"
+  },
+  "cc": 80468168,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "WILLIAM  YOVANY CASALLAS ROMERO",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

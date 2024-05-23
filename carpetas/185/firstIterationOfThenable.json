@@ -1,0 +1,59 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "B": 20990158916
+    },
+    "capitalAdeudado": 41262275,
+    "entregaGarantiasAbogado": "11/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00283",
+    "llaveProceso": "25754400300320170028300",
+    "fechaPresentacion": "NOTIFICACION",
+    "mandamientoPago": "28/08/2017",
+    "notificacion": {
+      "certimail": "15/12/2017",
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "20/06/2018",
+      "medidaSolicitada": "15/12/2017"
+    }
+  },
+  "demandas": [],
+  "numero": 185,
+  "llaveProceso": "25754400300320170028300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3351000,
+      "celular": 3103397090
+    },
+    "primerNombre": "WILLIAM",
+    "segundoNombre": "GIOVANNI",
+    "primerApellido": "DORADO",
+    "segundoApellido": "FERNANDEZ",
+    "cedula": 10294828,
+    "direccion": "CARRERA 4 ESTE # 38 - 56",
+    "email": "willdany@hotmail.com"
+  },
+  "cc": 10294828,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "WILLIAM GIOVANNI DORADO FERNANDEZ",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": "CERTIMAIL"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 519,
+    "cedula": "51813018",
+    "primerNombre": "sandra",
+    "primerApellido": "paez",
+    "segundoNombre": "leonor",
+    "segundoApellido": "murcia",
+    "direccion": "kr 81 no. 127 a - 46 conjunto monte azul bogota",
+    "email": "yadelcis@hotmail.com",
+    "telCelular": "3134386087",
+    "telFijo": "6139147",
+    "carpetaNumero": 531
+  }
+}

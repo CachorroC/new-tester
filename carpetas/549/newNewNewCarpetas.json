@@ -1,0 +1,47 @@
+{
+  "id": 79405147,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": [],
+    "llaveProceso": "SinEspecificar",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 0,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "SIN NUMERO",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "BEJARANO",
+    "segundoApellido": "CARREÑO",
+    "cedula": 79405147,
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "SinEspecificar",
+  "nombre": "JOSE ANTONIO BEJARANO CARREÑO",
+  "numero": 549,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:46.724Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 146,
+    "cedula": "79505815",
+    "primerNombre": "nestor",
+    "primerApellido": "osorio",
+    "segundoNombre": "gerardo",
+    "segundoApellido": "morales",
+    "direccion": "aeronautica civil avenida calle 26 # 106 - 33",
+    "email": "nestorg1969@hotmail.com",
+    "telCelular": null,
+    "telFijo": "4109980",
+    "carpetaNumero": 148
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25290400300120170036900",
+  "numero": 28,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 20563933,
+    "direccion": "calle 17 no 8-41 apto 101 fusagasuga",
+    "email": "anyelicllau2006@hotmail.com",
+    "tel": {
+      "fijo": 8671269,
+      "celular": 3102301734
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "socorro",
+    "primerApellido": "torres",
+    "segundoApellido": ["de", "gonzalez"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-08T00:00:00.000Z",
+    "mandamientoPago": "2017-06-28T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-30T00:00:00.000Z",
+    "expediente": "25290400300120170036900",
+    "capitalAdeudado": 0,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "FUSAGASUGA",
+    "obligacion": [127011],
+    "radicado": "2017 - 00369",
+    "vencimientoPagare": ["2025-09-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 20563933,
+  "idProcesos": null
+}

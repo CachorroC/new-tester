@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:27.791Z",
+  "proceso": {
+    "idProceso": 133932120,
+    "idConexion": 259,
+    "llaveProceso": "11001418907020230039900",
+    "fechaProceso": "2023-10-06T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-11-30T05:00:00.000Z",
+    "despacho": "JUZGADO 070 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MARIA GEORGINA FORERO DE MENDOZA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 70,
+      "tipo": "JUZGADO 070 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-070-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

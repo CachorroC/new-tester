@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:17.310Z",
+  "proceso": {
+    "idProceso": 50512320,
+    "idConexion": 259,
+    "llaveProceso": "11001400302820170051200",
+    "fechaProceso": "2017-06-16T05:00:00.000Z",
+    "fechaUltimaActuacion": "2017-09-01T05:00:00.000Z",
+    "despacho": "JUZGADO 028 CIVIL MUNICIPAL DE BOGOTÁ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CARMEN CECILIA APONTE ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 28,
+      "tipo": "JUZGADO 028 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-28-civil-municipal-de-bogota"
+    }
+  }
+}

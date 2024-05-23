@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:11.545Z",
+  "savedDate": 1547528400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1149262564,
+    "llaveProceso": "11001310303720170045300",
+    "consActuacion": 66,
+    "fechaActuacion": "2024-02-05T05:00:00.000Z",
+    "actuacion": "Oficio Elaborado",
+    "anotacion": "Oficios OCCES24-AR0457 a OCCES24-AR0458, Medidas a disposición DIAN - pasa para firma AZ con 1 Cuad //JARS\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-05T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 66,
+    "isUltimaAct": true,
+    "idProceso": 57718874
+  }
+}

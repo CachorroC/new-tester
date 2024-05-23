@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:08.914Z",
+  "savedDate": "2017-06-21T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 958756030,
+    "llaveProceso": "11001400303420170083400",
+    "consActuacion": 34,
+    "fechaActuacion": "2020-02-19T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "Proceso se envia para archivo definitivo caja 191 //JUANMANUEL//",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-02-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 34,
+    "isUltimaAct": true,
+    "idProceso": 50521650
+  }
+}

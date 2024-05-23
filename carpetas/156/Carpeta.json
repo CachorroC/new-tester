@@ -1,0 +1,105 @@
+{
+  "id": 52431512,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 156
+  },
+  "demanda": {
+    "liquidacion": "43180",
+    "avaluo": "43364",
+    "capitalAdeudado": "41371150.58",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.969Z",
+    "etapaProcesal": "25473400300120170077700",
+    "fechaPresentacion": [],
+    "id": 156,
+    "llaveProceso": "25473400300120170077700",
+    "mandamientoPago": [],
+    "municipio": "MOSQUERA",
+    "notificacion": {
+      "id": 156,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:42.997Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12519120", "12549733"],
+    "radicado": "2017 - 00777",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:44.058Z"],
+    "medidasCautelares": {
+      "id": 156,
+      "fechaOrdenaMedida": "2024-02-10T00:54:34.108Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 156,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MARTHA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "MORALES",
+    "segundoApellido": "SARMIENTO",
+    "cedula": "52431512",
+    "direccion": "CARRERA 10 # 5 - 62 TORRE 7 APTO 127 ",
+    "email": "gerencia@logimontacargas.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25473400300120170077700",
+  "nombre": "martha patricia morales sarmiento",
+  "numero": 156,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 156,
+      "createdAt": "2024-02-10T00:54:34.108Z",
+      "pathname": null,
+      "dueDate": "2020-12-05T05:00:00.000Z",
+      "text": "EL 5/11/2020 EL JUZGADO RECONOCE LA CESION DE REINTEGRA EN FAVOR DE SU SOCIEDAD VINCULADA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 156,
+      "createdAt": "2024-02-10T00:54:34.108Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE RECONOCIERON HONORARIOS SOBRE LA GESTION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 156,
+      "createdAt": "2024-02-10T00:54:34.108Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " BANDIDOS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:34.108Z"
+}

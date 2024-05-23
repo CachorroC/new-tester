@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 448,
+    "numero": 448,
+    "llaveProceso": "11001400301220180081000",
+    "nombre": "luis alfredo niño garcia",
+    "idProcesos": [51282150],
+    "category": "Terminados"
+  }
+}

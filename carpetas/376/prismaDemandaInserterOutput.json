@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 373,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "2730845464",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "EL 22-08-2018 EL JUZGADO DECRETO LA TERMINACIÓN DEL PROCESO POR PAGO CUOTAS EN MORA DE LA OBLIGACIÓN HIPOTECARIA //  SE ENVIO SOLICITUD DESARCHIVE EL 18 DE AGOSOTO DE 2023 A ARCHIVO CENTRAL .",
+    "fechaPresentacion": "2018-08-22T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "118010",
+      "377813183474353 // 4513074148699942 / 5491579209500691"
+    ],
+    "radicado": "2018 - 00052",
+    "vencimientoPagare": ["2019-04-01T00:00:00.000Z"],
+    "expediente": "11001400307620180005200",
+    "carpetaNumero": 376,
+    "despacho": null
+  }
+}

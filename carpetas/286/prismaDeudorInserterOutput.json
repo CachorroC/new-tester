@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 283,
+    "cedula": "80259791",
+    "primerNombre": "alirio",
+    "primerApellido": "buitrago",
+    "segundoNombre": "heredia",
+    "segundoApellido": null,
+    "direccion": "diagonal 48 j no 5c- 34 sur",
+    "email": "gerencia.seguridadgf@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 286
+  }
+}

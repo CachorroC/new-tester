@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 367,
+    "cedula": "52840906",
+    "primerNombre": "lilian",
+    "primerApellido": "hernandez",
+    "segundoNombre": "andrea",
+    "segundoApellido": "suarez",
+    "direccion": "carrera 51 b no 18-28 sur",
+    "email": "hernandezsuarez28@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 370
+  }
+}

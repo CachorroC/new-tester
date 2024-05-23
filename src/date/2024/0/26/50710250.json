@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:41.716Z",
+  "proceso": {
+    "idProceso": 50710250,
+    "idConexion": 259,
+    "llaveProceso": "11001400301820170151700",
+    "fechaProceso": "2017-09-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-01-27T05:00:00.000Z",
+    "despacho": "JUZGADO 016 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FABIAN ALEXANDER GIL GIL | Demandado: YOMAR YANIRA RUBIANO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 16,
+      "tipo": "JUZGADO 016 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-16-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

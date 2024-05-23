@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 334,
+    "numero": 334,
+    "llaveProceso": "11001400306820170130600",
+    "nombre": "nestor julio martinez orjuela",
+    "idProcesos": [50765770],
+    "category": "Reintegra"
+  }
+}

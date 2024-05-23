@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 98,
+    "cedula": "79996551",
+    "primerNombre": "yoni",
+    "primerApellido": "restrepo",
+    "segundoNombre": "alexander",
+    "segundoApellido": "peñuela",
+    "direccion": "transversal 78a # 71a - 71 sur",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 99
+  }
+}

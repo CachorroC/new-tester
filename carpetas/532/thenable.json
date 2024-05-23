@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306820200102100",
+  "numero": 532,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 900520023,
+    "direccion": "av boyaca 63d - 26 oficina 103",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "dimoin",
+    "primerApellido": "colombia",
+    "segundoApellido": "s.a.s.",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2020-09-05T00:00:00.000Z",
+    "expediente": "11001400306820200102100",
+    "capitalAdeudado": 15324570,
+    "etapaProcesal": "CONTESTACIÓN DEMANDA",
+    "municipio": "BOGOTA",
+    "obligacion": [65886140334, 4.59426044691618e29],
+    "radicado": "2020-1021",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 900520023,
+  "idProcesos": null
+}

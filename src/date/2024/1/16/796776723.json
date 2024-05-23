@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:07.593Z",
+  "savedDate": 1502254800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 796776723,
+    "llaveProceso": "11001400305220170080900",
+    "consActuacion": 30,
+    "fechaActuacion": "2019-10-15T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CAJA 311",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-10-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 29,
+    "isUltimaAct": false,
+    "idProceso": 11719343
+  }
+}

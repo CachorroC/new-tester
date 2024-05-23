@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 431,
+    "cedula": "79145374",
+    "primerNombre": "juan",
+    "primerApellido": "baquero",
+    "segundoNombre": "camilo",
+    "segundoApellido": "buttner",
+    "direccion": "transversal 2a no 67-71",
+    "email": "jcbaquerob@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 436
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 180,
+    "cedula": "11185630",
+    "primerNombre": "wilson",
+    "primerApellido": "jimenez",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "mendieta",
+    "direccion": "carrera 81c # 2b - 80 piso 2",
+    "email": "grupocomerciallasabana@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 183
+  }
+}

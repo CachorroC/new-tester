@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:02.376Z",
+  "proceso": {
+    "idProceso": 86157021,
+    "idConexion": 320,
+    "llaveProceso": "25126408900220180004800",
+    "fechaProceso": "2018-02-02T05:00:00.000Z",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+    "departamento": "CUNDINAMARCA",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: JUAN CAMILO CHINGATE PENAGOS (Emplazado) | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 2,
+      "tipo": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-002-promiscuo-municipal-de-cajicá-"
+    }
+  }
+}

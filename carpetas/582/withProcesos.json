@@ -1,0 +1,87 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 1,
+      "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE MADRID ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-civil-municipal-de-madrid"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "6/03/2026",
+    "obligacion": {
+      "A": 3830095609
+    },
+    "capitalAdeudado": "$ 16.827.889",
+    "entregaGarantiasAbogado": "24/08/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MADRID",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 01295",
+    "llaveProceso": "25430400300120230129500"
+  },
+  "demandas": [
+    {
+      "idProceso": 160042431,
+      "idConexion": 320,
+      "llaveProceso": "25430400300120230129500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "MADRID",
+      "obligacion": [3830095609],
+      "radicado": "2023 - 01295"
+    }
+  ],
+  "numero": 582,
+  "llaveProceso": "25430400300120230129500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3133073186
+    },
+    "primerNombre": "PEDRO",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "DUARTE",
+    "segundoApellido": "VARGAS",
+    "cedula": 7228260,
+    "direccion": "Calle 23 No. 12 - 50 Bloque 14 Apto 15 Madrid (Cundinamarca)",
+    "email": "duartepedroantonio@hotmail.com"
+  },
+  "cc": 7228260,
+  "procesos": [
+    {
+      "idProceso": 160042431,
+      "idConexion": 320,
+      "llaveProceso": "25430400300120230129500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE MADRID ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [160042431],
+  "nombre": "PEDRO ANTONIO DUARTE VARGAS",
+  "notificacion": null
+}

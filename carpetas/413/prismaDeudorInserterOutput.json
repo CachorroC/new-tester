@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 410,
+    "cedula": "1018430139",
+    "primerNombre": "luisa",
+    "primerApellido": "salazar",
+    "segundoNombre": "fernanda",
+    "segundoApellido": ",patarroyo",
+    "direccion": "carrera 38 no 14-93 bloque 9 apto 102",
+    "email": "luifermkt889@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 413
+  }
+}

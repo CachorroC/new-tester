@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 113,
+    "numero": 113,
+    "llaveProceso": "11001400303020170181700",
+    "nombre": "sandra bibiana urrego mayorga",
+    "idProcesos": [50883240],
+    "category": "Terminados"
+  }
+}

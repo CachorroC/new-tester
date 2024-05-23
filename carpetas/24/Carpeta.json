@@ -1,0 +1,100 @@
+{
+  "id": 3034074,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 24
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "4.5130741959810203778813009303695e+31",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.874Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.921Z"],
+    "id": 24,
+    "llaveProceso": "25299418900120170002400",
+    "mandamientoPago": [],
+    "municipio": "GAMA",
+    "notificacion": {
+      "id": 24,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["5303726157973550", "5303716368987260"],
+    "radicado": "2017 - 00024",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2016-10-20T05:00:00.000Z",
+      "2016-08-05T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 24,
+      "fechaOrdenaMedida": "2024-02-10T00:54:22.402Z",
+      "medidaSolicitada": "OK"
+    }
+  },
+  "deudor": {
+    "id": 24,
+    "telCelular": "3102354541",
+    "telFijo": null,
+    "primerNombre": "WILSON",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MORA",
+    "cedula": "3034074",
+    "direccion": "Urbanización la Pola Manzana C casa 31 Gama",
+    "email": "jechos243@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25299418900120170002400",
+  "nombre": "wilson armando rodriguez mora",
+  "numero": 24,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 24,
+      "createdAt": "2024-02-10T00:54:22.402Z",
+      "pathname": null,
+      "dueDate": "2018-03-08T05:00:00.000Z",
+      "text": "8/02/2018 AUTO TERMINA PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 24,
+      "createdAt": "2024-02-10T00:54:22.402Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "GARANTIAS DEVUELTAS EN FAVOR DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:22.403Z"
+}

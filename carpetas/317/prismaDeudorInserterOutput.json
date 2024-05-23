@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 314,
+    "cedula": "80251653",
+    "primerNombre": "wilson",
+    "primerApellido": "sanchez",
+    "segundoNombre": "javier",
+    "segundoApellido": null,
+    "direccion": "calle 62 g  no 75 g - 18 sur",
+    "email": "wilsoningind@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 317
+  }
+}

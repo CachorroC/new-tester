@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 11,
+    "cedula": "80743147",
+    "primerNombre": "javier",
+    "primerApellido": "reyes",
+    "segundoNombre": "romero",
+    "segundoApellido": null,
+    "direccion": "cra 18 h no. 76 a-53 sur bogota",
+    "email": "sandrapatriciajoya-2545@hotmail.com",
+    "telCelular": "3209229120",
+    "telFijo": null,
+    "carpetaNumero": 11
+  }
+}

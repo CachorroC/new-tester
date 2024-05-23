@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 344,
+    "cedula": "41888857",
+    "primerNombre": "maria",
+    "primerApellido": "zuluaga",
+    "segundoNombre": "elena",
+    "segundoApellido": "uribe",
+    "direccion": "calle 19 no  18 - 54 apartamento 301",
+    "email": "equiposysuministroscapital@hotmail.com",
+    "telCelular": null,
+    "telFijo": "2869149",
+    "carpetaNumero": 347
+  }
+}

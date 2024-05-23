@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:13.848Z",
+  "savedDate": 1511499600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1283273453,
+    "llaveProceso": "11001400305020170135700",
+    "consActuacion": 36,
+    "fechaActuacion": "2022-10-24T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CAJA 56 DE 2022",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-10-24T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 36,
+    "isUltimaAct": true,
+    "idProceso": 11224353
+  }
+}

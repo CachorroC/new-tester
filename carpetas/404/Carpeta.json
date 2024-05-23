@@ -1,0 +1,105 @@
+{
+  "id": 1013586083,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 404
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "88",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2018-02-21T05:00:00.000Z"],
+    "id": 404,
+    "llaveProceso": "257544189003201800177",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 404,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["167362"],
+    "radicado": "2018 - 00177",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2033-08-28T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 404,
+      "fechaOrdenaMedida": "2018-10-06T05:00:00.000Z",
+      "medidaSolicitada": "CERTIMAIL"
+    }
+  },
+  "deudor": {
+    "id": 404,
+    "telCelular": "3102259717",
+    "telFijo": "2035780 ",
+    "primerNombre": "CESAR",
+    "segundoNombre": "AUGUSTO",
+    "primerApellido": "PINEDA",
+    "segundoApellido": "RIOS",
+    "cedula": "1013586083",
+    "direccion": "DIAGONAL 18 B No 44-24",
+    "email": "cesar.rios_30@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "257544189003201800177",
+  "nombre": "cesar augusto pineda rios",
+  "numero": 404,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 404,
+      "createdAt": "2024-02-10T00:54:56.752Z",
+      "pathname": null,
+      "dueDate": "2019-02-18T05:00:00.000Z",
+      "text": " EL 18/01/2019 EL JUZGADO TERMINA EL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 404,
+      "createdAt": "2024-02-10T00:54:56.752Z",
+      "pathname": null,
+      "dueDate": "2020-02-14T05:00:00.000Z",
+      "text": " EL 14/01/2020 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 404,
+      "createdAt": "2024-02-10T00:54:56.752Z",
+      "pathname": null,
+      "dueDate": "2019-03-01T05:00:00.000Z",
+      "text": " EL 29/01/2019 SE HIZO LEVANTAMIENTO DE MEDIDA CAUTELAR DE EMBARGO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:56.752Z"
+}

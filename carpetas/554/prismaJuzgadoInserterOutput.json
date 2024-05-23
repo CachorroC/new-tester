@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 18,
+      "tipo": "JUZGADO 018 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-018-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  ]
+}

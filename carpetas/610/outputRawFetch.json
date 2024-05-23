@@ -1,0 +1,4 @@
+{
+  "StatusCode": 404,
+  "Message": "El parametro \"NumeroRadicacion\" ha de contener 23 digitos."
+}

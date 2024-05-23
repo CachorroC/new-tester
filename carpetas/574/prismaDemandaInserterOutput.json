@@ -1,0 +1,29 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 562,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "43725000",
+    "entregaGarantiasAbogado": "2023-08-17T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "2370110350 // 1410093357",
+      "43206562 T.C. VISA 4513080146836311 // 82377390 T.C. AMERICAN 0377816058360201"
+    ],
+    "radicado": "2023 -  01342",
+    "vencimientoPagare": [
+      "2026-04-01T00:00:00.000Z",
+      "2026-04-01T00:00:00.000Z",
+      "2026-04-01T00:00:00.000Z",
+      "2026-04-01T00:00:00.000Z"
+    ],
+    "expediente": "11001418900920230131000",
+    "carpetaNumero": 574,
+    "despacho": null
+  }
+}

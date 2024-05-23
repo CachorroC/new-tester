@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 520,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "15324570",
+    "entregaGarantiasAbogado": "2020-09-05T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "CONTESTACIÓN DEMANDA",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["65886140334", "4.59426044691618e+29"],
+    "radicado": "2020-1021",
+    "vencimientoPagare": [],
+    "expediente": "11001400306820200102100",
+    "carpetaNumero": 532,
+    "despacho": null
+  }
+}

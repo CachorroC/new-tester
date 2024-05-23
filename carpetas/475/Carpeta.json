@@ -1,0 +1,121 @@
+{
+  "id": 4281808,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 475
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "39146947",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-02-22T05:00:16.000Z"],
+    "id": 475,
+    "llaveProceso": "25754408900220180011300",
+    "mandamientoPago": ["2018-03-22T05:00:00.000Z"],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 475,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "2018-06-19T05:00:16.000Z",
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "2018-07-06T05:00:00.000Z"
+    },
+    "obligacion": ["1000090987"],
+    "radicado": "2018 - 00113",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 475,
+      "fechaOrdenaMedida": "2018-02-04T05:00:00.000Z",
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    }
+  },
+  "deudor": {
+    "id": 475,
+    "telCelular": null,
+    "telFijo": "7113967 ",
+    "primerNombre": "JOSE",
+    "segundoNombre": "LIBRANDO",
+    "primerApellido": "CANDELA",
+    "segundoApellido": "MUNEVAR",
+    "cedula": "4281808",
+    "direccion": "CALLE 1 A No 13-30  SOACHA ",
+    "email": "eedibrando600@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754408900220180011300",
+  "nombre": "jose librando candela munevar",
+  "numero": 475,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 475,
+      "createdAt": "2024-02-10T00:55:01.847Z",
+      "pathname": null,
+      "dueDate": "2023-02-18T05:00:00.000Z",
+      "text": "18/01/2023 PEDIR LIQUIDACIÓN DEL CRÉDITO A REINTEGRA S.A.S.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 475,
+      "createdAt": "2024-02-10T00:55:01.847Z",
+      "pathname": null,
+      "dueDate": "2023-04-03T05:00:00.000Z",
+      "text": " 25 ENERO 2023 SOLICITA ACTUALIZACION LIQUIDACIÓN CREDITO A REINTEGRA SAS SE REITERA EL 3/03/2023 SE SOLICITA CERTIFICADO DE VEHICULO DE PLACAS ICM 217 ESTA VENDIENDO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 475,
+      "createdAt": "2024-02-10T00:55:01.847Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " ESTA TRAMITANDO TARJETA DE CREDITO EN AV VILLAS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 475,
+      "createdAt": "2024-02-10T00:55:01.847Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " TIENE CARNICERIA PARA EMBARGO DE ESTABLECIMIENTO DE COMERCIO CAMARA DE COMERCIO SOLICITADA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 475,
+      "createdAt": "2024-02-10T00:55:01.847Z",
+      "pathname": null,
+      "dueDate": "2024-01-13T05:00:00.000Z",
+      "text": "13/12/2023 SE RADICA AMPLIACION MEDIDAS EMBARGO ACCIONES ETB EN JUZGADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.847Z"
+}

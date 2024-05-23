@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 56,
+    "numero": 56,
+    "llaveProceso": "11001400302720140070300",
+    "nombre": "gladys null hernandez lopez",
+    "idProcesos": [29071084],
+    "category": "Terminados"
+  }
+}

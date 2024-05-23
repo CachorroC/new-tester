@@ -1,0 +1,87 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "NORBEY RAMON CHAVARRO",
+    "cedula": "17644906",
+    "direccion": "NO SE CONOCE",
+    "telefono": null,
+    "id": 314,
+    "carpetaNumero": 314
+  },
+  "demanda": {
+    "vencimientoPagare": "6/03/2033",
+    "obligacion": {
+      "A": 161979
+    },
+    "capitalAdeudado": "21.139.648.63",
+    "entregaGarantiasAbogado": "31/10/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CAJICA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00768",
+    "llaveProceso": "25126408900220170076800",
+    "etapaProcesal": "TERMINADO",
+    "fechaPresentacion": "8/11/2017",
+    "notificacion": {
+      "291": {
+        "fechaAporta": "06/07/2018"
+      },
+      "292": {
+        "fechaRecibido": "SOLICITUD EPS",
+        "resultado": 43123
+      },
+      "tipo": "INMUEBLE",
+      "autoNotificado": "0120"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "23/01/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 314,
+  "llaveProceso": "25126408900220170076800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "TATIANA",
+    "segundoNombre": "RAMON",
+    "primerApellido": "PEPICANO",
+    "segundoApellido": null,
+    "cedula": 1075655673,
+    "direccion": "CARRERA 2 B - No 2 J - 55  LOTE 6 MZ 25",
+    "email": "revisionvillavicencio@gmail.co"
+  },
+  "cc": 1075655673,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "TATIANA RAMON PEPICANO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-07-06T05:00:00.000Z",
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "0120"
+  }
+}

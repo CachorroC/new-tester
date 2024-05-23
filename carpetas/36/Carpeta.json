@@ -1,0 +1,97 @@
+{
+  "id": 52314251,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 36
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "9633585",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.892Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.900Z"],
+    "id": 36,
+    "llaveProceso": " 11001400306620170089200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 36,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["65758"],
+    "radicado": "2017 - 00892",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.993Z"],
+    "medidasCautelares": {
+      "id": 36,
+      "fechaOrdenaMedida": "2024-02-10T00:54:23.189Z",
+      "medidaSolicitada": "FISICO"
+    }
+  },
+  "deudor": {
+    "id": 36,
+    "telCelular": "3012419992",
+    "telFijo": null,
+    "primerNombre": "SANDRA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "AGUDELO",
+    "segundoApellido": "MONTAGUT",
+    "cedula": "52314251",
+    "direccion": "CALLE 49 SUR No. 89 B-30 Etapa 1 CAsa1",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": " 11001400306620170089200",
+  "nombre": "sandra patricia agudelo montagut",
+  "numero": 36,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 36,
+      "createdAt": "2024-02-10T00:54:23.189Z",
+      "pathname": null,
+      "dueDate": "2019-04-19T05:00:00.000Z",
+      "text": "19/03/2019 AUTO DECRETA TERMINACION PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 36,
+      "createdAt": "2024-02-10T00:54:23.189Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "GARANTIAS DEVUELTAS EN FAVOR DE LA DEUDORES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:23.189Z"
+}

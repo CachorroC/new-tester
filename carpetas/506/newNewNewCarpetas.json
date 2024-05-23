@@ -1,0 +1,64 @@
+{
+  "id": 1023891419,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["54915700000000000"],
+    "llaveProceso": "11001418903120180138000",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:11:33.197Z",
+      "medidaSolicitada": "24/07/2019"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001400300420210061100",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2021- 00611",
+    "tipoProceso": "ACUMULADO",
+    "vencimientoPagare": ["2021-06-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "EDWIN",
+    "segundoNombre": "CAMILO",
+    "primerApellido": "SARMIENTO",
+    "segundoApellido": "GOMEZ",
+    "cedula": 1023891419,
+    "direccion": "CARRERA 3 No 6-25 SUR TORRE 6 APTO 104",
+    "email": "edwin.sarmiento@altipal.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418903120180138000",
+  "nombre": "EDWIN CAMILO SARMIENTO GOMEZ",
+  "numero": 506,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "ACUMULADO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:33.197Z"
+}

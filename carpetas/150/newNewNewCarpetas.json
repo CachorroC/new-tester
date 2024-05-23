@@ -1,0 +1,50 @@
+{
+  "id": 79988076,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["180394"],
+    "llaveProceso": "2575440030012017024900",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 47820559,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-08-28T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00249",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-01-19T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3156448,
+      "celular": 3156448156
+    },
+    "primerNombre": "VICTOR",
+    "segundoNombre": "TRIANA",
+    "primerApellido": "ALARCON",
+    "segundoApellido": null,
+    "cedula": 79988076,
+    "direccion": "CALLE 136 # 157 - 91",
+    "email": "g.o75@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "2575440030012017024900",
+  "nombre": "VICTOR TRIANA ALARCON",
+  "numero": 150,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:36.306Z"
+}

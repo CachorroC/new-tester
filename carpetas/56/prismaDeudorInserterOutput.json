@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 56,
+    "cedula": "52039387",
+    "primerNombre": "gladys",
+    "primerApellido": "lopez",
+    "segundoNombre": "hernandez",
+    "segundoApellido": null,
+    "direccion": "diagonal 62 c no. 19-c-12 acacia san",
+    "email": "gladys12357@hotmail.com",
+    "telCelular": "3138551970",
+    "telFijo": "7900454",
+    "carpetaNumero": 56
+  }
+}

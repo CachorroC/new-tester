@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25899310300120170039300",
+  "numero": 158,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80808819,
+    "direccion": "carrera 3 este # 6b - 36 chia",
+    "email": "jjgallego14@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "julian",
+    "segundoNombre": "jhohany",
+    "primerApellido": "gallego",
+    "segundoApellido": "montes"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-17T00:00:00.000Z",
+    "expediente": "25899310300120170039300",
+    "capitalAdeudado": 183128611,
+    "etapaProcesal": "2.589931030012017e+22",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": [173482, "4099849860904006 // AUDIOPRESTAMO"],
+    "radicado": "2017 - 00393",
+    "vencimientoPagare": ["2034-03-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53911221,
+    "direccion": "CARRERA 3 ESTE # 6B - 36 CHIA",
+    "nombre": "luz angela poveda ramos",
+    "telefono": 8393651
+  },
+  "cc": 80808819,
+  "idProcesos": null
+}

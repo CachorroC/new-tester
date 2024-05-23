@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301320170116200",
+  "numero": 251,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 7226283,
+    "direccion": "carrera 11a # 17 - 24 santa barbara",
+    "email": "cajux@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3178195535
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "javier",
+    "primerApellido": "becerra",
+    "segundoApellido": "benavides"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2020-04-25T00:00:00.000Z",
+    "expediente": "11001400301320170116200",
+    "capitalAdeudado": 56386936,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [12703441],
+    "radicado": "2017 - 01162",
+    "vencimientoPagare": ["2017-08-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 7226283,
+  "idProcesos": null
+}

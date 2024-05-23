@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 164,
+    "numero": 164,
+    "llaveProceso": "11001400304520170090500",
+    "nombre": "uriel null ruiz diaz",
+    "idProcesos": [50593640],
+    "category": "Reintegra"
+  }
+}

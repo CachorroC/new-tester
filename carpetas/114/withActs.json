@@ -1,0 +1,145 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 910128311,
+      "llaveProceso": "25754418900220170075200",
+      "consActuacion": 8615264,
+      "fechaActuacion": "2019-08-22T05:00:00.000Z",
+      "actuacion": "AUTO EMPLAZA",
+      "anotacion": "EMPLAZAMIENTO DE LAS PERSONAS QUE TENGAN CRÉDITOS CON TÍTULOS DE EJECUCIÓN CONTRA ABUNDIO BOHÓRQUEZ.",
+      "fechaInicial": "2019-08-22T05:00:00.000Z",
+      "fechaFinal": "2019-09-12T05:00:00.000Z",
+      "fechaRegistro": "2019-08-22T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 1,
+      "idProceso": 86396721,
+      "isUltimaAct": false,
+      "carpetaNumero": 114,
+      "createdAt": "2023-12-10T20:30:39.164Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 2,
+      "tipo": "JUZGADO 002 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-002-de-pequeñas-causas--y-competencia-múltiple-de-soacha-"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "15/11/2023",
+    "obligacion": {
+      "A": "377813527966924/",
+      "B": "000000020990112484."
+    },
+    "capitalAdeudado": "$ 20.501.855",
+    "entregaGarantiasAbogado": "1/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00752",
+    "llaveProceso": "25754418900220170075200",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "11/08/2017",
+    "mandamientoPago": "24/08/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 1087,
+        "resultado": "31/08/2017"
+      },
+      "certimail": "24/08/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 86396721,
+      "idConexion": 320,
+      "llaveProceso": "25754418900220170075200",
+      "fechaProceso": "2019-08-22T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-08-22T05:00:00.000Z",
+      "sujetosProcesales": "Demandante/accionante: ALVARO  CARRILLO  | Demandado/indiciado/causante: ABUNDIO  BOHORQUEZ VILLAMIL | Demandado/indiciado/causante: ACREEDORES DE ABUNDIO BOHORQUEZ    (Emplazado) | Defensor Privado: sANDER SENEY SIERRA CORREDOR ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2023-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-01-08T05:00:00.000Z",
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-08-11T05:00:00.000Z"],
+      "municipio": "SOACHA",
+      "obligacion": ["377813527966924/", "000000020990112484."],
+      "radicado": "2017 - 00752"
+    }
+  ],
+  "numero": 114,
+  "llaveProceso": "25754418900220170075200",
+  "fecha": "2019-08-22T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 910128311,
+    "llaveProceso": "25754418900220170075200",
+    "consActuacion": 8615264,
+    "fechaActuacion": "2019-08-22T00:00:00",
+    "actuacion": "AUTO EMPLAZA",
+    "anotacion": "EMPLAZAMIENTO DE LAS PERSONAS QUE TENGAN CRÉDITOS CON TÍTULOS DE EJECUCIÓN CONTRA ABUNDIO BOHÓRQUEZ.",
+    "fechaInicial": "2019-08-22T00:00:00",
+    "fechaFinal": "2019-09-12T00:00:00",
+    "fechaRegistro": "2019-08-22T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 1,
+    "idProceso": 86396721,
+    "isUltimaAct": false
+  },
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3213173,
+      "celular": 3128067314
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "CAICEDO",
+    "segundoApellido": "RUIZ",
+    "cedula": 79209455,
+    "direccion": "CALLE 11 # 52A - 14 SOACHA",
+    "email": "antoniocaicedo1972@gmail.com"
+  },
+  "cc": 79209455,
+  "procesos": [
+    {
+      "idProceso": 86396721,
+      "idConexion": 320,
+      "llaveProceso": "25754418900220170075200",
+      "fechaProceso": "2019-08-22T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-08-22T05:00:00.000Z",
+      "despacho": "JUZGADO 002 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: ALVARO  CARRILLO  | Demandado/indiciado/causante: ABUNDIO  BOHORQUEZ VILLAMIL | Demandado/indiciado/causante: ACREEDORES DE ABUNDIO BOHORQUEZ    (Emplazado) | Defensor Privado: sANDER SENEY SIERRA CORREDOR ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [86396721],
+  "nombre": "JOSE ANTONIO CAICEDO RUIZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-03-04T05:00:00.000Z",
+  "idProcesos": [50869240],
+  "idRegUltimaAct": 1260887540,
+  "llaveProceso": "11001400302720170127200",
+  "nombre": "LILIANA GARCIA ROSERO",
+  "numero": 349,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:14.773Z"
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420170123100",
+  "numero": 78,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 7711481,
+    "direccion": "calle 44d # 45 - 45 apto 904 int 7u",
+    "email": "santosjaime07@yahoo.es",
+    "tel": {
+      "fijo": null,
+      "celular": 3158939957
+    },
+    "primerNombre": "jaime",
+    "segundoNombre": "edison",
+    "primerApellido": "santos",
+    "segundoApellido": "martin"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400306420170123100",
+    "capitalAdeudado": 1159046944,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [5303729451744848, "0377816394649010"],
+    "radicado": "2017 - 01231",
+    "vencimientoPagare": ["2016-05-07T05:00:00.000Z", null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 7711481,
+  "idProcesos": null
+}

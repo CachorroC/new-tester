@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 545,
+    "numero": 546,
+    "llaveProceso": "11001400300220170100200",
+    "nombre": "jogli joaquin otero vargas",
+    "idProcesos": [50780430],
+    "category": "Reintegra"
+  }
+}

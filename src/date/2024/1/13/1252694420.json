@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:16.962Z",
+  "savedDate": 1531890000000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1252694420,
+    "llaveProceso": "11001400300420170126600",
+    "consActuacion": 61,
+    "fechaActuacion": "2022-02-04T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA EXPEDIENTE POR ESTADO. CUADERNOS 2 // DIANA GOMEZ\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-02-04T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 61,
+    "isUltimaAct": true,
+    "idProceso": 50859050
+  }
+}

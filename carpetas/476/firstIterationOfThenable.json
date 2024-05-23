@@ -1,0 +1,44 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "B": "28.251.567.19"
+    },
+    "capitalAdeudado": "21/08/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIA",
+    "radicado": "O",
+    "llaveProceso": "11001418901220180064200",
+    "etapaProcesal": "05/09/2018"
+  },
+  "demandas": [],
+  "numero": 476,
+  "llaveProceso": "11001418901220180064200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ARNULFO",
+    "segundoNombre": "PASTES",
+    "primerApellido": "DAZA",
+    "segundoApellido": null,
+    "cedula": 1081395456,
+    "direccion": null,
+    "email": "CARRERA 24B No 44-24"
+  },
+  "cc": 1081395456,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ARNULFO PASTES DAZA",
+  "notificacion": null
+}

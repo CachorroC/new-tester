@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:20.410Z",
+  "proceso": {
+    "idProceso": 39001450,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820190100400",
+    "fechaProceso": "2019-06-04T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-06-03T05:00:00.000Z",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: ARMANDO RODRIGUEZ RODRIGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 68,
+      "tipo": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-068-civil-municipal-de-bogota"
+    }
+  }
+}

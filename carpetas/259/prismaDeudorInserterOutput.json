@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 256,
+    "cedula": "52770471",
+    "primerNombre": "luz",
+    "primerApellido": "ruiz",
+    "segundoNombre": "nelly",
+    "segundoApellido": "lara",
+    "direccion": "carrera 87 f - no 26-74 sur",
+    "email": "nelly_ruiz1980@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 259
+  }
+}

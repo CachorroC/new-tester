@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 188,
+    "numero": 188,
+    "llaveProceso": "11001400306720170126900",
+    "nombre": "diego armando arevalo velandia",
+    "idProcesos": [51452530],
+    "category": "Terminados"
+  }
+}

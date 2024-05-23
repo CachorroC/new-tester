@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307020180012100",
+  "numero": 389,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79874218,
+    "direccion": null,
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "miguel",
+    "segundoNombre": "angel",
+    "primerApellido": "granados",
+    "segundoApellido": "gutierrez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307020180012100",
+    "capitalAdeudado": 0,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [],
+    "radicado": "2018 - 00121",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79874218,
+  "idProcesos": null
+}

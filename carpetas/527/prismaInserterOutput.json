@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 526,
+    "numero": 527,
+    "llaveProceso": "25286400300120190041800",
+    "nombre": "jairo marcelo guiza rodriguez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

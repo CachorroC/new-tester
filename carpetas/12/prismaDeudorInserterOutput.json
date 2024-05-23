@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 12,
+    "cedula": "11436632",
+    "primerNombre": "oscar",
+    "primerApellido": "triviño",
+    "segundoNombre": "manuel",
+    "segundoApellido": "garcia",
+    "direccion": "calle 2 e 1 a-85 sur facatativa",
+    "email": "triracso25@hotmail.com",
+    "telCelular": "3214791915",
+    "telFijo": null,
+    "carpetaNumero": 12
+  }
+}

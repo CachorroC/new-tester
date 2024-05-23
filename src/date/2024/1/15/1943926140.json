@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:19.043Z",
+  "savedDate": 1698987600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1943926140,
+    "llaveProceso": "11001400301620230122200",
+    "consActuacion": 7,
+    "fechaActuacion": "2024-01-11T05:00:00.000Z",
+    "actuacion": "Oficio Elaborado",
+    "anotacion": "OFS. 1651, 2652 Y 2653 (EMBARGO) SE ENVÍA A LA ENTIDAD COMPETENTE CON COPIA APODERADA DTE. ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-11T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 7,
+    "isUltimaAct": true,
+    "idProceso": 134585460
+  }
+}

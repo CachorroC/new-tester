@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 342,
+    "numero": 342,
+    "llaveProceso": "11001400301220170140000",
+    "nombre": "gabriel augusto castillo castelblanco",
+    "idProcesos": [50858060],
+    "category": "Terminados"
+  }
+}

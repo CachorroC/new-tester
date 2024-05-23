@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001310302720170037400",
+  "numero": 7,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79733852,
+    "direccion": "calle 21 bis sur no. 88-58 bogota",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "ricardo",
+    "primerApellido": "prieto",
+    "segundoApellido": "cruz"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "11001310302720170037400",
+    "capitalAdeudado": 134026609,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2553057],
+    "radicado": "2017 - 00374",
+    "vencimientoPagare": ["2020-04-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79733852,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 367,
+    "numero": 367,
+    "llaveProceso": "11001400307820170123500",
+    "nombre": "andres antonio  amezquita,paez",
+    "idProcesos": [88297260],
+    "category": "Terminados"
+  }
+}

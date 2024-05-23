@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303420170123600",
+  "numero": 252,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1023863956,
+    "direccion": "calle 67 c sur 1 b 23 est",
+    "email": "angelsuarez.23@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "angel",
+    "segundoNombre": "jovani",
+    "primerApellido": "suarez",
+    "segundoApellido": "gomez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-14T00:00:00.000Z",
+    "mandamientoPago": "2017-10-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-05T00:00:00.000Z",
+    "expediente": "11001400303420170123600",
+    "capitalAdeudado": 2646930975,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [147600],
+    "radicado": "2017 - 01236",
+    "vencimientoPagare": ["2027-01-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1032423457,
+    "direccion": "CALLE 67 C SUR 1B 23 ESTE APARTAMENTO 503 TORRE 9",
+    "nombre": "damaris milena caicedo farieta",
+    "telefono": 10324223457
+  },
+  "cc": 1023863956,
+  "idProcesos": null
+}

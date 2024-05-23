@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 149,
+    "cedula": "88227428",
+    "primerNombre": "andres",
+    "primerApellido": "higuita",
+    "segundoNombre": "felipe",
+    "segundoApellido": "cardona",
+    "direccion": "calle 180 # 12a - 16 int 3 apt 202 etapa 3 // calle 137 # 91 - 40 int 5 apto 404",
+    "email": "higuitac@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 151
+  }
+}

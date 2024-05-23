@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418902120230128000",
+  "numero": 565,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1061047348,
+    "direccion": "transversal 96 b no. 20 d - 70 casa 23 conjunto residencial casas del portal de hayuelos",
+    "email": "sammy_1722@hotmail.es",
+    "tel": {
+      "fijo": 7442510,
+      "celular": 3058819253
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "milena",
+    "primerApellido": "palacio",
+    "segundoApellido": "rivera"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001418902120230128000",
+    "capitalAdeudado": 24994278,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [1010090492],
+    "radicado": "2023 - 01273",
+    "vencimientoPagare": ["2026-03-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1061047348,
+  "idProcesos": null
+}

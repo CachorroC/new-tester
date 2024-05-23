@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 269,
+    "numero": 269,
+    "llaveProceso": "25286400300120180042100",
+    "nombre": "juan carlos ortiz cuervo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

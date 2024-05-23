@@ -1,0 +1,76 @@
+{
+  "id": 11230400,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 508
+  },
+  "demanda": {
+    "capitalAdeudado": "29416113",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-11-26T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-12-07T05:00:16.000Z"],
+    "llaveProceso": "2018-0371",
+    "mandamientoPago": "2019-01-17T05:00:16.000Z",
+    "municipio": "LA CALERA",
+    "notificacion": {
+      "id": 508,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2019-04-24T05:00:16.000Z",
+          "fechaAporta": "2019-04-24T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": null
+    },
+    "obligacion": ["2490084469"],
+    "radicado": "2018 - 00371",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-01T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 508,
+      "fechaOrdenaMedida": "2019-01-28T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO INMUEBLES"
+    }
+  },
+  "deudor": {
+    "id": 508,
+    "telCelular": "3123703828",
+    "telFijo": null,
+    "primerNombre": "JOSE",
+    "segundoNombre": "ALFONSO",
+    "primerApellido": "VASQUEZ",
+    "segundoApellido": "TOVAR",
+    "cedula": "11230400",
+    "direccion": "CALLE 2 A No 5-22 APTO 503",
+    "email": "joalvato09@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2018-0371",
+  "nombre": "JOSE ALFONSO VASQUEZ TOVAR",
+  "numero": 508,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:29.130Z"
+}

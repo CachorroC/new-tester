@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301820170151700",
+  "numero": 228,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80740039,
+    "direccion": "calle 48b sur # 6c - 06",
+    "email": "fabianalexanderg@yahoo.es",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "fabian",
+    "segundoNombre": "alexander",
+    "primerApellido": "gil",
+    "segundoApellido": "gil"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-04T00:00:00.000Z",
+    "expediente": "11001400301820170151700",
+    "capitalAdeudado": 13622019,
+    "etapaProcesal": "1.100140030182017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [119098],
+    "radicado": "2017 - 01517",
+    "vencimientoPagare": ["2024-06-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52747161,
+    "direccion": "CALLE 49B SUR 9 - 89 TORRE 2B APTO 405",
+    "nombre": "yomar yanira rubiano",
+    "telefono": 3948677
+  },
+  "cc": 80740039,
+  "idProcesos": null
+}

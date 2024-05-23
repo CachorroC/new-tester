@@ -1,0 +1,121 @@
+{
+  "id": 1014214413,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 574
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "43725000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-08-17T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 574,
+    "llaveProceso": "11001418900520230134200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 574,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "2370110350 // 1410093357",
+      "43206562 T.C. VISA 4513080146836311 // 82377390 T.C. AMERICAN 0377816058360201"
+    ],
+    "radicado": "2023 -  01342",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-04-02T05:00:00.000Z",
+      "2026-04-24T05:00:00.000Z",
+      "2026-04-07T05:00:00.000Z",
+      "2026-04-07T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 574,
+      "fechaOrdenaMedida": "2024-02-10T00:55:08.575Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 574,
+    "telCelular": "3007547824",
+    "telFijo": null,
+    "primerNombre": "INGRID",
+    "segundoNombre": "LIZETH",
+    "primerApellido": "PATARROYO",
+    "segundoApellido": "BAEZ",
+    "cedula": "1014214413",
+    "direccion": "CARRERA 85 L # 63B-42 CONJUNTO RESIDENCIAL PORTALES DE VILLALUZ ETAPA 1",
+    "email": "ingridpatarroyobaez@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418900520230134200",
+  "nombre": "ingrid lizeth patarroyo baez",
+  "numero": 574,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 574,
+      "createdAt": "2024-02-10T00:55:08.575Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "18 DE AGOSOTO 2023 SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 574,
+      "createdAt": "2024-02-10T00:55:08.575Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 30 AGOSTO ENTRO AL DESPACHO.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 574,
+      "createdAt": "2024-02-10T00:55:08.575Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "/ MANDAMIENTO OK CCR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 574,
+      "createdAt": "2024-02-10T00:55:08.575Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 5 FEB 2023 SE SOLICITA ENVIO OFICIOS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:08.575Z"
+}

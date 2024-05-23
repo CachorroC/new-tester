@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 580,
+    "numero": 581,
+    "llaveProceso": "11001400303320230105600",
+    "nombre": "angelica godoy gutierrez y,edison,andres,tuta,forero",
+    "idProcesos": [132789600],
+    "category": "Bancolombia"
+  }
+}

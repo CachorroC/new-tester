@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:43.088Z",
+  "proceso": {
+    "idProceso": 11720143,
+    "idConexion": 261,
+    "llaveProceso": "11001400305220170090600",
+    "fechaProceso": "2017-08-31T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-10-25T05:00:00.000Z",
+    "despacho": "JUZGADO 052 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FREDY ALEXANDER MUÑOZ CASTAÑEDA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 52,
+      "tipo": "JUZGADO 052 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-52-civil-municipal-de-bogota"
+    }
+  }
+}

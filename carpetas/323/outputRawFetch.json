@@ -1,0 +1,34 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 8830323,
+      "idConexion": 261,
+      "llaveProceso": "11001400303720170150900",
+      "fechaProceso": "2017-11-03T00:00:00",
+      "fechaUltimaActuacion": "2018-09-05T00:00:00",
+      "despacho": "JUZGADO 037 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: TITULARIZADORA COLOMBIANA S.A. HITOS | Demandado: CLAUDIA JANNETH ORTIZ ALFONSO | Demandado: LUIS FERNANDO MEDINA  POTES ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400303720170150900",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 1,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

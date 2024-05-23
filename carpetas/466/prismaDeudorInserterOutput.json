@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 461,
+    "cedula": "53160094",
+    "primerNombre": "darley",
+    "primerApellido": "paez",
+    "segundoNombre": "julied",
+    "segundoApellido": "higuera",
+    "direccion": "calle 130 no 126-96 interior 16 apartamento 302",
+    "email": "djpaez5@hotmail.com",
+    "telCelular": "3115754578",
+    "telFijo": "4933266",
+    "carpetaNumero": 466
+  }
+}

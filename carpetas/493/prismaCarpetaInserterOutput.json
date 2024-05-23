@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "numero": 493,
+    "llaveProceso": "11001410375120180181700",
+    "nombre": "kelly yuliana quintero fierro",
+    "idProcesos": [],
+    "category": "Terminados",
+    "tipoProceso": "HIPOTECARIO",
+    "fecha": null,
+    "revisado": false,
+    "updatedAt": "2023-11-29T08:38:13.368Z",
+    "terminado": true,
+    "idRegUltimaAct": null
+  }
+}

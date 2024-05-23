@@ -1,0 +1,97 @@
+{
+  "id": 30339083,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "NELSON MENDEZ VERJAN",
+    "cedula": "14277736",
+    "direccion": "CALLE 68 C No 2-04 SUR ESTE",
+    "telefono": "F 2000631",
+    "id": 484
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "26503794.57",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-06-09T05:00:00.000Z",
+    "etapaProcesal": "25754418900320190027000",
+    "fechaPresentacion": [],
+    "id": 484,
+    "llaveProceso": "25754418900320190027000",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 484,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990157739"],
+    "radicado": "2019 - 00270",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2032-11-21T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 484,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.370Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 484,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JENNY",
+    "segundoNombre": "",
+    "primerApellido": "ANDREA",
+    "segundoApellido": "AVILA",
+    "cedula": "30339083",
+    "direccion": "CARRERA 7A No  2-94 SUR",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900320190027000",
+  "nombre": "jenny  andrea avila garzon ",
+  "numero": 484,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 484,
+      "createdAt": "2024-02-10T00:55:02.370Z",
+      "pathname": null,
+      "dueDate": "2021-11-28T05:00:00.000Z",
+      "text": "EL 28/10/2021 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 484,
+      "createdAt": "2024-02-10T00:55:02.370Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " DESGLOSE DE GARANTIAS Y LEVANTAMIENTO DE MEDIDA CAUTELAR A CARGO Y EN FAVOR DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.370Z"
+}

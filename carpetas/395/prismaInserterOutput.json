@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 395,
+    "numero": 395,
+    "llaveProceso": "11001400308420180009000",
+    "nombre": "jorge null bermeo rojas",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 436,
+    "numero": 436,
+    "llaveProceso": "11001400306320180075600",
+    "nombre": "juan camilo baquero buttner",
+    "idProcesos": [17724160],
+    "category": "Terminados"
+  }
+}

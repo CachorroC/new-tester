@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2021-04-22T05:00:00.000Z",
+  "idProcesos": [50764160],
+  "idRegUltimaAct": 1013262230,
+  "llaveProceso": "11001400303520170147500",
+  "nombre": "JORGE HUGO LEAL SERRATO",
+  "numero": 268,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:31:02.972Z"
+}

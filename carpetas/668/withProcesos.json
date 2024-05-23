@@ -1,0 +1,73 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "23/03/2026 // 15/10/2026 // 3/07/2026",
+    "llaveProceso": "SinEspecificar",
+    "obligacion": {
+      "A": 90000131368,
+      "B": "Q 0000001015410685027001 // 1720089845"
+    },
+    "capitalAdeudado": "$ 73.608.894",
+    "entregaGarantiasAbogado": "24/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO"
+  },
+  "demandas": [
+    {
+      "juzgado": null,
+      "idProceso": 668,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [90000131368, "Q 0000001015410685027001 // 1720089845"],
+      "radicado": null
+    }
+  ],
+  "numero": 668,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 6604372,
+      "celular": 3208959590
+    },
+    "primerNombre": "MADAY",
+    "segundoNombre": "SABAD",
+    "primerApellido": "CAMACHO",
+    "segundoApellido": "BUITRAGO",
+    "cedula": 1015410685,
+    "direccion": "Calle 67 D BIS No. 65 A - 71 AP 102",
+    "email": "maday_1989@hotmail.com"
+  },
+  "cc": 1015410685,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "MADAY SABAD CAMACHO BUITRAGO",
+  "notificacion": null
+}

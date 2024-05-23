@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900820180076100",
+  "numero": 485,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52115085,
+    "direccion": "calle 75 a no 110c-17",
+    "email": "margobus2003@yahoo.com",
+    "tel": {
+      "fijo": 3468511,
+      "celular": 3002667595
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "margarita",
+    "primerApellido": "bustos",
+    "segundoApellido": "ballen"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "expediente": "11001418900820180076100",
+    "capitalAdeudado": 1649204134,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRETAMO / 377815771894801", 4513074250577090],
+    "radicado": "2018 - 00761",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52115085,
+  "idProcesos": null
+}

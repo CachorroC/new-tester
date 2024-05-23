@@ -1,0 +1,79 @@
+{
+  "id": 1070329396,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 102
+  },
+  "demanda": {
+    "capitalAdeudado": "50000000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-06-12T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": [
+      "2017-06-15T05:00:00.000Z",
+      "2017-08-09T05:00:00.000Z"
+    ],
+    "llaveProceso": "201700239",
+    "mandamientoPago": "2017-11-07T05:00:16.000Z",
+    "municipio": "MESITAS",
+    "notificacion": {
+      "id": 102,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": "2018-05-17T05:00:16.000Z",
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": "2018-05-17T05:00:16.000Z",
+          "resultado": true
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "2018-07-17T05:00:16.000Z"
+    },
+    "obligacion": ["7300080586"],
+    "radicado": "2017 - 00239",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-07-05T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 102,
+      "fechaOrdenaMedida": "2017-11-07T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    }
+  },
+  "deudor": {
+    "id": 102,
+    "telCelular": "3114456631",
+    "telFijo": null,
+    "primerNombre": "ERIKA",
+    "segundoNombre": "ALEJANDRA",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "REYES",
+    "cedula": "1070329396",
+    "direccion": "CALL 2 No. 8-40 EL COLEGIO",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "201700239",
+  "nombre": "ERIKA ALEJANDRA QUINTERO REYES",
+  "numero": 102,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:24.884Z"
+}

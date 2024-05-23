@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303720180013200",
+  "numero": 399,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79704579,
+    "direccion": "carrer pubichas casa 27 d exterior",
+    "email": "giogol5@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "giovanni",
+    "segundoNombre": "",
+    "primerApellido": "perdomo",
+    "segundoApellido": "quiroga"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-08-02T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400303720180013200",
+    "capitalAdeudado": 4047737734,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [161174],
+    "radicado": "2018 - 00132",
+    "vencimientoPagare": ["2033-12-02T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1030559747,
+    "direccion": "CARRERA 11 ESTE No 12 SUR-48",
+    "nombre": "angelica maria torres quiroga",
+    "telefono": 3372263
+  },
+  "cc": 79704579,
+  "idProcesos": null
+}

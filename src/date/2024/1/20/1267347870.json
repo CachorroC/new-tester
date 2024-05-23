@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:25.390Z",
+  "savedDate": "2019-04-24T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1267347870,
+    "llaveProceso": "11001400301720170133600",
+    "consActuacion": 82,
+    "fechaActuacion": "2022-03-28T05:00:00.000Z",
+    "actuacion": "Entrega de oficios",
+    "anotacion": "Se hace entrega del oficio Nº O-0921-5489  al apoderado de la parte actora/proceso pasa a letra-filtro ventanilla//Liliana Medina",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-03-28T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 82,
+    "isUltimaAct": true,
+    "idProceso": 50782960
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 428,
+    "cedula": "3116420",
+    "primerNombre": "jorge",
+    "primerApellido": "beltran",
+    "segundoNombre": "alberto",
+    "segundoApellido": "paez",
+    "direccion": null,
+    "email": "CALLE 3 No 17-36",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 433
+  }
+}

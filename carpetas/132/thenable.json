@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306820170105100",
+  "numero": 132,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80049317,
+    "direccion": "carrera 145 # 144c - 72 torre 9 apto 9",
+    "email": "jovanirestrepo@hotmail.com",
+    "tel": {
+      "fijo": 8023973,
+      "celular": 3214033971
+    },
+    "primerNombre": "jovani",
+    "segundoNombre": "emilio",
+    "primerApellido": "restrepo",
+    "segundoApellido": "ramirez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-23T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-11T00:00:00.000Z",
+    "expediente": "11001400306820170105100",
+    "capitalAdeudado": 5716176697,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": ["1770990 // 4513076455160970", 5303711546384996],
+    "radicado": "2017 - 01051",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 63476244,
+    "direccion": "CALLE 142C # 141B - 60 LOCAL 9",
+    "nombre": "rubin emilce rojas calderon",
+    "telefono": 8023973
+  },
+  "cc": 80049317,
+  "idProcesos": null
+}

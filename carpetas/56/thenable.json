@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400302720140070300",
+  "numero": 56,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52039387,
+    "direccion": "diagonal 62 c no. 19-c-12 acacia san",
+    "email": "gladys12357@hotmail.com",
+    "tel": {
+      "fijo": 7900454,
+      "celular": 3138551970
+    },
+    "primerNombre": "gladys",
+    "primerApellido": "hernandez",
+    "segundoApellido": "lopez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400302720140070300",
+    "capitalAdeudado": 116728485,
+    "etapaProcesal": "1.100140030272014e+22",
+    "municipio": "BOGOTA",
+    "obligacion": ["2273 320157242"],
+    "radicado": "2014 - 00703",
+    "vencimientoPagare": ["2022-10-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52039387,
+    "direccion": "DIAGONAL 62 C No. 19-C-12 ACACIA SAN",
+    "nombre": "gladys hernandez lopez",
+    "telefono": "7900454//3138551970"
+  },
+  "cc": 52039387,
+  "idProcesos": null
+}

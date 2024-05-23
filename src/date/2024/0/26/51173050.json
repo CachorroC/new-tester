@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:08.637Z",
+  "proceso": {
+    "idProceso": 51173050,
+    "idConexion": 259,
+    "llaveProceso": "11001400302220180060400",
+    "fechaProceso": "2018-05-09T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-10-10T05:00:00.000Z",
+    "despacho": "JUZGADO 022 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DUVY  MARIELA  RODRIGUEZ  ROCHA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 22,
+      "tipo": "JUZGADO 022 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-22-civil-municipal-de-bogota"
+    }
+  }
+}

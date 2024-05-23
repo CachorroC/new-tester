@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 24,
+    "cedula": "3034074",
+    "primerNombre": "wilson",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "armando",
+    "segundoApellido": "mora",
+    "direccion": "urbanización la pola manzana c casa 31 gama",
+    "email": "jechos243@hotmail.com",
+    "telCelular": "3102354541",
+    "telFijo": null,
+    "carpetaNumero": 24
+  }
+}

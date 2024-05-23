@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 365,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "3630771654",
+    "entregaGarantiasAbogado": "2017-11-12T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "GIRARDOT",
+    "obligacion": ["6841"],
+    "radicado": "2018 - 00066",
+    "vencimientoPagare": ["2026-05-01T00:00:00.000Z"],
+    "expediente": "25307400300120180006600",
+    "carpetaNumero": 368,
+    "despacho": null
+  }
+}

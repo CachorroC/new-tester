@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:04.543Z",
+  "proceso": {
+    "idProceso": 51935790,
+    "idConexion": 259,
+    "llaveProceso": "11001400308520170084900",
+    "fechaProceso": "2019-05-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-06-15T05:00:00.000Z",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE EDWIN GARCES ARDILA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 11,
+      "tipo": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-11-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 464,
+    "numero": 464,
+    "llaveProceso": "25754418900220180066400",
+    "nombre": "ricardo armando celis angel",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

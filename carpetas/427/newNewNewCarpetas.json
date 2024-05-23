@@ -1,0 +1,82 @@
+{
+  "id": 1069738339,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12730779"],
+    "llaveProceso": "25126408900220180004800",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-05-08T05:00:00.000Z",
+        "fechaAporta": "2018-05-08T05:00:00.000Z",
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-07-16T05:00:00.000Z",
+        "fechaAporta": "2018-05-03T05:00:00.000Z",
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "5/0572019"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-02-01T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "CAJICA",
+    "radicado": "2018 - 00048",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2021-01-16T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JUAN",
+    "segundoNombre": "CAMILO",
+    "primerApellido": "CHINGATE",
+    "segundoApellido": "PENAGOS",
+    "cedula": 1069738339,
+    "direccion": "VEREDA LA 22 KILOMETRO 30 (CAJICA) // VEREDA SUBIA NORTE. PARTE BAJA. FINCA EL RINCON LOTE 2 (GRANADA- CUND): VEREDA SUBIA NORTE PARTE BAJA FINCA EL RINCON LOTE 2 (GRANADA - CUND)",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [86157021],
+  "llaveProceso": "25126408900220180004800",
+  "nombre": "JUAN CAMILO CHINGATE PENAGOS",
+  "numero": 427,
+  "procesos": [
+    {
+      "idProceso": 86157021,
+      "idConexion": 320,
+      "llaveProceso": "25126408900220180004800",
+      "fechaProceso": "2018-02-02T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: JUAN CAMILO CHINGATE PENAGOS (Emplazado) | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 2,
+        "tipo": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-002-promiscuo-municipal-de-cajicá-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:13.154Z"
+}

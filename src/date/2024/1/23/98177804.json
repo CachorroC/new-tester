@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:09.384Z",
+  "savedDate": "2017-06-30T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 98177804,
+    "llaveProceso": "11001400305620170059100",
+    "consActuacion": 8,
+    "fechaActuacion": "2017-12-07T05:00:00.000Z",
+    "actuacion": "Retiro demanda",
+    "anotacion": "se hace entreha de la presente demanda a la actora sin compensacion ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2017-12-07T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "isUltimaAct": true,
+    "idProceso": 17325724
+  }
+}

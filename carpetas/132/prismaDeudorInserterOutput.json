@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 130,
+    "cedula": "80049317",
+    "primerNombre": "jovani",
+    "primerApellido": "restrepo",
+    "segundoNombre": "emilio",
+    "segundoApellido": "ramirez",
+    "direccion": "carrera 145 # 144c - 72 torre 9 apto 9",
+    "email": "jovanirestrepo@hotmail.com",
+    "telCelular": "3214033971",
+    "telFijo": "8023973",
+    "carpetaNumero": 132
+  }
+}

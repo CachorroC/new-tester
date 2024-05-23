@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 61,
+    "numero": 61,
+    "llaveProceso": "11001400304620170055700",
+    "nombre": "juan pablo rubio esguerra",
+    "idProcesos": [10130443],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 52325613,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "OSCAR GONZALEZ GONZALEZ",
+    "cedula": "79846140",
+    "direccion": null,
+    "telefono": null,
+    "id": 213
+  },
+  "demanda": {
+    "obligacion": ["85712"],
+    "llaveProceso": "11001400308822017014880",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 12573628,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-04T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01488",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2021-04-25T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MYRIAM",
+    "segundoNombre": "CONSUELO",
+    "primerApellido": "RIOS",
+    "segundoApellido": "FONSECA",
+    "cedula": 52325613,
+    "direccion": "CARRERA 98B # 14 - 06 CASA 166",
+    "email": "miricu143@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308822017014880",
+  "nombre": "MYRIAM CONSUELO RIOS FONSECA",
+  "numero": 213,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:55.334Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 148,
+    "cedula": "79988076",
+    "primerNombre": "victor",
+    "primerApellido": "alarcon",
+    "segundoNombre": "triana",
+    "segundoApellido": null,
+    "direccion": "calle 136 # 157 - 91",
+    "email": "g.o75@hotmail.com",
+    "telCelular": "3156448156",
+    "telFijo": "3156448",
+    "carpetaNumero": 150
+  }
+}

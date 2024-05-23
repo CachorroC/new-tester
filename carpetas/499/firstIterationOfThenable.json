@@ -1,0 +1,90 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "FLOR ANGELA RODRIGUEZ",
+    "cedula": "51955296",
+    "direccion": "DIAGONAL 77B No 119 A-74 APTO 504 INT6",
+    "telefono": "F 2286617",
+    "id": 499,
+    "carpetaNumero": 499
+  },
+  "demanda": {
+    "vencimientoPagare": "31/11/2024",
+    "obligacion": {
+      "A": "20990123680  7/  377813468472239",
+      "B": "4513079359765043 // 53037220341399596"
+    },
+    "capitalAdeudado": "$ 24.807.317",
+    "entregaGarantiasAbogado": "08/10/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARO",
+    "radicado": "2019 - 00708",
+    "llaveProceso": "11001418901320190070800",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "12/10/2018",
+    "mandamientoPago": "31/07/2019",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "18/02/2020",
+        "fechaAporta": "18/02/2020"
+      },
+      "292": {
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "13/02/2020",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 499,
+  "llaveProceso": "11001418901320190070800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "FLORESMIRO",
+    "segundoNombre": "APONTE",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": null,
+    "cedula": 3208569,
+    "direccion": "DIAGONAL 77B No 119 A-74 APTO 504 INT6",
+    "email": "dcentro@pcpplasticos.com"
+  },
+  "cc": 3208569,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "FLORESMIRO APONTE ACOSTA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2020-02-18T05:00:00.000Z",
+        "fechaAporta": "2020-02-18T05:00:00.000Z",
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

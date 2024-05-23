@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:40.572Z",
+  "proceso": {
+    "idProceso": 132964260,
+    "idConexion": 259,
+    "llaveProceso": "11001418904420230023900",
+    "fechaProceso": "2023-09-01T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-17T05:00:00.000Z",
+    "despacho": "JUZGADO 044 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: IGNACIO GALEANO ALVARADO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 44,
+      "tipo": "JUZGADO 044 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-044-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

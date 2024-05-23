@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 207,
+    "cedula": "343334",
+    "primerNombre": "jose",
+    "primerApellido": "castillo",
+    "segundoNombre": "antonio",
+    "segundoApellido": "cortes",
+    "direccion": "carrera 50 # 113 - 09",
+    "email": null,
+    "telCelular": "3015004499",
+    "telFijo": "4658342",
+    "carpetaNumero": 210
+  }
+}

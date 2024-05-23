@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25599400300120180000500",
+  "numero": 373,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79616846,
+    "direccion": "carrera 5 # 12 - 53 apulo",
+    "email": "rodrigo_ruiz33@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3112764286
+    },
+    "primerNombre": "rodrigo",
+    "segundoNombre": "alberto",
+    "primerApellido": "ruiz",
+    "segundoApellido": "villalba"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25599400300120180000500",
+    "capitalAdeudado": 1072569804,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "APULO",
+    "obligacion": [4513087158442953, 5306966000650228],
+    "radicado": "2018 - 00005",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79616846,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 381,
+    "cedula": "80026753",
+    "primerNombre": "diego",
+    "primerApellido": "galindo",
+    "segundoNombre": "javier",
+    "segundoApellido": "mejia",
+    "direccion": "transversal 73 # 11b - 77 int 2 apto 504",
+    "email": "d8003galindo@gmail.com",
+    "telCelular": "3202116040",
+    "telFijo": null,
+    "carpetaNumero": 384
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 374,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "13503258",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-01-29T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["2150091493"],
+    "radicado": "2018 - 00107",
+    "vencimientoPagare": ["2018-09-01T00:00:00.000Z"],
+    "expediente": "11001400304620180010700",
+    "carpetaNumero": 377,
+    "despacho": null
+  }
+}

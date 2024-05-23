@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 330,
+    "cedula": "52085839",
+    "primerNombre": "ahida",
+    "primerApellido": "guevara",
+    "segundoNombre": "lucero",
+    "segundoApellido": "becerra",
+    "direccion": "calle 55 no 78 -74  apartamento 1110",
+    "email": "ahidaguevara@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 333
+  }
+}

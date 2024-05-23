@@ -1,0 +1,13 @@
+{
+  "category": "Insolvencia",
+  "fecha": "2023-02-07T05:00:00.000Z",
+  "idProcesos": [113353750],
+  "idRegUltimaAct": 1637473990,
+  "llaveProceso": "11001400306420180102900",
+  "nombre": "SONIA MARCELA MOLINA QUIMBAYO",
+  "numero": 273,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:03.685Z"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-10T05:00:25.063Z",
+  "savedDate": 1648098000000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1649571513,
+    "llaveProceso": "11001400308220180096400",
+    "consActuacion": 3,
+    "fechaActuacion": "2023-08-29T05:00:00.000Z",
+    "actuacion": "Recepción Memorial Centro de Servicios Administrativos",
+    "anotacion": "dta allegan devulucion despacho comisiorio Nro 74 sin aux",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-08-29T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 3,
+    "isUltimaAct": true,
+    "idProceso": 112967583
+  }
+}

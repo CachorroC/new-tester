@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 52160520,
+      "idConexion": 259,
+      "llaveProceso": "11001400308220180096400",
+      "fechaProceso": "2019-02-15T00:00:00",
+      "fechaUltimaActuacion": "2022-03-24T00:00:00",
+      "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE RAMON ESTRADA CASTILLO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 112967583,
+      "idConexion": 197,
+      "llaveProceso": "11001400308220180096400",
+      "fechaProceso": "2022-05-11T00:00:00",
+      "fechaUltimaActuacion": "2023-08-29T00:00:00",
+      "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE ENVIGADO ",
+      "departamento": "ANTIOQUIA",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE RAMON ESTRADA CASTILLO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400308220180096400",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

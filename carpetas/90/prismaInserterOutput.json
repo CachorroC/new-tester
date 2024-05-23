@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 90,
+    "numero": 90,
+    "llaveProceso": "11001400303420170083600",
+    "nombre": "luis esneider orduz farfan",
+    "idProcesos": [50521480, 81728891],
+    "category": "Bancolombia"
+  }
+}

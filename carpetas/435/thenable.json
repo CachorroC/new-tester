@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301620180057300",
+  "numero": 435,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1012341563,
+    "direccion": "calle 62a sur-no 73c-21 t 1 apto 202",
+    "email": "marysqs@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maribel",
+    "primerApellido": "revelo",
+    "segundoApellido": "quiroga",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-22T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-05-16T00:00:00.000Z",
+    "expediente": "11001400301620180057300",
+    "capitalAdeudado": 3212457385,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990131392],
+    "radicado": "2018 - 00573",
+    "vencimientoPagare": ["2025-08-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1012341563,
+  "idProcesos": null
+}

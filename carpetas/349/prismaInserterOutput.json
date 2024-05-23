@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 349,
+    "numero": 349,
+    "llaveProceso": "11001400302720170127200",
+    "nombre": "liliana null garcia rosero",
+    "idProcesos": [50869240],
+    "category": "Terminados"
+  }
+}

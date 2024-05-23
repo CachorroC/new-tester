@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 112,
+    "cedula": "53178044",
+    "primerNombre": "sandra",
+    "primerApellido": "urrego",
+    "segundoNombre": "bibiana",
+    "segundoApellido": "mayorga",
+    "direccion": "calle 153 # 97b - 30 casa alta",
+    "email": "bibi0225@hotmail.es",
+    "telCelular": "3167289932",
+    "telFijo": "6210512",
+    "carpetaNumero": 113
+  }
+}

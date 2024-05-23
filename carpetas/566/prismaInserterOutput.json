@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 565,
+    "numero": 566,
+    "llaveProceso": "11001400306920230127300",
+    "nombre": "johan andres quiroga galeano",
+    "idProcesos": [132041720],
+    "category": "Bancolombia"
+  }
+}

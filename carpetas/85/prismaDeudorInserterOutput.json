@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 84,
+    "cedula": "39673896",
+    "primerNombre": "sandra",
+    "primerApellido": "malaver",
+    "segundoNombre": "patricia",
+    "segundoApellido": "alvarez",
+    "direccion": "calle 143 # 118 - 15 apto 503 int 2",
+    "email": "sma9511@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 85
+  }
+}

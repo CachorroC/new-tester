@@ -1,0 +1,132 @@
+{
+  "id": 1070329396,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 102
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "50000000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-06-12T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": [
+      "2017-06-15T05:00:00.000Z",
+      "2017-08-29T05:00:00.000Z"
+    ],
+    "id": 102,
+    "llaveProceso": "201700239",
+    "mandamientoPago": ["2017-11-07T05:00:16.000Z"],
+    "municipio": "MESITAS",
+    "notificacion": {
+      "id": 102,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": "2018-05-17T05:00:16.000Z",
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": "2018-05-17T05:00:16.000Z",
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "2018-07-17T05:00:16.000Z"
+    },
+    "obligacion": ["7300080586"],
+    "radicado": "2017-00239",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-07-05T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 102,
+      "fechaOrdenaMedida": "2017-11-07T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    }
+  },
+  "deudor": {
+    "id": 102,
+    "telCelular": "3114456631",
+    "telFijo": null,
+    "primerNombre": "ERIKA",
+    "segundoNombre": "ALEJANDRA",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "REYES",
+    "cedula": "1070329396",
+    "direccion": "CALL 2 NO. 8-40 EL COLEGIO",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "201700239",
+  "nombre": "erika alejandra quintero reyes",
+  "numero": 102,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 102,
+      "createdAt": "2024-02-10T00:54:29.468Z",
+      "pathname": null,
+      "dueDate": "2023-04-01T05:00:00.000Z",
+      "text": "1/03/2023 SE LE OTORGA SUSTITUCION PODER ANA ISABEL SUAREZ GARCIA PARA ACTUAR EN MESITAS DEL COLEGIO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 102,
+      "createdAt": "2024-02-10T00:54:29.468Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 14 ABRIL 2023 INFORME ISABEL NO HA ENTRADO AL DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 102,
+      "createdAt": "2024-02-10T00:54:29.468Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "/26 JULIO 2023 SE APORTA ACTUA LIQUI CREDITO A JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 102,
+      "createdAt": "2024-02-10T00:54:29.468Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " A AUTOS 25 JULIO NADA DE CESION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 102,
+      "createdAt": "2024-02-10T00:54:29.468Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SUSTITUIR PROCESO AISG/ PEDIR CMARA COMERCIO R y S ACTUALIZADA /PEDIR VIGILANCIA JUDICIAL CON MHSG. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 102,
+      "createdAt": "2024-02-10T00:54:29.468Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:29.469Z"
+}

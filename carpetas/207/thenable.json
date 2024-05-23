@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302220170102400",
+  "numero": 207,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51993007,
+    "direccion": "calle 148 # 94a - 10-60 apto 408 etapa 5",
+    "email": "sanbiru_69@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "bibiana",
+    "primerApellido": "ruge",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-05T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-17T00:00:00.000Z",
+    "expediente": "11001400302220170102400",
+    "capitalAdeudado": 2340436857,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [112910],
+    "radicado": "2017 - 01024",
+    "vencimientoPagare": ["2017-02-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51993007,
+  "idProcesos": null
+}

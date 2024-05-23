@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304520170108600",
+  "numero": 197,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79457880,
+    "direccion": "calle 106 # 8a - 19 casa 698",
+    "email": "mariojean1@yahoo.es",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "mario",
+    "segundoNombre": "jean",
+    "primerApellido": "pinzon",
+    "segundoApellido": "baron"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-09-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-28T00:00:00.000Z",
+    "expediente": "11001400304520170108600",
+    "capitalAdeudado": 1698361912,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [11705210],
+    "radicado": "2017 - 01086",
+    "vencimientoPagare": ["2017-08-23T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79457880,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 216,
+    "numero": 216,
+    "llaveProceso": "11001400300520170125500",
+    "nombre": "blanca janeth pinzon suarez",
+    "idProcesos": [50682020],
+    "category": "Terminados"
+  }
+}

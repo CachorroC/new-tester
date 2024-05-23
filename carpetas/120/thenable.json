@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900320170075500",
+  "numero": 120,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 900212673,
+    "direccion": "carrera 3 # 29a - 02",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jencell",
+    "primerApellido": "e.u.",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-11T00:00:00.000Z",
+    "mandamientoPago": "2017-09-08T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-04T00:00:00.000Z",
+    "expediente": "25754418900320170075500",
+    "capitalAdeudado": 13906249,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "SOACHA",
+    "obligacion": [6240082776],
+    "radicado": "2017 - 00755",
+    "vencimientoPagare": ["2021-04-12T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52771090,
+    "direccion": "CARRERA 3 # 29A - 02 LOCAL 1057",
+    "nombre": "yeny esperanza arias mendieta",
+    "telefono": 5753416
+  },
+  "cc": 900212673,
+  "idProcesos": null
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 507,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "30056041",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2019-06-02T00:00:00.000Z",
+    "etapaProcesal": "1.100140030702019e+22",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["2273 320150109"],
+    "radicado": "2019 - 00551",
+    "vencimientoPagare": ["2027-03-01T00:00:00.000Z"],
+    "expediente": "11001400307020190055100",
+    "carpetaNumero": 519,
+    "despacho": null
+  }
+}

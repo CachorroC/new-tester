@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 548,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "40696764",
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "PALACIO DE JUSTICIA BARRAQNUILLA",
+    "fechaPresentacion": null,
+    "municipio": "BARRANQUILLA",
+    "obligacion": [
+      "4770111750",
+      "PAGARÉ SIN NÚMERO T. MASTER CARD 5303720229555616 // T. VISA 4513070377907980"
+    ],
+    "radicado": null,
+    "vencimientoPagare": [
+      "2026-03-01T00:00:00.000Z",
+      "2026-07-01T00:00:00.000Z"
+    ],
+    "expediente": "08001418901820230073500",
+    "carpetaNumero": 560,
+    "despacho": null
+  }
+}

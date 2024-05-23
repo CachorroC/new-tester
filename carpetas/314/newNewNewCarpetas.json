@@ -1,0 +1,70 @@
+{
+  "id": 1075655673,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "NORBEY RAMON CHAVARRO",
+    "cedula": "17644906",
+    "direccion": "NO SE CONOCE",
+    "telefono": null,
+    "id": 314
+  },
+  "demanda": {
+    "obligacion": ["161979"],
+    "llaveProceso": "25126408900220170076800",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-07-06T05:00:00.000Z",
+        "resultado": null
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "0120"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 2113964863,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "TERMINADO",
+    "fechaPresentacion": ["2017-11-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "CAJICA",
+    "radicado": "2017 - 00768",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2033-03-06T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "TATIANA",
+    "segundoNombre": "RAMON",
+    "primerApellido": "PEPICANO",
+    "segundoApellido": null,
+    "cedula": 1075655673,
+    "direccion": "CARRERA 2 B - No 2 J - 55  LOTE 6 MZ 25",
+    "email": "revisionvillavicencio@gmail.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25126408900220170076800",
+  "nombre": "TATIANA RAMON PEPICANO",
+  "numero": 314,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:32.772Z"
+}

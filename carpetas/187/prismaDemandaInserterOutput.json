@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 184,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "10928053",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-08-28T00:00:00.000Z",
+    "etapaProcesal": "2.529040030022017e+22",
+    "fechaPresentacion": null,
+    "municipio": "FUSAGASUGA",
+    "obligacion": ["4513070122193330", "AUDIOPRESTAMO"],
+    "radicado": "2017 - 00552",
+    "vencimientoPagare": [
+      "2020-03-01T00:00:00.000Z",
+      "2019-10-01T00:00:00.000Z"
+    ],
+    "expediente": "25290400300220170055200",
+    "carpetaNumero": 187,
+    "despacho": null
+  }
+}

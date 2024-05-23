@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304320170110600",
+  "numero": 238,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 7181490,
+    "direccion": null,
+    "email": "blamblemooo1@gmail.com",
+    "tel": {
+      "fijo": 2362747,
+      "celular": 3106289389
+    },
+    "primerNombre": "fredy",
+    "segundoNombre": "alexander",
+    "primerApellido": "ruda",
+    "segundoApellido": "arias"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-09-11T00:00:00.000Z",
+    "expediente": "11001400304320170110600",
+    "capitalAdeudado": 6043388409,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [12541785, 186378],
+    "radicado": "2017 - 01106",
+    "vencimientoPagare": ["2017-05-09T05:00:00.000Z", null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1015446817,
+    "direccion": "CALLE 128 No 96 A-33",
+    "nombre": "lina paola ruda benitez",
+    "telefono": 3147198973
+  },
+  "cc": 7181490,
+  "idProcesos": null
+}

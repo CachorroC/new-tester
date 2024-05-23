@@ -1,0 +1,16 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 12,
+      "tipo": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-12-de-ejecucion-civil-municipal-de-bogota"
+    },
+    {
+      "id": 81,
+      "tipo": "JUZGADO 081 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-081-civil-municipal-de-bogota"
+    }
+  ]
+}

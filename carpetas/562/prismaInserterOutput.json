@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 561,
+    "numero": 562,
+    "llaveProceso": "11001418900420230088400",
+    "nombre": "mario hernan salamanca patiño",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

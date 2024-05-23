@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 458,
+    "cedula": "52883958",
+    "primerNombre": "leidy",
+    "primerApellido": "vidal",
+    "segundoNombre": "yaneth",
+    "segundoApellido": "rodriguez",
+    "direccion": "diagonal 2 no 21 b-20",
+    "email": "leidyyaneth.lyv@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 463
+  }
+}

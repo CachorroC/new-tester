@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 469,
+    "cedula": "52788376",
+    "primerNombre": "nadia",
+    "primerApellido": "moreno",
+    "segundoNombre": "katerine",
+    "segundoApellido": "camacho",
+    "direccion": "transversal 83 a no 73-10   almeria",
+    "email": "katiusaka79@gmail.com",
+    "telCelular": "3144765126",
+    "telFijo": "4383117",
+    "carpetaNumero": 474
+  }
+}

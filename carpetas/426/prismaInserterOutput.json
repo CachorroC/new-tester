@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 426,
+    "numero": 426,
+    "llaveProceso": "11001400306820180047600",
+    "nombre": "felix  hernando montenegro,garcia",
+    "idProcesos": [19217890],
+    "category": "Terminados"
+  }
+}

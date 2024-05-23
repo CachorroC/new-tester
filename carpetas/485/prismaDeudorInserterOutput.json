@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 479,
+    "cedula": "52115085",
+    "primerNombre": "diana",
+    "primerApellido": "bustos",
+    "segundoNombre": "margarita",
+    "segundoApellido": "ballen",
+    "direccion": "calle 75 a no 110c-17",
+    "email": "margobus2003@yahoo.com",
+    "telCelular": "3002667595",
+    "telFijo": "3468511",
+    "carpetaNumero": 485
+  }
+}

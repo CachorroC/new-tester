@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 318,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "1386798000",
+    "entregaGarantiasAbogado": "2017-11-02T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["2150091479"],
+    "radicado": "2017 - 01367",
+    "vencimientoPagare": ["2018-09-01T00:00:00.000Z"],
+    "expediente": "11001400301620170136700",
+    "carpetaNumero": 321,
+    "despacho": null
+  }
+}

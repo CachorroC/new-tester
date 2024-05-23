@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 457,
+    "cedula": "80755973",
+    "primerNombre": "yamid",
+    "primerApellido": "caceres",
+    "segundoNombre": "gelves",
+    "segundoApellido": null,
+    "direccion": "carrera 87 no 69-165",
+    "email": "yamid11@hotmail.es",
+    "telCelular": "3114915425",
+    "telFijo": "7279254",
+    "carpetaNumero": 462
+  }
+}

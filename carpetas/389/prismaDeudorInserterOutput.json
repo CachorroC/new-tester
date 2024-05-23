@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 386,
+    "cedula": "79874218",
+    "primerNombre": "miguel",
+    "primerApellido": "granados",
+    "segundoNombre": "angel",
+    "segundoApellido": "gutierrez",
+    "direccion": null,
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 389
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 301,
+    "cedula": "79892240",
+    "primerNombre": "fernando",
+    "primerApellido": "tellez",
+    "segundoNombre": "gonzalez",
+    "segundoApellido": null,
+    "direccion": "calle 76 a sur no 1 b - 40 este",
+    "email": "ferchog01@yahoo.es",
+    "telCelular": "3212414138",
+    "telFijo": null,
+    "carpetaNumero": 304
+  }
+}

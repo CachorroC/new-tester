@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 92,
+    "cedula": "1140835529",
+    "primerNombre": "vivian",
+    "primerApellido": "bruges",
+    "segundoNombre": "paola",
+    "segundoApellido": "medina",
+    "direccion": "calle 133 # 53 - 365cj lomas de (barranquilla)",
+    "email": "vivibruges@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 93
+  }
+}

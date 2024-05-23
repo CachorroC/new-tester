@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 42,
+    "cedula": "1072421639",
+    "primerNombre": "juan",
+    "primerApellido": "moreno",
+    "segundoNombre": "daniel",
+    "segundoApellido": "cifuentes",
+    "direccion": "barrio santa ana fc la campiña anapoima",
+    "email": "jdanielmoreno87@hotmail.com",
+    "telCelular": "3126139284",
+    "telFijo": null,
+    "carpetaNumero": 42
+  }
+}

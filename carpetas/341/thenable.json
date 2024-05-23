@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400305720170128900",
+  "numero": 341,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19294251,
+    "direccion": "carrera 14 no  127 - 10 oficina 707",
+    "email": "mariovelezparra@gmail.com",
+    "tel": {
+      "fijo": 6155668,
+      "celular": 3102124649
+    },
+    "primerNombre": "mario",
+    "primerApellido": "velez",
+    "segundoApellido": "parra",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-15T00:00:00.000Z",
+    "mandamientoPago": "2017-12-07T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-08T00:00:00.000Z",
+    "expediente": "11001400305720170128900",
+    "capitalAdeudado": 1273158001,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": ["3777816328330786 / 459425002", 5303721445053527],
+    "radicado": "2017 - 01289",
+    "vencimientoPagare": ["2017-07-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "09-08-2018 SE RADICA DEMANDA //13 Aug 2018 RADICACIÓN DE PROCESO ***AL DESPACHO POR REPARTO ///21 Sep 2018 AUTO LIBRA MANDAMIENTO EJECUTIVO ***AUTO DECRETA MEDIDA CAUTELAR FIJACION ESTADO 24 Sep 2018 ///26 Sep 2018 OFICIO ELABORADO EMBARGO CUOTA PARTE INMUEBLE //11 Dec 2018 CONSTANCIA SECRETARIALMINIMA"
+  },
+  "cc": 19294251,
+  "idProcesos": null
+}

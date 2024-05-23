@@ -1,0 +1,64 @@
+{
+  "id": 20427976,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["7910080245"],
+    "llaveProceso": "25148408900120170009600",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-02-19T05:00:00.000Z",
+        "fechaAporta": "2018-03-06T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": "2018-02-27T05:00:00.000Z",
+        "fechaAporta": "2018-02-27T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "27/02/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-09-11T05:00:00.000Z",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-10-19T05:00:00.000Z"],
+    "mandamientoPago": "2017-09-11T05:00:00.000Z",
+    "municipio": "CAPARRAPI",
+    "radicado": "2017 - 00096",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-04-01T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "BLANCA",
+    "segundoNombre": "MELBA",
+    "primerApellido": "MOYANO",
+    "segundoApellido": "BELTRAN",
+    "cedula": 20427976,
+    "direccion": "CARRERA 3 No 9 - 02 /08  CAPARRAPI (CUNDINAMARCA)",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25148408900120170009600",
+  "nombre": "BLANCA MELBA MOYANO BELTRAN",
+  "numero": 338,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:41.311Z"
+}

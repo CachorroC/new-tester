@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 243,
+    "numero": 243,
+    "llaveProceso": "11001400306920170084500",
+    "nombre": "maria olga castañeda perugachi",
+    "idProcesos": [50675410],
+    "category": "Reintegra"
+  }
+}

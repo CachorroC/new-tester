@@ -1,0 +1,50 @@
+{
+  "id": 35521020,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["377817000000000", "451388000000000"],
+    "llaveProceso": "25269400300120180024600",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-07-05T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 23159598,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-12-04T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "FACATATIVA",
+    "radicado": "2018 - 00246",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "AURA",
+    "segundoNombre": "LETICIA",
+    "primerApellido": "GAMEZ",
+    "segundoApellido": "ROJAS",
+    "cedula": 35521020,
+    "direccion": "CALLE 11B- No 10-21",
+    "email": "aurag2599@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25269400300120180024600",
+  "nombre": "AURA LETICIA GAMEZ ROJAS",
+  "numero": 418,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:11.179Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 199,
+    "cedula": "52488943",
+    "primerNombre": "sonia",
+    "primerApellido": "pantoja",
+    "segundoNombre": "mireya",
+    "segundoApellido": "sandoval",
+    "direccion": "calle 89 # 98 - 27",
+    "email": "tocami96@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 202
+  }
+}

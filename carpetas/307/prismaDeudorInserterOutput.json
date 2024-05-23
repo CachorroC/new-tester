@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 304,
+    "cedula": "79309509",
+    "primerNombre": "carlos",
+    "primerApellido": "castaño",
+    "segundoNombre": "arturo",
+    "segundoApellido": "aldana",
+    "direccion": "transversal 70 g no 63-52 sur apto 27 torre 2",
+    "email": "cac.marketing@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 307
+  }
+}

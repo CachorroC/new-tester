@@ -1,0 +1,47 @@
+{
+  "id": 1024468871,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12766386"],
+    "llaveProceso": "11001400308620170086300",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 46042338,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-08-28T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00863",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-08-14T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARITZA",
+    "segundoNombre": "NATALI",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "URREA",
+    "cedula": 1024468871,
+    "direccion": "CALLE 59C SUR # 87K - 64 APTO 1016",
+    "email": "jlaura00@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308620170086300",
+  "nombre": "MARITZA NATALI RODRIGUEZ URREA",
+  "numero": 171,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:41.923Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 245,
+    "cedula": "19475788",
+    "primerNombre": "henry",
+    "primerApellido": "alba",
+    "segundoNombre": "carranza",
+    "segundoApellido": null,
+    "direccion": "calle 31 sur no 12-33",
+    "email": "hemacarblan@hotmail.com",
+    "telCelular": "3193196261",
+    "telFijo": null,
+    "carpetaNumero": 248
+  }
+}

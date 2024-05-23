@@ -1,0 +1,105 @@
+{
+  "id": 80237050,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "INGRID DAYHANA FORERO PALACIOS ",
+    "cedula": "1078366269",
+    "direccion": "CARRERA 9 No 3-93",
+    "telefono": "8656241 /3124269483",
+    "id": 237
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "90276951",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.976Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:42.997Z"],
+    "id": 237,
+    "llaveProceso": "25799418900120170024700",
+    "mandamientoPago": [],
+    "municipio": "TENJO",
+    "notificacion": {
+      "id": 237,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["151792"],
+    "radicado": "2017 - 00247",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.869Z"],
+    "medidasCautelares": {
+      "id": 237,
+      "fechaOrdenaMedida": "2024-02-10T00:54:41.358Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 237,
+    "telCelular": "3114602334",
+    "telFijo": "8656241 ",
+    "primerNombre": "NUMAEL",
+    "segundoNombre": "AUGUSTO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "SALGUERO",
+    "cedula": "80237050",
+    "direccion": "CARRERA 9 No 3-93",
+    "email": "numasue@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25799418900120170024700",
+  "nombre": "numael augusto gonzalez salguero",
+  "numero": 237,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 237,
+      "createdAt": "2024-02-10T00:54:41.357Z",
+      "pathname": null,
+      "dueDate": "2017-12-23T05:00:00.000Z",
+      "text": "23/11/2017 LA APODERADA DEL BANCO RETIRO LA DEMANDA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 237,
+      "createdAt": "2024-02-10T00:54:41.357Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 23-11-2017 SE DEVUELVEN GARANTIAS PAGARE Y ESCRITURA A AECSA  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 237,
+      "createdAt": "2024-02-10T00:54:41.357Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SIN TRAMITE DE MEDIDAS CAUTELARES CON ASIGNACION NUMERO DE PROCESO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:41.358Z"
+}

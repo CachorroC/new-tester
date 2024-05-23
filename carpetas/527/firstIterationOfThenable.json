@@ -1,0 +1,88 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "SANDRA MILENA VALBUENA RINCON",
+    "cedula": "52661952",
+    "direccion": "CALLE 7A # 7A-15 FUNZA",
+    "telefono": "F 8259768",
+    "id": 527,
+    "carpetaNumero": 527
+  },
+  "demanda": {
+    "vencimientoPagare": "03/01/2022 //25/05/2022",
+    "obligacion": {
+      "A": "2273 320097153",
+      "B": "REF 42796745"
+    },
+    "capitalAdeudado": "$ 29.140.667",
+    "entregaGarantiasAbogado": "20/05/2019",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "FUNZA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2019 - 00418",
+    "llaveProceso": "25286400300120190041800",
+    "etapaProcesal": "25286400300120190041800",
+    "fechaPresentacion": "NOTIFICACION",
+    "mandamientoPago": "5/06/2019",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO"
+      },
+      "292": {
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "03/07/2019",
+      "fisico": "SI",
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "medidaSolicitada": "15/08/2019"
+    }
+  },
+  "demandas": [],
+  "numero": 527,
+  "llaveProceso": "25286400300120190041800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 8233553,
+      "celular": 3108090708
+    },
+    "primerNombre": "JAIRO",
+    "segundoNombre": "MARCELO",
+    "primerApellido": "GUIZA",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": 80654935,
+    "direccion": "CALLE 7A #7A-15 FUNZA",
+    "email": "jmarcelo_78@yahoo.com // samvari12@gmail.com"
+  },
+  "cc": 80654935,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JAIRO MARCELO GUIZA RODRIGUEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "CERTIMAIL"
+  }
+}

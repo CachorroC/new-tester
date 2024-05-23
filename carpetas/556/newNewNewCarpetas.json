@@ -1,0 +1,80 @@
+{
+  "id": 1022335014,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 556
+  },
+  "demanda": {
+    "capitalAdeudado": "149444779",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "25430400300120230112700",
+    "mandamientoPago": null,
+    "municipio": "MADRID",
+    "notificacion": {
+      "id": 556,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["3830095699 // 3830095700", "3830095701"],
+    "radicado": "2023 - 01127",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-03-09T05:00:00.000Z",
+      "2026-03-09T05:00:00.000Z",
+      "2026-04-09T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 556,
+      "fechaOrdenaMedida": "2024-02-03T00:36:30.810Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 556,
+    "telCelular": "3023193548",
+    "telFijo": null,
+    "primerNombre": "CIRO",
+    "segundoNombre": "ERQUILIAN",
+    "primerApellido": "ONOFRE",
+    "segundoApellido": null,
+    "cedula": "1022335014",
+    "direccion": " Carrera 13 # 4-20 Madrid (Cundinamarca)",
+    "email": "ciro.onofe1105@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25430400300120230112700",
+  "nombre": "CIRO ERQUILIAN ONOFRE",
+  "numero": 556,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:30.810Z"
+}

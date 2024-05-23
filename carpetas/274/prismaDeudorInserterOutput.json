@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 271,
+    "cedula": "80312466",
+    "primerNombre": "andres",
+    "primerApellido": "acevedo",
+    "segundoNombre": "guillermo",
+    "segundoApellido": "borraez",
+    "direccion": "carrera 28 no  84 - 36",
+    "email": "andresacevedo24@hotmail.com",
+    "telCelular": "3178134824",
+    "telFijo": "6915340",
+    "carpetaNumero": 274
+  }
+}

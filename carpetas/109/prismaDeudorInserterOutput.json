@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 108,
+    "cedula": "1018428090",
+    "primerNombre": "oscar",
+    "primerApellido": "agudelo",
+    "segundoNombre": "ivan",
+    "segundoApellido": "mora",
+    "direccion": "carrera 3 d # 32a - 69 sur",
+    "email": "oscar.agudelo@crcom.gov.co",
+    "telCelular": "3045449490",
+    "telFijo": null,
+    "carpetaNumero": 109
+  }
+}

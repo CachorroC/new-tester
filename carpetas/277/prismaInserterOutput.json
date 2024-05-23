@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 277,
+    "numero": 277,
+    "llaveProceso": "11001400308320170098000",
+    "nombre": "olga lucia herazo perdomo",
+    "idProcesos": [51665750],
+    "category": "Terminados"
+  }
+}

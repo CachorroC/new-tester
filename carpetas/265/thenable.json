@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "1100140030202100050100",
+  "numero": 265,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 7601476,
+    "direccion": "carrera 90 c no 6a - 31   - casa 148",
+    "email": "jsanchezargote@gmail.com",
+    "tel": {
+      "fijo": 3018759,
+      "celular": 3118027001
+    },
+    "primerNombre": "julio",
+    "segundoNombre": "rene",
+    "primerApellido": "sanchez",
+    "segundoApellido": "argote"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-21T00:00:00.000Z",
+    "expediente": "1100140030202100050100",
+    "capitalAdeudado": 115224736,
+    "etapaProcesal": "1.100140030632018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [186718, "3778153354915637 / 4513079095670572"],
+    "radicado": "2018 - 00650",
+    "vencimientoPagare": ["2020-05-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 7601476,
+  "idProcesos": null
+}

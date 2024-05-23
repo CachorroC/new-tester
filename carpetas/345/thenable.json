@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304520170147600",
+  "numero": 345,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51974282,
+    "direccion": "calle 128 c no 45 - 08 interior 22",
+    "email": "sjpradag@yahoo.es",
+    "tel": {
+      "fijo": 7216691,
+      "celular": 3204900530
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "jeannette",
+    "primerApellido": "prada",
+    "segundoApellido": "gutierrez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-11-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-15T00:00:00.000Z",
+    "expediente": "11001400304520170147600",
+    "capitalAdeudado": 12944433,
+    "etapaProcesal": "1.100140030452017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [2290097439],
+    "radicado": "2017 - 01476",
+    "vencimientoPagare": ["2019-06-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51974282,
+  "idProcesos": null
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-10-05T05:00:00.000Z",
+  "idProcesos": [50916090],
+  "idRegUltimaAct": 1895582280,
+  "llaveProceso": "11001400305620170131200",
+  "nombre": "MARIA CAMILA MACIAS PADILLA",
+  "numero": 320,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:31:10.205Z"
+}

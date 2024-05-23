@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304620170103500",
+  "numero": 212,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 14320811,
+    "direccion": "carrera 145 # 142f - 60  casa 164",
+    "email": "verafarfan@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "fernando",
+    "primerApellido": "vera",
+    "segundoApellido": "farfan",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "expediente": "11001400304620170103500",
+    "capitalAdeudado": 1266069889,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [99873],
+    "radicado": "2017 - 01035",
+    "vencimientoPagare": ["2017-05-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 55057911,
+    "direccion": "CARRERA 566 # 132 - 40",
+    "nombre": "ana isabel olivera",
+    "telefono": 4818738
+  },
+  "cc": 14320811,
+  "idProcesos": null
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303620170055400",
+  "numero": 81,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 900789612,
+    "direccion": "carrera 7 # 171a - 14 la calera",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ds&d",
+    "segundoNombre": "soluciones",
+    "primerApellido": "constructivas",
+    "segundoApellido": "s.a.s."
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400303620170055400",
+    "capitalAdeudado": 17337417,
+    "etapaProcesal": "1.100140030362017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [1680096092],
+    "radicado": "2017 - 00554",
+    "vencimientoPagare": ["2018-10-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 21068402,
+    "direccion": "CALLE 163A # 7B - 39",
+    "nombre": "andres felipe jimenez redondo y carmen julia redondo plazas",
+    "telefono": 6784175
+  },
+  "cc": 900789612,
+  "idProcesos": null
+}

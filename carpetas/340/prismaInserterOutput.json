@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 340,
+    "numero": 340,
+    "llaveProceso": "11001400306020170101400",
+    "nombre": "william null cortes rojas",
+    "idProcesos": [50788330],
+    "category": "Terminados"
+  }
+}

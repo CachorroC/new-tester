@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 544,
+    "cedula": "1022335014",
+    "primerNombre": "ciro",
+    "primerApellido": "onofre",
+    "segundoNombre": "erquilian",
+    "segundoApellido": null,
+    "direccion": "carrera 13 # 4-20 madrid (cundinamarca)",
+    "email": "ciro.onofe1105@gmail.com",
+    "telCelular": "3023193548",
+    "telFijo": null,
+    "carpetaNumero": 556
+  }
+}

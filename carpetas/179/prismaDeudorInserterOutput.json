@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 176,
+    "cedula": "12254068",
+    "primerNombre": "guillermo",
+    "primerApellido": "tagua",
+    "segundoNombre": "gonzalez",
+    "segundoApellido": null,
+    "direccion": "carrera 30 no.68 j-08 sur",
+    "email": "guillermogonzalez_tagua@hotmail.com",
+    "telCelular": "3218180993",
+    "telFijo": "5642974",
+    "carpetaNumero": 179
+  }
+}

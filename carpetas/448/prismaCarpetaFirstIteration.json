@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-06-05T05:00:00.000Z",
+  "idProcesos": [51282150],
+  "idRegUltimaAct": 1765085550,
+  "llaveProceso": "11001400301220180081000",
+  "nombre": "LUIS ALFREDO NIÑO GARCIA",
+  "numero": 448,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:30.250Z"
+}

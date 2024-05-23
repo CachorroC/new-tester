@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 550,
+    "cedula": "17139148",
+    "primerNombre": "mario",
+    "primerApellido": "salamanca",
+    "segundoNombre": "hernan",
+    "segundoApellido": "patiño",
+    "direccion": "carrera 80 no. 8 - 11 torre 3 interior 5 apartamento 519 torres de santa barbara conjunto residencial",
+    "email": "ajasalama@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 562
+  }
+}

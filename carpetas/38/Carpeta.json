@@ -1,0 +1,105 @@
+{
+  "id": 39808625,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 38
+  },
+  "demanda": {
+    "liquidacion": "43252",
+    "avaluo": "5386409",
+    "capitalAdeudado": "16006640",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.892Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["1970-01-01T00:00:42.901Z"],
+    "id": 38,
+    "llaveProceso": "25785418900120170010200",
+    "mandamientoPago": [],
+    "municipio": "TABIO",
+    "notificacion": {
+      "id": 38,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["AUDIOPRESTAMO", "34328697321//377815467278467"],
+    "radicado": "2017 - 00102",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:43.909Z"],
+    "medidasCautelares": {
+      "id": 38,
+      "fechaOrdenaMedida": "2024-02-10T00:54:23.324Z",
+      "medidaSolicitada": "FISICO"
+    }
+  },
+  "deudor": {
+    "id": 38,
+    "telCelular": "3142310966",
+    "telFijo": null,
+    "primerNombre": "LUZ",
+    "segundoNombre": "MIRYAM",
+    "primerApellido": "GUTÍERREZ",
+    "segundoApellido": "MARTÍNEZ",
+    "cedula": "39808625",
+    "direccion": "CALLE 2 No. 1-24 CASA 2 TABIO",
+    "email": "hjg296@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25785418900120170010200",
+  "nombre": "luz miryam gutíerrez martínez",
+  "numero": 38,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 38,
+      "createdAt": "2024-02-10T00:54:23.324Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 2 DE OCTUBRE DE 2018 SE TERMINA EL PROCESO POR PAGO TOTAL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 38,
+      "createdAt": "2024-02-10T00:54:23.324Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 6 DE FEBRERO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 38,
+      "createdAt": "2024-02-10T00:54:23.324Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "  12 DE DICIEMBRE DE 2021 SE CONSULTO EL RUNT NO TIENE MEDIDAS CAUTELARES EL VEHÍCULO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:23.325Z"
+}

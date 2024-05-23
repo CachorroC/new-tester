@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 581,
+    "cedula": "1030554218",
+    "primerNombre": "jeimy",
+    "primerApellido": "leguizamon",
+    "segundoNombre": "carolina",
+    "segundoApellido": "vasquez",
+    "direccion": "calle 16 a no. 44-c-s.28 manzana 6 et 1 soacha",
+    "email": "carito_abril3@hotmail.com",
+    "telCelular": "3174386730",
+    "telFijo": "5663711",
+    "carpetaNumero": 77
+  }
+}

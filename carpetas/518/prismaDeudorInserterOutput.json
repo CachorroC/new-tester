@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 506,
+    "cedula": "80222254",
+    "primerNombre": "jorge",
+    "primerApellido": "avendaño",
+    "segundoNombre": "ivan",
+    "segundoApellido": "vanegas",
+    "direccion": "carrera 86 # 77 - 35 int 13 apto 339",
+    "email": "CYBERGEORGE82@HOTMAIL.COM",
+    "telCelular": "3124487509",
+    "telFijo": null,
+    "carpetaNumero": 518
+  }
+}

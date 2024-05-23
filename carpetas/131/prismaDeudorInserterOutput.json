@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 129,
+    "cedula": "52830770",
+    "primerNombre": "rocio",
+    "primerApellido": "ortiz",
+    "segundoNombre": "aleida",
+    "segundoApellido": "barreto",
+    "direccion": null,
+    "email": "CARRERA 9 ESTE # 36 - 40 CASA 34",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 131
+  }
+}

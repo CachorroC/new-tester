@@ -1,0 +1,87 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "28/11/2026",
+    "obligacion": {
+      "A": "2273 320145954"
+    },
+    "capitalAdeudado": "$ 40.589.422",
+    "entregaGarantiasAbogado": "11/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "GIRARDOT",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00250",
+    "llaveProceso": "2530740030012017025000",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "30/05/2017",
+    "mandamientoPago": "22/0617",
+    "notificacion": {
+      "tipo": "P/NAL",
+      "autoNotificado": 43059
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "22/0617",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 1,
+      "idConexion": null,
+      "llaveProceso": "2530740030012017025000",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "INMUEBLE"
+      },
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "SENTENCIA",
+      "fechaPresentacion": ["2017-05-30T05:00:00.000Z"],
+      "municipio": "GIRARDOT",
+      "obligacion": ["2273 320145954"],
+      "radicado": "2017 - 00250"
+    }
+  ],
+  "numero": 1,
+  "llaveProceso": "2530740030012017025000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ALEXANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "AGUILAR",
+    "cedula": 39581581,
+    "direccion": "MZ 7 CS 6 UB HDA/ GIRARDOT",
+    "email": "34|"
+  },
+  "cc": 39581581,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "ALEXANDRA MILENA JIMENEZ AGUILAR",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "43059"
+  }
+}

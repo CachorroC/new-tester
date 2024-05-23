@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302020170077600",
+  "numero": 65,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79276611,
+    "direccion": "calle 70 sur no. 3-23",
+    "email": "ernes_Idar2021@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ernesto",
+    "segundoNombre": "augusto",
+    "primerApellido": "idarraga",
+    "segundoApellido": "quintero"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400302020170077600",
+    "capitalAdeudado": 50511309,
+    "etapaProcesal": "1.100140030202017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12730628],
+    "radicado": "2017 - 00776",
+    "vencimientoPagare": ["2019-12-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79276611,
+  "idProcesos": null
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "110014007320170113600",
+  "numero": 152,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1032431042,
+    "direccion": "carrera 111 bis # 154a - 30 torre 2 apto 1007",
+    "email": "nicolas.osorio@finamerica.com.co",
+    "tel": {
+      "fijo": 3142566,
+      "celular": 3142566974
+    },
+    "primerNombre": "nicolas",
+    "primerApellido": "osorio",
+    "segundoApellido": "rodriguez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-09-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "110014007320170113600",
+    "capitalAdeudado": 76394840,
+    "etapaProcesal": "1.100140030732017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [180950],
+    "radicado": "2017 - 01136",
+    "vencimientoPagare": ["2035-02-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1069729949,
+    "direccion": "CARRERA 42 # 22 - 11  // CARRERA 11 BIS # 154A - 30 APTO 1007 TORRE 2",
+    "nombre": "jenny brigitte ballen mesa",
+    "telefono": 8113984
+  },
+  "cc": 1032431042,
+  "idProcesos": null
+}

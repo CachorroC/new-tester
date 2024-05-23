@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "18/02/82020",
+    "obligacion": {
+      "A": 6980085367
+    },
+    "capitalAdeudado": "18.240.978",
+    "entregaGarantiasAbogado": "12/04/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00459",
+    "llaveProceso": "110014003015201800459",
+    "etapaProcesal": "11001400301520180045900",
+    "fechaPresentacion": "EL 4/09/2019 SE DEVUELVE DESGLOSE CON GARANTIAS A AECSA // EL 18/03/2019 EL JUZGADO DA POR TERMINADO PROCESO POR PAGO CUOTAS EN MORA // EL 2/11/2022 SE PIDIO CERTIFICADO CON LEVANTAMIENTO DE MEDIDA CAUTELAR",
+    "mandamientoPago": "4/07/2019"
+  },
+  "demandas": [
+    {
+      "idProceso": 424,
+      "idConexion": null,
+      "llaveProceso": "110014003015201800459",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["8202-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 18240978,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2018-12-04T05:00:00.000Z",
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": "2019-04-07T05:00:00.000Z",
+      "etapaProcesal": "11001400301520180045900",
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [6980085367],
+      "radicado": "2018 - 00459"
+    }
+  ],
+  "numero": 424,
+  "llaveProceso": "110014003015201800459",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JAIME",
+    "segundoNombre": "LEONARDO",
+    "primerApellido": "SOSA",
+    "segundoApellido": "ROODRIGUEZ",
+    "cedula": 79742224,
+    "direccion": "CALLE 31A No 22-13 SUR",
+    "email": "leo-sosa44@hotmail.com"
+  },
+  "cc": 79742224,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JAIME LEONARDO SOSA ROODRIGUEZ",
+  "notificacion": null
+}

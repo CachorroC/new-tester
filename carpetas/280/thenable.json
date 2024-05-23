@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300920170127900",
+  "numero": 280,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 19447966,
+    "direccion": "cr 12b 24-37 sur",
+    "email": "jhernandosanchez@yahoo.es",
+    "tel": {
+      "fijo": 4789274,
+      "celular": 3125826241
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "hernando",
+    "primerApellido": "sanchez",
+    "segundoApellido": "valbuena"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "mandamientoPago": "2017-12-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-11T00:00:00.000Z",
+    "expediente": "11001400300920170127900",
+    "capitalAdeudado": 11796195,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [8920084662],
+    "radicado": "2017 - 01279",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINNAMARCA",
+    "juzgados": []
+  },
+  "cc": 19447966,
+  "idProcesos": null
+}

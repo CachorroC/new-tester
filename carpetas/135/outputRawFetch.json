@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50542600,
+      "idConexion": 259,
+      "llaveProceso": "11001400300420170063900",
+      "fechaProceso": "2017-06-30T00:00:00",
+      "fechaUltimaActuacion": "2021-12-14T00:00:00",
+      "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: RUBER ANDRES VALENZUELA SIERRA | Demandado: SANDRA STELLA CASTRO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 81638681,
+      "idConexion": 320,
+      "llaveProceso": "11001400300420170063900",
+      "fechaProceso": "2017-06-29T00:00:00",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 004 CIVIL MUNICIPAL DE BOGOTÁ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: ruber andres valenzuela sierra (Emplazado) | Demandado/indiciado/causante: sandra stella castro  (Emplazado) | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400300420170063900",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

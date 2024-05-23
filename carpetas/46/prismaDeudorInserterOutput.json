@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 46,
+    "cedula": "11251297",
+    "primerNombre": "alvaro",
+    "primerApellido": "alonso",
+    "segundoNombre": "rodriguez",
+    "segundoApellido": null,
+    "direccion": "carrera 2b no.14-04 barrio villa alejandra choconta",
+    "email": "alvaro.r@live.com",
+    "telCelular": "3166182970",
+    "telFijo": null,
+    "carpetaNumero": 46
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307220170107500",
+  "numero": 219,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80921416,
+    "direccion": "carrera 99a # 61a - 19 casa 61",
+    "email": "layton_blas@live.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "blas",
+    "primerApellido": "laiton",
+    "segundoApellido": "patiño",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-11T00:00:00.000Z",
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-04T00:00:00.000Z",
+    "expediente": "11001400307220170107500",
+    "capitalAdeudado": 5089180553,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [25214],
+    "radicado": "2017 - 01075",
+    "vencimientoPagare": ["2032-07-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80921416,
+  "idProcesos": null
+}

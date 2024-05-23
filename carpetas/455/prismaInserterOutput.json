@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 455,
+    "numero": 455,
+    "llaveProceso": "11001400303820180083500",
+    "nombre": "yenny marcela gomez olarte",
+    "idProcesos": [9093813],
+    "category": "Terminados"
+  }
+}

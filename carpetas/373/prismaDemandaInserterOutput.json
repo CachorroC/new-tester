@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 370,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1072569804",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "APULO",
+    "obligacion": ["4513087158442953", "5306966000650228"],
+    "radicado": "2018 - 00005",
+    "vencimientoPagare": [],
+    "expediente": "25599400300120180000500",
+    "carpetaNumero": 373,
+    "despacho": null
+  }
+}

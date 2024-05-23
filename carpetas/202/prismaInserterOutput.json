@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 202,
+    "numero": 202,
+    "llaveProceso": "11001400308520170128700",
+    "nombre": "sonia mireya pantoja sandoval",
+    "idProcesos": [51937670],
+    "category": "Terminados"
+  }
+}

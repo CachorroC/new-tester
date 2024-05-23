@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 355,
+    "cedula": "1116782267",
+    "primerNombre": "jogli",
+    "primerApellido": "otero",
+    "segundoNombre": "joaquin",
+    "segundoApellido": "vargas",
+    "direccion": "diagonal 2  no 79 f- 04",
+    "email": "juanotero1989@gmail.com",
+    "telCelular": "3005941798",
+    "telFijo": null,
+    "carpetaNumero": 358
+  }
+}

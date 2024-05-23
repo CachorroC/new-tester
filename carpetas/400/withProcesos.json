@@ -1,0 +1,62 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "21/12/2020",
+    "obligacion": {
+      "A": 6590084682
+    },
+    "capitalAdeudado": "17.247.376",
+    "entregaGarantiasAbogado": "23/01/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "GIRARDOT",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00075",
+    "llaveProceso": "25307400300220180007500",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "09/02/2018",
+    "mandamientoPago": "16/02/2018// ACLARACION",
+    "notificacion": {
+      "certimail": "PERSONAL",
+      "fisico": "PERSONAL",
+      "autoNotificado": "24/08/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "16/02/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 400,
+  "llaveProceso": "25307400300220180007500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "OSCAR",
+    "segundoNombre": "GUILLERMO",
+    "primerApellido": "LOZANO",
+    "segundoApellido": "GONZALEZ",
+    "cedula": 79652256,
+    "direccion": "XARRERA 2 No 10-30B CENTENARIO - GIRARDOT",
+    "email": "ocaelmejor@yahoo.es"
+  },
+  "cc": 79652256,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "OSCAR GUILLERMO LOZANO GONZALEZ",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "24/08/2018"
+  }
+}

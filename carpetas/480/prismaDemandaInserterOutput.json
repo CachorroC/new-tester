@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 474,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "17217066",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCION",
+    "fechaPresentacion": null,
+    "municipio": "GIRARDOT",
+    "obligacion": ["AUDIOPRESTAMO", "5.30696068711907e+29"],
+    "radicado": "2021 - 00539",
+    "vencimientoPagare": [
+      "2021-04-01T00:00:00.000Z",
+      "2021-04-01T00:00:00.000Z"
+    ],
+    "expediente": "25307400300320210053900",
+    "carpetaNumero": 480,
+    "despacho": null
+  }
+}

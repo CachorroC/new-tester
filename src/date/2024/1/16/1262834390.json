@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:17.098Z",
+  "savedDate": 1562562000000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1262834390,
+    "llaveProceso": "11001400307120170125000",
+    "consActuacion": 71,
+    "fechaActuacion": "2022-03-10T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA EL EXPEDIENTE CON 2 CUADERNOS // William M,,// Estefania L.///",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-03-10T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 71,
+    "isUltimaAct": true,
+    "idProceso": 64793050
+  }
+}

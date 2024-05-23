@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25286400300120170081600",
+  "numero": 300,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79617611,
+    "direccion": "carrera 3 e no 11-60 interior 9 casa 2  funza",
+    "email": "fabiojara@gmail.com",
+    "tel": {
+      "fijo": 2623688,
+      "celular": 3174280231
+    },
+    "primerNombre": "fabio",
+    "segundoNombre": "edilberto",
+    "primerApellido": "jara",
+    "segundoApellido": "sanchez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-18T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-10-12T00:00:00.000Z",
+    "expediente": "25286400300120170081600",
+    "capitalAdeudado": 1967833490,
+    "etapaProcesal": "ADMISION",
+    "municipio": "FUNZA",
+    "obligacion": [12245382],
+    "radicado": "2017 - 00816",
+    "vencimientoPagare": ["2017-05-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79617611,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 478,
+    "cedula": "30339083",
+    "primerNombre": "jenny",
+    "primerApellido": "andrea",
+    "segundoNombre": "",
+    "segundoApellido": "avila,garzon",
+    "direccion": "carrera 7a no  2-94 sur",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 484
+  }
+}

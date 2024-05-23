@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 351,
+    "numero": 351,
+    "llaveProceso": "1100141037520180002400",
+    "nombre": "cristian josue cardenas noriega",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

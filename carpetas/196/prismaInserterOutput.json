@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 196,
+    "numero": 196,
+    "llaveProceso": "11001310302120170047100",
+    "nombre": "jairo null tibata null",
+    "idProcesos": [28907104],
+    "category": "Terminados"
+  }
+}

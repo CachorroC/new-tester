@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 577,
+    "cedula": "1030573651",
+    "primerNombre": "yurledy",
+    "primerApellido": "hernandez",
+    "segundoNombre": "parra",
+    "segundoApellido": null,
+    "direccion": "carrera 99 d bis no. 38 - 37 sur",
+    "email": "yurledyparra2024@hotmail.com",
+    "telCelular": "3143490829",
+    "telFijo": null,
+    "carpetaNumero": 589
+  }
+}

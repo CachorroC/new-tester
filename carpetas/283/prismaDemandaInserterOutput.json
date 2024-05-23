@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 280,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "2110945100",
+    "entregaGarantiasAbogado": "2017-09-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-01-19T00:00:00.000Z",
+    "etapaProcesal": "LIQUIDACION",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["1860086996"],
+    "radicado": "2017 - 01140",
+    "vencimientoPagare": ["2017-07-01T00:00:00.000Z"],
+    "expediente": "11001400304120170114000",
+    "carpetaNumero": 283,
+    "despacho": null
+  }
+}

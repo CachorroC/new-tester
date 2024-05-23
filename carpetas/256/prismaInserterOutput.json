@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 256,
+    "numero": 256,
+    "llaveProceso": "11001400300720170141000",
+    "nombre": "freddy null arias martinez",
+    "idProcesos": [50726160],
+    "category": "Terminados"
+  }
+}

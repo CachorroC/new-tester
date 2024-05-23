@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "5/03/2023",
+    "obligacion": {
+      "A": 4517
+    },
+    "capitalAdeudado": "15.987.259.39",
+    "entregaGarantiasAbogado": "19/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SIBATE",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00284",
+    "llaveProceso": "25740418900120170028400",
+    "fechaPresentacion": "27/09/2017"
+  },
+  "demandas": [],
+  "numero": 14,
+  "llaveProceso": "25740418900120170028400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 5295780,
+      "celular": 3133743400
+    },
+    "primerNombre": "ELSA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "SOSA",
+    "segundoApellido": ["", "ROMERO"],
+    "cedula": 52441656,
+    "direccion": "TRANSVERSAL 6 B  No 12 A - 18   SIBATE",
+    "email": "elmisosro1@hotmail.com"
+  },
+  "cc": 52441656,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ELSA MILENA SOSA  ROMERO",
+  "notificacion": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 174,
+    "numero": 174,
+    "llaveProceso": "11001400302520170090300",
+    "nombre": "darnelly null hernandez martinez",
+    "idProcesos": [112048180],
+    "category": "Bancolombia"
+  }
+}

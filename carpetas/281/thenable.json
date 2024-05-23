@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25053408900120180004900",
+  "numero": 281,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1069712582,
+    "direccion": null,
+    "email": "CALLE 34 No 2 - 15 SOACHA",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yenny",
+    "segundoNombre": "margoth",
+    "primerApellido": "lara",
+    "segundoApellido": "muñoz"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25053408900120180004900",
+    "capitalAdeudado": null,
+    "etapaProcesal": "10-10-2017 // 13-03-2018",
+    "municipio": "ARBELAEZ",
+    "obligacion": ["112.243.598.43"],
+    "radicado": "2018 - 00049",
+    "vencimientoPagare": ["+021258-01-01T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1069712582,
+  "idProcesos": null
+}

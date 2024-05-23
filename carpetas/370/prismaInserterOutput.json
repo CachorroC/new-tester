@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 370,
+    "numero": 370,
+    "llaveProceso": "11001400302020170155600",
+    "nombre": "lilian andrea hernandez suarez",
+    "idProcesos": [50918350],
+    "category": "Terminados"
+  }
+}

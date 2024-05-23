@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 23,
+    "cedula": "11207272",
+    "primerNombre": "eder",
+    "primerApellido": "herrera",
+    "segundoNombre": "alexis",
+    "segundoApellido": "saenz",
+    "direccion": "manzana d cs 8 diamante girardot",
+    "email": "karendiaz@hotmail.com",
+    "telCelular": "3186899839",
+    "telFijo": null,
+    "carpetaNumero": 23
+  }
+}

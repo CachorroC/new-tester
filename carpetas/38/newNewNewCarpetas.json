@@ -1,0 +1,54 @@
+{
+  "id": 39808625,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "34328697321//377815467278467"],
+    "llaveProceso": "25785418900120170010200",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43119"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO CUENTAS* NEGARON EMBARGO INMUEBLE"
+    },
+    "capitalAdeudado": 16006640,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-06-06T05:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-06-15T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "TABIO",
+    "radicado": "2017 - 00102",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-03-19T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3142310966
+    },
+    "primerNombre": "LUZ",
+    "segundoNombre": "MIRYAM",
+    "primerApellido": "GUTÍERREZ",
+    "segundoApellido": "MARTÍNEZ",
+    "cedula": 39808625,
+    "direccion": "CALLE 2 No. 1-24 CASA 2 TABIO",
+    "email": "hjg296@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25785418900120170010200",
+  "nombre": "LUZ MIRYAM GUTÍERREZ MARTÍNEZ",
+  "numero": 38,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:50.824Z"
+}

@@ -1,0 +1,108 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": {
+    "nombre": "EDGAR EFREN PARRA",
+    "cedula": "79481751",
+    "direccion": null,
+    "telefono": null,
+    "id": 127,
+    "carpetaNumero": 127
+  },
+  "demanda": {
+    "llaveProceso": "SinEspecificar",
+    "vencimientoPagare": "26/05/2021 // 26/07/2017",
+    "obligacion": {
+      "A": 6670083892,
+      "B": 12074022
+    },
+    "capitalAdeudado": "$ 51.302.541",
+    "entregaGarantiasAbogado": "1/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00735",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "27/10/2017",
+    "mandamientoPago": "3/11/2017",
+    "notificacion": {
+      "292": {
+        "resultado": 43042
+      },
+      "tipo": "VEHICULO INMUEBLE",
+      "autoNotificado": "2438                  2439"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "15/11/2017",
+      "medidaSolicitada": "VEHICULO INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 127,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "VEHICULO INMUEBLE"
+      },
+      "vencimientoPagare": [
+        "2021-01-01T05:00:00.000Z",
+        "2017-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-01-08T05:00:00.000Z",
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": "2017-03-11T05:00:00.000Z",
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-10-27T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [6670083892, 12074022],
+      "radicado": "2017 - 00735"
+    }
+  ],
+  "numero": 127,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3614483,
+      "celular": 3124498840
+    },
+    "primerNombre": "ZOILA",
+    "segundoNombre": "IRENE",
+    "primerApellido": "SUAVITA",
+    "segundoApellido": ["DE", "TRILLERAS"],
+    "cedula": 41610065,
+    "direccion": "CARRERA 23 # 20 - 40 SUR",
+    "email": "albertotrilleras@hotmail.com"
+  },
+  "cc": 41610065,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "ZOILA IRENE SUAVITA DE TRILLERAS",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "2438                  2439"
+  }
+}

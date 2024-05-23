@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 251,
+    "numero": 251,
+    "llaveProceso": "11001400301320170116200",
+    "nombre": "carlos javier becerra benavides",
+    "idProcesos": [50685530],
+    "category": "Terminados"
+  }
+}

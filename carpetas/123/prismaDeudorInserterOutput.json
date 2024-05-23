@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 121,
+    "cedula": "79547983",
+    "primerNombre": "gustavo",
+    "primerApellido": "mosquera",
+    "segundoNombre": "santamaria",
+    "segundoApellido": null,
+    "direccion": null,
+    "email": "DIAGONAL 146 # 136A - 79 IN 3 AP 3",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 123
+  }
+}

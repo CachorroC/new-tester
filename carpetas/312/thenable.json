@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001418904320170114000",
+  "numero": 312,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80394456,
+    "direccion": "carrera 87 d no 42 a 20 sur interior 6",
+    "email": "pedrosebastin394@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "pedro",
+    "segundoNombre": "pablo",
+    "primerApellido": "sarmiento",
+    "segundoApellido": "mayorga"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-21T00:00:00.000Z",
+    "mandamientoPago": "2017-11-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-26T00:00:00.000Z",
+    "expediente": "11001418904320170114000",
+    "capitalAdeudado": 1066832759,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [82317],
+    "radicado": "2017 - 01140",
+    "vencimientoPagare": ["2017-06-08T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 28949691,
+    "direccion": "CARRERA 87 D No 42 A-20 SUR IN 6 C",
+    "nombre": "yolanda rativa mesa",
+    "telefono": 3202780646
+  },
+  "cc": 80394456,
+  "idProcesos": null
+}

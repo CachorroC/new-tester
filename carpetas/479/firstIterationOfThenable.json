@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 4594250000000000,
+      "B": 5303720000000000
+    },
+    "capitalAdeudado": "12.821.536.32",
+    "entregaGarantiasAbogado": "23/08/*2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "TABIO",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00171",
+    "llaveProceso": "25785418900120180017100",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "6/09/2018",
+    "mandamientoPago": "22/10/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "13/11/2018",
+        "resultado": "FALLA"
+      },
+      "certimail": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "22/10/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 479,
+  "llaveProceso": "25785418900120180017100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "TANIA",
+    "segundoNombre": "CONSUELO",
+    "primerApellido": "BOTIA",
+    "segundoApellido": "CORREA",
+    "cedula": 39809183,
+    "direccion": "CALLE 8 No 0-105  TABIO",
+    "email": "tani_botia@hotmail.com"
+  },
+  "cc": 39809183,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "TANIA CONSUELO BOTIA CORREA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-11-13T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

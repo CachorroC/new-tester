@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303820170095700",
+  "numero": 245,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79893549,
+    "direccion": "calle 76 c sur 1h 27",
+    "email": "jaorgodi@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "javier",
+    "segundoNombre": "orlando",
+    "primerApellido": "gomez",
+    "segundoApellido": "diaz"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "11001400303820170095700",
+    "capitalAdeudado": 3543272158,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [103058],
+    "radicado": "2017 - 00957",
+    "vencimientoPagare": ["2022-11-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1061675,
+    "direccion": "TRANSVERSAL 40 No 14-93 TORRE 1 APTO 301 SOACHA",
+    "nombre": "luis alonso gomez dias",
+    "telefono": 41777788
+  },
+  "cc": 79893549,
+  "idProcesos": null
+}

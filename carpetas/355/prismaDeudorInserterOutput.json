@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 352,
+    "cedula": "80800763",
+    "primerNombre": "nelson",
+    "primerApellido": "segura",
+    "segundoNombre": "ivan",
+    "segundoApellido": "mendez",
+    "direccion": "carrera 98 a no 15 a -70 interior 18 apartamento 6",
+    "email": "nelsonivansegura@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 355
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 541,
+    "cedula": "80220698",
+    "primerNombre": "jose",
+    "primerApellido": "laverde",
+    "segundoNombre": "alexander",
+    "segundoApellido": "penagos",
+    "direccion": "carrera 7 # 180 75 // carrera 8 a no. 182 - 12",
+    "email": "lxndrlaverde@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 553
+  }
+}

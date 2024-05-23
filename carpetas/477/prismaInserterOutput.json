@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 477,
+    "numero": 477,
+    "llaveProceso": "11001400300420180047500",
+    "nombre": "adolfo  leon daza,fernandez",
+    "idProcesos": [51149410],
+    "category": "Reintegra"
+  }
+}

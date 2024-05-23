@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 366,
+    "cedula": "900336193",
+    "primerNombre": "inversion",
+    "primerApellido": "s.a.s.",
+    "segundoNombre": "rivoli",
+    "segundoApellido": null,
+    "direccion": "carrera 24 g no20-35 sur",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 369
+  }
+}

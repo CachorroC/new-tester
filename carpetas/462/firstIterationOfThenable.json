@@ -1,0 +1,83 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "4/07/2043",
+    "obligacion": {
+      "A": 20990165644
+    },
+    "capitalAdeudado": "$ 21.997.013",
+    "entregaGarantiasAbogado": "6/07/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00700",
+    "llaveProceso": "25754418900120180070000",
+    "etapaProcesal": "25754418900120180070000",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "12/07/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO",
+        "resultado": "28/02/2019"
+      },
+      "292": {
+        "fechaRecibido": "28/02/2019",
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "1/08/2018",
+      "fisico": "SI",
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "14/11/2018",
+      "medidaSolicitada": "9/08/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 462,
+  "llaveProceso": "25754418900120180070000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 7279254,
+      "celular": 3114915425
+    },
+    "primerNombre": "YAMID",
+    "segundoNombre": "GELVES",
+    "primerApellido": "CACERES",
+    "segundoApellido": null,
+    "cedula": 80755973,
+    "direccion": "CARRERA 87 No 69-165",
+    "email": "yamid11@hotmail.es"
+  },
+  "cc": 80755973,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "YAMID GELVES CACERES",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2019-02-28T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "CERTIMAIL"
+  }
+}

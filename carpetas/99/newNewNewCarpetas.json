@@ -1,0 +1,50 @@
+{
+  "id": 79996551,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["5306934855078754", "12378896"],
+    "llaveProceso": "1100141037512017111000",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "VEHICULO"
+    },
+    "capitalAdeudado": 16215928,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-08-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "KENNEDY",
+    "radicado": "2017 - 01110",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "YONI",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "RESTREPO",
+    "segundoApellido": "PEÑUELA",
+    "cedula": 79996551,
+    "direccion": "TRANSVERSAL 78A # 71A - 71 SUR",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "1100141037512017111000",
+  "nombre": "YONI ALEXANDER RESTREPO PEÑUELA",
+  "numero": 99,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:15.618Z"
+}

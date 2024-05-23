@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 467,
+    "numero": 467,
+    "llaveProceso": "11001400301720180083200",
+    "nombre": "manuel santiago correal zuñiga",
+    "idProcesos": [51345660],
+    "category": "Terminados"
+  }
+}

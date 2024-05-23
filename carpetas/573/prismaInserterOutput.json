@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 572,
+    "numero": 573,
+    "llaveProceso": "11001400305520230074600",
+    "nombre": "sandra patricia galvis almanza",
+    "idProcesos": [1829856154],
+    "category": "Bancolombia"
+  }
+}

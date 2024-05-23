@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400300120170130900",
+  "numero": 348,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 41688661,
+    "direccion": "carrera 8 no 190 - 22 hoy carrera 31 no. 190-04",
+    "email": "anabeatrizcorredor@yahoo.es",
+    "tel": {
+      "fijo": 5101587,
+      "celular": 3106630177
+    },
+    "primerNombre": "ana",
+    "segundoNombre": "beatriz",
+    "primerApellido": "corredor",
+    "segundoApellido": "rivera"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-06T00:00:00.000Z",
+    "mandamientoPago": "2017-10-10T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-28T00:00:00.000Z",
+    "expediente": "11001400300120170130900",
+    "capitalAdeudado": 76735593,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [6260082762, 377813367146983],
+    "radicado": "2017 - 01309",
+    "vencimientoPagare": [
+      "2021-02-12T05:00:00.000Z",
+      "2020-03-09T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 41688661,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 187,
+    "numero": 187,
+    "llaveProceso": "25290400300220170055200",
+    "nombre": "yazmin null alvarado pinzon",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

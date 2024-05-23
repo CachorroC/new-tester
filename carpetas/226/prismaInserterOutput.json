@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 226,
+    "numero": 226,
+    "llaveProceso": "11001400305520170094300",
+    "nombre": "nestor german urrego aguilera",
+    "idProcesos": [17050494],
+    "category": "Terminados"
+  }
+}

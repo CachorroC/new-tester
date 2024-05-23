@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 15,
+    "cedula": "1098678636",
+    "primerNombre": "silvia",
+    "primerApellido": "sierra",
+    "segundoNombre": "susana",
+    "segundoApellido": "castañeda",
+    "direccion": "carrera 78 f 50 interior 2 ap/ ca 101",
+    "email": null,
+    "telCelular": "3155112901",
+    "telFijo": null,
+    "carpetaNumero": 15
+  }
+}

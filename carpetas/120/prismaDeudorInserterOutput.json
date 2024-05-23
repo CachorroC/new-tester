@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 119,
+    "cedula": "900212673",
+    "primerNombre": "jencell",
+    "primerApellido": "e.u.",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "carrera 3 # 29a - 02",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 120
+  }
+}

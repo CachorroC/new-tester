@@ -1,0 +1,68 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "2741459/  3125766946",
+    "cedula": "BIBIANA ANGELICA NUÑEZ RIVERA",
+    "direccion": "20/05/2025",
+    "telefono": "TRANSVERSAL 18C No 9C-11 SUR MANZANA 5",
+    "id": 490,
+    "carpetaNumero": 490
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "B": "17.506.316.71"
+    },
+    "capitalAdeudado": "13/09/2018",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00988",
+    "llaveProceso": "25754418900120180098800",
+    "etapaProcesal": "20/09/2018",
+    "fechaPresentacion": "02/11/2018",
+    "mandamientoPago": "CERTIMAIL",
+    "notificacion": {
+      "fisico": "13/11/2018",
+      "autoNotificado": "02/11/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "INMUEBLE",
+      "medidaSolicitada": "1906"
+    }
+  },
+  "demandas": [],
+  "numero": 490,
+  "llaveProceso": "25754418900120180098800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIEGO",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "MATEUS",
+    "segundoApellido": "ESPITIA",
+    "cedula": 80052004,
+    "direccion": "396776067",
+    "email": "TRANSVERSAL 18 C- No 9C-11 SUR MANZANA 5 CASA 134"
+  },
+  "cc": 80052004,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "DIEGO ARMANDO MATEUS ESPITIA",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": false,
+    "autoNotificado": "02/11/2018"
+  }
+}

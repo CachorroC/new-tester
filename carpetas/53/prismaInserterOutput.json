@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 53,
+    "numero": 53,
+    "llaveProceso": "11001400308520170097500",
+    "nombre": "diana marcela sanchez lozano",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

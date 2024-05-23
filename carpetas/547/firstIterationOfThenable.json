@@ -1,0 +1,39 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2021 - 00153",
+    "llaveProceso": "25754400300120210015300"
+  },
+  "demandas": [],
+  "numero": 547,
+  "llaveProceso": "25754400300120210015300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "EDGAR",
+    "primerApellido": "ACHURI",
+    "segundoApellido": "GONZALEZ",
+    "cedula": 348774,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 348774,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JOSE EDGAR ACHURI GONZALEZ",
+  "notificacion": null
+}

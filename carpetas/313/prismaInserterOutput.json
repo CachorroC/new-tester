@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 313,
+    "numero": 313,
+    "llaveProceso": "11001400307820170104900",
+    "nombre": "mauricio null perez plazas",
+    "idProcesos": [51463110],
+    "category": "Terminados"
+  }
+}

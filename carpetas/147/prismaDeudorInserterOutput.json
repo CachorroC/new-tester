@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 145,
+    "cedula": "80080669",
+    "primerNombre": "milton",
+    "primerApellido": "laiton",
+    "segundoNombre": "andres",
+    "segundoApellido": "rincon",
+    "direccion": "calle 75 # 89b - 09 apto 104 torre 8",
+    "email": "andreslaiton@hotmail.com",
+    "telCelular": "3133912606",
+    "telFijo": "6320923",
+    "carpetaNumero": 147
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 80814800,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["179301"],
+    "llaveProceso": "25175400300120170051100",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 5121749686,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-26T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "CHIA",
+    "radicado": "2017 - 00511",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2029-12-05T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "WHITMAN",
+    "segundoNombre": "JEFERSON",
+    "primerApellido": "NAJAR",
+    "segundoApellido": "RAMIREZ",
+    "cedula": 80814800,
+    "direccion": "CARRERA  9 No 19 - 59 CHIA",
+    "email": "whitman.najarramirez@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25175400300120170051100",
+  "nombre": "WHITMAN JEFERSON NAJAR RAMIREZ",
+  "numero": 29,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:48.129Z"
+}

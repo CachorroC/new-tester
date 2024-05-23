@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 248,
+    "numero": 248,
+    "llaveProceso": "11001400305920170087100",
+    "nombre": "henry null carranza alba",
+    "idProcesos": [50715970],
+    "category": "Terminados"
+  }
+}

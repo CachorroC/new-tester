@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 76,
+    "numero": 76,
+    "llaveProceso": "25183400300120170011900",
+    "nombre": "estela null marin garzón",
+    "idProcesos": [86212271],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 284,
+    "cedula": "79861754",
+    "primerNombre": "carlos",
+    "primerApellido": "ruge",
+    "segundoNombre": "german",
+    "segundoApellido": "castañeda",
+    "direccion": "calle 72 a no  74 a - 77",
+    "email": "carlosgrugec@hotmail.com",
+    "telCelular": "3104865508",
+    "telFijo": "6087374",
+    "carpetaNumero": 287
+  }
+}

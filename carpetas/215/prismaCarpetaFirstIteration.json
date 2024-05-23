@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2018-03-08T05:00:00.000Z",
+  "idProcesos": [50776700, 81589821],
+  "idRegUltimaAct": 602065020,
+  "llaveProceso": "11001400300820170127300",
+  "nombre": "LUZ DARY HURTADO RIOS",
+  "numero": 215,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:54.166Z"
+}

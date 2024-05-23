@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 50,
+    "cedula": "52444244",
+    "primerNombre": "gloria",
+    "primerApellido": "rodríguez",
+    "segundoNombre": "astrid",
+    "segundoApellido": "baquero",
+    "direccion": "carrera 54 c no. 143 s-90",
+    "email": "gloriaaz@yahoo.com",
+    "telCelular": "3212062887",
+    "telFijo": null,
+    "carpetaNumero": 50
+  }
+}

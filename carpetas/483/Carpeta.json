@@ -1,0 +1,97 @@
+{
+  "id": 19459237,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 483
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "14134623",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-13T05:00:00.000Z"],
+    "id": 483,
+    "llaveProceso": "11001418903220180137000",
+    "mandamientoPago": [],
+    "municipio": "BARRIOS UNIDOS ",
+    "notificacion": {
+      "id": 483,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["5860083295"],
+    "radicado": "2018 - 01370",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2022-09-21T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 483,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.337Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 483,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "WILSON",
+    "segundoNombre": "RICARDO",
+    "primerApellido": "ESCOBAR",
+    "segundoApellido": "ESCOBAR",
+    "cedula": "19459237",
+    "direccion": "CALLE 71 A No 69A-11 APTO  301",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418903220180137000",
+  "nombre": "wilson ricardo escobar escobar",
+  "numero": 483,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 483,
+      "createdAt": "2024-02-10T00:55:02.337Z",
+      "pathname": null,
+      "dueDate": "2021-06-24T05:00:00.000Z",
+      "text": "EL 24/05/2021 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 483,
+      "createdAt": "2024-02-10T00:55:02.337Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " DESGLOSE DE GARANTIAS Y LEVANTAMIENTO DE MEDIDA CAUTELAR A CARGO Y EN FAVOR DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.337Z"
+}

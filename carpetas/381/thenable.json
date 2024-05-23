@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304120180007500",
+  "numero": 381,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1032396480,
+    "direccion": "carrera 81 b no 66 - 51 casa 139 terraza de castilla // trv 70 g # 63 - 52 sur apto 604 bl 5",
+    "email": "nimary20@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3203430311
+    },
+    "primerNombre": "nielcen",
+    "segundoNombre": "marisol",
+    "primerApellido": "marin",
+    "segundoApellido": "melo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400304120180007500",
+    "capitalAdeudado": 2487827625,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [155586],
+    "radicado": "2018 - 00075",
+    "vencimientoPagare": ["2027-09-06T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1032396480,
+  "idProcesos": null
+}

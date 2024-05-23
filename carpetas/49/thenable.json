@@ -1,0 +1,41 @@
+{
+  "llaveProceso": "11001400305120170064400",
+  "numero": 49,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79532034,
+    "direccion": "carrera 77  l no. 57-h39 sur//carrera 11b no. 12-68 sur bogota//  transversal 31 no. 28-31 apto 103 bloque 7",
+    "email": "ramirosilva80@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3165275725
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "israel",
+    "primerApellido": "monroy",
+    "segundoApellido": "cordoba"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400305120170064400",
+    "capitalAdeudado": 3503124439,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": ["320 149552"],
+    "radicado": "2017 - 00644",
+    "vencimientoPagare": ["2027-03-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52507659,
+    "direccion": "CARRERA 77 No. 57-H39 SUR//CARRERA 11B No. 12-68 SUR BOGOTA//TRANSVERSAL 31 No. 28-31 Apto 103 bloque 7",
+    "nombre": "ana patricia villamizar montoya"
+  },
+  "cc": 79532034,
+  "idProcesos": null
+}

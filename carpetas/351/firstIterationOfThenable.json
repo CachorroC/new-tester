@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "24/02/2024",
+    "obligacion": {
+      "A": 116080,
+      "B": 116080
+    },
+    "capitalAdeudado": "16.487.437.90",
+    "entregaGarantiasAbogado": "22/11/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00024",
+    "llaveProceso": "1100141037520180002400",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "27/11/2017"
+  },
+  "demandas": [
+    {
+      "idProceso": 351,
+      "idConexion": null,
+      "llaveProceso": "1100141037520180002400",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2024-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 1648743790,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "ADMISION",
+      "fechaPresentacion": ["2017-11-27T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [116080],
+      "radicado": "2018 - 00024"
+    }
+  ],
+  "numero": 351,
+  "llaveProceso": "1100141037520180002400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 7612712,
+      "celular": 3134704885
+    },
+    "primerNombre": "CRISTIAN",
+    "segundoNombre": "JOSUE",
+    "primerApellido": "CARDENAS",
+    "segundoApellido": "NORIEGA",
+    "cedula": 80800256,
+    "direccion": "CALLE 73 B  SUR No 1A - 06",
+    "email": "sariguella35@hotmail.com"
+  },
+  "cc": 80800256,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "CRISTIAN JOSUE CARDENAS NORIEGA",
+  "notificacion": null
+}

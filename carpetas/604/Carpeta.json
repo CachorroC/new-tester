@@ -1,0 +1,105 @@
+{
+  "id": 3010366,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 604
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "25852498",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-23T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 604,
+    "llaveProceso": null,
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 604,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2210097142"],
+    "radicado": null,
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-07-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 604,
+      "fechaOrdenaMedida": "2024-02-10T00:55:10.854Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 604,
+    "telCelular": "3197613676",
+    "telFijo": null,
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "MONCADA",
+    "segundoApellido": "MORALES",
+    "cedula": "3010366",
+    "direccion": "Carrera 3 B NO. 24 A 57 Barrio Camilo Torres Sector 2 de la ciudad de Soacha (Cundinamrca)",
+    "email": "carlosalbertomoncada63@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "carlos alberto moncada morales",
+  "numero": 604,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 604,
+      "createdAt": "2024-02-10T00:55:10.854Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "24 NOV 2023 SE RADICA DEMANDA",
+      "content": []
+    },
+    {
+      "carpetaNumero": 604,
+      "createdAt": "2024-02-10T00:55:10.854Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 24 ENERO AUTO INADMITE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 604,
+      "createdAt": "2024-02-10T00:55:10.854Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 31 ENERO SUBSANA DEMANDA SE ENVIA REFORMA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:10.854Z"
+}

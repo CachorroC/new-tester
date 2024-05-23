@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400300320170106500",
+  "numero": 82,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 13921619,
+    "direccion": "calle 89 # 95g- 26",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "rafael",
+    "primerApellido": "gonzalez",
+    "segundoApellido": "olejua",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400300320170106500",
+    "capitalAdeudado": 39576493,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [1980094471],
+    "radicado": "2017 - 01065",
+    "vencimientoPagare": ["2018-08-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 28239573,
+    "direccion": "CALLE 89 # 95G - 26",
+    "nombre": "ana libia garcia florez",
+    "telefono": 2284139
+  },
+  "cc": 13921619,
+  "idProcesos": null
+}

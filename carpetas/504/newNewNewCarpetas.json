@@ -1,0 +1,53 @@
+{
+  "id": 52432037,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/08/2022",
+    "telefono": null,
+    "id": 504
+  },
+  "demanda": {
+    "obligacion": ["26.315.289.23"],
+    "llaveProceso": "25740410300120180037000",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "29/10/2018",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "SIBATE",
+    "radicado": "2018 - 00370",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ANA",
+    "segundoNombre": "DEL",
+    "primerApellido": "PILAR",
+    "segundoApellido": "MENDEZ",
+    "cedula": 52432037,
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25740410300120180037000",
+  "nombre": "ANA DEL PILAR MENDEZ AMAYA",
+  "numero": 504,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:33.007Z"
+}

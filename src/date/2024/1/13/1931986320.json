@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:16.579Z",
+  "savedDate": 1558414800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1931986320,
+    "llaveProceso": "11001400301120180018100",
+    "consActuacion": 63,
+    "fechaActuacion": "2021-08-13T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "RTA SECRETARIA DE MOVILIDAD",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2021-12-01T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 63,
+    "isUltimaAct": true,
+    "idProceso": 51020000
+  }
+}

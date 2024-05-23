@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 414,
+    "numero": 414,
+    "llaveProceso": "11001400304420180056600",
+    "nombre": "elda null yanet cortes",
+    "idProcesos": [65703460],
+    "category": "Terminados"
+  }
+}

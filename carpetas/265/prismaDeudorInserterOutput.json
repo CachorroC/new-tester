@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 262,
+    "cedula": "7601476",
+    "primerNombre": "julio",
+    "primerApellido": "sanchez",
+    "segundoNombre": "rene",
+    "segundoApellido": "argote",
+    "direccion": "carrera 90 c no 6a - 31   - casa 148",
+    "email": "jsanchezargote@gmail.com",
+    "telCelular": "3118027001",
+    "telFijo": "3018759",
+    "carpetaNumero": 265
+  }
+}

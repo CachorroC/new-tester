@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:24.562Z",
+  "proceso": {
+    "idProceso": 132581550,
+    "idConexion": 259,
+    "llaveProceso": "11001400300520230084300",
+    "fechaProceso": "2023-08-22T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-11-30T05:00:00.000Z",
+    "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA | Demandado: JUAN CAMILO VELASQUEZ PEREIRA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 5,
+      "tipo": "JUZGADO 005 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-05-civil-municipal-de-bogota"
+    }
+  }
+}

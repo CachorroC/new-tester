@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 259,
+    "cedula": "1069737167",
+    "primerNombre": "rafael",
+    "primerApellido": "moreno",
+    "segundoNombre": "andres",
+    "segundoApellido": "zamora",
+    "direccion": "diagonal 1c no 25b -18  fusagasuga",
+    "email": "rafael_moreno.z@hotmail.com",
+    "telCelular": "3103247146",
+    "telFijo": null,
+    "carpetaNumero": 262
+  }
+}

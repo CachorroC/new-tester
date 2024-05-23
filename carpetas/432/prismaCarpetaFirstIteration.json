@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-03T05:00:00.000Z",
+  "idProcesos": [51914550, 81863401],
+  "idRegUltimaAct": 952412530,
+  "llaveProceso": "11001400308120180058300",
+  "nombre": "LILIA YANIRA DIAZ CARO",
+  "numero": 432,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:27.791Z"
+}

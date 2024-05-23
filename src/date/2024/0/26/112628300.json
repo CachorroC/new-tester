@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:40.724Z",
+  "proceso": {
+    "idProceso": 112628300,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820200102100",
+    "fechaProceso": "2020-10-09T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-17T05:00:00.000Z",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: DIMOIN COLOMBIA SAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 68,
+      "tipo": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-068-civil-municipal-de-bogota"
+    }
+  }
+}

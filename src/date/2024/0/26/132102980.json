@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:26.090Z",
+  "proceso": {
+    "idProceso": 132102980,
+    "idConexion": 259,
+    "llaveProceso": "11001418901820230131100",
+    "fechaProceso": "2023-08-04T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-10-09T05:00:00.000Z",
+    "despacho": "JUZGADO 018 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA ALVAREZ RODRIGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 18,
+      "tipo": "JUZGADO 018 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-018-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

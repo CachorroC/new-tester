@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25322418900120170016800",
+  "numero": 5,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 20645940,
+    "direccion": "carrera 9 no. 2-03 guasca",
+    "email": "patoavella8210@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3217662673
+    },
+    "primerNombre": "fany",
+    "segundoNombre": "patricia",
+    "primerApellido": "avellaneda",
+    "segundoApellido": "tovar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-05T00:00:00.000Z",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "25322418900120170016800",
+    "capitalAdeudado": 25184150,
+    "etapaProcesal": null,
+    "municipio": "GUASCA",
+    "obligacion": ["2273 320172490"],
+    "radicado": "2017 - 00168",
+    "vencimientoPagare": ["1934-02-14T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 20645940,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 255,
+    "numero": 255,
+    "llaveProceso": "11001400301220170102100",
+    "nombre": "yeimi zoraida perez acevedo",
+    "idProcesos": [50692560, 73154161],
+    "category": "Terminados"
+  }
+}

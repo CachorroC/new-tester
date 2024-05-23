@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 552,
+    "cedula": "79399032",
+    "primerNombre": "jorge",
+    "primerApellido": "abadia",
+    "segundoNombre": "alex",
+    "segundoApellido": "carrillo",
+    "direccion": "transversal 77 n 7a -16 int 9 // carrera 69 no. 31 - 68",
+    "email": "abadiajorgesa@gmail.com",
+    "telCelular": "3125642401",
+    "telFijo": null,
+    "carpetaNumero": 564
+  }
+}

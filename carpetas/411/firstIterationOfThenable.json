@@ -1,0 +1,52 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "24/06/2034",
+    "obligacion": {
+      "A": 20990175542
+    },
+    "capitalAdeudado": "21.817.515",
+    "entregaGarantiasAbogado": "16/04/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018-0365",
+    "llaveProceso": "25754418900220180036500",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "26/04/2018",
+    "mandamientoPago": "18/05/2018",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "18/05/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 411,
+  "llaveProceso": "25754418900220180036500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "NATALI",
+    "segundoNombre": "VASQUEZ",
+    "primerApellido": "RUBIO",
+    "segundoApellido": null,
+    "cedula": 1032362698,
+    "direccion": "DIAGONAL 24 No 42-95 - HORTENSIA",
+    "email": "natis2596@hotmail.com"
+  },
+  "cc": 1032362698,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "NATALI VASQUEZ RUBIO",
+  "notificacion": null
+}

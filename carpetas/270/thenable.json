@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001408903420170113900",
+  "numero": 270,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1018423770,
+    "direccion": "calle 37 b no 68 i - 23 sur",
+    "email": "andresxaw@gmail.com",
+    "tel": {
+      "fijo": 4566333,
+      "celular": 3107727822
+    },
+    "primerNombre": "wilmer",
+    "segundoNombre": "andres",
+    "primerApellido": "quiñones",
+    "segundoApellido": "hernandez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-10T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001408903420170113900",
+    "capitalAdeudado": 1592142312,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [12327160],
+    "radicado": "2017 - 01139",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1018423770,
+  "idProcesos": null
+}

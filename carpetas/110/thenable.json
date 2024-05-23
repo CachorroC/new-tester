@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304520170077400",
+  "numero": 110,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 46677093,
+    "direccion": "calle 33 sur no. 82 b-06",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "marlene",
+    "primerApellido": "roncancio",
+    "segundoApellido": "benitez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-20T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400304520170077400",
+    "capitalAdeudado": 25119879,
+    "etapaProcesal": "1.100140030452017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [430103643],
+    "radicado": "2017 - 00774",
+    "vencimientoPagare": ["2019-07-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "1055962390//80072429",
+    "direccion": "DIAGONAL 34 No. 82 B-06 (1) DIAGONAL 34 A No.81 F-13 (2)",
+    "nombre": "jorge albeiro roncancio benitez y victor manuel perilla castañeda",
+    "telefono": "3142888137(1) 3107509193 (2)"
+  },
+  "cc": 46677093,
+  "idProcesos": null
+}

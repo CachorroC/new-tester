@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 530,
+    "cedula": "53106069",
+    "primerNombre": "bibiana",
+    "primerApellido": "esguerra",
+    "segundoNombre": "patricia",
+    "segundoApellido": "vasquez",
+    "direccion": "calle 65 bis no 86-50",
+    "email": "bicato10@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 542
+  }
+}

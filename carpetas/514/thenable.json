@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301720190017900",
+  "numero": 514,
+  "tipoProceso": "SINGULAR",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 19496623,
+    "direccion": "carrera 68 no 100-51 apto 405",
+    "email": "terranova54@latinmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "manuel",
+    "segundoNombre": "alberto",
+    "primerApellido": "leon",
+    "segundoApellido": "calderon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2019-01-02T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400301720190017900",
+    "capitalAdeudado": 46118717,
+    "etapaProcesal": "1,10E+38",
+    "municipio": "BOGOTA",
+    "obligacion": [7910080591, 4099830244266410],
+    "radicado": "2019 - 00179",
+    "vencimientoPagare": ["2022-10-03T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19496623,
+  "idProcesos": null
+}

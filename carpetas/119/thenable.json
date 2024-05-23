@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301420170098800",
+  "numero": 119,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79693495,
+    "direccion": "diagonal 2a suer # 78l - 81 apto 501b",
+    "email": "carolcecesar@gmail.com",
+    "tel": {
+      "fijo": 4610722,
+      "celular": 3103789233
+    },
+    "primerNombre": "cesar",
+    "segundoNombre": "augusto",
+    "primerApellido": "gil",
+    "segundoApellido": "gallego"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-11T00:00:00.000Z",
+    "mandamientoPago": "2017-09-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-04T00:00:00.000Z",
+    "expediente": "11001400301420170098800",
+    "capitalAdeudado": 20987589,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [450087082],
+    "radicado": "2017 - 00988",
+    "vencimientoPagare": ["2019-05-13T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79693495,
+  "idProcesos": null
+}

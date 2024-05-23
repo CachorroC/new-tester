@@ -1,0 +1,53 @@
+{
+  "id": 79906707,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "RUBY AMINTA BARRERO CUECA",
+    "cedula": "39678085",
+    "direccion": "CARRERA 68 A  No 31  A- 06 SUR",
+    "telefono": "2705042",
+    "id": 302
+  },
+  "demanda": {
+    "obligacion": ["159541"],
+    "llaveProceso": "25286310300120170100300",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 15323634648,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-10T05:00:00.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-10-19T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "FUNZA",
+    "radicado": "2017 - 01003",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2032-12-24T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8272125,
+      "celular": 3005821212
+    },
+    "primerNombre": "EDGAR",
+    "segundoNombre": "GODOY",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": null,
+    "cedula": 79906707,
+    "direccion": "CARRER 5  No 2-35  MANZANA 21 CASA 208- MOSQUERA",
+    "email": "s3curityinformation@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25286310300120170100300",
+  "nombre": "EDGAR GODOY LOPEZ",
+  "numero": 302,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:27.659Z"
+}

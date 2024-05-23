@@ -1,0 +1,97 @@
+{
+  "id": 30387764,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 440
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "23",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.249Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.251Z"],
+    "id": 440,
+    "llaveProceso": "11001408900820180022300",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 440,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["1330085524"],
+    "radicado": "2018 - 00223",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 440,
+      "fechaOrdenaMedida": "2024-02-10T00:54:59.429Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 440,
+    "telCelular": "3107996508",
+    "telFijo": null,
+    "primerNombre": "BLANCA",
+    "segundoNombre": "ESTHER",
+    "primerApellido": "QUIROGA",
+    "segundoApellido": "GIRALDO",
+    "cedula": "30387764",
+    "direccion": "CARRERA 13 No 13-24 OFICINA 625",
+    "email": "quirogag8878@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001408900820180022300",
+  "nombre": "blanca esther quiroga giraldo",
+  "numero": 440,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 440,
+      "createdAt": "2024-02-10T00:54:59.429Z",
+      "pathname": null,
+      "dueDate": "2020-07-09T05:00:00.000Z",
+      "text": "EL 9/06/2020 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 440,
+      "createdAt": "2024-02-10T00:54:59.429Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " GARANTIAS Y LEVANTAMIENTO DE MEDIDAS CAUTEARES EN FAVOR Y A CARGO DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:59.430Z"
+}

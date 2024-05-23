@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 2,
+    "cedula": "1026259010",
+    "primerNombre": "edwin",
+    "primerApellido": "cuervo",
+    "segundoNombre": "andres",
+    "segundoApellido": "verdugo",
+    "direccion": "diagonal 77 b no 119 a-73  interior 1 apartamento 602",
+    "email": "edwin06cuervo@hotmail.com",
+    "telCelular": "3142064177",
+    "telFijo": "3935996",
+    "carpetaNumero": 2
+  }
+}

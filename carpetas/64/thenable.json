@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302920170055700",
+  "numero": 64,
+  "tipoProceso": "PRENDARIO",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 79891952,
+    "direccion": "carrera 13 a no. 150-25 int 3 apto 203",
+    "email": "rafael.cadena@signsas.com",
+    "tel": {
+      "fijo": 3157900,
+      "celular": 3157900006
+    },
+    "primerNombre": "rafael",
+    "segundoNombre": "ernesto",
+    "primerApellido": "cadena",
+    "segundoApellido": "parga"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400302920170055700",
+    "capitalAdeudado": 32926699,
+    "etapaProcesal": "1.100140030292017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [125348220],
+    "radicado": "2017 - 00557",
+    "vencimientoPagare": ["2017-10-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79891952,
+  "idProcesos": null
+}

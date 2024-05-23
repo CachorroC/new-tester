@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 508,
+    "cedula": "92554673",
+    "primerNombre": "rafael",
+    "primerApellido": "paez",
+    "segundoNombre": "adolfo",
+    "segundoApellido": "ortega",
+    "direccion": "carrera 123 no 130c- 56  torre 52 apto 201",
+    "email": "farapaeos@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 520
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-03-07T05:00:00.000Z",
+  "idProcesos": [50506330],
+  "idRegUltimaAct": 763999530,
+  "llaveProceso": "11001400303420170080900",
+  "nombre": "JOSÉ ENRIQUE RIAÑO HENRIQUEZ",
+  "numero": 40,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:26.610Z"
+}

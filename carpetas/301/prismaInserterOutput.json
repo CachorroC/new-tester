@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 301,
+    "numero": 301,
+    "llaveProceso": "25322418900120180002200",
+    "nombre": "blanca yolanda acosta rodriguez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

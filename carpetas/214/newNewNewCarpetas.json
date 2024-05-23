@@ -1,0 +1,47 @@
+{
+  "id": 52702559,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["147381"],
+    "llaveProceso": "25754418900222017008670",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 27490437,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-09-04T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00867",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2017-06-28T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7290666,
+      "celular": 3204297147
+    },
+    "primerNombre": "YENNY",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "MAHECHA",
+    "cedula": 52702559,
+    "direccion": "CALLE 6D # 5 - 60 MANZANA C CASA 17",
+    "email": "jennyprm@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900222017008670",
+  "nombre": "YENNY PATRICIA RUBIO MAHECHA",
+  "numero": 214,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:55.463Z"
+}

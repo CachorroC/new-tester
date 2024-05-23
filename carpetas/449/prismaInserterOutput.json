@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 449,
+    "numero": 449,
+    "llaveProceso": "11001400301720180070500",
+    "nombre": "tulio ernesto tellez rojas",
+    "idProcesos": [51275960],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 427,
+    "cedula": "52757086",
+    "primerNombre": "lilia",
+    "primerApellido": "diaz",
+    "segundoNombre": "yanira",
+    "segundoApellido": "caro",
+    "direccion": "carrera 5 n bis no 49-31 sur",
+    "email": "yannisf25@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 432
+  }
+}

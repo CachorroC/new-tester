@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 100,
+    "cedula": "57452535",
+    "primerNombre": "leila",
+    "primerApellido": "martinez",
+    "segundoNombre": "johanna",
+    "segundoApellido": "mora",
+    "direccion": "calle 102 # 15 - 58 apto 204",
+    "email": "lei.m@hotmail.com",
+    "telCelular": "3004975278",
+    "telFijo": null,
+    "carpetaNumero": 101
+  }
+}

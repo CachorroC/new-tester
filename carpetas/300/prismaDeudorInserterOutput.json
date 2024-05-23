@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 297,
+    "cedula": "79617611",
+    "primerNombre": "fabio",
+    "primerApellido": "jara",
+    "segundoNombre": "edilberto",
+    "segundoApellido": "sanchez",
+    "direccion": "carrera 3 e no 11-60 interior 9 casa 2  funza",
+    "email": "fabiojara@gmail.com",
+    "telCelular": "3174280231",
+    "telFijo": "2623688",
+    "carpetaNumero": 300
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 310,
+    "cedula": "80490307",
+    "primerNombre": "mauricio",
+    "primerApellido": "plazas",
+    "segundoNombre": "perez",
+    "segundoApellido": null,
+    "direccion": "diagonal 68 sur no 37-69 int 136",
+    "email": "mauricioperez7314@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 313
+  }
+}

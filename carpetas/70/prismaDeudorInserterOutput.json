@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 70,
+    "cedula": "14250539",
+    "primerNombre": "cesar",
+    "primerApellido": "arias",
+    "segundoNombre": "augusto",
+    "segundoApellido": null,
+    "direccion": "calle 54 # 22 - 50",
+    "email": "ariascesaraugustoarias@gmail.com",
+    "telCelular": "3152248920",
+    "telFijo": null,
+    "carpetaNumero": 70
+  }
+}

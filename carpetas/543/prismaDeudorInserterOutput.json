@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 531,
+    "cedula": "51579807",
+    "primerNombre": "rosalia",
+    "primerApellido": "",
+    "segundoNombre": "charry",
+    "segundoApellido": "sarmiento",
+    "direccion": "calle 19 a no 82 - 65 int 6 apto 503",
+    "email": "rochi2656@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 543
+  }
+}

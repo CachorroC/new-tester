@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001310302520170073600",
+  "numero": 108,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 79558732,
+    "direccion": "tranversal 15a # 31-09 sur",
+    "email": "miguelangelhuertasv@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "miguel",
+    "segundoNombre": "angel",
+    "primerApellido": "huertas",
+    "segundoApellido": "valencia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-10-23T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001310302520170073600",
+    "capitalAdeudado": 211610991,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [12455661, "12657330//12748966"],
+    "radicado": "2017 - 00736",
+    "vencimientoPagare": ["2020-06-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79558732,
+  "idProcesos": null
+}

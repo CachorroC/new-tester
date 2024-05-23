@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 159,
+    "cedula": "79335809",
+    "primerNombre": "ricardo",
+    "primerApellido": "beltran",
+    "segundoNombre": "alberto",
+    "segundoApellido": "hernandez",
+    "direccion": "calle 23 # 5 - 23 casa 4 int 10",
+    "email": "norina@reservalaboral.com.co",
+    "telCelular": "3153808376",
+    "telFijo": "3153808",
+    "carpetaNumero": 161
+  }
+}

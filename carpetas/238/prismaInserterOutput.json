@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 238,
+    "numero": 238,
+    "llaveProceso": "11001400304320170110600",
+    "nombre": "fredy alexander ruda arias",
+    "idProcesos": [9334093],
+    "category": "Terminados"
+  }
+}

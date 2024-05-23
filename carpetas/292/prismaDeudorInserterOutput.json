@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 289,
+    "cedula": "80205694",
+    "primerNombre": "john",
+    "primerApellido": "herreño",
+    "segundoNombre": "fredy",
+    "segundoApellido": "ramirez",
+    "direccion": "diagonal 82 a sur no 7c 19  este",
+    "email": "kellyo.1508@hotmail.com",
+    "telCelular": null,
+    "telFijo": "7641957",
+    "carpetaNumero": 292
+  }
+}

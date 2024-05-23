@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 257,
+    "numero": 257,
+    "llaveProceso": "11001418900720170013800",
+    "nombre": "paul null richard caicedo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

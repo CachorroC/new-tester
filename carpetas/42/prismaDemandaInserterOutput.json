@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 42,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "12956286",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-07-28T00:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2017-05-31T00:00:00.000Z",
+    "municipio": "ANAPOIMA",
+    "obligacion": ["3840082880"],
+    "radicado": "2017 - 00108",
+    "vencimientoPagare": [],
+    "expediente": "25035408900120170010800",
+    "carpetaNumero": 42,
+    "despacho": null
+  }
+}

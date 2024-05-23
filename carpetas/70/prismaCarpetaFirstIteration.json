@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-06-28T05:00:00.000Z",
+  "idProcesos": [65640840],
+  "idRegUltimaAct": 1791736800,
+  "llaveProceso": "11001400308520170108400",
+  "nombre": "CESAR AUGUSTO ARIAS",
+  "numero": 70,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:31.681Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 114,
+    "cedula": "52174728",
+    "primerNombre": "silvia",
+    "primerApellido": "valenzuela",
+    "segundoNombre": "maria",
+    "segundoApellido": "velasquez",
+    "direccion": "carrera 80 # 41g - 09 sur",
+    "email": "jucana92@hotmail.com",
+    "telCelular": "3212344417",
+    "telFijo": "5741561",
+    "carpetaNumero": 115
+  }
+}

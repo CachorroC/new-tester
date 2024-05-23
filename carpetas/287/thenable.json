@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301620170015700",
+  "numero": 287,
+  "tipoProceso": "PRENDARIO",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 79861754,
+    "direccion": "calle 72 a no  74 a - 77",
+    "email": "carlosgrugec@hotmail.com",
+    "tel": {
+      "fijo": 6087374,
+      "celular": 3104865508
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "german",
+    "primerApellido": "ruge",
+    "segundoApellido": "castañeda"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-10-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-04T00:00:00.000Z",
+    "expediente": "11001400301620170015700",
+    "capitalAdeudado": 44309785,
+    "etapaProcesal": "1.100140037162017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12592504],
+    "radicado": "2017 - 00157",
+    "vencimientoPagare": ["2020-09-29T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79861754,
+  "idProcesos": null
+}

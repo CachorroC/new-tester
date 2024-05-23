@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 246,
+    "numero": 246,
+    "llaveProceso": "11001400304720180024200",
+    "nombre": "edwin null buitrago villamil",
+    "idProcesos": [10416913],
+    "category": "Terminados"
+  }
+}

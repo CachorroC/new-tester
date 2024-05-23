@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 270,
+    "cedula": "1024479389",
+    "primerNombre": "sonia",
+    "primerApellido": "molina",
+    "segundoNombre": "marcela",
+    "segundoApellido": "quimbayo",
+    "direccion": "calle 67 no 17 c-63 sur",
+    "email": "sonymarce20@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 273
+  }
+}

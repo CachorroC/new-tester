@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 22,
+    "numero": 22,
+    "llaveProceso": "11001400308520170084900",
+    "nombre": "jose edwin garces ardila",
+    "idProcesos": [51935790],
+    "category": "Reintegra"
+  }
+}

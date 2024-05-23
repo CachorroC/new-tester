@@ -1,0 +1,68 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "11/09/2017",
+    "obligacion": {
+      "A": 12686980
+    },
+    "capitalAdeudado": "18.220.483.45",
+    "entregaGarantiasAbogado": "18/09/2017",
+    "departamento": "CUNDINNAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 01116",
+    "llaveProceso": "11001400308220170111600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "27/09/2017",
+    "mandamientoPago": "5/10/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 3481,
+        "resultado": "12/10/2017"
+      },
+      "certimail": "5/10/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 261,
+  "llaveProceso": "11001400308220170111600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 2737360,
+      "celular": 3125489014
+    },
+    "primerNombre": "DANIEL",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "IBAÑEZ",
+    "segundoApellido": "DELGADO",
+    "cedula": 79901800,
+    "direccion": "CALLE 1 No 78 M 21 BLOQUE H4 APARTAMENTO 502",
+    "email": "dsenna_22@yahoo.com"
+  },
+  "cc": 79901800,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "DANIEL ALBERTO IBAÑEZ DELGADO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

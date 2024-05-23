@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 124,
+    "numero": 124,
+    "llaveProceso": "11001400303320170118000",
+    "nombre": "blanca edelmira arias melo",
+    "idProcesos": [50643180],
+    "category": "Terminados"
+  }
+}

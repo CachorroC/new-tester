@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 327,
+    "cedula": "80185084",
+    "primerNombre": "nelson",
+    "primerApellido": "cangrejo",
+    "segundoNombre": "arbey",
+    "segundoApellido": "suarez",
+    "direccion": "carrera 95 a  no 136 - 47 apartamento 401 bloque 3",
+    "email": "arby3920@hotmail.com",
+    "telCelular": "3176822122",
+    "telFijo": "6822121",
+    "carpetaNumero": 330
+  }
+}

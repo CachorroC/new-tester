@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 26,
+    "cedula": "52744376",
+    "primerNombre": "yudy",
+    "primerApellido": "rodriguez",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "calle 67 no.86a-49 bogota",
+    "email": null,
+    "telCelular": "3183517022",
+    "telFijo": null,
+    "carpetaNumero": 26
+  }
+}

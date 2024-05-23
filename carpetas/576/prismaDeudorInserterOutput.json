@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 564,
+    "cedula": "1020754305",
+    "primerNombre": "juan",
+    "primerApellido": "velasquez",
+    "segundoNombre": "camilo",
+    "segundoApellido": "pereira",
+    "direccion": "carrera 15 no. 127 - 32 apartamento 105 portaldel country",
+    "email": "jcamilovp@gmail.com",
+    "telCelular": "3188015288",
+    "telFijo": null,
+    "carpetaNumero": 576
+  }
+}

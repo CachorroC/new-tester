@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301720180070500",
+  "numero": 449,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 4271429,
+    "direccion": "diagonal 85 no 85a-22",
+    "email": null,
+    "tel": {
+      "fijo": 7510457,
+      "celular": 3204265908
+    },
+    "primerNombre": "tulio",
+    "segundoNombre": "ernesto",
+    "primerApellido": "tellez",
+    "segundoApellido": "rojas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-06-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-19T00:00:00.000Z",
+    "expediente": "11001400301720180070500",
+    "capitalAdeudado": 14170111,
+    "etapaProcesal": "1.100140030172018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUIDIOPRESTAMO", 5306968825200490],
+    "radicado": "2018 - 00705",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 4271429,
+  "idProcesos": null
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300420180047500",
+  "numero": 477,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 79568543,
+    "direccion": "calle 60 no 38-26 apto 301",
+    "email": "adolfo.daza@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "adolfo",
+    "segundoNombre": "",
+    "primerApellido": "leon",
+    "segundoApellido": ["daza", "fernandez"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-25T00:00:00.000Z",
+    "mandamientoPago": "2018-05-08T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-21T00:00:00.000Z",
+    "expediente": "11001400300420180047500",
+    "capitalAdeudado": 14534881,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2018 - 00475",
+    "vencimientoPagare": ["2020-08-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79568543,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 11,
+    "numero": 11,
+    "llaveProceso": "11001400303720170083900",
+    "nombre": "javier null romero reyes",
+    "idProcesos": [50508570],
+    "category": "LiosJuridicos"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1016043191,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "43059",
+    "telefono": null,
+    "id": 331
+  },
+  "demanda": {
+    "obligacion": ["10.670.890.00"],
+    "llaveProceso": "11001410375220170130000",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43116"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "18-0118"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "43053",
+    "fechaPresentacion": ["2018-01-16T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01300",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "CHRISTIAN",
+    "segundoNombre": "DARIO",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "AVELLANEDA",
+    "cedula": 1016043191,
+    "direccion": null,
+    "email": "CALLE 23 SUR No 96 - 82"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001410375220170130000",
+  "nombre": "CHRISTIAN DARIO RUIZ AVELLANEDA",
+  "numero": 331,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:38.541Z"
+}

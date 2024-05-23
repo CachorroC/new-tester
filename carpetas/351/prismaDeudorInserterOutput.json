@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 348,
+    "cedula": "80800256",
+    "primerNombre": "cristian",
+    "primerApellido": "cardenas",
+    "segundoNombre": "josue",
+    "segundoApellido": "noriega",
+    "direccion": "calle 73 b  sur no 1a - 06",
+    "email": "sariguella35@hotmail.com",
+    "telCelular": "3134704885",
+    "telFijo": "7612712",
+    "carpetaNumero": 351
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 312,
+    "cedula": "80203869",
+    "primerNombre": "bladimir",
+    "primerApellido": "cifuentes",
+    "segundoNombre": "gutierrez",
+    "segundoApellido": null,
+    "direccion": "calle 34 a sur no 13 - 46  soacha",
+    "email": "bladimir0612@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 315
+  }
+}

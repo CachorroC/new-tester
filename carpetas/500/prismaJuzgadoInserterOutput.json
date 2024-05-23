@@ -1,0 +1,16 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 17,
+      "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-17-de-ejecucion-civil-municipal-de-bogota"
+    },
+    {
+      "id": 6,
+      "tipo": "JUZGADO 006 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-006-civil-municipal-de-bogota"
+    }
+  ]
+}

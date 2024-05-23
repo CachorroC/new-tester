@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 533,
+    "cedula": "79295686",
+    "primerNombre": "jairo",
+    "primerApellido": "villamizar",
+    "segundoNombre": "aldana",
+    "segundoApellido": null,
+    "direccion": null,
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 545
+  }
+}

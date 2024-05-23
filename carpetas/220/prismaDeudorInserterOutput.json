@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 217,
+    "cedula": "51726361",
+    "primerNombre": "maria",
+    "primerApellido": "salcedo",
+    "segundoNombre": "eugenia",
+    "segundoApellido": "pineda",
+    "direccion": "avenida calle 34 # 58 - 51",
+    "email": "mariae131@hotmail.com",
+    "telCelular": "3144468420",
+    "telFijo": "7842477",
+    "carpetaNumero": 220
+  }
+}

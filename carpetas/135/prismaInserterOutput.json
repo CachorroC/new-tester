@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 135,
+    "numero": 135,
+    "llaveProceso": "11001400300420170063900",
+    "nombre": "ruber andres valenzuela sierra",
+    "idProcesos": [50542600, 81638681],
+    "category": "Terminados"
+  }
+}

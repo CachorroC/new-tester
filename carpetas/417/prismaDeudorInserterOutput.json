@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 414,
+    "cedula": "19275068",
+    "primerNombre": "oscar",
+    "primerApellido": "gomez",
+    "segundoNombre": "humberto",
+    "segundoApellido": "chuchin",
+    "direccion": "calle 71 a no 70 b-11",
+    "email": "oscarmultibog@hotmail.com",
+    "telCelular": "3105638608",
+    "telFijo": "2511959",
+    "carpetaNumero": 417
+  }
+}

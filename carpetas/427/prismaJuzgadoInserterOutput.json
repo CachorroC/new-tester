@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 2,
+      "tipo": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-002-promiscuo-municipal-de-cajicá-"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 298,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "43",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "43026",
+    "fechaPresentacion": null,
+    "municipio": "GUASCA",
+    "obligacion": ["169241", "24.721.567.58"],
+    "radicado": "2018 - 00022",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "25322418900120180002200",
+    "carpetaNumero": 301,
+    "despacho": null
+  }
+}

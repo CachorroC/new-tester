@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2017-08-28T05:00:00.000Z",
+  "idProcesos": [11486153],
+  "idRegUltimaAct": 144966153,
+  "llaveProceso": "11001400305120170064400",
+  "nombre": "JOSE ISRAEL MONROY CORDOBA",
+  "numero": 49,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:28.360Z"
+}

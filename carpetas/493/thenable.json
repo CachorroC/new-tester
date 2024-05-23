@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001410375120180181700",
+  "numero": 493,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53103504,
+    "direccion": "calle 7 no 87b-90",
+    "email": "juliana.4455@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "kelly",
+    "segundoNombre": "yuliana",
+    "primerApellido": "quintero",
+    "segundoApellido": "fierro"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-06-09T05:00:00.000Z",
+    "expediente": "11001410375120180181700",
+    "capitalAdeudado": 2103532359,
+    "etapaProcesal": "SUBSANA",
+    "municipio": "BOGOTA",
+    "obligacion": [20990155357],
+    "radicado": "2018 - 01817",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1030602928,
+    "direccion": "CALLE 7 No 87B-90",
+    "nombre": "leiny andrea quintero fierro",
+    "telefono": 3208797
+  },
+  "cc": 53103504,
+  "idProcesos": null
+}

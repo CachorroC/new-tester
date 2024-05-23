@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 405,
+    "cedula": "80792987",
+    "primerNombre": "jhon",
+    "primerApellido": "bejarano",
+    "segundoNombre": "alexander",
+    "segundoApellido": "fonseca",
+    "direccion": "calle 4 d no 39 c-22",
+    "email": "jhonbeja227@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 408
+  }
+}

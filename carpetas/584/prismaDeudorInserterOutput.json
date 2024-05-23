@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 572,
+    "cedula": "53177851",
+    "primerNombre": "maria",
+    "primerApellido": "morales",
+    "segundoNombre": "camila",
+    "segundoApellido": "ramirez",
+    "direccion": "carrera 55 no. 152 - 35 interior 4 apto 603 conjunto residencial mazuren 15 de bogotá y/o en condominio residencial portobari vía tiquiza fagua ubicado en el municipio de chía (cundinamarca)",
+    "email": "moralesmariacamila@hotmail.com",
+    "telCelular": "3045793470",
+    "telFijo": "6056125",
+    "carpetaNumero": 584
+  }
+}

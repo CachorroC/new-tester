@@ -1,0 +1,128 @@
+{
+  "id": 79659040,
+  "actuaciones": [
+    {
+      "idRegActuacion": 857000690,
+      "llaveProceso": "11001400307820170098600",
+      "consActuacion": 2,
+      "fechaActuacion": "2019-01-15T05:00:00.000Z",
+      "actuacion": "Constancia secretarial",
+      "anotacion": "SE ENTREGO DESGLOSE",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2019-01-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 51570460,
+      "isUltimaAct": true,
+      "createdAt": "2024-01-02T02:10:27.202Z"
+    },
+    {
+      "idRegActuacion": 857000680,
+      "llaveProceso": "11001400307820170098600",
+      "consActuacion": 1,
+      "fechaActuacion": "2019-01-15T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 15/01/2019 a las 17:15:32",
+      "fechaInicial": "2019-01-15T05:00:00.000Z",
+      "fechaFinal": "2019-01-15T05:00:00.000Z",
+      "fechaRegistro": "2019-01-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 51570460,
+      "isUltimaAct": false,
+      "createdAt": "2024-01-02T02:10:27.202Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["155487"],
+    "llaveProceso": "11001400307820170098600",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 9644297780,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-10-17T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00986",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2017-04-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3164700074
+    },
+    "primerNombre": "HECTOR",
+    "segundoNombre": "GABRIEL",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "BOHORQUEZ",
+    "cedula": 79659040,
+    "direccion": "CALLE 58 A SUR No 18 B -35 INT 6",
+    "email": "gabrielisag61@hotmail.com"
+  },
+  "fecha": "2019-01-15T05:00:00.000Z",
+  "idProcesos": [51570460],
+  "idRegUltimaAct": 857000690,
+  "llaveProceso": "11001400307820170098600",
+  "nombre": "HECTOR GABRIEL RAMIREZ BOHORQUEZ",
+  "numero": 298,
+  "procesos": [
+    {
+      "idProceso": 51570460,
+      "idConexion": 259,
+      "llaveProceso": "11001400307820170098600",
+      "fechaProceso": "2019-01-15T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-01-15T05:00:00.000Z",
+      "despacho": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: HECTOR GABRIEL RAMIREZ BOHORQUEZ ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 78,
+        "tipo": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-78-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 857000690,
+    "llaveProceso": "11001400307820170098600",
+    "consActuacion": 2,
+    "fechaActuacion": "2019-01-15T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE ENTREGO DESGLOSE",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-01-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 2,
+    "idProceso": 51570460,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-01-02T02:10:26.883Z"
+}

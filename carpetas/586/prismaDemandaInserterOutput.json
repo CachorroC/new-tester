@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 574,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "255635733",
+    "entregaGarantiasAbogado": "2023-10-02T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "FUSAGASUGA",
+    "obligacion": ["90000222424"],
+    "radicado": null,
+    "vencimientoPagare": ["2052-12-01T00:00:00.000Z"],
+    "expediente": null,
+    "carpetaNumero": 586,
+    "despacho": null
+  }
+}

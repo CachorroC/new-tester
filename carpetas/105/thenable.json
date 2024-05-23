@@ -1,0 +1,41 @@
+{
+  "llaveProceso": "11001400300720170111300",
+  "numero": 105,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 15319344,
+    "direccion": "calle 42 a bis sur no. 90a -64",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3133809713
+    },
+    "primerNombre": "estelio",
+    "segundoNombre": "de",
+    "primerApellido": "jesus",
+    "segundoApellido": ["", "roldan", "pozo"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-07-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-07-19T00:00:00.000Z",
+    "expediente": "11001400300720170111300",
+    "capitalAdeudado": 13688162,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [5850082368],
+    "radicado": "2017 - 01113",
+    "vencimientoPagare": ["2020-04-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 15271543,
+    "direccion": "CARRERA 58 No.42-125 medellin//fernando.roldan1979@gmail.com",
+    "nombre": "hernando estelio roldan upegui"
+  },
+  "cc": 15319344,
+  "idProcesos": null
+}

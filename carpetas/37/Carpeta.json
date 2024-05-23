@@ -1,0 +1,108 @@
+{
+  "id": 1030536736,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LUIS ALBERTO AFONSO GIRALDO",
+    "cedula": "1030536736",
+    "direccion": "CALLE 14 Mo. 8 -04 BARRIO SAN JUAN SIBATE",
+    "telefono": "3208091862",
+    "id": 37
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "12707877",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.892Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": [
+      "2017-06-09T05:00:00.000Z",
+      "2017-07-27T05:00:00.000Z"
+    ],
+    "id": 37,
+    "llaveProceso": "25740418900120170021700",
+    "mandamientoPago": [],
+    "municipio": "SIBATE",
+    "notificacion": {
+      "id": 37,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12548843"],
+    "radicado": "2017 - 00217",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:43.977Z"],
+    "medidasCautelares": {
+      "id": 37,
+      "fechaOrdenaMedida": "2024-02-10T00:54:23.229Z",
+      "medidaSolicitada": "PERSONAL"
+    }
+  },
+  "deudor": {
+    "id": 37,
+    "telCelular": "3208091862",
+    "telFijo": null,
+    "primerNombre": "LUIS",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "ALFONSO",
+    "segundoApellido": "GIRALDO",
+    "cedula": "1030536736",
+    "direccion": "CALLE 14 Mo. 8 -04 BARRIO SAN JUAN SIBATE",
+    "email": "luis.alfonso@correo.polica.gov.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25740418900120170021700",
+  "nombre": "luis alberto alfonso giraldo",
+  "numero": 37,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 37,
+      "createdAt": "2024-02-10T00:54:23.229Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 25 DE AGOSTO DE 2018 SE TERMINO EL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 37,
+      "createdAt": "2024-02-10T00:54:23.229Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 21 DE FEBRERO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 37,
+      "createdAt": "2024-02-10T00:54:23.229Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MEDIDAS CAUTELARES A CARGO DEL DEUDOR DE LA OBLIGACION",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:23.229Z"
+}

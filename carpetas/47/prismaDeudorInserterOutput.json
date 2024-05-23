@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 47,
+    "cedula": "52129551",
+    "primerNombre": "ana",
+    "primerApellido": "guzman",
+    "segundoNombre": "rita",
+    "segundoApellido": "gomez",
+    "direccion": "calle 61 j no. 17d - 55 sur",
+    "email": null,
+    "telCelular": "3229150048",
+    "telFijo": null,
+    "carpetaNumero": 47
+  }
+}

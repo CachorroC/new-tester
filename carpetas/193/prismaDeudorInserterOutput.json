@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 190,
+    "cedula": "52465691",
+    "primerNombre": "carmen",
+    "primerApellido": "quesada",
+    "segundoNombre": "elizabeth",
+    "segundoApellido": "martinez",
+    "direccion": "carrera 80 # 70a - 09",
+    "email": "equesada01@hotmail.com",
+    "telCelular": "3204792977",
+    "telFijo": "7829236",
+    "carpetaNumero": 193
+  }
+}

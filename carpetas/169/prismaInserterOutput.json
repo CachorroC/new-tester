@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 169,
+    "numero": 169,
+    "llaveProceso": "11001400300320170126400",
+    "nombre": "rita blanco de gomez",
+    "idProcesos": [50598770],
+    "category": "Reintegra"
+  }
+}

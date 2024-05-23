@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:39.211Z",
+  "proceso": {
+    "idProceso": 51315290,
+    "idConexion": 259,
+    "llaveProceso": "11001310303720170045300",
+    "fechaProceso": "2018-07-18T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-01-15T05:00:00.000Z",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DIANA VANESSA NARANJO HERNANDEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 7,
+      "tipo": "JUZGADO 007 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-007-civil-municipal-de-bogota"
+    }
+  }
+}

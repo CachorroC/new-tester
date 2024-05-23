@@ -1,0 +1,105 @@
+{
+  "id": 52725153,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 473
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "15/08/2018",
+    "fechaPresentacion": [],
+    "id": 473,
+    "llaveProceso": "25754418900320180085500",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 473,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [],
+    "radicado": "2018 - 00855",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 473,
+      "fechaOrdenaMedida": "2024-02-10T00:55:01.796Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 473,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "VEGA",
+    "segundoApellido": "AVILA",
+    "cedula": "52725153",
+    "direccion": null,
+    "email": "TRANSVERSAL 2 ESTE No 32B-80 SUR "
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900320180085500",
+  "nombre": "sandra milena vega avila",
+  "numero": 473,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 473,
+      "createdAt": "2024-02-10T00:55:01.795Z",
+      "pathname": null,
+      "dueDate": "2019-05-24T05:00:00.000Z",
+      "text": "EL 24/04/2019 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 473,
+      "createdAt": "2024-02-10T00:55:01.796Z",
+      "pathname": null,
+      "dueDate": "2019-11-01T05:00:00.000Z",
+      "text": " EL 1/10/2019 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 473,
+      "createdAt": "2024-02-10T00:55:01.796Z",
+      "pathname": null,
+      "dueDate": "2023-02-19T05:00:00.000Z",
+      "text": " 19/01/2023 SE SOLICITO CERTIFICADO DE TRADICIÓN SIN MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.796Z"
+}

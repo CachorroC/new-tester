@@ -1,0 +1,100 @@
+{
+  "id": 80162319,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 437
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "22725077.61",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.249Z",
+    "etapaProcesal": "11001418901520180021200",
+    "fechaPresentacion": [],
+    "id": 437,
+    "llaveProceso": "11001400371520180021200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 437,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.271Z",
+          "fechaAporta": "1970-01-01T00:00:43.293Z",
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["AUDIOPRESTAMO", "4513073535490930"],
+    "radicado": "2018 - 00212",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2021-05-23T05:00:00.000Z",
+      "2020-11-15T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 437,
+      "fechaOrdenaMedida": "2024-02-10T00:54:59.356Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 437,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JAVIER",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "ZIPA",
+    "segundoApellido": "SALAMANCA",
+    "cedula": "80162319",
+    "direccion": "CARRERA 79A No 13-10",
+    "email": "javierzipa83@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400371520180021200",
+  "nombre": "javier antonio zipa salamanca",
+  "numero": 437,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 437,
+      "createdAt": "2024-02-10T00:54:59.356Z",
+      "pathname": null,
+      "dueDate": "2021-08-02T05:00:00.000Z",
+      "text": "EL 2/07/2021 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 437,
+      "createdAt": "2024-02-10T00:54:59.356Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " GARANTIAS Y LEVANTAMIENTO DE MEDIDAS CAUTELARES EN FAVOR Y A CARGO DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:59.357Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 251,
+    "cedula": "52344904",
+    "primerNombre": "yohaira",
+    "primerApellido": "valoyes",
+    "segundoNombre": "prado",
+    "segundoApellido": null,
+    "direccion": "carrera 9a 14f - 28c - unidad 22 chia",
+    "email": "yohairapadro@gmail.com",
+    "telCelular": "3103291690",
+    "telFijo": "8615372",
+    "carpetaNumero": 254
+  }
+}

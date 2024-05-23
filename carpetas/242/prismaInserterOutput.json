@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 242,
+    "numero": 242,
+    "llaveProceso": "25754418900220180036300",
+    "nombre": "john hader otalvaro ,romo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

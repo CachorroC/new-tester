@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 429,
+    "numero": 429,
+    "llaveProceso": "11001400306520180061200",
+    "nombre": "arcangel null hernandez rodriguez",
+    "idProcesos": [18175150],
+    "category": "Terminados"
+  }
+}

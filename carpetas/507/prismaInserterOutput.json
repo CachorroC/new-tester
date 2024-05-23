@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 507,
+    "numero": 507,
+    "llaveProceso": "258434003001201E+22",
+    "nombre": "william  yovany casallas,romero",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400304320170120500",
+  "numero": 234,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 16940930,
+    "direccion": "calle 152 12 35 int 7",
+    "email": "mauricio.aguirre@bav.sabmiller",
+    "tel": {
+      "fijo": 7451585,
+      "celular": 3052392765
+    },
+    "primerNombre": "mauricio",
+    "segundoNombre": "alexander",
+    "primerApellido": "aguirre",
+    "segundoApellido": "bermudez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-18T00:00:00.000Z",
+    "mandamientoPago": "2017-10-24T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "11001400304320170120500",
+    "capitalAdeudado": 1541419482,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "377815075274932 / 5176400101402245",
+      "5303729008808054 // AUDIOPRESTAMO"
+    ],
+    "radicado": "2017-01205",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 16940930,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 438,
+    "numero": 438,
+    "llaveProceso": "11001418900620180021000",
+    "nombre": "luz dary velandia garcia",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

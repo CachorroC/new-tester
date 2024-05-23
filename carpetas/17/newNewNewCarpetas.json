@@ -1,0 +1,54 @@
+{
+  "id": 52953923,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["2273 320131950"],
+    "llaveProceso": "25754418900220170048000",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-05-30T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00480",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-09-07T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "YEDSY",
+    "segundoNombre": "CAROLAY",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "GAMBOA",
+    "cedula": 52953923,
+    "direccion": "CALLE 17 No. 24 C-17 SUR BOGOTA",
+    "email": "importex1112@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900220170048000",
+  "nombre": "YEDSY CAROLAY ROJAS GAMBOA",
+  "numero": 17,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:45.016Z"
+}

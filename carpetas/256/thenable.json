@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400300720170141000",
+  "numero": 256,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79881862,
+    "direccion": "transversal 112 c no  64 d -15 bloque 7 apartamento 4",
+    "email": "freddydanasebas@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "freddy",
+    "primerApellido": "arias",
+    "segundoApellido": "martinez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-21T00:00:00.000Z",
+    "mandamientoPago": "2017-10-04T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-18T00:00:00.000Z",
+    "expediente": "11001400300720170141000",
+    "capitalAdeudado": 616552203,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [40800882948, 96296],
+    "radicado": "2017 - 01410",
+    "vencimientoPagare": ["2019-09-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53160708,
+    "direccion": "TRANSVERSAL 112 C No 64 D- 15  TORRE 1 APARTAMENTO 404",
+    "nombre": "yenny paola uribe  gomez",
+    "telefono": 4416629
+  },
+  "cc": 79881862,
+  "idProcesos": null
+}

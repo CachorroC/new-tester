@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:11.742Z",
+  "proceso": {
+    "idProceso": 29071084,
+    "idConexion": 310,
+    "llaveProceso": "11001400302720140070300",
+    "fechaProceso": "2014-10-08T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-05-10T05:00:00.000Z",
+    "despacho": "JUZGADO 003 CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: CITIBANK COLOMBIA S.A. | Demandado: GLADYS HERNANDEZ LOPEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 3,
+      "tipo": "JUZGADO 003 CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-03-de-ejecucion-civil-del-circuito-de-bogota"
+    }
+  }
+}

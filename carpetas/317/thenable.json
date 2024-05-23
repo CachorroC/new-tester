@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301820170181300",
+  "numero": 317,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80251653,
+    "direccion": "calle 62 g  no 75 g - 18 sur",
+    "email": "wilsoningind@yahoo.es",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "wilson",
+    "primerApellido": "javier",
+    "segundoApellido": "sanchez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-07T00:00:00.000Z",
+    "mandamientoPago": "2018-02-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-31T00:00:00.000Z",
+    "expediente": "11001400301820170181300",
+    "capitalAdeudado": 1500851494,
+    "etapaProcesal": "LIQUIDACION",
+    "municipio": "BOGOTA",
+    "obligacion": [123326],
+    "radicado": "2017 - 01813",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53089914,
+    "direccion": "CALLE  62G No 75 G-18 SUR",
+    "nombre": "yinet esneda gaviria gaviria",
+    "telefono": 5971320
+  },
+  "cc": 80251653,
+  "idProcesos": null
+}

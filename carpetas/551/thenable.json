@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25312400300320230037100",
+  "numero": 551,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1075211773,
+    "direccion": "kr 1 2 41 fusagasugá",
+    "email": "jonathansoldier@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "pedro",
+    "segundoNombre": "jonathan",
+    "primerApellido": "ramirez",
+    "segundoApellido": "gomez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-06-20T00:00:00.000Z",
+    "expediente": "25312400300320230037100",
+    "capitalAdeudado": 28018855,
+    "etapaProcesal": null,
+    "municipio": "FUSAGASUGA",
+    "obligacion": [2640096179],
+    "radicado": "2023 - 00371",
+    "vencimientoPagare": ["2028-03-08T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1075211773,
+  "idProcesos": null
+}

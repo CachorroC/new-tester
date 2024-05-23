@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "2/04/2026",
+    "obligacion": {
+      "A": "Q 0000000079780047027001"
+    },
+    "capitalAdeudado": "$ 86.945.177",
+    "entregaGarantiasAbogado": "17/08/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00864",
+    "llaveProceso": "11001418900520230134200"
+  },
+  "demandas": [],
+  "numero": 575,
+  "llaveProceso": "11001418900520230134200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 7574806,
+      "celular": 3164336320
+    },
+    "primerNombre": "JAVIER",
+    "segundoNombre": "ALEJANDRO",
+    "primerApellido": "CARRERA",
+    "segundoApellido": "SIACHOQUE",
+    "cedula": 79780047,
+    "direccion": "Carrera 13 A No. 113 42 Apartamento 207 Santa Paula // Carrera 11 No. 112 – 65 // Calle 119 No. 7 – 14 Consultorio 617 // Calle 85 A No. 21 - 51",
+    "email": "carrerasiachoque@yahoo.com"
+  },
+  "cc": 79780047,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JAVIER ALEJANDRO CARRERA SIACHOQUE",
+  "notificacion": null
+}

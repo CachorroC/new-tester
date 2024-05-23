@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 83,
+    "cedula": "79108747",
+    "primerNombre": "edgar",
+    "primerApellido": "rubio",
+    "segundoNombre": "hernandez",
+    "segundoApellido": null,
+    "direccion": "carrera 17 a no. 175-82 interior 1 pto 601",
+    "email": "edgarH62@hotmail.com",
+    "telCelular": "3118802970",
+    "telFijo": "8054434",
+    "carpetaNumero": 84
+  }
+}

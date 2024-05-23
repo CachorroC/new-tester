@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25286310300120170095600",
+  "numero": 161,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79335809,
+    "direccion": "calle 23 # 5 - 23 casa 4 int 10",
+    "email": "norina@reservalaboral.com.co",
+    "tel": {
+      "fijo": 3153808,
+      "celular": 3153808376
+    },
+    "primerNombre": "ricardo",
+    "segundoNombre": "alberto",
+    "primerApellido": "beltran",
+    "segundoApellido": "hernandez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-31T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "expediente": "25286310300120170095600",
+    "capitalAdeudado": 12029256822,
+    "etapaProcesal": null,
+    "municipio": "MOSQUERA",
+    "obligacion": [169486],
+    "radicado": "2017 - 00956",
+    "vencimientoPagare": ["2033-10-31T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79335809,
+  "idProcesos": null
+}

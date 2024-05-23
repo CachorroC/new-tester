@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "7/07/2026",
+    "obligacion": {
+      "A": 7730091653
+    },
+    "capitalAdeudado": "$ 25.015.388",
+    "entregaGarantiasAbogado": "24/11/2023",
+    "departamento": "ATLANTICO",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "BARRANQUILLA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 606,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "ATLANTICO",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BARRANQUILLA",
+      "obligacion": [7730091653],
+      "radicado": null
+    }
+  ],
+  "numero": 606,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3229575170
+    },
+    "primerNombre": "CAMILO",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "CUESTA",
+    "cedula": 1058325371,
+    "direccion": "Calle 120 42-41 Barranquilla (Atlantico)",
+    "email": "camilo1998sanchez@gmail.com"
+  },
+  "cc": 1058325371,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "CAMILO ANDRES SANCHEZ CUESTA",
+  "notificacion": null
+}

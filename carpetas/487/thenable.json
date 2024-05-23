@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301420180078900",
+  "numero": 487,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80473211,
+    "direccion": null,
+    "email": "CARRERA 102 B No 151-15 TORRE 2  APTO 1309",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "gabriel",
+    "primerApellido": "mendoza",
+    "segundoApellido": "morinelly",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-02-10T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400301420180078900",
+    "capitalAdeudado": null,
+    "etapaProcesal": "20-09-2018",
+    "municipio": "BOGOTA",
+    "obligacion": [4513089091236580, "12.028.842.57"],
+    "radicado": "2018 - 00789",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80473211,
+  "idProcesos": null
+}

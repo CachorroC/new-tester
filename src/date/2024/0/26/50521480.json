@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:18.255Z",
+  "proceso": {
+    "idProceso": 50521480,
+    "idConexion": 259,
+    "llaveProceso": "11001400303420170083600",
+    "fechaProceso": "2017-06-21T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-11T05:00:00.000Z",
+    "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS ESNEIDER ORDUZ FARFAN ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 12,
+      "tipo": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-12-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

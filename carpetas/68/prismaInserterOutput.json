@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 68,
+    "numero": 68,
+    "llaveProceso": "25899400300220170027000",
+    "nombre": "martha stella gomez bolivar",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

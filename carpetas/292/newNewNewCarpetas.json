@@ -1,0 +1,70 @@
+{
+  "id": 80205694,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": "KELLI YOJANA ORTIZ SALAMANCA",
+    "cedula": "52831430",
+    "direccion": "DIAGONAL 82B SUR No 7C - 19",
+    "telefono": "3105719302",
+    "id": 292
+  },
+  "demanda": {
+    "obligacion": ["300094317"],
+    "llaveProceso": "11001410375220170012800",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-02-27T05:00:00.000Z",
+        "fechaAporta": "2018-07-06T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-07-06T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "6/03/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-09-21T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00128",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-08-31T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7641957,
+      "celular": null
+    },
+    "primerNombre": "JOHN",
+    "segundoNombre": "FREDY",
+    "primerApellido": "HERREÑO",
+    "segundoApellido": "RAMIREZ",
+    "cedula": 80205694,
+    "direccion": "DIAGONAL 82 A SUR No 7C 19  ESTE",
+    "email": "kellyo.1508@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001410375220170012800",
+  "nombre": "JOHN FREDY HERREÑO RAMIREZ",
+  "numero": 292,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:24.724Z"
+}

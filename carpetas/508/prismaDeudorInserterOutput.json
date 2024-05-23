@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 499,
+    "cedula": "11230400",
+    "primerNombre": "jose",
+    "primerApellido": "vasquez",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "tovar",
+    "direccion": "calle 2 a no 5-22 apto 503",
+    "email": "joalvato09@hotmail.com",
+    "telCelular": "3123703828",
+    "telFijo": null,
+    "carpetaNumero": 508
+  }
+}

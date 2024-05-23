@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 204,
+    "numero": 204,
+    "llaveProceso": "11001400304520170106300",
+    "nombre": "flor null esperanza gutierrez",
+    "idProcesos": [110120573],
+    "category": "Reintegra"
+  }
+}

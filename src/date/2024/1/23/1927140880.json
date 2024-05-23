@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:18.169Z",
+  "savedDate": "2017-02-08T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1927140880,
+    "llaveProceso": "11001400301620170015700",
+    "consActuacion": 39,
+    "fechaActuacion": "2023-11-03T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SIN MEDIDA POR LEVANTAR//RIP-MOVILIDAD-REMANENTES// CRISTHIAN C",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-11-03T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 39,
+    "isUltimaAct": true,
+    "idProceso": 50242270
+  }
+}

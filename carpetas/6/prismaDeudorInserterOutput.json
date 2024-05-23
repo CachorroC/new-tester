@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 6,
+    "cedula": "79645559",
+    "primerNombre": "francisco",
+    "primerApellido": "quesada",
+    "segundoNombre": "montaña",
+    "segundoApellido": null,
+    "direccion": "calle 6 bis a 90 a-80 torre 7 apto 203",
+    "email": null,
+    "telCelular": "3118469698",
+    "telFijo": null,
+    "carpetaNumero": 6
+  }
+}

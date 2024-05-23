@@ -1,0 +1,60 @@
+{
+  "id": 80052004,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "2741459/  3125766946",
+    "cedula": "BIBIANA ANGELICA NUÑEZ RIVERA",
+    "direccion": "20/05/2025",
+    "telefono": "TRANSVERSAL 18C No 9C-11 SUR MANZANA 5",
+    "id": 490
+  },
+  "demanda": {
+    "obligacion": ["17.506.316.71"],
+    "llaveProceso": "25754418900120180098800",
+    "notificacion": {
+      "certimail": null,
+      "fisico": false,
+      "autoNotificado": "02/11/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "1906"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "20/09/2018",
+    "fechaPresentacion": ["2018-11-02T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00988",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIEGO",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "MATEUS",
+    "segundoApellido": "ESPITIA",
+    "cedula": 80052004,
+    "direccion": "396776067",
+    "email": "TRANSVERSAL 18 C- No 9C-11 SUR MANZANA 5 CASA 134"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900120180098800",
+  "nombre": "DIEGO ARMANDO MATEUS ESPITIA",
+  "numero": 490,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:29.806Z"
+}

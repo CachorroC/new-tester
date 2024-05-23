@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 379,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "11224313",
+    "entregaGarantiasAbogado": "2018-11-01T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "SAN JUAN DE RIOSECO",
+    "obligacion": ["3720086711"],
+    "radicado": "2018 - 00004",
+    "vencimientoPagare": ["2019-09-01T00:00:00.000Z"],
+    "expediente": "25662408900120180000400",
+    "carpetaNumero": 382,
+    "despacho": null
+  }
+}

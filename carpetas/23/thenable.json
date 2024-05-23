@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25307400300120170033700",
+  "numero": 23,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 11207272,
+    "direccion": "manzana d cs 8 diamante girardot",
+    "email": "karendiaz@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3186899839
+    },
+    "primerNombre": "eder",
+    "segundoNombre": "alexis",
+    "primerApellido": "herrera",
+    "segundoApellido": "saenz"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "mandamientoPago": "2017-07-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "expediente": "25307400300120170033700",
+    "capitalAdeudado": null,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "GIRARDOT",
+    "obligacion": [12517400, 5306941968938113],
+    "radicado": "2017 - 00337",
+    "vencimientoPagare": ["2017-04-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11207272,
+  "idProcesos": null
+}

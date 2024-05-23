@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 29,
+    "numero": 29,
+    "llaveProceso": "25175400300120170051100",
+    "nombre": "whitman jeferson najar ramirez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

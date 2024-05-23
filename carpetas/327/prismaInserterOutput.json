@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 327,
+    "numero": 327,
+    "llaveProceso": "11001400301220170136900",
+    "nombre": "jose daniel escobar patiño",
+    "idProcesos": [50848760],
+    "category": "Terminados"
+  }
+}

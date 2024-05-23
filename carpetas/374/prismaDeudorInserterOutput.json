@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 371,
+    "cedula": "80850549",
+    "primerNombre": "jhoan",
+    "primerApellido": "barajas",
+    "segundoNombre": "antonio",
+    "segundoApellido": "montenegro",
+    "direccion": "calle 2 sur 16 - 36 manzana 104 // carrera 96 d 6 - 55 cada 81 et 1",
+    "email": "jjhoan_27@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 374
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306520170093400",
+  "numero": 89,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1030551366,
+    "direccion": "carrera 78p bis # 33a - 91 sur",
+    "email": "jvargas88@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "julian",
+    "segundoNombre": "armando",
+    "primerApellido": "acosta",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400306520170093400",
+    "capitalAdeudado": 8451598,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [12431049],
+    "radicado": "2017 - 00615",
+    "vencimientoPagare": ["2017-06-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1030551366,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 144,
+    "cedula": "4520757",
+    "primerNombre": "pedro",
+    "primerApellido": "pelaez",
+    "segundoNombre": "nel",
+    "segundoApellido": "tisnes",
+    "direccion": "tranversal 3 # 52b - 09 apto 405",
+    "email": "pelaezpedro@hotmail.com",
+    "telCelular": "3116216567",
+    "telFijo": "2103564",
+    "carpetaNumero": 146
+  }
+}

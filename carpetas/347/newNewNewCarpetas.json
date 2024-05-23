@@ -1,0 +1,59 @@
+{
+  "id": 41888857,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["4513080135113862", "AUDIOPRESTAMO"],
+    "llaveProceso": "11001400303920170152500",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": "43266"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-01-02T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 1183174786,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-10-11T05:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-11-21T05:00:00.000Z"],
+    "mandamientoPago": "2018-01-02T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01525",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 2869149,
+      "celular": null
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "ELENA",
+    "primerApellido": "ZULUAGA",
+    "segundoApellido": "URIBE",
+    "cedula": 41888857,
+    "direccion": "CALLE 19 No  18 - 54 APARTAMENTO 301",
+    "email": "equiposysuministroscapital@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400303920170152500",
+  "nombre": "MARIA ELENA ZULUAGA URIBE",
+  "numero": 347,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:45.304Z"
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418901220180095100",
+  "numero": 543,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 51579807,
+    "direccion": "calle 19 a no 82 - 65 int 6 apto 503",
+    "email": "rochi2656@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "rosalia",
+    "segundoNombre": "charry",
+    "primerApellido": "",
+    "segundoApellido": "sarmiento"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2019-11-01T05:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-10-10T05:00:00.000Z",
+    "expediente": "11001418901220180095100",
+    "capitalAdeudado": 24849682,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [3880083804, "4513074508682496 // 53037103332223839"],
+    "radicado": "2018 - 00951",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51579807,
+  "idProcesos": null
+}

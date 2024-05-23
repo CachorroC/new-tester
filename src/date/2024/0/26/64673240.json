@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:36.902Z",
+  "proceso": {
+    "idProceso": 64673240,
+    "idConexion": 259,
+    "llaveProceso": "11001418901220180095100",
+    "fechaProceso": "2019-06-28T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-05-15T05:00:00.000Z",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA SA | Demandado: ROSALIA CHARRY SARMIENTO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 11,
+      "tipo": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-11-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

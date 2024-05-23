@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 402,
+    "cedula": "79396995",
+    "primerNombre": "arturo",
+    "primerApellido": "gomez",
+    "segundoNombre": "lince",
+    "segundoApellido": null,
+    "direccion": "calle 12 a no 71 b - 60",
+    "email": "arthurlingo64@hotmail.com",
+    "telCelular": "3108844560",
+    "telFijo": "4244358",
+    "carpetaNumero": 405
+  }
+}

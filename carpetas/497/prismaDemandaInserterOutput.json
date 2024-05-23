@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 490,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "2367892060",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "2018-03-10T00:00:00.000Z",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["20990142568"],
+    "radicado": "2018 - 00435",
+    "vencimientoPagare": ["2018-09-01T00:00:00.000Z"],
+    "expediente": "25899410300120180043500",
+    "carpetaNumero": 497,
+    "despacho": null
+  }
+}

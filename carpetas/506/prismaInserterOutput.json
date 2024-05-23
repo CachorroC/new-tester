@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 506,
+    "numero": 506,
+    "llaveProceso": "11001418903120180138000",
+    "nombre": "edwin camilo sarmiento gomez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "01/03/2026",
+    "obligacion": {
+      "A": 2490084469
+    },
+    "capitalAdeudado": "$ 29.416.113",
+    "entregaGarantiasAbogado": "26/11/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "LA CALERA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00371",
+    "llaveProceso": "25377408900120180037100",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "07/12/2018",
+    "mandamientoPago": "17/01/2019",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "24/04/2019",
+        "resultado": "POSITIVO",
+        "fechaAporta": "24/04/2019"
+      },
+      "292": {
+        "resultado": "POSITIVO"
+      },
+      "certimail": "NO",
+      "fisico": "SI",
+      "tipo": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "28/01/2019",
+      "medidaSolicitada": "EMBARGO INMUEBLES"
+    }
+  },
+  "demandas": [],
+  "numero": 508,
+  "llaveProceso": "25377408900120180037100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3123703828
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "ALFONSO",
+    "primerApellido": "VASQUEZ",
+    "segundoApellido": "TOVAR",
+    "cedula": 11230400,
+    "direccion": "CALLE 2 A No 5-22 APTO 503",
+    "email": "joalvato09@hotmail.com"
+  },
+  "cc": 11230400,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JOSE ALFONSO VASQUEZ TOVAR",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2019-04-24T05:00:00.000Z",
+        "fechaAporta": "2019-04-24T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": null
+  }
+}

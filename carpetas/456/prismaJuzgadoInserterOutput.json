@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 751,
+      "tipo": "JUZGADO 751 CIVIL MUNICIPAL DE PEQUEÑAS CAUSAS DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-751-civil-municipal-de-pequeñas-causas-de-bogotá-"
+    }
+  ]
+}

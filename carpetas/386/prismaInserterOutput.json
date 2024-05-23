@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 386,
+    "numero": 386,
+    "llaveProceso": "25269400300120170074400",
+    "nombre": "alexander null prada palmar",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 556,
+    "cedula": "1033739670",
+    "primerNombre": "lorena",
+    "primerApellido": "chaparro",
+    "segundoNombre": "guiselle",
+    "segundoApellido": "leal",
+    "direccion": "calle 71 no. 46-08 sur",
+    "email": "lorena19081@hotmail.com",
+    "telCelular": "3046243064",
+    "telFijo": "6243064",
+    "carpetaNumero": 568
+  }
+}

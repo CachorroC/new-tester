@@ -1,0 +1,201 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 964317241,
+      "llaveProceso": "25183400300120170011900",
+      "consActuacion": 14540213,
+      "fechaActuacion": "2020-11-04T05:00:00.000Z",
+      "actuacion": "FIJACION ESTADO",
+      "anotacion": "",
+      "fechaInicial": "2020-11-04T05:00:00.000Z",
+      "fechaFinal": "2020-11-06T05:00:00.000Z",
+      "fechaRegistro": "2020-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 4,
+      "idProceso": 86212271,
+      "isUltimaAct": false,
+      "carpetaNumero": 76,
+      "createdAt": "2023-12-10T20:30:32.673Z"
+    },
+    {
+      "idRegActuacion": 964317311,
+      "llaveProceso": "25183400300120170011900",
+      "consActuacion": 14540212,
+      "fechaActuacion": "2020-11-03T05:00:00.000Z",
+      "actuacion": "aUTO DECIDE",
+      "anotacion": "DEJA SIN VALOR Y EFECTO RECONOCE SUBROGATARIO",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2020-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": true,
+      "cant": 4,
+      "idProceso": 86212271,
+      "isUltimaAct": false,
+      "carpetaNumero": 76,
+      "createdAt": "2023-12-10T20:30:32.673Z"
+    },
+    {
+      "idRegActuacion": 961709631,
+      "llaveProceso": "25183400300120170011900",
+      "consActuacion": 14379614,
+      "fechaActuacion": "2020-10-21T05:00:00.000Z",
+      "actuacion": "AL DESPACHO",
+      "anotacion": "",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2020-10-21T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 4,
+      "idProceso": 86212271,
+      "isUltimaAct": false,
+      "carpetaNumero": 76,
+      "createdAt": "2023-12-10T20:30:32.673Z"
+    },
+    {
+      "idRegActuacion": 961710411,
+      "llaveProceso": "25183400300120170011900",
+      "consActuacion": 14379604,
+      "fechaActuacion": "2020-10-21T05:00:00.000Z",
+      "actuacion": "CONSTANCIA DE TERMINOS",
+      "anotacion": "",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2020-10-21T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": true,
+      "cant": 4,
+      "idProceso": 86212271,
+      "isUltimaAct": false,
+      "carpetaNumero": 76,
+      "createdAt": "2023-12-10T20:30:32.673Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 1,
+      "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE CHOCONTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-001-civil-municipal-de-choconta"
+    }
+  ],
+  "codeudor": {
+    "nombre": "ADELMO ABRIL FORERO",
+    "cedula": "80394005",
+    "direccion": "CALLE 8 # 2 - 32 CHOCONTA",
+    "telefono": "3143782313",
+    "id": 76,
+    "carpetaNumero": 76
+  },
+  "demanda": {
+    "vencimientoPagare": "21/07/2019",
+    "obligacion": {
+      "A": 2660080368
+    },
+    "capitalAdeudado": "$ 17.517.434",
+    "entregaGarantiasAbogado": "12/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CHOCONTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00119",
+    "llaveProceso": "25183400300120170011900",
+    "etapaProcesal": "25183400300120170011900",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "21/06/2017",
+    "notificacion": {
+      "certimail": "17/07/2017",
+      "autoNotificado": "PNAL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "16/08/2017",
+      "medidaSolicitada": "17/07/2017"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 86212271,
+      "idConexion": 320,
+      "llaveProceso": "25183400300120170011900",
+      "fechaProceso": "2017-06-21T05:00:00.000Z",
+      "fechaUltimaActuacion": "2020-11-04T05:00:00.000Z",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: ADELMO  ABRIL FORERO | Demandado/indiciado/causante: STELLA  MARIN GARZON | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "17/07/2017"
+      },
+      "vencimientoPagare": ["2019-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-12-06T05:00:00.000Z",
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": "25183400300120170011900",
+      "fechaPresentacion": [],
+      "municipio": "CHOCONTA",
+      "obligacion": [2660080368],
+      "radicado": "2017 - 00119"
+    }
+  ],
+  "numero": 76,
+  "llaveProceso": "25183400300120170011900",
+  "fecha": "2020-11-04T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 964317241,
+    "llaveProceso": "25183400300120170011900",
+    "consActuacion": 14540213,
+    "fechaActuacion": "2020-11-04T00:00:00",
+    "actuacion": "FIJACION ESTADO",
+    "anotacion": "",
+    "fechaInicial": "2020-11-04T00:00:00",
+    "fechaFinal": "2020-11-06T00:00:00",
+    "fechaRegistro": "2020-11-03T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 4,
+    "idProceso": 86212271,
+    "isUltimaAct": false
+  },
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3112110025
+    },
+    "primerNombre": "ESTELA",
+    "segundoNombre": "MARIN",
+    "primerApellido": "GARZÓN",
+    "segundoApellido": null,
+    "cedula": 20493423,
+    "direccion": "CALLE 8 # 2 - 32 CHOCONTA",
+    "email": "stellamarin23@hotmail.com"
+  },
+  "cc": 20493423,
+  "procesos": [
+    {
+      "idProceso": 86212271,
+      "idConexion": 320,
+      "llaveProceso": "25183400300120170011900",
+      "fechaProceso": "2017-06-21T05:00:00.000Z",
+      "fechaUltimaActuacion": "2020-11-04T05:00:00.000Z",
+      "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE CHOCONTÁ ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: ADELMO  ABRIL FORERO | Demandado/indiciado/causante: STELLA  MARIN GARZON | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [86212271],
+  "nombre": "ESTELA MARIN GARZÓN",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": "PNAL"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304520170116400",
+  "numero": 239,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53131901,
+    "direccion": "carrera 88c  63 sur 67 torre 5 apartamento 1",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nidia",
+    "segundoNombre": "jacqueline",
+    "primerApellido": "riveros",
+    "segundoApellido": "araque"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2022-12-14T00:00:00.000Z",
+    "mandamientoPago": "2017-10-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-13T00:00:00.000Z",
+    "expediente": "11001400304520170116400",
+    "capitalAdeudado": 1788247698,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [20990135265],
+    "radicado": "2017 - 01164",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53131901,
+  "idProcesos": null
+}

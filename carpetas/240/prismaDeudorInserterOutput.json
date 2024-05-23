@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 237,
+    "cedula": "180145973",
+    "primerNombre": "cesar",
+    "primerApellido": "moreno",
+    "segundoNombre": "alirio",
+    "segundoApellido": "mongui",
+    "direccion": "carrera 8 no 3-33",
+    "email": "cesarramm09@hotmail.com",
+    "telCelular": "3134293286",
+    "telFijo": "5774513",
+    "carpetaNumero": 240
+  }
+}

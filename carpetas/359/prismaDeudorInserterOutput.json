@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 356,
+    "cedula": "79357895",
+    "primerNombre": "jose",
+    "primerApellido": "peña",
+    "segundoNombre": "david",
+    "segundoApellido": "saavedra",
+    "direccion": "carrera 123 no 13 - 85 casa 364",
+    "email": null,
+    "telCelular": "3165335586",
+    "telFijo": "1665335",
+    "carpetaNumero": 359
+  }
+}

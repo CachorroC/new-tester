@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25899400300220170025600",
+  "numero": 52,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 35412591,
+    "direccion": "carrera 7 no. 25-51 bq/ to 9 apto 104 parque residencial villazo zipaquira",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3114720151
+    },
+    "primerNombre": "martha",
+    "segundoNombre": "stella",
+    "primerApellido": "gomez",
+    "segundoApellido": "bolivar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-22T00:00:00.000Z",
+    "mandamientoPago": "2017-06-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "25899400300220170025600",
+    "capitalAdeudado": 16302625,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["320 160226", "160226//377813713927961"],
+    "radicado": "2017 - 00256",
+    "vencimientoPagare": ["2031-01-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 11337901,
+    "direccion": "CARRERA 7 No. 25-51 BQ/ TO 9 APTO 104 PARQUE RESIDENCIAL VILLAZO ZIPAQUIRA",
+    "nombre": "hector manuel manjarres vega",
+    "telefono": 3114720151
+  },
+  "cc": 35412591,
+  "idProcesos": null
+}

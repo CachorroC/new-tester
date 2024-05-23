@@ -1,0 +1,88 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 86,
+      "tipo": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-086-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "14/08/2017",
+    "obligacion": {
+      "A": 12766386
+    },
+    "capitalAdeudado": 46042338,
+    "entregaGarantiasAbogado": "24/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00863",
+    "llaveProceso": "11001400308620170086300",
+    "fechaPresentacion": "28/08/2017"
+  },
+  "demandas": [
+    {
+      "idProceso": 81888701,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620170086300",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2017-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 46042338,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": ["2017-08-28T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [12766386],
+      "radicado": "2017 - 00863"
+    }
+  ],
+  "numero": 171,
+  "llaveProceso": "11001400308620170086300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARITZA",
+    "segundoNombre": "NATALI",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "URREA",
+    "cedula": 1024468871,
+    "direccion": "CALLE 59C SUR # 87K - 64 APTO 1016",
+    "email": "jlaura00@hotmail.com"
+  },
+  "cc": 1024468871,
+  "procesos": [
+    {
+      "idProceso": 81888701,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620170086300",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [81888701],
+  "nombre": "MARITZA NATALI RODRIGUEZ URREA",
+  "notificacion": null
+}

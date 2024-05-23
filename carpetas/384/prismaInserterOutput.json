@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 384,
+    "numero": 384,
+    "llaveProceso": "11001400305620180011000",
+    "nombre": "diego javier galindo mejia",
+    "idProcesos": [50980370],
+    "category": "Terminados"
+  }
+}

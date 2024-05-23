@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-01-14T05:00:00.000Z",
+  "idProcesos": [50633790],
+  "idRegUltimaAct": 638348500,
+  "llaveProceso": "11001400301420170098800",
+  "nombre": "CESAR AUGUSTO GIL GALLEGO",
+  "numero": 119,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:40.048Z"
+}

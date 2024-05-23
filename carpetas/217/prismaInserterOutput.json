@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 217,
+    "numero": 217,
+    "llaveProceso": "11001310303720170045300",
+    "nombre": "diana vanessa naranjo hernandez",
+    "idProcesos": [51315290, 57718874],
+    "category": "LiosJuridicos"
+  }
+}

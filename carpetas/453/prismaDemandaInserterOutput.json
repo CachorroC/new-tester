@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 448,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1108010768",
+    "entregaGarantiasAbogado": "2018-06-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-10-23T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2018-07-03T00:00:00.000Z",
+    "municipio": "FUNZA",
+    "obligacion": ["5303728778961290"],
+    "radicado": "2018 - 00841",
+    "vencimientoPagare": [],
+    "expediente": "25286400300120180084100",
+    "carpetaNumero": 453,
+    "despacho": null
+  }
+}

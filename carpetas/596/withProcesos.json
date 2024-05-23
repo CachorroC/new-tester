@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "7/02/2049",
+    "obligacion": {
+      "A": 90000058700
+    },
+    "capitalAdeudado": "$ 78.458.975",
+    "entregaGarantiasAbogado": "14/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO"
+  },
+  "demandas": [
+    {
+      "idProceso": 596,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2049-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [90000058700],
+      "radicado": null
+    }
+  ],
+  "numero": 596,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3112328013
+    },
+    "primerNombre": "ELSA",
+    "segundoNombre": "CONSUELO",
+    "primerApellido": "ROBAYO",
+    "segundoApellido": null,
+    "cedula": 51774908,
+    "direccion": "Calle 151 No. 109 A - 50 Casa 180 // Carrera 102 No. 154 - 30 Torre 6 Apto 201 Conjunto",
+    "email": "consu4908@hotmail.com"
+  },
+  "cc": 51774908,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "ELSA CONSUELO ROBAYO",
+  "notificacion": null
+}

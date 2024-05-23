@@ -1,0 +1,91 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "LUZ ANGELA POVEDA RAMOS",
+    "cedula": "53911221",
+    "direccion": "CARRERA 3 ESTE # 6B - 36 CHIA",
+    "telefono": "8393651",
+    "id": 158,
+    "carpetaNumero": 158
+  },
+  "demanda": {
+    "vencimientoPagare": "26/03/2034",
+    "obligacion": {
+      "A": 173482,
+      "B": "4099849860904006 // AUDIOPRESTAMO"
+    },
+    "capitalAdeudado": "$ 183.128.611",
+    "entregaGarantiasAbogado": "17/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "ZIPAQUIRA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00393",
+    "llaveProceso": "25899310300120170039300",
+    "etapaProcesal": "25899310300120170039300",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "29/08/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO",
+        "resultado": "23/05/2018"
+      },
+      "292": {
+        "fechaRecibido": "23/05/2018",
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "7/03/2017",
+      "fisico": "SI",
+      "autoNotificado": "PERSONAL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "13/07/2018",
+      "medidaSolicitada": "7/03/2017"
+    }
+  },
+  "demandas": [],
+  "numero": 158,
+  "llaveProceso": "25899310300120170039300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JULIAN",
+    "segundoNombre": "JHOHANY",
+    "primerApellido": "GALLEGO",
+    "segundoApellido": "MONTES",
+    "cedula": 80808819,
+    "direccion": "CARRERA 3 ESTE # 6B - 36 CHIA",
+    "email": "jjgallego14@hotmail.com"
+  },
+  "cc": 80808819,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JULIAN JHOHANY GALLEGO MONTES",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2018-05-23T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "PERSONAL"
+  }
+}

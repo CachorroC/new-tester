@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400306520170090300",
+  "numero": 39,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79982488,
+    "direccion": "calle 120 no. 11 b-66 bogota",
+    "email": "trujete@hotmail.com",
+    "tel": {
+      "fijo": 7053290,
+      "celular": 3012746201
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "alonso",
+    "primerApellido": "trujillo",
+    "segundoApellido": "gómez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-13T00:00:00.000Z",
+    "mandamientoPago": "2017-07-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-07T00:00:00.000Z",
+    "expediente": "11001400306520170090300",
+    "capitalAdeudado": 23090872,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "1030083498-10322560611//377815447801594",
+      "4513074699689599//5303710402241209"
+    ],
+    "radicado": "2017 - 00903",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79982488,
+  "idProcesos": null
+}

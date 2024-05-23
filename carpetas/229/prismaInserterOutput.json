@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 229,
+    "numero": 229,
+    "llaveProceso": "11001400306820170124000",
+    "nombre": "jennifer alejandra mogollón bernal",
+    "idProcesos": [19211240],
+    "category": "Terminados"
+  }
+}

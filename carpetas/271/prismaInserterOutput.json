@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 271,
+    "numero": 271,
+    "llaveProceso": "11001400405420170099000",
+    "nombre": "aura geovana rodriguez mora",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

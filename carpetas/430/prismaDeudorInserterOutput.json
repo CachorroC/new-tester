@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 425,
+    "cedula": "1024517216",
+    "primerNombre": "jhonatan",
+    "primerApellido": "",
+    "segundoNombre": "alejandro",
+    "segundoApellido": "cuellar,arias",
+    "direccion": "diagonal 68 d no 70c-31",
+    "email": "alejaso1291@hotmail.com",
+    "telCelular": "3112907361",
+    "telFijo": null,
+    "carpetaNumero": 430
+  }
+}

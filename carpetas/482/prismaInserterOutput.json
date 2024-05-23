@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 482,
+    "numero": 482,
+    "llaveProceso": "11001400307120180093600",
+    "nombre": "claudia janeth cortes rosas",
+    "idProcesos": [18597560],
+    "category": "Terminados"
+  }
+}

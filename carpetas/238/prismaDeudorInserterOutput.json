@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 235,
+    "cedula": "7181490",
+    "primerNombre": "fredy",
+    "primerApellido": "ruda",
+    "segundoNombre": "alexander",
+    "segundoApellido": "arias",
+    "direccion": null,
+    "email": "blamblemooo1@gmail.com",
+    "telCelular": "3106289389",
+    "telFijo": "2362747",
+    "carpetaNumero": 238
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:15.790Z",
+  "savedDate": 1513573200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 997570440,
+    "llaveProceso": "11001400307320170164700",
+    "consActuacion": 39,
+    "fechaActuacion": "2020-11-06T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CAJA 03",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-11-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 39,
+    "isUltimaAct": true,
+    "idProceso": 50923290
+  }
+}

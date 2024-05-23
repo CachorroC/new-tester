@@ -1,0 +1,96 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "28/08/2033",
+    "obligacion": {
+      "A": 167362
+    },
+    "capitalAdeudado": "18.236.088",
+    "entregaGarantiasAbogado": "15/02/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00177",
+    "llaveProceso": "257544189003201800177",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "21/02/2018",
+    "mandamientoPago": "14/03/2018",
+    "notificacion": {
+      "292": {
+        "resultado": "10/06/2018"
+      },
+      "tipo": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "14/03/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 404,
+      "idConexion": null,
+      "llaveProceso": "257544189003201800177",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "INMUEBLE"
+      },
+      "vencimientoPagare": ["2033-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 18236088,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "SENTENCIA",
+      "fechaPresentacion": ["2018-02-21T05:00:00.000Z"],
+      "municipio": "SOACHA",
+      "obligacion": [167362],
+      "radicado": "2018 - 00177"
+    }
+  ],
+  "numero": 404,
+  "llaveProceso": "257544189003201800177",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 2035780,
+      "celular": 3102259717
+    },
+    "primerNombre": "CESAR",
+    "segundoNombre": "AUGUSTO",
+    "primerApellido": "PINEDA",
+    "segundoApellido": "RIOS",
+    "cedula": 1013586083,
+    "direccion": "DIAGONAL 18 B No 44-24",
+    "email": "cesar.rios_30@hotmail.com"
+  },
+  "cc": 1013586083,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "CESAR AUGUSTO PINEDA RIOS",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

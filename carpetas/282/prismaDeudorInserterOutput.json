@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 279,
+    "cedula": "19255260",
+    "primerNombre": "matias",
+    "primerApellido": "avila",
+    "segundoNombre": "humberto",
+    "segundoApellido": "aguilar",
+    "direccion": "calle 2 c no 62 - 20",
+    "email": "maifren_13@yahoo.es",
+    "telCelular": "3125024008",
+    "telFijo": "4170527",
+    "carpetaNumero": 282
+  }
+}

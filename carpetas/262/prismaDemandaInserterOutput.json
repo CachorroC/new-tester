@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 259,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1584054583",
+    "entregaGarantiasAbogado": "2017-09-12T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-09-27T00:00:00.000Z",
+    "municipio": "FUSAGASUGA",
+    "obligacion": ["9450082213 /0377847716751531", "0377847593768038"],
+    "radicado": "2017 - 00631",
+    "vencimientoPagare": ["2018-08-01T00:00:00.000Z"],
+    "expediente": "2590400300220170063100",
+    "carpetaNumero": 262,
+    "despacho": null
+  }
+}

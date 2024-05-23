@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305020170133600",
+  "numero": 387,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 91263617,
+    "direccion": "carrera 85  b no  23 b - 69  interior 7 apartamento  314",
+    "email": "leo.sanabria@live.com.mx",
+    "tel": {
+      "fijo": 4251180,
+      "celular": 3118066048
+    },
+    "primerNombre": "leonardo",
+    "primerApellido": "sanabria",
+    "segundoApellido": "sanabria",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-20T00:00:00.000Z",
+    "mandamientoPago": "2018-02-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-09T00:00:00.000Z",
+    "expediente": "11001400305020170133600",
+    "capitalAdeudado": 36331525,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2500085167, "AUDIOPRESTAMO"],
+    "radicado": "2017 - 01336",
+    "vencimientoPagare": ["2019-05-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 91263617,
+  "idProcesos": null
+}

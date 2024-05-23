@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 30,
+    "cedula": "52367601",
+    "primerNombre": "mireya",
+    "primerApellido": "beltran",
+    "segundoNombre": "viviana",
+    "segundoApellido": "herrera",
+    "direccion": "carrera 8 no 192 - 60  apartamento  312  / garage  29",
+    "email": "mivibel@yahoo.com",
+    "telCelular": "3002107965",
+    "telFijo": null,
+    "carpetaNumero": 30
+  }
+}

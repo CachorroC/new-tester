@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25799418900120180033500",
+  "numero": 478,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 3199064,
+    "direccion": "carrera 4  no  1f-52  tenjo",
+    "email": "juristenjo@hotmail.com",
+    "tel": {
+      "fijo": 8646896,
+      "celular": 3202340560
+    },
+    "primerNombre": "fabio",
+    "segundoNombre": "hernando",
+    "primerApellido": "pastor",
+    "segundoApellido": "pastor"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-11-09T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25799418900120180033500",
+    "capitalAdeudado": 1614735900,
+    "etapaProcesal": "ADMISION",
+    "municipio": "TENJO",
+    "obligacion": ["3450084783 / 3450084855", "AUDIOPRESTAMO"],
+    "radicado": "2018 - 00335",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 19360879,
+    "direccion": "CALLE 4 A No 1-46 CASA 43",
+    "nombre": "leonardo augusto camacho gonzalez",
+    "telefono": "8830921 / 3202785286"
+  },
+  "cc": 3199064,
+  "idProcesos": null
+}

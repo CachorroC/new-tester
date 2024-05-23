@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 385,
+    "cedula": "52644132",
+    "primerNombre": "ximena",
+    "primerApellido": "escobar",
+    "segundoNombre": "",
+    "segundoApellido": "pucceti",
+    "direccion": "carrera 14 b no 119 - 30  bogota",
+    "email": "ximpucci1@hotmail.com",
+    "telCelular": "3124575163",
+    "telFijo": "6126610",
+    "carpetaNumero": 388
+  }
+}

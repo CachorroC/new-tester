@@ -1,0 +1,13 @@
+{
+  "category": "Bancolombia",
+  "fecha": "2023-11-21T05:00:00.000Z",
+  "idProcesos": [50468620, 113956611],
+  "idRegUltimaAct": 1936452500,
+  "llaveProceso": "11001400300320170088400",
+  "nombre": "YESID ALBEIRO RAMOS",
+  "numero": 16,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:23.005Z"
+}

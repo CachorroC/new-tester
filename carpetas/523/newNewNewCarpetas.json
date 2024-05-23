@@ -1,0 +1,47 @@
+{
+  "id": 1014185022,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["20990158449"],
+    "llaveProceso": "11001418907620190043400",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 2214474193,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2019 -00434",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2018-11-26T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3123704906
+    },
+    "primerNombre": "LUISA",
+    "segundoNombre": "ALEJANDRA",
+    "primerApellido": "ESCOBAR",
+    "segundoApellido": "ANDRADE",
+    "cedula": 1014185022,
+    "direccion": "CALLE 90A No 45 A- 05",
+    "email": "aleja202007@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418907620190043400",
+  "nombre": "LUISA ALEJANDRA ESCOBAR ANDRADE",
+  "numero": 523,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:37.336Z"
+}

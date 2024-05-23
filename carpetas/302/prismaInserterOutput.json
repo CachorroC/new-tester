@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 302,
+    "numero": 302,
+    "llaveProceso": "25286310300120170100300",
+    "nombre": "edgar null godoy lopez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

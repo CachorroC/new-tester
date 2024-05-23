@@ -1,0 +1,54 @@
+{
+  "id": 1072421639,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["3840082880"],
+    "llaveProceso": "25035408900120170010800",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "1/03/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:08:52.112Z",
+      "medidaSolicitada": "SALARIOS"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-05-31T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "ANAPOIMA",
+    "radicado": "2017 - 00108",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3126139284
+    },
+    "primerNombre": "JUAN",
+    "segundoNombre": "DANIEL",
+    "primerApellido": "MORENO",
+    "segundoApellido": "CIFUENTES",
+    "cedula": 1072421639,
+    "direccion": "BARRIO SANTA ANA FC LA CAMPIÑA ANAPOIMA",
+    "email": "jdanielmoreno87@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25035408900120170010800",
+  "nombre": "JUAN DANIEL MORENO CIFUENTES",
+  "numero": 42,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:52.112Z"
+}

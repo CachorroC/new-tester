@@ -1,0 +1,97 @@
+{
+  "id": 91250936,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 472
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "15720013",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-03-08T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-08-09T05:00:00.000Z"],
+    "id": 472,
+    "llaveProceso": "11001418900920180038900",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 472,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "1970-01-01T00:00:43.417Z",
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2010085214", "3778151023327"],
+    "radicado": "2018 - 00389",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2022-03-13T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 472,
+      "fechaOrdenaMedida": "2024-02-10T00:55:01.766Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 472,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "SERGIO",
+    "segundoNombre": "ESPINEL",
+    "primerApellido": "CORREAL",
+    "segundoApellido": null,
+    "cedula": "91250936",
+    "direccion": "CARRERA 7 D No 151-40 APTO 101",
+    "email": "sergioespinel5@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418900920180038900",
+  "nombre": "sergio espinel correal",
+  "numero": 472,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 472,
+      "createdAt": "2024-02-10T00:55:01.766Z",
+      "pathname": null,
+      "dueDate": "2020-04-03T05:00:00.000Z",
+      "text": "EL 3/03/2020 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 472,
+      "createdAt": "2024-02-10T00:55:01.766Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL DESGLOSE DE LAS GARANTIAS Y EL LEVANTAMIENTO DE MEDIDAS CAUTELARES A CARGO DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.766Z"
+}

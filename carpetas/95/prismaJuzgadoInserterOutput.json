@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 28,
+      "tipo": "JUZGADO 028 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-28-civil-municipal-de-bogota"
+    }
+  ]
+}

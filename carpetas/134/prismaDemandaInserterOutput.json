@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 132,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "54428394",
+    "entregaGarantiasAbogado": "2017-08-16T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-08-24T00:00:00.000Z",
+    "municipio": "MADRID",
+    "obligacion": ["167364", "377813624212172."],
+    "radicado": "2017 - 01083",
+    "vencimientoPagare": ["2028-08-01T00:00:00.000Z"],
+    "expediente": "25430400300120170108300",
+    "carpetaNumero": 134,
+    "despacho": null
+  }
+}

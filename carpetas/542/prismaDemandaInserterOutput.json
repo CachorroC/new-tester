@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 530,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "12864472",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-12-10T00:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2018-05-09T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "AMERICAN 377813618831557",
+      "VISA 4513070030495183 // 5303715376619405"
+    ],
+    "radicado": "2018 - 00644",
+    "vencimientoPagare": [
+      "2021-04-01T00:00:00.000Z",
+      "2021-04-01T00:00:00.000Z"
+    ],
+    "expediente": "11001418901220180064400",
+    "carpetaNumero": 542,
+    "despacho": null
+  }
+}

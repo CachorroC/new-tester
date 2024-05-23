@@ -1,0 +1,5 @@
+{
+  "StatusCode": 400,
+  "Message": "error at Error: no hay procesos en la carpeta por lo tanto no se pueden crear juzgados, error.",
+  "data": "{}"
+}

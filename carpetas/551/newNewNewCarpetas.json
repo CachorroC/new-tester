@@ -1,0 +1,76 @@
+{
+  "id": 1075211773,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 551
+  },
+  "demanda": {
+    "capitalAdeudado": "28018855",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-06-20T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "202300763",
+    "mandamientoPago": null,
+    "municipio": "FUSAGASUGA",
+    "notificacion": {
+      "id": 551,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2640096179"],
+    "radicado": "2023 - 00371",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2028-03-08T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 551,
+      "fechaOrdenaMedida": "2024-02-03T00:36:29.887Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 551,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "PEDRO",
+    "segundoNombre": "JONATHAN",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "GOMEZ",
+    "cedula": "1075211773",
+    "direccion": "KR 1 2 41 Fusagasugá",
+    "email": "jonathansoldier@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "202300763",
+  "nombre": "PEDRO JONATHAN RAMIREZ GOMEZ",
+  "numero": 551,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:29.887Z"
+}

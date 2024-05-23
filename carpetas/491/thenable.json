@@ -1,0 +1,44 @@
+{
+  "llaveProceso": "11001418900820180078500",
+  "numero": 491,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 51987570,
+    "direccion": "calle 163 b no 50-80  interior 10 apt 231 conjunto la estancia iii",
+    "email": "sandrabogota2007@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "pacheco",
+    "segundoApellido": "ramirez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "expediente": "11001418900820180078500",
+    "capitalAdeudado": 18100699,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "AUDIOPRESTAMO",
+      "0377816345049476 // 4513070259455355 // 5303720114305077"
+    ],
+    "radicado": "JUZGADOS EJECUCION",
+    "vencimientoPagare": [
+      null,
+      null,
+      "2021-05-07T05:00:00.000Z",
+      "2021-05-07T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51987570,
+  "idProcesos": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1106893308,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12650694"],
+    "llaveProceso": "73449408900220170025900",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2017-12-12T05:00:00.000Z",
+        "fechaAporta": "2017-12-13T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2017-12-12T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "13/12/2017"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    },
+    "capitalAdeudado": null,
+    "departamento": "TOLIMA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-08-31T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "MELGAR",
+    "radicado": "2017 - 00259",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-08-16T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8612781,
+      "celular": 3108612781
+    },
+    "primerNombre": "MARTHA",
+    "segundoNombre": "LILIANA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "COLORADO",
+    "cedula": 1106893308,
+    "direccion": "VEREDA BOQUERON . FINCA LA MILAGROSA. MUNICIPIO FUSA // CALLE 3 # 37 - 21 BARRIO SICAMORO. MELGAR",
+    "email": "liliaramirez17@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "73449408900220170025900",
+  "nombre": "MARTHA LILIANA RAMIREZ COLORADO",
+  "numero": 199,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:49.814Z"
+}

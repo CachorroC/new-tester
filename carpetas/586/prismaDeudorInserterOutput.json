@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 574,
+    "cedula": "35507149",
+    "primerNombre": "maria",
+    "primerApellido": "pineda",
+    "segundoNombre": "nancy",
+    "segundoApellido": "leon",
+    "direccion": "carrera 3a. no. 1 - 18 silvania (cundinamarca)",
+    "email": "nancypleon13gmail.com",
+    "telCelular": "3506013954",
+    "telFijo": null,
+    "carpetaNumero": 586
+  }
+}

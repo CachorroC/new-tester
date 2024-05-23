@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 118,
+    "numero": 118,
+    "llaveProceso": "11001400305320170145600",
+    "nombre": "jaime orlando peña rojas",
+    "idProcesos": [12003633],
+    "category": "Terminados"
+  }
+}

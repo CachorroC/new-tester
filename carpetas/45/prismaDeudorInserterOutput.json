@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 45,
+    "cedula": "4042105",
+    "primerNombre": "edison",
+    "primerApellido": "cardenal",
+    "segundoNombre": "palma",
+    "segundoApellido": null,
+    "direccion": "sin informacion",
+    "email": null,
+    "telCelular": "3123142449",
+    "telFijo": null,
+    "carpetaNumero": 45
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 265,
+    "numero": 265,
+    "llaveProceso": "1100140030202100050100",
+    "nombre": "julio rene sanchez argote",
+    "idProcesos": [],
+    "category": "Insolvencia"
+  }
+}

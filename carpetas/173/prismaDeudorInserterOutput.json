@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 171,
+    "cedula": "79878252",
+    "primerNombre": "diego",
+    "primerApellido": "caycedo",
+    "segundoNombre": "alexander",
+    "segundoApellido": "ochoa",
+    "direccion": "calle 69a sur # 104 - 18 casa 177",
+    "email": "diegoc8a@gmail.com",
+    "telCelular": "3114901649",
+    "telFijo": "7230139",
+    "carpetaNumero": 173
+  }
+}

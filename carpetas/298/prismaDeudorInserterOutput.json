@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 295,
+    "cedula": "79659040",
+    "primerNombre": "hector",
+    "primerApellido": "ramirez",
+    "segundoNombre": "gabriel",
+    "segundoApellido": "bohorquez",
+    "direccion": "calle 58 a sur no 18 b -35 int 6",
+    "email": "gabrielisag61@hotmail.com",
+    "telCelular": "3164700074",
+    "telFijo": null,
+    "carpetaNumero": 298
+  }
+}

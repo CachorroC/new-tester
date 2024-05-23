@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308020170076000",
+  "numero": 325,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 30583011,
+    "direccion": null,
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "marcela",
+    "segundoNombre": "patricia",
+    "primerApellido": "diaz",
+    "segundoApellido": "pereira"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-02T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400308020170076000",
+    "capitalAdeudado": 0,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [],
+    "radicado": "2017 - 00760",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 30583011,
+  "idProcesos": null
+}

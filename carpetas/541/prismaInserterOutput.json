@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 540,
+    "numero": 541,
+    "llaveProceso": "11001400308220180096400",
+    "nombre": "jose ramon estrada castillo",
+    "idProcesos": [52160520, 112967583],
+    "category": "Reintegra"
+  }
+}

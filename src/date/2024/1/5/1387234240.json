@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-05T11:00:05.788Z",
+  "savedDate": null,
+  "ultimaActuacion": {
+    "idRegActuacion": 1387234240,
+    "llaveProceso": "11001400301320170084100",
+    "consActuacion": 58,
+    "fechaActuacion": "2022-09-05T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "EXPEDIENTE PASA A ARCHIVO DEFINITIVO CAJA N° 396 // WILLIAM LEIVA R",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-09-05T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 58,
+    "isUltimaAct": true,
+    "idProceso": 50525440
+  }
+}

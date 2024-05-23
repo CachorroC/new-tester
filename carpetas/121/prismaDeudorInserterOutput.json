@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 120,
+    "cedula": "19453362",
+    "primerNombre": "jaime",
+    "primerApellido": "lugo",
+    "segundoNombre": "orlando",
+    "segundoApellido": "rodriguez",
+    "direccion": "carrera 22 a # 8d - 08 sur",
+    "email": "orlandolugo.r@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 121
+  }
+}

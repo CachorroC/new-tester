@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 32,
+      "tipo": "JUZGADO 032 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-032-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  ]
+}

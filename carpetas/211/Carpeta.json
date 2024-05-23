@@ -1,0 +1,105 @@
+{
+  "id": 17652071,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MARIA NUBIA MARTINEZ CELY ",
+    "cedula": "52901502",
+    "direccion": "CARRERA 4 # 11 - 44 // CL 64 D No. 69-22",
+    "telefono": "7555569",
+    "id": 211
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "36520798.77",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.971Z",
+    "etapaProcesal": "25286400300120180010500",
+    "fechaPresentacion": [],
+    "id": 211,
+    "llaveProceso": "25473400300120180010500",
+    "mandamientoPago": [],
+    "municipio": "MOSQUERA",
+    "notificacion": {
+      "id": 211,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.245Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["166601"],
+    "radicado": "2018 - 00105",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.967Z"],
+    "medidasCautelares": {
+      "id": 211,
+      "fechaOrdenaMedida": "2024-02-10T00:54:39.033Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 211,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "SAUL",
+    "segundoNombre": "BARBOSA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": null,
+    "cedula": "17652071",
+    "direccion": "CARRERA 4A # 11 - 44 FUNZA",
+    "email": "marimar832010@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25473400300120180010500",
+  "nombre": "saul barbosa ramirez",
+  "numero": 211,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 211,
+      "createdAt": "2024-02-10T00:54:39.033Z",
+      "pathname": null,
+      "dueDate": "2021-06-11T05:00:00.000Z",
+      "text": "EL 11/05/2021 EL JUZGADO DECRETO TERMINACION PROCESO PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 211,
+      "createdAt": "2024-02-10T00:54:39.033Z",
+      "pathname": null,
+      "dueDate": "2021-09-25T05:00:00.000Z",
+      "text": " EL 25/08/2021 SE HIZO LEVANTAMIENTO DE MEDIDA CAUTELAR CON CERTIFICADO DE TRADICION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 211,
+      "createdAt": "2024-02-10T00:54:39.033Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 14/11/ 2021 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:39.033Z"
+}

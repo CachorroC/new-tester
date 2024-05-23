@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:32.432Z",
+  "savedDate": "2019-08-12T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1266283860,
+    "llaveProceso": "11001400308220180096400",
+    "consActuacion": 66,
+    "fechaActuacion": "2022-03-24T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "Pasa para baranda - PaulaA Ramírez ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-03-24T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 66,
+    "isUltimaAct": true,
+    "idProceso": 52160520
+  }
+}

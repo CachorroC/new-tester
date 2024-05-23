@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 297,
+    "numero": 297,
+    "llaveProceso": "15842408900120170009500",
+    "nombre": "miguel angel martinez huertas",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

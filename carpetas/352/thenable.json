@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400307620170101600",
+  "numero": 352,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 71992491,
+    "direccion": "transversal 2 c bis no 97 b-05 sur",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "mario",
+    "segundoNombre": "de",
+    "primerApellido": "jesus",
+    "segundoApellido": ["ossa", "pulgarin"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-17T00:00:00.000Z",
+    "mandamientoPago": "2017-10-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-29T00:00:00.000Z",
+    "expediente": "11001400307620170101600",
+    "capitalAdeudado": 11853652,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [4280023383],
+    "radicado": "2017 - 01016",
+    "vencimientoPagare": ["2019-05-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMRCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 24764240,
+    "direccion": "TRANSVERSAL 2 C BIS No 97 B -05 SUR",
+    "nombre": "blanca nubia lopez cifuentes",
+    "telefono": 3144245852
+  },
+  "cc": 71992491,
+  "idProcesos": null
+}

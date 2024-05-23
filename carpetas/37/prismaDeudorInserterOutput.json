@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 37,
+    "cedula": "1030536736",
+    "primerNombre": "luis",
+    "primerApellido": "alfonso",
+    "segundoNombre": "alberto",
+    "segundoApellido": "giraldo",
+    "direccion": "calle 14 mo. 8 -04 barrio san juan sibate",
+    "email": "luis.alfonso@correo.polica.gov.co",
+    "telCelular": "3208091862",
+    "telFijo": null,
+    "carpetaNumero": 37
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001410375120180112100",
+  "numero": 456,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 26407097,
+    "direccion": "calle  57b bis no 99b-64 sur bosa santa fe",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ana",
+    "segundoNombre": "lucia",
+    "primerApellido": "yañez",
+    "segundoApellido": ["vargas", "(fallecida)"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-07-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-29T00:00:00.000Z",
+    "expediente": "11001410375120180112100",
+    "capitalAdeudado": 24310470,
+    "etapaProcesal": "1.100141037512018e+22",
+    "municipio": "KENNEDY",
+    "obligacion": [10044000104],
+    "radicado": "2018 - 01121",
+    "vencimientoPagare": ["2021-01-29T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 26407097,
+  "idProcesos": null
+}

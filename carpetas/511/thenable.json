@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300220180041600",
+  "numero": 511,
+  "tipoProceso": "SOACHA",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52851677,
+    "direccion": "carrra 102 no 69-22",
+    "email": "dhyanitaco@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "marjorie",
+    "primerApellido": "romero",
+    "segundoApellido": "montoya"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754400300220180041600",
+    "capitalAdeudado": 4152225515,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [20990201453],
+    "radicado": "2018 - 00416",
+    "vencimientoPagare": ["2018-12-04T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52851677,
+  "idProcesos": null
+}

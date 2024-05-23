@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 453,
+    "cedula": "52271112",
+    "primerNombre": "sandra",
+    "primerApellido": "beltran",
+    "segundoNombre": "patricia",
+    "segundoApellido": "oviedo",
+    "direccion": "carrera 101 no 70 a-14 interior 1 apartamento 408",
+    "email": "saraja.7@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 458
+  }
+}

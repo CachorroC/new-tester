@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 206,
+    "numero": 206,
+    "llaveProceso": "11001400306420170146900",
+    "nombre": "edgar null martinez velandia",
+    "idProcesos": [17944250],
+    "category": "Terminados"
+  }
+}

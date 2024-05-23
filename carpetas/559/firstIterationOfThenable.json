@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "2/03/2026",
+    "obligacion": {
+      "A": 1080103378
+    },
+    "capitalAdeudado": "$ 42.598.393",
+    "entregaGarantiasAbogado": "26/07/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00886",
+    "llaveProceso": "11001418900420230088600"
+  },
+  "demandas": [],
+  "numero": 559,
+  "llaveProceso": "11001418900420230088600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3112633806
+    },
+    "primerNombre": "EDWIN",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "SALCEDO",
+    "segundoApellido": "PEREZ",
+    "cedula": 80219425,
+    "direccion": "Calle 50 Sur No. 93 D 38 Torre 07 Apartamento 601 Conjunto Residencial Porvenir Reservado Etapa 7, Carrera 89 A No. 45 A – 33 Sur Casa 207 Agrupación de Vivienda La Margarita Etapa 9",
+    "email": "edwsal736@gmail.com"
+  },
+  "cc": 80219425,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "EDWIN ALEXANDER SALCEDO PEREZ",
+  "notificacion": null
+}

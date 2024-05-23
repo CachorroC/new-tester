@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 281,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1548869600",
+    "entregaGarantiasAbogado": "2017-09-27T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-10-10T00:00:00.000Z",
+    "municipio": "COTA",
+    "obligacion": ["300093754"],
+    "radicado": "2017 - 00704",
+    "vencimientoPagare": [],
+    "expediente": "25214400300120170070400",
+    "carpetaNumero": 284,
+    "despacho": null
+  }
+}

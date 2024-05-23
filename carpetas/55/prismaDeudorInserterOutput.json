@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 55,
+    "cedula": "80353430",
+    "primerNombre": "douglas",
+    "primerApellido": "rios",
+    "segundoNombre": "ayure",
+    "segundoApellido": null,
+    "direccion": "calle 11 a no. 3-29 urbanizacion el porvenir madrid",
+    "email": "faride1109@yahoo.com",
+    "telCelular": "3124488945",
+    "telFijo": null,
+    "carpetaNumero": 55
+  }
+}

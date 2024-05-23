@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:22.832Z",
+  "savedDate": "2017-11-21T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 624648550,
+    "llaveProceso": "11001400301220170140000",
+    "consActuacion": 28,
+    "fechaActuacion": "2019-08-05T05:00:00.000Z",
+    "actuacion": "Retiro demanda admitida - Art.88",
+    "anotacion": "RETIRADA POR MARIA HELENA SUAREZ ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-08-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 28,
+    "isUltimaAct": true,
+    "idProceso": 50858060
+  }
+}

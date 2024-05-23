@@ -1,0 +1,97 @@
+{
+  "id": 3199064,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LEONARDO AUGUSTO CAMACHO GONZALEZ",
+    "cedula": "19360879",
+    "direccion": "CALLE 4 A No 1-46 CASA 43",
+    "telefono": "8830921 / 3202785286",
+    "id": 478
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "16147359",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-11T05:00:00.000Z"],
+    "id": 478,
+    "llaveProceso": "25799418900120180033500",
+    "mandamientoPago": [],
+    "municipio": "TENJO",
+    "notificacion": {
+      "id": 478,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["3450084783 / 3450084855", "AUDIOPRESTAMO"],
+    "radicado": "2018 - 00335",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-12-13T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 478,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.087Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 478,
+    "telCelular": "3202340560",
+    "telFijo": "8646896 ",
+    "primerNombre": "FABIO",
+    "segundoNombre": "HERNANDO",
+    "primerApellido": "PASTOR",
+    "segundoApellido": "PASTOR",
+    "cedula": "3199064",
+    "direccion": "CARRERA 4  No  1F-52  TENJO",
+    "email": "juristenjo@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25799418900120180033500",
+  "nombre": "fabio hernando pastor pastor",
+  "numero": 478,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 478,
+      "createdAt": "2024-02-10T00:55:02.087Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 19 DE OCTUBRE DE 2018 EL JUZGADO FIJA AUTO QUE ORDENA TERMINACION DEL PROCESO SIN MEDIDAS CAUTELARES DECRETADAS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 478,
+      "createdAt": "2024-02-10T00:55:02.087Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 7 DE DICIEMBRE DE 2018 SE DEVOLVIERON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.087Z"
+}

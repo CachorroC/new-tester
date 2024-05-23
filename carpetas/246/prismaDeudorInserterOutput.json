@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 243,
+    "cedula": "79805533",
+    "primerNombre": "edwin",
+    "primerApellido": "villamil",
+    "segundoNombre": "buitrago",
+    "segundoApellido": null,
+    "direccion": "carrera 26 no 44-76 sur",
+    "email": null,
+    "telCelular": "3204979488",
+    "telFijo": "7696884",
+    "carpetaNumero": 246
+  }
+}

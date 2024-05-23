@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25307400300320170033000",
+  "numero": 34,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1070612757,
+    "direccion": "m 7 torre 6 apto 404 girardot// calle 3 no. 27-01 edificio torr 6 manzana 7 ciudadela cafam del sol apto 404",
+    "email": "kjpg_11@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3006308169
+    },
+    "primerNombre": "karen",
+    "segundoNombre": "julieth",
+    "primerApellido": "pinzon",
+    "segundoApellido": "gutierrez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-08T00:00:00.000Z",
+    "mandamientoPago": "2017-06-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-06T00:00:00.000Z",
+    "expediente": "25307400300320170033000",
+    "capitalAdeudado": 26815877,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "GIRARDOT",
+    "obligacion": [23595],
+    "radicado": "2017 - 00330",
+    "vencimientoPagare": ["2036-04-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "telefono": "4762591//3118113651"
+  },
+  "cc": 1070612757,
+  "idProcesos": null
+}

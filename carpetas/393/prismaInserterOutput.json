@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 393,
+    "numero": 393,
+    "llaveProceso": "11001400303820180014900",
+    "nombre": "miguel alejandro garcia rodriguez",
+    "idProcesos": [9088093],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 587,
+    "cedula": "3208569",
+    "primerNombre": "floresmiro",
+    "primerApellido": "acosta",
+    "segundoNombre": "aponte",
+    "segundoApellido": null,
+    "direccion": "diagonal 77b no 119 a-74 apto 504 int6",
+    "email": "dcentro@pcpplasticos.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 499
+  }
+}

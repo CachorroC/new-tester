@@ -1,0 +1,105 @@
+{
+  "id": 79590985,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "BLANCA SENET PINEDA ",
+    "cedula": "28550572",
+    "direccion": "CARRERA 13 SUR No. 49-37",
+    "telefono": "3012692815",
+    "id": 31
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "3.77813522815548209901793015e+26",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.885Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.895Z"],
+    "id": 31,
+    "llaveProceso": "25754400300320170021100",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 31,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.125Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "1990-01-01T05:00:00.000Z",
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["530311042614581", "4513077790909121"],
+    "radicado": "2017 - 00211",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:13.493Z"],
+    "medidasCautelares": {
+      "id": 31,
+      "fechaOrdenaMedida": "2024-02-10T00:54:22.794Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 31,
+    "telCelular": "3014192323",
+    "telFijo": "7793347 ",
+    "primerNombre": "JORGE",
+    "segundoNombre": null,
+    "primerApellido": "PEREZ",
+    "segundoApellido": null,
+    "cedula": "79590985",
+    "direccion": "CARRERA 13 sur No. 49-37 soacha y venida 19 nO. 118-95 ofc 411",
+    "email": "jpkafu@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754400300320170021100",
+  "nombre": "jorge perez",
+  "numero": 31,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 31,
+      "createdAt": "2024-02-10T00:54:22.794Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 9 DE MAYO DE 2018 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 31,
+      "createdAt": "2024-02-10T00:54:22.794Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE RETIRO OFICIO DE EMBARGO DE INMUEBLE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 31,
+      "createdAt": "2024-02-10T00:54:22.794Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SIN MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:22.794Z"
+}

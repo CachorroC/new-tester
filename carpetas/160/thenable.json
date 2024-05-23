@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307820170076200",
+  "numero": 160,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79387342,
+    "direccion": "calle 28a sur # 28a - 18",
+    "email": "jairocarrillosa@hotmail.com",
+    "tel": {
+      "fijo": 6047182,
+      "celular": 3118411820
+    },
+    "primerNombre": "jairo",
+    "segundoNombre": "alberto",
+    "primerApellido": "carrillo",
+    "segundoApellido": "salinas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-08-31T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400307820170076200",
+    "capitalAdeudado": 12000000,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [103083921],
+    "radicado": "2017 - 00762",
+    "vencimientoPagare": ["2019-07-12T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79387342,
+  "idProcesos": null
+}

@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "05/02/2017",
+    "obligacion": {
+      "A": 190886
+    },
+    "capitalAdeudado": "46.086.886.44",
+    "entregaGarantiasAbogado": "21/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00381",
+    "llaveProceso": "25754400300420170038100",
+    "fechaPresentacion": "05/10/2017"
+  },
+  "demandas": [],
+  "numero": 276,
+  "llaveProceso": "25754400300420170038100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 9008364,
+      "celular": 3204283595
+    },
+    "primerNombre": "NELSON",
+    "segundoNombre": "MAYORGA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": null,
+    "cedula": 79200345,
+    "direccion": "CARRERA 5  No 5 - 30 APARTAMENTO 202 SOACHA",
+    "email": "nelson_mayorga@outlook.com"
+  },
+  "cc": 79200345,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "NELSON MAYORGA GOMEZ",
+  "notificacion": null
+}

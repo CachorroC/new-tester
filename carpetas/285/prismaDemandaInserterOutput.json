@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 282,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "21223176",
+    "entregaGarantiasAbogado": "2017-09-12T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "etapaProcesal": "1.100140030052017e+22",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["6900083898", "4513086465970276 // AUDIOPRESTAMO"],
+    "radicado": "2017 - 01326",
+    "vencimientoPagare": ["2017-06-01T00:00:00.000Z"],
+    "expediente": "11001400300520170132600",
+    "carpetaNumero": 285,
+    "despacho": null
+  }
+}

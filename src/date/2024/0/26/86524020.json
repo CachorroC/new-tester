@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:40.783Z",
+  "proceso": {
+    "idProceso": 86524020,
+    "idConexion": 259,
+    "llaveProceso": "11001400305520170086000",
+    "fechaProceso": "2017-09-04T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-08-03T05:00:00.000Z",
+    "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: GERARDO ANTONIO MONCADA VEGA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 15,
+      "tipo": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-15-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

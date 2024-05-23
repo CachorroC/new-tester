@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 13,
+    "numero": 13,
+    "llaveProceso": "25867418900120170002000",
+    "nombre": "pascual null ortega enciso",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

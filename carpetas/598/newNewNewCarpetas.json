@@ -1,0 +1,144 @@
+{
+  "id": 80216942,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1939464690,
+      "llaveProceso": "11001400302920230115900",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-12-01T05:00:00.000Z",
+      "actuacion": "Al despacho por reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-12-01T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 138297000,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-03T00:36:38.621Z"
+    },
+    {
+      "idRegActuacion": 1939464680,
+      "llaveProceso": "11001400302920230115900",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-12-01T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 01/12/2023 a las 17:38:32",
+      "fechaInicial": "2023-12-01T05:00:00.000Z",
+      "fechaFinal": "2023-12-01T05:00:00.000Z",
+      "fechaRegistro": "2023-12-01T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 138297000,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:38.621Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 598
+  },
+  "demanda": {
+    "capitalAdeudado": "73348449",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-14T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "11001400302920230115900",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 598,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["6980091120"],
+    "radicado": "2023 - 1159",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-09T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 598,
+      "fechaOrdenaMedida": "2024-02-03T00:36:38.484Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 598,
+    "telCelular": "3028155148",
+    "telFijo": null,
+    "primerNombre": "RODOLFO",
+    "segundoNombre": "RAMIREZ",
+    "primerApellido": "CUBIDES",
+    "segundoApellido": "",
+    "cedula": "80216942",
+    "direccion": "Avenida Calle 63 No. 80-46 Casa Bogotá D.C.",
+    "email": "carteraisanet@gmail.com"
+  },
+  "fecha": "2023-12-01T05:00:00.000Z",
+  "idProcesos": [138297000],
+  "idRegUltimaAct": 1939464690,
+  "llaveProceso": "11001400302920230115900",
+  "nombre": "RODOLFO RAMIREZ CUBIDES ",
+  "numero": 598,
+  "procesos": [
+    {
+      "idProceso": 138297000,
+      "idConexion": 259,
+      "llaveProceso": "11001400302920230115900",
+      "fechaProceso": "2023-12-01T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-12-01T05:00:00.000Z",
+      "despacho": "JUZGADO 029 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: AECSA S.A | Demandado: RODOLFO RAMIREZ CUBIDES ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 29,
+        "tipo": "JUZGADO 029 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-29-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1939464690,
+    "llaveProceso": "11001400302920230115900",
+    "consActuacion": 2,
+    "fechaActuacion": "2023-12-01T05:00:00.000Z",
+    "actuacion": "Al despacho por reparto",
+    "anotacion": null,
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-12-01T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 2,
+    "idProceso": 138297000,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-02-03T00:36:38.484Z"
+}

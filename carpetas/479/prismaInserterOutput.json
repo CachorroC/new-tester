@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 479,
+    "numero": 479,
+    "llaveProceso": "25785418900120180017100",
+    "nombre": "tania consuelo botia correa",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

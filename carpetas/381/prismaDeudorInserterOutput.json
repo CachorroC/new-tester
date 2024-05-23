@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 378,
+    "cedula": "1032396480",
+    "primerNombre": "nielcen",
+    "primerApellido": "marin",
+    "segundoNombre": "marisol",
+    "segundoApellido": "melo",
+    "direccion": "carrera 81 b no 66 - 51 casa 139 terraza de castilla // trv 70 g # 63 - 52 sur apto 604 bl 5",
+    "email": "nimary20@hotmail.com",
+    "telCelular": "3203430311",
+    "telFijo": null,
+    "carpetaNumero": 381
+  }
+}

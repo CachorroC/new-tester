@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302320170145200",
+  "numero": 360,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52327561,
+    "direccion": "carrera 110 c no 77- 15",
+    "email": "jana578@hotmail.com",
+    "tel": {
+      "fijo": 7416881,
+      "celular": 3002261859
+    },
+    "primerNombre": "nohora",
+    "segundoNombre": "del",
+    "primerApellido": "pilar",
+    "segundoApellido": ["vargas", "bernal"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-12-12T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-04-12T05:00:00.000Z",
+    "expediente": "11001400302320170145200",
+    "capitalAdeudado": 1557678443,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [116252],
+    "radicado": "2017 - 01452",
+    "vencimientoPagare": ["2024-02-03T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52327561,
+  "idProcesos": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": 52465659,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["171882"],
+    "llaveProceso": "25754400300120180006400",
+    "notificacion": {
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": "07/06/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-10-04T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 52854078,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2018-02-07T05:00:00.000Z"],
+    "mandamientoPago": "2018-10-04T05:00:00.000Z",
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00064",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2044-01-29T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3214771295
+    },
+    "primerNombre": "LILIANA",
+    "segundoNombre": "ANDREA",
+    "primerApellido": "ERAZO",
+    "segundoApellido": "LOPEZ",
+    "cedula": 52465659,
+    "direccion": "CARRERA 87 BIS No 50 SUR-75 PISO 2",
+    "email": "liancridana@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754400300120180006400",
+  "nombre": "LILIANA ANDREA ERAZO LOPEZ",
+  "numero": 398,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:04.503Z"
+}

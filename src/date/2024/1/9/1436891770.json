@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-09T17:00:06.569Z",
+  "savedDate": null,
+  "ultimaActuacion": {
+    "idRegActuacion": 1436891770,
+    "llaveProceso": "11001400303520170142500",
+    "consActuacion": 82,
+    "fechaActuacion": "2022-09-28T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "PROCESO ARCHIVADO //Caja 290//Laura Gutierrez",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-09-28T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 82,
+    "isUltimaAct": true,
+    "idProceso": 50746150
+  }
+}

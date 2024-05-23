@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:59.240Z",
+  "proceso": {
+    "idProceso": 51025410,
+    "idConexion": 259,
+    "llaveProceso": "11001400302520180023700",
+    "fechaProceso": "2018-02-21T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-03-07T05:00:00.000Z",
+    "despacho": "JUZGADO 025 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA OJEDA RODRIGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 25,
+      "tipo": "JUZGADO 025 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-25-civil-municipal-de-bogota"
+    }
+  }
+}

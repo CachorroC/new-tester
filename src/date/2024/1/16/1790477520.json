@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:19.631Z",
+  "savedDate": 1549861200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1790477520,
+    "llaveProceso": "11001400301420180092900",
+    "consActuacion": 55,
+    "fechaActuacion": "2023-06-27T05:00:00.000Z",
+    "actuacion": "Entrega de oficios",
+    "anotacion": "SE REMITE Despacho Comisorio Nº DCOECM-0623DDF-102 ordenados por auto del 19 de mayo de 2023. QUEDA EN LETRA. CARLOS CANDANOZA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-06-27T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 55,
+    "isUltimaAct": true,
+    "idProceso": 51341610
+  }
+}

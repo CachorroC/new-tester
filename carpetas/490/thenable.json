@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900120180098800",
+  "numero": 490,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80052004,
+    "direccion": "396776067",
+    "email": "TRANSVERSAL 18 C- No 9C-11 SUR MANZANA 5 CASA 134",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "diego",
+    "segundoNombre": "armando",
+    "primerApellido": "mateus",
+    "segundoApellido": "espitia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-02-11T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754418900120180098800",
+    "capitalAdeudado": null,
+    "etapaProcesal": "20-09-2018",
+    "municipio": "SOACHA",
+    "obligacion": ["17.506.316.71"],
+    "radicado": "2018 - 00988",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "BIBIANA ANGELICA NUÑEZ RIVERA",
+    "direccion": "20-05-2025",
+    "nombre": "2741459/  3125766946",
+    "telefono": "TRANSVERSAL 18C No 9C-11 SUR MANZANA 5"
+  },
+  "cc": 80052004,
+  "idProcesos": null
+}

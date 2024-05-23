@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 553,
+    "numero": 554,
+    "llaveProceso": "11001418901820230131100",
+    "nombre": "sandra patricia alvarez rodriguez",
+    "idProcesos": [132102980],
+    "category": "Bancolombia"
+  }
+}

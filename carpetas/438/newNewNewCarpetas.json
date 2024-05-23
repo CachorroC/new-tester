@@ -1,0 +1,51 @@
+{
+  "id": 52132383,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["15400866488"],
+    "llaveProceso": "11001418900620180021000",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "OK"
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 13337934,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EXCEPCIONES",
+    "fechaPresentacion": ["2018-05-31T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00210",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "LUZ",
+    "segundoNombre": "DARY",
+    "primerApellido": "VELANDIA",
+    "segundoApellido": "GARCIA",
+    "cedula": 52132383,
+    "direccion": "CARRERA 24 B No 31C-64",
+    "email": "velandialuzd@yahooo.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418900620180021000",
+  "nombre": "LUZ DARY VELANDIA GARCIA",
+  "numero": 438,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:16.613Z"
+}

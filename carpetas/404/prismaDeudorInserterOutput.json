@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 401,
+    "cedula": "1013586083",
+    "primerNombre": "cesar",
+    "primerApellido": "pineda",
+    "segundoNombre": "augusto",
+    "segundoApellido": "rios",
+    "direccion": "diagonal 18 b no 44-24",
+    "email": "cesar.rios_30@hotmail.com",
+    "telCelular": "3102259717",
+    "telFijo": "2035780",
+    "carpetaNumero": 404
+  }
+}

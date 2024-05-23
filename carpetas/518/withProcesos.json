@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 377817000000000,
+      "B": 4513070000000000
+    },
+    "capitalAdeudado": 12203649,
+    "entregaGarantiasAbogado": "30/01/2019",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2019 - 00162",
+    "llaveProceso": "11001418900920190016200"
+  },
+  "demandas": [],
+  "numero": 518,
+  "llaveProceso": "11001418900920190016200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3124487509
+    },
+    "primerNombre": "JORGE",
+    "segundoNombre": "IVAN",
+    "primerApellido": "AVENDAÑO",
+    "segundoApellido": "VANEGAS",
+    "cedula": 80222254,
+    "direccion": "CARRERA 86 # 77 - 35 INT 13 APTO 339",
+    "email": "CYBERGEORGE82@HOTMAIL.COM"
+  },
+  "cc": 80222254,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JORGE IVAN AVENDAÑO VANEGAS",
+  "notificacion": null
+}

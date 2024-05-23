@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 70,
+    "numero": 70,
+    "llaveProceso": "11001400308520170108400",
+    "nombre": "cesar null augusto arias",
+    "idProcesos": [65640840],
+    "category": "Terminados"
+  }
+}

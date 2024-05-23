@@ -1,0 +1,53 @@
+{
+  "id": 180145973,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MARIA LORENA MORALES SEGURA",
+    "cedula": "1033683759",
+    "direccion": "CARRERA 6 No 7B 03 SUR  SOACHA",
+    "telefono": "3134293286",
+    "id": 240
+  },
+  "demanda": {
+    "obligacion": ["140122"],
+    "llaveProceso": "25754418900220170082900",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 2161644455,
+    "departamento": "CUN DINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-09-19T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00829",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2026-06-23T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 5774513,
+      "celular": 3134293286
+    },
+    "primerNombre": "CESAR",
+    "segundoNombre": "ALIRIO",
+    "primerApellido": "MORENO",
+    "segundoApellido": "MONGUI",
+    "cedula": 180145973,
+    "direccion": "CARRERA 8 No 3-33",
+    "email": "cesarramm09@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900220170082900",
+  "nombre": "CESAR ALIRIO MORENO MONGUI",
+  "numero": 240,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:06.985Z"
+}

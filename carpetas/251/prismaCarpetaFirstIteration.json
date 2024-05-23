@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-09-04T05:00:00.000Z",
+  "idProcesos": [50685530],
+  "idRegUltimaAct": 1868347000,
+  "llaveProceso": "11001400301320170116200",
+  "nombre": "CARLOS JAVIER BECERRA BENAVIDES",
+  "numero": 251,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:31:00.493Z"
+}

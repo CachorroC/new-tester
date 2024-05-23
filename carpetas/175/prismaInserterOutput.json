@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 175,
+    "numero": 175,
+    "llaveProceso": "25754418900220170076100",
+    "nombre": "omar gustavo fula avila",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:12.400Z",
+  "savedDate": 1519016400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1712809620,
+    "llaveProceso": "11001400301320170117800",
+    "consActuacion": 44,
+    "fechaActuacion": "2023-04-17T05:00:00.000Z",
+    "actuacion": "Oficio Elaborado",
+    "anotacion": "devolución despacho comisorio ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-04-17T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 44,
+    "isUltimaAct": true,
+    "idProceso": 50692590
+  }
+}

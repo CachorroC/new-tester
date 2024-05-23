@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 1330085524
+    },
+    "capitalAdeudado": "14.670.023",
+    "entregaGarantiasAbogado": "29/05/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00223",
+    "llaveProceso": "11001408900820180022300",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "31/05/2018"
+  },
+  "demandas": [],
+  "numero": 440,
+  "llaveProceso": "11001408900820180022300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3107996508
+    },
+    "primerNombre": "BLANCA",
+    "segundoNombre": "ESTHER",
+    "primerApellido": "QUIROGA",
+    "segundoApellido": "GIRALDO",
+    "cedula": 30387764,
+    "direccion": "CARRERA 13 No 13-24 OFICINA 625",
+    "email": "quirogag8878@gmail.com"
+  },
+  "cc": 30387764,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "BLANCA ESTHER QUIROGA GIRALDO",
+  "notificacion": null
+}

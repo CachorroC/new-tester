@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 186,
+    "cedula": "4547635",
+    "primerNombre": "wilder",
+    "primerApellido": "jesus",
+    "segundoNombre": "de",
+    "segundoApellido": "roman,grisales",
+    "direccion": "calle 10 # 8 - 07 tocancipa",
+    "email": "wilderj11@yahoo.com",
+    "telCelular": "3142125039",
+    "telFijo": "3213559",
+    "carpetaNumero": 189
+  }
+}

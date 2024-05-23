@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 403,
+    "numero": 403,
+    "llaveProceso": "11001400304920180019100",
+    "nombre": "claudia yaneth valencia aya",
+    "idProcesos": [10955643],
+    "category": "Terminados"
+  }
+}

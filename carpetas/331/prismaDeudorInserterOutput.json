@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 328,
+    "cedula": "1016043191",
+    "primerNombre": "christian",
+    "primerApellido": "ruiz",
+    "segundoNombre": "dario",
+    "segundoApellido": "avellaneda",
+    "direccion": null,
+    "email": "CALLE 23 SUR No 96 - 82",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 331
+  }
+}

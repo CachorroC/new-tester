@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 76,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "17517434",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-06-21T00:00:00.000Z",
+    "etapaProcesal": "2.518340030012017e+22",
+    "fechaPresentacion": null,
+    "municipio": "CHOCONTA",
+    "obligacion": ["2660080368"],
+    "radicado": "2017 - 00119",
+    "vencimientoPagare": ["2019-07-01T00:00:00.000Z"],
+    "expediente": "25183400300120170011900",
+    "carpetaNumero": 76,
+    "despacho": null
+  }
+}

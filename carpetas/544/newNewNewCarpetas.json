@@ -1,0 +1,67 @@
+{
+  "id": 52018939,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["1800092546", "1800092544"],
+    "llaveProceso": "11001400304320190215900",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:11:45.496Z",
+      "medidaSolicitada": "31/01/2020"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2019-04-12T05:00:00.000Z",
+    "etapaProcesal": "11001400306120190215900",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2019 - 02159",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2019-03-04T05:00:00.000Z",
+      "2026-02-05T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8055915,
+      "celular": 3112925970
+    },
+    "primerNombre": "SONIA",
+    "segundoNombre": "ANGELICA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "ORTIZ",
+    "cedula": 52018939,
+    "direccion": "CALLE 78 D 110-22 INTERIOR 16",
+    "email": "sonialo.ejm@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400304320190215900",
+  "nombre": "SONIA ANGELICA LOPEZ ORTIZ",
+  "numero": 544,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:45.496Z"
+}

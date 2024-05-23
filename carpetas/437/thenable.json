@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400371520180021200",
+  "numero": 437,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80162319,
+    "direccion": "carrera 79a no 13-10",
+    "email": "javierzipa83@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "javier",
+    "segundoNombre": "antonio",
+    "primerApellido": "zipa",
+    "segundoApellido": "salamanca"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-05-31T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-05-29T00:00:00.000Z",
+    "expediente": "11001400371520180021200",
+    "capitalAdeudado": 22725078,
+    "etapaProcesal": "1.100141890152018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO", 4513073535490930],
+    "radicado": "2018 - 00212",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80162319,
+  "idProcesos": null
+}

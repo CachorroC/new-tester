@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 182,
+    "cedula": "10294828",
+    "primerNombre": "william",
+    "primerApellido": "dorado",
+    "segundoNombre": "giovanni",
+    "segundoApellido": "fernandez",
+    "direccion": "carrera 4 este # 38 - 56",
+    "email": "willdany@hotmail.com",
+    "telCelular": "3103397090",
+    "telFijo": "3351000",
+    "carpetaNumero": 185
+  }
+}

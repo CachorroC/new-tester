@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:32.570Z",
+  "proceso": {
+    "idProceso": 52159350,
+    "idConexion": 259,
+    "llaveProceso": "11001400304120170094600",
+    "fechaProceso": "2017-08-31T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-03-24T05:00:00.000Z",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MANHATTAN DOTACIONES S.A.S | Demandado: CARMEN ALICIA RAMIREZ CHURQUE ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 13,
+      "tipo": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-13-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

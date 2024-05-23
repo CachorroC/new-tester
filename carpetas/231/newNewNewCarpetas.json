@@ -1,0 +1,60 @@
+{
+  "id": 1022943195,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "1032416632",
+    "cedula": "CALLE 72B BIS No 5A 22 SUR",
+    "direccion": "7493169 /3185405968",
+    "telefono": "JHONNY HERNANDO BELTRAN SALCEDO",
+    "id": 231
+  },
+  "demanda": {
+    "obligacion": ["44518", "145608"],
+    "llaveProceso": "11001418900920170008900",
+    "notificacion": {
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:10:03.994Z",
+      "medidaSolicitada": "15/12/2017"
+    },
+    "capitalAdeudado": 0,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T05:43:20.721Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00089",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARCELA",
+    "primerApellido": "IPUZ",
+    "segundoApellido": "SUAREZ",
+    "cedula": 1022943195,
+    "direccion": "marcelaipuzsuarez@hotmail.com",
+    "email": "7493169 / 7672067"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418900920170008900",
+  "nombre": "DIANA MARCELA IPUZ SUAREZ Y OTRO",
+  "numero": 231,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:03.994Z"
+}

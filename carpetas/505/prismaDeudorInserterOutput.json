@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 497,
+    "cedula": "80156570",
+    "primerNombre": "william",
+    "primerApellido": "giovanny",
+    "segundoNombre": "",
+    "segundoApellido": "garzon,lopez",
+    "direccion": "calle 53 sur no 82-38 casa ladrillo",
+    "email": "organizacionapply@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 505
+  }
+}

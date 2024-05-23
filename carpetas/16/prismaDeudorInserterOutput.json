@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 16,
+    "cedula": "1077969975",
+    "primerNombre": "yesid",
+    "primerApellido": "ramos",
+    "segundoNombre": "albeiro",
+    "segundoApellido": null,
+    "direccion": "carrera 77b no 68b - 19 barrio santa helenita",
+    "email": "yess_Id@hotmail.com",
+    "telCelular": "3212337597",
+    "telFijo": null,
+    "carpetaNumero": 16
+  }
+}

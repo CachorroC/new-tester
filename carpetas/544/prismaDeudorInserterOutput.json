@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 532,
+    "cedula": "52018939",
+    "primerNombre": "sonia",
+    "primerApellido": "lopez",
+    "segundoNombre": "angelica",
+    "segundoApellido": "ortiz",
+    "direccion": "calle 78 d 110-22 interior 16",
+    "email": "sonialo.ejm@gmail.com",
+    "telCelular": "3112925970",
+    "telFijo": "8055915",
+    "carpetaNumero": 544
+  }
+}

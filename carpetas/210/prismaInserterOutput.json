@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 210,
+    "numero": 210,
+    "llaveProceso": "11001400302120180016300",
+    "nombre": "jose antonio castillo cortes",
+    "idProcesos": [51006610, 81643141],
+    "category": "Reintegra"
+  }
+}

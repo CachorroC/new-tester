@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:39.217Z",
+  "proceso": {
+    "idProceso": 57718874,
+    "idConexion": 310,
+    "llaveProceso": "11001310303720170045300",
+    "fechaProceso": "2017-09-11T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-12-06T05:00:00.000Z",
+    "despacho": "JUZGADO 003 CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S. A. | Demandado: DIANA VANESSA NARANJO HERNANDEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 3,
+      "tipo": "JUZGADO 003 CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-03-de-ejecucion-civil-del-circuito-de-bogota"
+    }
+  }
+}

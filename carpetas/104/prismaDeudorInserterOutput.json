@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 103,
+    "cedula": "51922135",
+    "primerNombre": "nancy",
+    "primerApellido": "mendez",
+    "segundoNombre": "herrera",
+    "segundoApellido": null,
+    "direccion": "carrera 73 no. 87-07 apartamento 211 torre 6",
+    "email": "nancy_herrera2@hotmail.es",
+    "telCelular": "3103230563",
+    "telFijo": null,
+    "carpetaNumero": 104
+  }
+}

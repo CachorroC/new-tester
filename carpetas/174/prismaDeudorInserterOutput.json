@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 172,
+    "cedula": "52189873",
+    "primerNombre": "darnelly",
+    "primerApellido": "martinez",
+    "segundoNombre": "hernandez",
+    "segundoApellido": null,
+    "direccion": "calle 74g # 80 - 58 sur",
+    "email": "darnelly-74@hotmail.com",
+    "telCelular": "3144189224",
+    "telFijo": "4530972",
+    "carpetaNumero": 174
+  }
+}

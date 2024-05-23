@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303720170083900",
+  "numero": 11,
+  "tipoProceso": "PRENDARIO",
+  "category": "LiosJuridicos",
+  "deudor": {
+    "cedula": 80743147,
+    "direccion": "cra 18 h no. 76 a-53 sur bogota",
+    "email": "sandrapatriciajoya-2545@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3209229120
+    },
+    "primerNombre": "javier",
+    "primerApellido": "romero",
+    "segundoApellido": "reyes",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-09-05T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-07T00:00:00.000Z",
+    "expediente": "11001400303720170083900",
+    "capitalAdeudado": 21596919,
+    "etapaProcesal": "EL 12-06-2018 EL JUZGADO DECRETA TERMINACION PROCESO POR PAGO CUOTAS EN MORA //EL 4-08-2018 SE DEVOLVIERON GARANTIAS A AECSA S.A. // EL JUEZ NO ACCEDIO A SOLICITUD ENTREGA DESEMBARGO PARTE ACTORA 1-02-2019 SE ARCHIVA PROCESO CAJA 240 // PAGAR DESARCHIVE Y REQUERIR AL JUEZ PARA QUE DE CUMPLIMIENTO A ENTREGA DE OFICIO DADO QUE PERSISTE EL EMBARGO A PESAR QUE EL CLIENTE ESTA AL DIA",
+    "municipio": "BOGOTA",
+    "obligacion": ["12313737//377815899589556", 4513070106144855],
+    "radicado": "2017 - 00839",
+    "vencimientoPagare": ["2017-08-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80743147,
+  "idProcesos": null
+}

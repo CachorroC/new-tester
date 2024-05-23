@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 432,
+    "cedula": "80162319",
+    "primerNombre": "javier",
+    "primerApellido": "zipa",
+    "segundoNombre": "antonio",
+    "segundoApellido": "salamanca",
+    "direccion": "carrera 79a no 13-10",
+    "email": "javierzipa83@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 437
+  }
+}

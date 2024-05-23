@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-05-11T05:00:00.000Z",
+  "idProcesos": [50778160],
+  "idRegUltimaAct": 1286123160,
+  "llaveProceso": "11001400303020170157900",
+  "nombre": "RAFAEL ALFONSO CAMACHO VELANDIA",
+  "numero": 303,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:08.000Z"
+}

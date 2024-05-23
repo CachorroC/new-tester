@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-02-08T05:00:00.000Z",
+  "idProcesos": [50514570],
+  "idRegUltimaAct": 1254127910,
+  "llaveProceso": "11001400303320170089200",
+  "nombre": "CRISTINA CASTAÑO CASTILLO",
+  "numero": 79,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:33.135Z"
+}

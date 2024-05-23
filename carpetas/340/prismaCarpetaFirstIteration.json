@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-03-09T05:00:00.000Z",
+  "idProcesos": [50788330],
+  "idRegUltimaAct": 1262271410,
+  "llaveProceso": "11001400306020170101400",
+  "nombre": "WILLIAM CORTES ROJAS",
+  "numero": 340,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:13.357Z"
+}

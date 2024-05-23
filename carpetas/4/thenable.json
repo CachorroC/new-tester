@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305320170072000",
+  "numero": 4,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 93437973,
+    "direccion": "carrera 104 no. 12  b-94 bogota",
+    "email": "dipsonsanchez16@g0mail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3182165543
+    },
+    "primerNombre": "dipson",
+    "segundoNombre": "eusebio",
+    "primerApellido": "sanchez",
+    "segundoApellido": "castiblanco"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "11001400305320170072000",
+    "capitalAdeudado": 29925624,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["2273 320158101"],
+    "radicado": "2017 - 00720",
+    "vencimientoPagare": ["2022-11-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 93437973,
+  "idProcesos": null
+}

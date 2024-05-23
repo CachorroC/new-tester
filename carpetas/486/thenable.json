@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900520180021000",
+  "numero": 486,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 40776578,
+    "direccion": "carrera 26b no 28-30  sur int 2",
+    "email": "salonmur@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "londoño",
+    "segundoApellido": "murcia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-10-08T05:00:00.000Z",
+    "expediente": "11001418900520180021000",
+    "capitalAdeudado": 1282755600,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [2330066914],
+    "radicado": "2018 - 00210",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 40776578,
+  "idProcesos": null
+}

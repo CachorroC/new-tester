@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 421,
+    "numero": 421,
+    "llaveProceso": "11001400307520180061700",
+    "nombre": "alexander null muñoz ortiz",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

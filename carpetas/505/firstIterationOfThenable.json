@@ -1,0 +1,81 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "04/06/2021 //04/06/2021",
+    "obligacion": {
+      "A": "377813291831031 // 377815026183364",
+      "B": "4099830041795208 /53037110111724925"
+    },
+    "capitalAdeudado": "$ 14.634.269",
+    "entregaGarantiasAbogado": "27/10/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "KENNEDY",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 02462",
+    "llaveProceso": "11001418902520180246200",
+    "etapaProcesal": "11001410375120180246200",
+    "fechaPresentacion": "LIQUIDACION DEL CRÉDITO",
+    "mandamientoPago": "30/10/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO"
+      },
+      "292": {
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "11/02/2019",
+      "fisico": "SI",
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "medidaSolicitada": "18/02/2019"
+    }
+  },
+  "demandas": [],
+  "numero": 505,
+  "llaveProceso": "11001418902520180246200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "WILLIAM",
+    "segundoNombre": "",
+    "primerApellido": "GIOVANNY",
+    "segundoApellido": ["GARZON", "LOPEZ"],
+    "cedula": 80156570,
+    "direccion": "CALLE 53 SUR No 82-38 CASA LADRILLO",
+    "email": "organizacionapply@gmail.com"
+  },
+  "cc": 80156570,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "WILLIAM  GIOVANNY GARZON LOPEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "CERTIMAIL"
+  }
+}

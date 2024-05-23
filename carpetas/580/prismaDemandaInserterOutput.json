@@ -1,0 +1,28 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 568,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "42647591",
+    "entregaGarantiasAbogado": "2023-08-24T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "790100533",
+      "790101375 Y 101380449 X T.C. AMERICAN 0377844056881358"
+    ],
+    "radicado": "2023 - 0239",
+    "vencimientoPagare": [
+      "2026-08-01T00:00:00.000Z",
+      "2026-04-01T00:00:00.000Z",
+      "2026-08-01T00:00:00.000Z"
+    ],
+    "expediente": "11001418904420230023900",
+    "carpetaNumero": 580,
+    "despacho": null
+  }
+}

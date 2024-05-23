@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 468,
+    "cedula": "52725153",
+    "primerNombre": "sandra",
+    "primerApellido": "vega",
+    "segundoNombre": "milena",
+    "segundoApellido": "avila",
+    "direccion": null,
+    "email": "TRANSVERSAL 2 ESTE No 32B-80 SUR",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 473
+  }
+}

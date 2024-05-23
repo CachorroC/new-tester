@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300620170041900",
+  "numero": 69,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 53008703,
+    "direccion": "carrera 5 no. 30 - 77",
+    "email": null,
+    "tel": {
+      "fijo": 7507842,
+      "celular": null
+    },
+    "primerNombre": "derly",
+    "segundoNombre": "catherine",
+    "primerApellido": "castro",
+    "segundoApellido": "izquierdo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-07-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-08T00:00:00.000Z",
+    "expediente": "11001400300620170041900",
+    "capitalAdeudado": 83955014,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [4200023595],
+    "radicado": "2017-00419",
+    "vencimientoPagare": ["2019-08-12T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53008703,
+  "idProcesos": null
+}

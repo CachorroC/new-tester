@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2021-10-05T05:00:00.000Z",
+  "idProcesos": [70519480],
+  "idRegUltimaAct": 1226837040,
+  "llaveProceso": "11001400306520170090300",
+  "nombre": "JORGE ALONSO TRUJILLO GÓMEZ",
+  "numero": 39,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:26.443Z"
+}

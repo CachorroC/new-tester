@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 365,
+    "numero": 365,
+    "llaveProceso": "11001400305020180014000",
+    "nombre": "richard camilo iriarte garcia",
+    "idProcesos": [11227303],
+    "category": "Terminados"
+  }
+}

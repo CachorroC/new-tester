@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300120170100100",
+  "numero": 183,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 11185630,
+    "direccion": "carrera 81c # 2b - 80 piso 2",
+    "email": "grupocomerciallasabana@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "wilson",
+    "segundoNombre": "alfonso",
+    "primerApellido": "jimenez",
+    "segundoApellido": "mendieta"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T00:00:00.000Z",
+    "mandamientoPago": "2017-09-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400300120170100100",
+    "capitalAdeudado": 25833335,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2150091504],
+    "radicado": "2017 - 01001",
+    "vencimientoPagare": ["2019-11-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11185630,
+  "idProcesos": null
+}

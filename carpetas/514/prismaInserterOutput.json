@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 514,
+    "numero": 514,
+    "llaveProceso": "11001400301720190017900",
+    "nombre": "manuel alberto leon calderon",
+    "idProcesos": [51642990, 114399551],
+    "category": "Insolvencia"
+  }
+}

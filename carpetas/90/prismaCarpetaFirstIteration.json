@@ -1,0 +1,13 @@
+{
+  "category": "Bancolombia",
+  "fecha": "2023-12-06T05:00:00.000Z",
+  "idProcesos": [50521480, 81728891],
+  "idRegUltimaAct": 1940338700,
+  "llaveProceso": "11001400303420170083600",
+  "nombre": "LUIS ESNEIDER ORDUZ FARFAN",
+  "numero": 90,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:34.831Z"
+}

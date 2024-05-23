@@ -1,0 +1,86 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "43059",
+    "telefono": null,
+    "id": 331,
+    "carpetaNumero": 331
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "B": "10.670.890.00"
+    },
+    "capitalAdeudado": "$ 43.041",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 01300",
+    "llaveProceso": "11001410375220170130000",
+    "etapaProcesal": 43053,
+    "fechaPresentacion": "16/01/2018",
+    "notificacion": {
+      "291": {
+        "resultado": "3/07/2018"
+      },
+      "292": {
+        "fechaAporta": 43284,
+        "resultado": "CERTIMAIL"
+      },
+      "tipo": 43329,
+      "autoNotificado": 43116
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "BANCOS",
+      "medidaSolicitada": "18-0118"
+    }
+  },
+  "demandas": [],
+  "numero": 331,
+  "llaveProceso": "11001410375220170130000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "CHRISTIAN",
+    "segundoNombre": "DARIO",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "AVELLANEDA",
+    "cedula": 1016043191,
+    "direccion": null,
+    "email": "CALLE 23 SUR No 96 - 82"
+  },
+  "cc": 1016043191,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "CHRISTIAN DARIO RUIZ AVELLANEDA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "43116"
+  }
+}

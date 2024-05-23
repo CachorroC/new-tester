@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 72,
+    "numero": 72,
+    "llaveProceso": "11001400306020170124100",
+    "nombre": "nestor fabian espitia fraile",
+    "idProcesos": [50880040],
+    "category": "Terminados"
+  }
+}

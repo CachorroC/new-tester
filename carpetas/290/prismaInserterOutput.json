@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 290,
+    "numero": 290,
+    "llaveProceso": "11001400305920170097500",
+    "nombre": "elizabeth null gil rodriguez",
+    "idProcesos": [50765330],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "1100141037520180002400",
+  "numero": 351,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80800256,
+    "direccion": "calle 73 b  sur no 1a - 06",
+    "email": "sariguella35@hotmail.com",
+    "tel": {
+      "fijo": 7612712,
+      "celular": 3134704885
+    },
+    "primerNombre": "cristian",
+    "segundoNombre": "josue",
+    "primerApellido": "cardenas",
+    "segundoApellido": "noriega"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-27T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-11-22T00:00:00.000Z",
+    "expediente": "1100141037520180002400",
+    "capitalAdeudado": 1648743790,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [116080],
+    "radicado": "2018 - 00024",
+    "vencimientoPagare": ["2024-02-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80800256,
+  "idProcesos": null
+}

@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400307520230128400",
+  "numero": 568,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1033739670,
+    "direccion": "calle 71 no. 46-08 sur",
+    "email": "lorena19081@hotmail.com",
+    "tel": {
+      "fijo": 6243064,
+      "celular": 3046243064
+    },
+    "primerNombre": "lorena",
+    "segundoNombre": "guiselle",
+    "primerApellido": "chaparro",
+    "segundoApellido": "leal"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-02T00:00:00.000Z",
+    "expediente": "11001400307520230128400",
+    "capitalAdeudado": 20815025,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      5670094881,
+      "PAGARÉ SIN NÚMERO REF 100221151 TARJETA DE CRÉDITO MASTER CARD No. 5303730462170320"
+    ],
+    "radicado": "2023 - 01627",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1033739670,
+  "idProcesos": null
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308120230141400",
+  "numero": 583,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 46668139,
+    "direccion": "carrera 53 c no. 4 c 63",
+    "email": "yaneth_apar@hotmail.com",
+    "tel": {
+      "fijo": 3031161,
+      "celular": 3124781732
+    },
+    "primerNombre": "alba",
+    "segundoNombre": "yaneth",
+    "primerApellido": "aparicio",
+    "segundoApellido": "sandoval"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-09-05T00:00:00.000Z",
+    "expediente": "11001400308120230141400",
+    "capitalAdeudado": 21652918,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["Q 0000000046668139027001", "0377815602619302"],
+    "radicado": "2023 - 01414",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 46668139,
+  "idProcesos": null
+}

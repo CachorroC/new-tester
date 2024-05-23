@@ -1,0 +1,64 @@
+{
+  "id": 79882688,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["377817000000000"],
+    "llaveProceso": "25817418900120170035100",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-01-18T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "29/06/2017"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-06T05:00:00.000Z",
+    "etapaProcesal": "25817408900120170035100",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "TOCANCIPA",
+    "radicado": "2017 - 00351",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-09-01T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JORGE",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "PORRAS",
+    "segundoApellido": "VARGAS",
+    "cedula": 79882688,
+    "direccion": "CALLE 11 # 4 - 39 TOCANCIPA",
+    "email": "joranpo@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25817418900120170035100",
+  "nombre": "JORGE ANDRES PORRAS VARGAS",
+  "numero": 80,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:07.841Z"
+}

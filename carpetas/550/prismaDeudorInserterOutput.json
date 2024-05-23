@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 538,
+    "cedula": "1022336662",
+    "primerNombre": "miguel",
+    "primerApellido": "aguasaco",
+    "segundoNombre": "angel",
+    "segundoApellido": "peñuela",
+    "direccion": null,
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 550
+  }
+}

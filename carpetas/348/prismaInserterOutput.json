@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 348,
+    "numero": 348,
+    "llaveProceso": "11001400300120170130900",
+    "nombre": "ana beatriz corredor rivera",
+    "idProcesos": [50764880],
+    "category": "Reintegra"
+  }
+}

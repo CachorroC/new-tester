@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:06.414Z",
+  "savedDate": "2017-11-30T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1720644760,
+    "llaveProceso": "11001400306020170124100",
+    "consActuacion": 40,
+    "fechaActuacion": "2023-04-25T05:00:00.000Z",
+    "actuacion": "Entrega de oficios",
+    "anotacion": null,
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-04-25T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 40,
+    "isUltimaAct": true,
+    "idProceso": 50880040
+  }
+}

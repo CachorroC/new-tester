@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 148,
+    "numero": 148,
+    "llaveProceso": "11001400300920170081300",
+    "nombre": "nestor gerardo osorio morales",
+    "idProcesos": [50653560],
+    "category": "Terminados"
+  }
+}

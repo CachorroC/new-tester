@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25754418900120170077400",
+  "numero": 131,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52830770,
+    "direccion": null,
+    "email": "CARRERA 9 ESTE # 36 - 40 CASA 34",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "rocio",
+    "segundoNombre": "aleida",
+    "primerApellido": "ortiz",
+    "segundoApellido": "barreto"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-05T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754418900120170077400",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "42965",
+    "municipio": "SOACHA",
+    "obligacion": [1692466277],
+    "radicado": "2017 - 00774",
+    "vencimientoPagare": ["2019-12-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 45026
+  },
+  "cc": 52830770,
+  "idProcesos": null
+}

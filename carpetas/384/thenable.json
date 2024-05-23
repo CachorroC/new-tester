@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305620180011000",
+  "numero": 384,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80026753,
+    "direccion": "transversal 73 # 11b - 77 int 2 apto 504",
+    "email": "d8003galindo@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3202116040
+    },
+    "primerNombre": "diego",
+    "segundoNombre": "javier",
+    "primerApellido": "galindo",
+    "segundoApellido": "mejia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-01-30T00:00:00.000Z",
+    "mandamientoPago": "2018-02-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-01-24T00:00:00.000Z",
+    "expediente": "11001400305620180011000",
+    "capitalAdeudado": 30413921,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [130026],
+    "radicado": "2018 - 00110",
+    "vencimientoPagare": ["2025-06-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80026753,
+  "idProcesos": null
+}

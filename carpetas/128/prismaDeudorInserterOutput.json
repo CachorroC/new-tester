@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 126,
+    "cedula": "52385097",
+    "primerNombre": "maria",
+    "primerApellido": "",
+    "segundoNombre": "gladys",
+    "segundoApellido": "gonzalez,sosa",
+    "direccion": "calle 62b sur # 70 f - 45",
+    "email": "mariagladyys@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 128
+  }
+}

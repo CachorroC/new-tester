@@ -1,0 +1,13 @@
+{
+  "category": "Insolvencia",
+  "fecha": "2022-03-23T05:00:00.000Z",
+  "idProcesos": [72721150],
+  "idRegUltimaAct": 1266061820,
+  "llaveProceso": "11001400301720190017900",
+  "nombre": "MANUEL ALBERTO LEON CALDERON",
+  "numero": 514,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:39.394Z"
+}

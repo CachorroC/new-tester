@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306920170075400",
+  "numero": 123,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79547983,
+    "direccion": null,
+    "email": "DIAGONAL 146 # 136A - 79 IN 3 AP 3",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "gustavo",
+    "primerApellido": "santamaria",
+    "segundoApellido": "mosquera",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-03T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306920170075400",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "42958",
+    "municipio": "BOGOTA",
+    "obligacion": [4836561694],
+    "radicado": "2017 - 00754",
+    "vencimientoPagare": ["2419-10-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79547983,
+  "idProcesos": null
+}

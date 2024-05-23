@@ -1,0 +1,89 @@
+{
+  "id": 80068928,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 611
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-27T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 611,
+    "llaveProceso": null,
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 611,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [],
+    "radicado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 611,
+      "fechaOrdenaMedida": "2024-02-10T00:55:11.535Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 611,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "EDWIN",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "TORRES",
+    "segundoApellido": "TAMAYO",
+    "cedula": "80068928",
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "edwin andres torres tamayo ",
+  "numero": 611,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 611,
+      "createdAt": "2024-02-10T00:55:11.535Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "11 DIC 2023 SE RADICA DEMANDA ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:11.535Z"
+}

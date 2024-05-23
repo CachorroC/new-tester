@@ -1,0 +1,155 @@
+{
+  "id": 1069738339,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 427
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "21049111.79",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-01-19T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-02-01T05:00:16.000Z"],
+    "id": 427,
+    "llaveProceso": "25126408900220180004800",
+    "mandamientoPago": ["2018-02-26T05:00:16.000Z"],
+    "municipio": "CAJICA",
+    "notificacion": {
+      "id": 427,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2018-05-08T05:00:16.000Z",
+          "fechaAporta": "2018-05-08T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "2018-07-16T05:00:16.000Z",
+          "fechaAporta": "2018-05-03T05:00:16.000Z",
+          "resultado": false
+        }
+      ],
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": null
+    },
+    "obligacion": ["12730779"],
+    "radicado": "2018 - 00048",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2021-01-16T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 427,
+      "fechaOrdenaMedida": "2018-02-26T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "deudor": {
+    "id": 427,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JUAN",
+    "segundoNombre": "CAMILO",
+    "primerApellido": "CHINGATE",
+    "segundoApellido": "PENAGOS",
+    "cedula": "1069738339",
+    "direccion": "VEREDA LA 22 KILOMETRO 30 (CAJICA) // VEREDA SUBIA NORTE, PARTE BAJA, FINCA EL RINCON LOTE 2 (GRANADA- CUND): VEREDA SUBIA NORTE PARTE BAJA FINCA EL RINCON LOTE 2 (GRANADA - CUND)",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [86157021],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25126408900220180004800",
+  "nombre": "juan camilo chingate penagos",
+  "numero": 427,
+  "procesos": [
+    {
+      "idProceso": 86157021,
+      "idConexion": 320,
+      "llaveProceso": "25126408900220180004800",
+      "fechaProceso": "2018-02-02T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: JUAN CAMILO CHINGATE PENAGOS (Emplazado) | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 2,
+        "tipo": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-002-promiscuo-municipal-de-cajicá-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "13NOV 2022 SE RADICA CESION REINTEGRA Y PODER CONFERIDO CCR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 16 NOV 2022 SE ENVIA OFICIO CAPTURA NO 0348 A CORREO DE RADICACION DE LA SIJIN ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 17 NOV 2022 SE RADICA LIQUIDACION CREDITO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 13  MARZO TRTASLADO LIQUIDACION ENTRA DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 17 ABRIL 2023 CONTINUA AL DESPACHO, SE SOLICITA LINK CONSUTA ROCESO AL JUZGADO.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 22 NOV 2023 ACEPTA CESION Y APRUEBA LIQUIDACION DE CREDITO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 427,
+      "createdAt": "2024-02-10T00:54:58.393Z",
+      "pathname": null,
+      "dueDate": "2024-01-14T05:00:00.000Z",
+      "text": " 14/12/2023 SE REQUIERA A SIJIN PARA VERIFICAR QUE EL VEHICULO TIENE CUBRIMIENTO NACIONAL DE APREHENSIÓN",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:58.394Z"
+}

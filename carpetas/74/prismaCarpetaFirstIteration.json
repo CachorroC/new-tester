@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-05-31T05:00:00.000Z",
+  "idProcesos": [10681823],
+  "idRegUltimaAct": 1128845033,
+  "llaveProceso": "11001400304820170050700",
+  "nombre": "CARLOS ANDRÉS BORRAY ARCE",
+  "numero": 74,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:32.410Z"
+}

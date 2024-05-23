@@ -1,0 +1,85 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "10/07/2019",
+    "obligacion": {
+      "A": 5450082766,
+      "B": 5450083252
+    },
+    "capitalAdeudado": "$ 28.485.816",
+    "entregaGarantiasAbogado": "21/09/2017",
+    "departamento": "BOYACÁ",
+    "municipio": "UMBITA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00095",
+    "llaveProceso": "15842408900120170009500",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "12/10/2017",
+    "mandamientoPago": "23/10/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "19/02/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "23/02/2018"
+      },
+      "292": {
+        "resultado": "POSITIVO"
+      },
+      "certimail": "NO",
+      "fisico": "SI",
+      "tipo": "PERSONAL",
+      "autoNotificado": "23/02/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "23/10/2017",
+      "medidaSolicitada": "EMBARGO DE CULTIVOS"
+    }
+  },
+  "demandas": [],
+  "numero": 297,
+  "llaveProceso": "15842408900120170009500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3123077900
+    },
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ANGEL",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "HUERTAS",
+    "cedula": 6006685,
+    "direccion": "CALLE 5 A No 6 - 23 UMBITA",
+    "email": null
+  },
+  "cc": 6006685,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MIGUEL ANGEL MARTINEZ HUERTAS",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-02-19T05:00:00.000Z",
+        "fechaAporta": "2018-02-23T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "23/02/2018"
+  }
+}

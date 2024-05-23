@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "2575440030012017024900",
+  "numero": 150,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79988076,
+    "direccion": "calle 136 # 157 - 91",
+    "email": "g.o75@hotmail.com",
+    "tel": {
+      "fijo": 3156448,
+      "celular": 3156448156
+    },
+    "primerNombre": "victor",
+    "primerApellido": "triana",
+    "segundoApellido": "alarcon",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "2575440030012017024900",
+    "capitalAdeudado": 47820559,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SOACHA",
+    "obligacion": [180394],
+    "radicado": "2017 - 00249",
+    "vencimientoPagare": ["2025-01-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79988076,
+  "idProcesos": null
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302820170057500",
+  "numero": 95,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1015410386,
+    "direccion": "carrera 40b # 1 - 61",
+    "email": "edwinperez8302@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "edwin",
+    "segundoNombre": "jhobani",
+    "primerApellido": "perez",
+    "segundoApellido": "pita"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-29T00:00:00.000Z",
+    "mandamientoPago": "2017-07-10T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "expediente": "11001400302820170057500",
+    "capitalAdeudado": 1914674445,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12099135],
+    "radicado": "2017 - 00575",
+    "vencimientoPagare": ["2017-06-13T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1015410386,
+  "idProcesos": null
+}

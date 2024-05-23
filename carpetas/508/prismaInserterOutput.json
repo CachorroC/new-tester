@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 508,
+    "numero": 508,
+    "llaveProceso": "25377408900120180037100",
+    "nombre": "jose alfonso vasquez tovar",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "11001400307820170073300",
+  "numero": 128,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52385097,
+    "direccion": "calle 62b sur # 70 f - 45",
+    "email": "mariagladyys@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "gladys",
+    "primerApellido": "",
+    "segundoApellido": ["gonzalez", "sosa"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-18T00:00:00.000Z",
+    "mandamientoPago": "2017-08-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-15T00:00:00.000Z",
+    "expediente": "11001400307820170073300",
+    "capitalAdeudado": 13149185,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [4060080684],
+    "radicado": "2017 - 00733",
+    "vencimientoPagare": ["2018-05-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "52768380/",
+    "nombre": "luz mery gonzalez sosa"
+  },
+  "cc": 52385097,
+  "idProcesos": null
+}

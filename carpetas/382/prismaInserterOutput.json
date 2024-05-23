@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 382,
+    "numero": 382,
+    "llaveProceso": "25662408900120180000400",
+    "nombre": "carlos alberto lancheros barragan",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

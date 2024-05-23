@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 350,
+    "numero": 350,
+    "llaveProceso": "11001400305020170135700",
+    "nombre": "diego ferney vergara valderrama",
+    "idProcesos": [11224353],
+    "category": "Terminados"
+  }
+}

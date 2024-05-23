@@ -1,0 +1,80 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "04/06/2021",
+    "obligacion": {
+      "A": 54915700000000000
+    },
+    "capitalAdeudado": "$ 15.426.759",
+    "entregaGarantiasAbogado": "25/10/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR ACUMULADO CON HIPOTECARIO CAJA SOCIAL",
+    "radicado": "2021- 00611",
+    "llaveProceso": "11001418903120180138000",
+    "etapaProcesal": "11001400300420210061100",
+    "fechaPresentacion": "ADMITIENDO HIPOTECARIO",
+    "mandamientoPago": "30/11/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO"
+      },
+      "292": {
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "24/07/2019",
+      "fisico": "SI",
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "medidaSolicitada": "24/07/2019"
+    }
+  },
+  "demandas": [],
+  "numero": 506,
+  "llaveProceso": "11001418903120180138000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "ACUMULADO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "EDWIN",
+    "segundoNombre": "CAMILO",
+    "primerApellido": "SARMIENTO",
+    "segundoApellido": "GOMEZ",
+    "cedula": 1023891419,
+    "direccion": "CARRERA 3 No 6-25 SUR TORRE 6 APTO 104",
+    "email": "edwin.sarmiento@altipal.com"
+  },
+  "cc": 1023891419,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "EDWIN CAMILO SARMIENTO GOMEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "CERTIMAIL"
+  }
+}

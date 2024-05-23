@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 406,
+    "numero": 406,
+    "llaveProceso": "11001400300220180020500",
+    "nombre": "santiago javier sarabia jimenez",
+    "idProcesos": [51034000],
+    "category": "Terminados"
+  }
+}

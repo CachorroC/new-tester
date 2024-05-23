@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "08001418901820230073500",
+  "numero": 560,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1129565798,
+    "direccion": "cr 51 43 04 barrio abajo barranquilla // carrera 71 no. 88a - 31 barranquilla // calle 42 a no. 46 - 04 barrio el parque en soledad (atlantico)",
+    "email": "inghanselmartinez@hotmail.com",
+    "tel": {
+      "fijo": 3930210,
+      "celular": 3043463859
+    },
+    "primerNombre": "hansel",
+    "primerApellido": "martinez",
+    "segundoApellido": "barros",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "08001418901820230073500",
+    "capitalAdeudado": 40696764,
+    "etapaProcesal": "PALACIO DE JUSTICIA BARRAQNUILLA",
+    "municipio": "BARRANQUILLA",
+    "obligacion": [
+      4770111750,
+      "PAGARÉ SIN NÚMERO T. MASTER CARD 5303720229555616 // T. VISA 4513070377907980"
+    ],
+    "radicado": null,
+    "vencimientoPagare": [
+      "2026-06-03T05:00:00.000Z",
+      "2026-04-07T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1129565798,
+  "idProcesos": null
+}

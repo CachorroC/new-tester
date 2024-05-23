@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 91,
+    "numero": 91,
+    "llaveProceso": "11001400303120180040600",
+    "nombre": "jaime jesus reyes orozco",
+    "idProcesos": [51092120],
+    "category": "Terminados"
+  }
+}

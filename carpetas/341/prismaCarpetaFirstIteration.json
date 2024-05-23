@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-07-29T05:00:00.000Z",
+  "idProcesos": [17608484],
+  "idRegUltimaAct": 611922164,
+  "llaveProceso": "11001400305720170128900",
+  "nombre": "MARIO VELEZ PARRA",
+  "numero": 341,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:13.559Z"
+}

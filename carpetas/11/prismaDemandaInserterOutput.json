@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 11,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "21596919",
+    "entregaGarantiasAbogado": "2017-06-07T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "EL 12-06-2018 EL JUZGADO DECRETA TERMINACION PROCESO POR PAGO CUOTAS EN MORA //EL 4-08-2018 SE DEVOLVIERON GARANTIAS A AECSA S.A. // EL JUEZ NO ACCEDIO A SOLICITUD ENTREGA DESEMBARGO PARTE ACTORA 1-02-2019 SE ARCHIVA PROCESO CAJA 240 // PAGAR DESARCHIVE Y REQUERIR AL JUEZ PARA QUE DE CUMPLIMIENTO A ENTREGA DE OFICIO DADO QUE PERSISTE EL EMBARGO A PESAR QUE EL CLIENTE ESTA AL DIA",
+    "fechaPresentacion": "2018-09-05T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["12313737//377815899589556", "4513070106144855"],
+    "radicado": "2017 - 00839",
+    "vencimientoPagare": ["2017-08-01T00:00:00.000Z"],
+    "expediente": "11001400303720170083900",
+    "carpetaNumero": 11,
+    "despacho": null
+  }
+}

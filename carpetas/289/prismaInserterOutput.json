@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 289,
+    "numero": 289,
+    "llaveProceso": "11001400301820170152200",
+    "nombre": "jose ahinsonjober toro vargas",
+    "idProcesos": [50711570],
+    "category": "Reintegra"
+  }
+}

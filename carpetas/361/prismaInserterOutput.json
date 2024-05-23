@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 361,
+    "numero": 361,
+    "llaveProceso": "11001400301720170133600",
+    "nombre": "natalia null cuestas mondragon",
+    "idProcesos": [50782960],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1032431042,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JENNY BRIGITTE BALLEN MESA",
+    "cedula": "1069729949",
+    "direccion": "CARRERA 42 # 22 - 11  // CARRERA 11 BIS # 154A - 30 APTO 1007 TORRE 2",
+    "telefono": "8113984",
+    "id": 152
+  },
+  "demanda": {
+    "obligacion": ["180950"],
+    "llaveProceso": "110014007320170113600",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001400307320170113600",
+    "fechaPresentacion": [],
+    "mandamientoPago": "2018-05-09T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01136",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2035-02-05T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3142566,
+      "celular": 3142566974
+    },
+    "primerNombre": "NICOLAS",
+    "segundoNombre": "OSORIO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": null,
+    "cedula": 1032431042,
+    "direccion": "CARRERA 111 BIS # 154A - 30 TORRE 2 APTO 1007",
+    "email": "nicolas.osorio@finamerica.com.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "110014007320170113600",
+  "nombre": "NICOLAS OSORIO RODRIGUEZ",
+  "numero": 152,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:36.751Z"
+}

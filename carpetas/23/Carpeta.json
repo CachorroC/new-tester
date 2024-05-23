@@ -1,0 +1,105 @@
+{
+  "id": 11207272,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 23
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "149",
+    "capitalAdeudado": "37209133",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.874Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["1970-01-01T00:00:42.885Z"],
+    "id": 23,
+    "llaveProceso": "25307400300120170033700",
+    "mandamientoPago": [],
+    "municipio": "GIRARDOT",
+    "notificacion": {
+      "id": 23,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12517400", "5306941968938113"],
+    "radicado": "2017 - 00337",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.851Z"],
+    "medidasCautelares": {
+      "id": 23,
+      "fechaOrdenaMedida": "2024-02-10T00:54:22.377Z",
+      "medidaSolicitada": "OK"
+    }
+  },
+  "deudor": {
+    "id": 23,
+    "telCelular": "3186899839",
+    "telFijo": null,
+    "primerNombre": "EDER",
+    "segundoNombre": "ALEXIS",
+    "primerApellido": "HERRERA",
+    "segundoApellido": "SAENZ",
+    "cedula": "11207272",
+    "direccion": "MANZANA D CS 8 DIAMANTE GIRARDOT",
+    "email": "karendiaz@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25307400300120170033700",
+  "nombre": "eder alexis herrera saenz",
+  "numero": 23,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 23,
+      "createdAt": "2024-02-10T00:54:22.377Z",
+      "pathname": null,
+      "dueDate": "2019-07-06T05:00:00.000Z",
+      "text": "6/06/2019 AUTO TERMINA POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 23,
+      "createdAt": "2024-02-10T00:54:22.377Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "GARANTIAS DEVUELTAS EN FAVOR DEL DEUDOR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 23,
+      "createdAt": "2024-02-10T00:54:22.377Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " LEVANTAMIENTO DE MEDIDAS CAUTELARES EN FAVOR DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:22.377Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 341,
+    "cedula": "79505982",
+    "primerNombre": "luis",
+    "primerApellido": "sanchez",
+    "segundoNombre": "augusto",
+    "segundoApellido": "ortiz",
+    "direccion": "calle 168 no 8 g - 61 bloque  5 apartamento  102",
+    "email": "luissanchez69@live.com",
+    "telCelular": "3174409073",
+    "telFijo": "8003961",
+    "carpetaNumero": 344
+  }
+}

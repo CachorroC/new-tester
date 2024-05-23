@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302220170117600",
+  "numero": 308,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80271269,
+    "direccion": "carrera 76 no 57 z-46 sur interior 3 apartamento 6",
+    "email": "osfacer@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "oscar",
+    "segundoNombre": "ernesto",
+    "primerApellido": "serrano",
+    "segundoApellido": "velasco"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-24T00:00:00.000Z",
+    "mandamientoPago": "2017-11-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-23T00:00:00.000Z",
+    "expediente": "11001400302220170117600",
+    "capitalAdeudado": 8359216660,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [143579],
+    "radicado": "2017 - 01176",
+    "vencimientoPagare": ["2017-05-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80271269,
+  "idProcesos": null
+}

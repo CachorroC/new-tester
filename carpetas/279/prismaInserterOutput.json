@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 279,
+    "numero": 279,
+    "llaveProceso": "11001400300820170105800",
+    "nombre": "andres felipe gutierrez trujillo",
+    "idProcesos": [112758450],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303620170084100",
+  "numero": 154,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79840930,
+    "direccion": "carrera 79 bis a # 73 - 92 sur apto 304 int 3",
+    "email": "gabriel.eml@hotmail.com",
+    "tel": {
+      "fijo": 7347505,
+      "celular": 3112945552
+    },
+    "primerNombre": "gabriel",
+    "segundoNombre": "eduardo",
+    "primerApellido": "mejia",
+    "segundoApellido": "ladino"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-09-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "11001400303620170084100",
+    "capitalAdeudado": 2936662540,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [5670083032, "377813199287708 // 4513075700372455 // 123470"],
+    "radicado": "2017 - 00841",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53114743,
+    "direccion": "DIAGONAL 73A SUR # 78 - 40 CASA 11",
+    "nombre": "eldora andrea triana silva",
+    "telefono": 3143903
+  },
+  "cc": 79840930,
+  "idProcesos": null
+}

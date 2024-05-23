@@ -1,0 +1,79 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "13/062017",
+    "obligacion": {
+      "A": 5306934855078754,
+      "B": 12378896
+    },
+    "capitalAdeudado": 16215928,
+    "entregaGarantiasAbogado": "28/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "KENNEDY",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 01110",
+    "llaveProceso": "1100141037512017111000",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "08/08/17",
+    "mandamientoPago": "24/01/2018",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "24/01/2018",
+      "medidaSolicitada": "VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 99,
+      "idConexion": null,
+      "llaveProceso": "1100141037512017111000",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "VEHICULO"
+      },
+      "vencimientoPagare": ["0620-01-01T04:56:16.000Z"],
+      "capitalAdeudado": 16215928,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-08-08T05:00:00.000Z"],
+      "municipio": "KENNEDY",
+      "obligacion": [5306934855078754, 12378896],
+      "radicado": "2017 - 01110"
+    }
+  ],
+  "numero": 99,
+  "llaveProceso": "1100141037512017111000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "YONI",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "RESTREPO",
+    "segundoApellido": "PEÑUELA",
+    "cedula": 79996551,
+    "direccion": "TRANSVERSAL 78A # 71A - 71 SUR",
+    "email": null
+  },
+  "cc": 79996551,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "YONI ALEXANDER RESTREPO PEÑUELA",
+  "notificacion": null
+}

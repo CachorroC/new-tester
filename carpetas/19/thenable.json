@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400302120170175500",
+  "numero": 19,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80001905,
+    "direccion": "calle 42 sur no 87 c -18  interior 2 apartamento 203",
+    "email": "eliacid@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "eliacid",
+    "primerApellido": "chaves",
+    "segundoApellido": "obando",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-09-19T00:00:00.000Z",
+    "expediente": "11001400302120170175500",
+    "capitalAdeudado": 1539150811,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [103560],
+    "radicado": "2017 - 01755",
+    "vencimientoPagare": ["2022-12-06T00:00:00.000Z"],
+    "departamento": "CUNDINNAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52171586,
+    "direccion": "CARRERA 88 C No 42 - 20 SUR",
+    "nombre": "sandra patricia rodriiguez rodrriiguez",
+    "telefono": 4062058
+  },
+  "cc": 80001905,
+  "idProcesos": null
+}

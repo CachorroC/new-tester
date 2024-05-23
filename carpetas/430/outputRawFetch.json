@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 17487020,
+      "idConexion": 257,
+      "llaveProceso": "11001410300120180040400",
+      "fechaProceso": "2018-06-12T00:00:00",
+      "fechaUltimaActuacion": "2019-12-19T00:00:00",
+      "despacho": "JUZGADO 001  DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JESSICA ALEXANDRA SANTOS AVENDAÑO | Demandado: JHONATAN ALEXANDER CUELLAR ARIAS ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 50678323,
+      "idConexion": 135,
+      "llaveProceso": "11001410300120180040400",
+      "fechaProceso": "2018-07-26T00:00:00",
+      "fechaUltimaActuacion": "2018-08-28T00:00:00",
+      "despacho": "JUZGADO 001  MUNICIPAL DE PEQUEÑAS CAUSAS LABORALES DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: JAIME ORLANDO CARRILLO DAZA | Demandado: COOVIPORFAC LIMITADA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001410300120180040400",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

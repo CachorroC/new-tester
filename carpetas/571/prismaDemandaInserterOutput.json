@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 559,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "24843938",
+    "entregaGarantiasAbogado": "2023-08-04T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "MOSQUERA",
+    "obligacion": ["1380089168"],
+    "radicado": "2023 - 01289",
+    "vencimientoPagare": ["2026-03-01T00:00:00.000Z"],
+    "expediente": "11001418901420230146500",
+    "carpetaNumero": 571,
+    "despacho": null
+  }
+}

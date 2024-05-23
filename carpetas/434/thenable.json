@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306820180099900",
+  "numero": 434,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80429531,
+    "direccion": "diagonal 15b no 104-45 casa  132",
+    "email": "diagonal132@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3193862544
+    },
+    "primerNombre": "francisco",
+    "segundoNombre": "javier",
+    "primerApellido": "gil",
+    "segundoApellido": "florez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-22T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-05-15T00:00:00.000Z",
+    "expediente": "11001400306820180099900",
+    "capitalAdeudado": 1220463917,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990085420],
+    "radicado": "2018 - 00999",
+    "vencimientoPagare": ["2021-04-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52484859,
+    "direccion": "DIAGONAL 15B No 104-45",
+    "nombre": "luz angela rodriguez rozo",
+    "telefono": "4223218-3124446521"
+  },
+  "cc": 80429531,
+  "idProcesos": null
+}

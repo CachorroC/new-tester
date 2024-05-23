@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-05-02T05:00:00.000Z",
+  "idProcesos": [51918100, 81806941],
+  "idRegUltimaAct": 1279661740,
+  "llaveProceso": "11001400308120180011100",
+  "nombre": "JHON ALEXANDER ALARCON GALVIS",
+  "numero": 379,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:19.782Z"
+}

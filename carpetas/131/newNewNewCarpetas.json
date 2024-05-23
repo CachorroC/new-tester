@@ -1,0 +1,70 @@
+{
+  "id": 52830770,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "45026",
+    "telefono": null,
+    "id": 131
+  },
+  "demanda": {
+    "obligacion": ["16924662"],
+    "llaveProceso": "25754418900120170077400",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "42983"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "1064"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "42965",
+    "fechaPresentacion": ["2017-09-05T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00774",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2192-12-15T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ROCIO",
+    "segundoNombre": "ALEIDA",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "BARRETO",
+    "cedula": 52830770,
+    "direccion": null,
+    "email": "CARRERA 9 ESTE # 36 - 40 CASA 34"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900120170077400",
+  "nombre": "ROCIO ALEIDA ORTIZ BARRETO",
+  "numero": 131,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:29.177Z"
+}

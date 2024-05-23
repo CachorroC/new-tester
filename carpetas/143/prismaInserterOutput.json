@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 143,
+    "numero": 143,
+    "llaveProceso": "11001400303420170108900",
+    "nombre": "paola andrea rodriguez morales",
+    "idProcesos": [50654580],
+    "category": "Terminados"
+  }
+}

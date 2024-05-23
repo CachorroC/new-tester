@@ -1,0 +1,16 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 24,
+      "tipo": "JUZGADO 024 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-024-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    },
+    {
+      "id": 5,
+      "tipo": "JUZGADO 005 CIVIL MUNICIPAL DE VILLAVICENCIO ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-05-civil-municipal-de-villavicencio"
+    }
+  ]
+}

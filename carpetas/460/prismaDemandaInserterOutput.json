@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 455,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "43294",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["16.399.509.25"],
+    "radicado": "2019 - 00409",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "11001400306620190040900",
+    "carpetaNumero": 460,
+    "despacho": null
+  }
+}

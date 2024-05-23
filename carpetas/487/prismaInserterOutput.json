@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 487,
+    "numero": 487,
+    "llaveProceso": "11001400301420180078900",
+    "nombre": "gabriel null mendoza morinelly",
+    "idProcesos": [51278930],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 9,
+    "cedula": "1020731500",
+    "primerNombre": "daniela",
+    "primerApellido": "cardenas",
+    "segundoNombre": "alejandra",
+    "segundoApellido": "rodriguez",
+    "direccion": "diagonal 77  b no 19 a - 73",
+    "email": "dany_aleja@hotmail.com",
+    "telCelular": "1020731500",
+    "telFijo": "731500",
+    "carpetaNumero": 9
+  }
+}

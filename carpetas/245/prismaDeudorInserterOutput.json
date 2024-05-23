@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 242,
+    "cedula": "79893549",
+    "primerNombre": "javier",
+    "primerApellido": "gomez",
+    "segundoNombre": "orlando",
+    "segundoApellido": "diaz",
+    "direccion": "calle 76 c sur 1h 27",
+    "email": "jaorgodi@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 245
+  }
+}

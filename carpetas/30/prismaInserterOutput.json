@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 30,
+    "numero": 30,
+    "llaveProceso": "11001400303020170095100",
+    "nombre": "mireya viviana beltran herrera",
+    "idProcesos": [50492700],
+    "category": "Terminados"
+  }
+}

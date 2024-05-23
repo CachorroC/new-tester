@@ -1,0 +1,97 @@
+{
+  "id": 52441656,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 14
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "15987259",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.997Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:43.005Z"],
+    "id": 14,
+    "llaveProceso": "25740418900120170028400",
+    "mandamientoPago": [],
+    "municipio": "SIBATE",
+    "notificacion": {
+      "id": 14,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["4517"],
+    "radicado": "2017 - 00284",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:44.990Z"],
+    "medidasCautelares": {
+      "id": 14,
+      "fechaOrdenaMedida": "2024-02-10T00:54:21.651Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 14,
+    "telCelular": "3133743400",
+    "telFijo": "5295780 ",
+    "primerNombre": "ELSA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "SOSA",
+    "segundoApellido": "",
+    "cedula": "52441656",
+    "direccion": "TRANSVERSAL 6 B  No 12 A - 18   SIBATE",
+    "email": "elmisosro1@hotmail,com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25740418900120170028400",
+  "nombre": "elsa milena sosa  romero",
+  "numero": 14,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 14,
+      "createdAt": "2024-02-10T00:54:21.651Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "8 DE NOVIEMBRE DE 2017 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 14,
+      "createdAt": "2024-02-10T00:54:21.651Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE REGISTRARON MEDIDAS CAUTELARES CONTRA EL DEUDOR DEVOLUCION Y CERTIFICADO DE TRADICION",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:21.651Z"
+}

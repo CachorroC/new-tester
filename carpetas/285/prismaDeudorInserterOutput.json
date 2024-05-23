@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 282,
+    "cedula": "52318314",
+    "primerNombre": "adriana",
+    "primerApellido": "perez",
+    "segundoNombre": "maria",
+    "segundoApellido": "gomez",
+    "direccion": "calle 19 a 82 65 tr 4 apartamento 301",
+    "email": "adrianitaa@gmail.com",
+    "telCelular": "3134576869",
+    "telFijo": "8065373",
+    "carpetaNumero": 285
+  }
+}

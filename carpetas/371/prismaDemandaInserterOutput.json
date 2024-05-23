@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 368,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "10775194",
+    "entregaGarantiasAbogado": "2018-01-16T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "SIN LEVANTAMIENTO DE MEDIDA CAUTELAR NO HA SIDO ARCHIVADO POR EL JUZGADO",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["117171", "377813401553319"],
+    "radicado": "2018 - 00143",
+    "vencimientoPagare": ["2024-03-01T00:00:00.000Z"],
+    "expediente": "11001400302420180014300",
+    "carpetaNumero": 371,
+    "despacho": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "25754400300220180007000",
+  "numero": 372,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51953414,
+    "direccion": "transversal 49 # 3 - 92 casa 360 zapan 3",
+    "email": "janethrpinzon@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3152482331
+    },
+    "primerNombre": "janeth",
+    "segundoNombre": "rubiela",
+    "primerApellido": "gordillo",
+    "segundoApellido": "pinzon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-01-11T00:00:00.000Z",
+    "expediente": "25754400300220180007000",
+    "capitalAdeudado": 17921982,
+    "etapaProcesal": "ADMISION",
+    "municipio": "SOACHA",
+    "obligacion": [120770],
+    "radicado": "2018 - 00070",
+    "vencimientoPagare": ["2024-07-31T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1014202066,
+    "nombre": "carlos andres suarez gordillo"
+  },
+  "cc": 51953414,
+  "idProcesos": null
+}

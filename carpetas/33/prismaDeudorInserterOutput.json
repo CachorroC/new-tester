@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 33,
+    "cedula": "28936365",
+    "primerNombre": "nini",
+    "primerApellido": "cortes",
+    "segundoNombre": "johana",
+    "segundoApellido": "monroy",
+    "direccion": "calle 401 sur 72 l -40 cristales  bogota",
+    "email": "snaluistol@gmail.com",
+    "telCelular": "3118113651",
+    "telFijo": null,
+    "carpetaNumero": 33
+  }
+}

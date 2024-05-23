@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:23.896Z",
+  "proceso": {
+    "idProceso": 50632410,
+    "idConexion": 259,
+    "llaveProceso": "11001400306920170075400",
+    "fechaProceso": "2017-08-14T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-11-04T05:00:00.000Z",
+    "despacho": "JUZGADO 010 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: GUSTAVO SANTAMARIA MOSQUERA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 10,
+      "tipo": "JUZGADO 010 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-10-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

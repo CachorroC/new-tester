@@ -1,0 +1,34 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50684250,
+      "idConexion": 259,
+      "llaveProceso": "11001400301320170115700",
+      "fechaProceso": "2017-09-05T00:00:00",
+      "fechaUltimaActuacion": "2021-10-13T00:00:00",
+      "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: TITULARIZADORA COLOMBIANA S. A. HITOS  endosataria en propiedad del BANCO DAVIVIENDA S.A. | Demandado: HERNANDO GONZALEZ GARCIA | Demandado: BEATRIZ HELENA MACHADO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400301320170115700",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 1,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

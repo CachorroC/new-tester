@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 283,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "94533343",
+    "entregaGarantiasAbogado": "2017-09-11T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-10-12T00:00:00.000Z",
+    "etapaProcesal": "CURADOR AD LITEM",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["12711612"],
+    "radicado": "2017 - 01195",
+    "vencimientoPagare": ["2020-09-01T00:00:00.000Z"],
+    "expediente": "11001400301720170119500",
+    "carpetaNumero": 286,
+    "despacho": null
+  }
+}

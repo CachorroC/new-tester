@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 431,
+    "numero": 431,
+    "llaveProceso": "11001400302220180060400",
+    "nombre": "duvy mariela rodriguez rocha",
+    "idProcesos": [51173050],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 459,
+    "cedula": "51944991",
+    "primerNombre": "ricardo",
+    "primerApellido": "celis",
+    "segundoNombre": "armando",
+    "segundoApellido": "angel",
+    "direccion": "51944991",
+    "email": "TRANSVERSAL 4B No 3-75   CASA 44",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 464
+  }
+}

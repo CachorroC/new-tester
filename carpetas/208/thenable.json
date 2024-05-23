@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300220170026500",
+  "numero": 208,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 80357801,
+    "direccion": "calle 34 # 1a - 40 casa 247",
+    "email": "jeovanyrojas@outlook.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jeovany",
+    "primerApellido": "rojas",
+    "segundoApellido": "cruz",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "25754400300220170026500",
+    "capitalAdeudado": 27819415,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "SOACHA",
+    "obligacion": [12725973],
+    "radicado": "2017 - 00265",
+    "vencimientoPagare": ["2020-08-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80357801,
+  "idProcesos": null
+}

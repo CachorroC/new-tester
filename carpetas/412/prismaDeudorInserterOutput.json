@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 409,
+    "cedula": "80896755",
+    "primerNombre": "fabio",
+    "primerApellido": "perez",
+    "segundoNombre": "nelson",
+    "segundoApellido": "cristiano",
+    "direccion": "carrera 7c- no 02-85 sur",
+    "email": "fabiop0917@hotmail.com",
+    "telCelular": "3204063623",
+    "telFijo": null,
+    "carpetaNumero": 412
+  }
+}

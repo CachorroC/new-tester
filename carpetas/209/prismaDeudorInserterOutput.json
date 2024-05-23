@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 206,
+    "cedula": "79852094",
+    "primerNombre": "cesar",
+    "primerApellido": "umaña",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "cañon",
+    "direccion": "carrera 68m # 37d - 47 sur",
+    "email": "cesa861@hotmail.com",
+    "telCelular": "3212406004",
+    "telFijo": "1006108",
+    "carpetaNumero": 209
+  }
+}

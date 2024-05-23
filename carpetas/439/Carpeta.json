@@ -1,0 +1,97 @@
+{
+  "id": 79812352,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MAGDA YANETH MORA MORENO",
+    "cedula": "39652702",
+    "direccion": "CALLLE 21 No 5-06",
+    "telefono": "314408",
+    "id": 439
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "457",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.235Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.251Z"],
+    "id": 439,
+    "llaveProceso": "25899400300320180055500",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 439,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990165412"],
+    "radicado": "2018 - 00555",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.930Z"],
+    "medidasCautelares": {
+      "id": 439,
+      "fechaOrdenaMedida": "2024-02-10T00:54:59.403Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 439,
+    "telCelular": "3123170535",
+    "telFijo": null,
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ESNEYDER",
+    "primerApellido": "DEVIA",
+    "segundoApellido": "CEPEDA",
+    "cedula": "79812352",
+    "direccion": "TRANSVERSAL 78 No 68A-15 SUR",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25899400300320180055500",
+  "nombre": "miguel esneyder devia cepeda",
+  "numero": 439,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 439,
+      "createdAt": "2024-02-10T00:54:59.403Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 18 DE AGOSTO DE 2.018 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 439,
+      "createdAt": "2024-02-10T00:54:59.403Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE TRAMITÓ MEDIDA CAUTELAR DE EMBARGO DEL INMUEBLE",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:59.403Z"
+}

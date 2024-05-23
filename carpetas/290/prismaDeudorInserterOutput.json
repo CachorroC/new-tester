@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 287,
+    "cedula": "40035102",
+    "primerNombre": "elizabeth",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "gil",
+    "segundoApellido": null,
+    "direccion": "diagonal 15 b - 104 - 45 casa  55",
+    "email": "luz.y31@hotmail.com",
+    "telCelular": "3152504510",
+    "telFijo": "6051177",
+    "carpetaNumero": 290
+  }
+}

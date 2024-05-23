@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 143,
+    "cedula": "79714749",
+    "primerNombre": "jhon",
+    "primerApellido": "fuentes",
+    "segundoNombre": "jaminton",
+    "segundoApellido": "carreño",
+    "direccion": "calle 66a sur # 66 - 81 torre 16 apto 661",
+    "email": "joja1114@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 145
+  }
+}

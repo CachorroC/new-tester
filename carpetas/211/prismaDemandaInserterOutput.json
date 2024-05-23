@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 208,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "36520799",
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-09-06T00:00:00.000Z",
+    "etapaProcesal": "2.528640030012018e+22",
+    "fechaPresentacion": null,
+    "municipio": "MOSQUERA",
+    "obligacion": ["166601"],
+    "radicado": "2018 - 00105",
+    "vencimientoPagare": ["2028-08-01T00:00:00.000Z"],
+    "expediente": "25473400300120180010500",
+    "carpetaNumero": 211,
+    "despacho": null
+  }
+}

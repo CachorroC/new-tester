@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:25.805Z",
+  "savedDate": "2020-01-20T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1630836130,
+    "llaveProceso": "11001400302220170120800",
+    "consActuacion": 84,
+    "fechaActuacion": "2023-01-31T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "PROCESO DIGITAL BAJA DEL DESPACHO/LETRA/JOHN",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-01-31T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 84,
+    "isUltimaAct": true,
+    "idProceso": 50817380
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": 52581513,
+  "actuaciones": [
+    {
+      "idRegActuacion": 888114011,
+      "llaveProceso": "11001400302620170087200",
+      "consActuacion": 8282236,
+      "fechaActuacion": "2019-07-30T05:00:00.000Z",
+      "actuacion": "AUTO EMPLAZA",
+      "anotacion": "AUTO LIBRA MANDAMIENTO DE PAGO DE FECHA: 29 DE AGOSTO DE 2017",
+      "fechaInicial": "2019-07-30T05:00:00.000Z",
+      "fechaFinal": "2019-08-22T05:00:00.000Z",
+      "fechaRegistro": "2019-07-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 1,
+      "idProceso": 81647161,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:33.439Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JHON EDER CHACON GONZALEZ",
+    "cedula": "1019036435",
+    "direccion": "CALLE 136A # 100A - 07",
+    "telefono": null,
+    "id": 144
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "10481215",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.963Z",
+    "etapaProcesal": "11001400302620170087200",
+    "fechaPresentacion": [],
+    "id": 144,
+    "llaveProceso": "11001400302620170087200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 144,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:42.976Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["1980094643"],
+    "radicado": "2017 - 00872",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:44.130Z"],
+    "medidasCautelares": {
+      "id": 144,
+      "fechaOrdenaMedida": "1970-01-01T00:00:43.646Z",
+      "medidaSolicitada": "43770"
+    }
+  },
+  "deudor": {
+    "id": 144,
+    "telCelular": "3124794983",
+    "telFijo": null,
+    "primerNombre": "MARIA",
+    "segundoNombre": "FILOMENA",
+    "primerApellido": "GONZALES",
+    "segundoApellido": "SALAS",
+    "cedula": "52581513",
+    "direccion": "CALLE 136A # 100A - 07",
+    "email": null
+  },
+  "fecha": "2022-02-23T05:00:00.000Z",
+  "idProcesos": [50652400, 81647161],
+  "idRegUltimaAct": 1259118680,
+  "llaveProceso": "11001400302620170087200",
+  "nombre": "maria filomena gonzales salas ",
+  "numero": 144,
+  "procesos": [
+    {
+      "idProceso": 50652400,
+      "idConexion": 259,
+      "llaveProceso": "11001400302620170087200",
+      "fechaProceso": "2017-08-23T05:00:00.000Z",
+      "fechaUltimaActuacion": "2022-02-23T05:00:00.000Z",
+      "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JHON EDER CHACON GONZALEZ | Demandado: MARIA FILOMENA GONZALEZ SALAS ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 26,
+        "tipo": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-26-civil-municipal-de-bogota"
+      }
+    },
+    {
+      "idProceso": 81647161,
+      "idConexion": 320,
+      "llaveProceso": "11001400302620170087200",
+      "fechaProceso": "2019-07-30T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-07-30T05:00:00.000Z",
+      "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: MARIA FILOMENA GONZALEZ SALAS (Emplazado) | Demandado/indiciado/causante: JHON EDER CHACON GONZALEZ (Emplazado) | Defensor Privado: lina julied avila salcedo ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 26,
+        "tipo": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-26-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1259118680,
+    "llaveProceso": "11001400302620170087200",
+    "consActuacion": 90,
+    "fechaActuacion": "2022-02-23T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "TERMINACION CAJA NO 0033 DE 2022",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-02-23T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 90,
+    "idProceso": 50652400,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 144,
+      "createdAt": "2024-02-10T00:54:33.371Z",
+      "pathname": null,
+      "dueDate": "2021-10-02T05:00:00.000Z",
+      "text": "2/09/2021 JUZGADO DECRETA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 144,
+      "createdAt": "2024-02-10T00:54:33.371Z",
+      "pathname": null,
+      "dueDate": "2021-11-06T05:00:00.000Z",
+      "text": " 6/10/2021 NO ADMITE PAGO PARCIAL 50% ES DE CISA NIEGA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 144,
+      "createdAt": "2024-02-10T00:54:33.371Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " DESGLOSE DE GARANTIAS Y LEVANTAMIENTO DE MEDIDAS CAUTELARES A CARGO DE LA DEUDORA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:33.372Z"
+}

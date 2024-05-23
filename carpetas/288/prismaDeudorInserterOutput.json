@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 285,
+    "cedula": "20371142",
+    "primerNombre": "viviana",
+    "primerApellido": "roa",
+    "segundoNombre": "marcela",
+    "segundoApellido": "vivas",
+    "direccion": "diagonal  15 b no 104 - 46",
+    "email": "isafrevi@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 288
+  }
+}

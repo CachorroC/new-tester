@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418907520230016700",
+  "numero": 570,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 21386342,
+    "direccion": "av suba no. 136-80 bl b ap 502 cerros de suba – gratamira //kr 75 no. 65 - 78 ap 402 edificio montreal p.h. medellín // vereda potrerito ?",
+    "email": "martacospina@hotmail.com",
+    "tel": {
+      "fijo": 2977768,
+      "celular": 3163096532
+    },
+    "primerNombre": "martha",
+    "segundoNombre": "cecilia",
+    "primerApellido": "ospina",
+    "segundoApellido": "arenas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-04T00:00:00.000Z",
+    "expediente": "11001418907520230016700",
+    "capitalAdeudado": 19170517,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [3990086952],
+    "radicado": "2023 - 01465",
+    "vencimientoPagare": ["2026-03-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 21386342,
+  "idProcesos": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 53103504,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LEINY ANDREA QUINTERO FIERRO",
+    "cedula": "1030602928",
+    "direccion": "CALLE 7 No 87B-90",
+    "telefono": "3208797",
+    "id": 493
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "21035323",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-06-09T05:00:00.000Z",
+    "etapaProcesal": "SUBSANA",
+    "fechaPresentacion": ["2018-09-29T05:00:00.000Z"],
+    "id": 493,
+    "llaveProceso": "11001410375120180181700",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 493,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990155357"],
+    "radicado": "2018 - 01817",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 493,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.731Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 493,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "KELLY",
+    "segundoNombre": "YULIANA",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "FIERRO",
+    "cedula": "53103504",
+    "direccion": "CALLE 7 No 87B-90",
+    "email": "juliana.4455@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001410375120180181700",
+  "nombre": "kelly yuliana quintero fierro",
+  "numero": 493,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 493,
+      "createdAt": "2024-02-10T00:55:02.730Z",
+      "pathname": null,
+      "dueDate": "2019-02-04T05:00:00.000Z",
+      "text": "EL  4/01/2019 EL JUZDADO TERMINA PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 493,
+      "createdAt": "2024-02-10T00:55:02.730Z",
+      "pathname": null,
+      "dueDate": "2020-02-14T05:00:00.000Z",
+      "text": " EL 14/01/2020 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 493,
+      "createdAt": "2024-02-10T00:55:02.731Z",
+      "pathname": null,
+      "dueDate": "2023-02-19T05:00:00.000Z",
+      "text": " EL 19/01/2023 SE SOLICITO CERTIFICADO DE TRADICIÓN SIN MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.731Z"
+}

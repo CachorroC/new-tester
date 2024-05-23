@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 514,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "13180105",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2019-05-06T00:00:00.000Z",
+    "municipio": "CHIA",
+    "obligacion": ["9320086222"],
+    "radicado": "2019 - 00304",
+    "vencimientoPagare": ["2024-10-01T00:00:00.000Z"],
+    "expediente": "25175400300120190030400",
+    "carpetaNumero": 526,
+    "despacho": null
+  }
+}

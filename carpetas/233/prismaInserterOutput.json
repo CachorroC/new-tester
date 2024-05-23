@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 233,
+    "numero": 233,
+    "llaveProceso": "11001400302820170084900",
+    "nombre": "jose luis torres tamayo",
+    "idProcesos": [50685700],
+    "category": "Reintegra"
+  }
+}

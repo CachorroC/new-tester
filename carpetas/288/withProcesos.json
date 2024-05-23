@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "15/04/2017",
+    "obligacion": {
+      "A": 138027
+    },
+    "capitalAdeudado": "60.495.232.79",
+    "entregaGarantiasAbogado": "3/10/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01133",
+    "llaveProceso": "11001400308320170113300",
+    "fechaPresentacion": "6/10/2017"
+  },
+  "demandas": [],
+  "numero": 288,
+  "llaveProceso": "11001400308320170113300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "VIVIANA",
+    "segundoNombre": "MARCELA",
+    "primerApellido": "ROA",
+    "segundoApellido": "VIVAS",
+    "cedula": 20371142,
+    "direccion": "DIAGONAL  15 B No 104 - 46",
+    "email": "isafrevi@hotmail.com"
+  },
+  "cc": 20371142,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "VIVIANA MARCELA ROA VIVAS",
+  "notificacion": null
+}

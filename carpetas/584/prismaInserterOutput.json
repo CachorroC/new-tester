@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 583,
+    "numero": 584,
+    "llaveProceso": null,
+    "nombre": "maria camila morales ramirez",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 424,
+    "numero": 424,
+    "llaveProceso": "110014003015201800459",
+    "nombre": "jaime leonardo sosa roodriguez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

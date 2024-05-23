@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400304320180047400",
+  "numero": 415,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1024479982,
+    "direccion": null,
+    "email": "CALLE 61 SUR No 20 D-60 INT11  APTO 501",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ingrid",
+    "segundoNombre": "catherine",
+    "primerApellido": "tapias",
+    "segundoApellido": "rico"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-06-13T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400304320180047400",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "43217",
+    "municipio": "BOGOTA",
+    "obligacion": [5303710076309980, 3378591161],
+    "radicado": "2018 - 00474",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 49996
+  },
+  "cc": 1024479982,
+  "idProcesos": null
+}

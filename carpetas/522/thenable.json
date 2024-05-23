@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306820190100400",
+  "numero": 522,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79359896,
+    "direccion": "calle 42 c no 78  a-17 sur",
+    "email": "dorapia@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "armando",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "rodriguez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2019-12-02T05:00:00.000Z",
+    "expediente": "11001400306820190100400",
+    "capitalAdeudado": 2972304763,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [20990146891, 450091594],
+    "radicado": "2019 - 01004",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79359896,
+  "idProcesos": null
+}

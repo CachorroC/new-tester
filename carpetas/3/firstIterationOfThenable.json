@@ -1,0 +1,61 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "13/09/2017",
+    "obligacion": {
+      "A": 12204943
+    },
+    "capitalAdeudado": "33..175.721.69",
+    "entregaGarantiasAbogado": "18/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CAJICA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00715",
+    "llaveProceso": "25126408900220170071500",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "28/09/2018",
+    "mandamientoPago": "2/02/2018",
+    "notificacion": {
+      "tipo": "OK",
+      "autoNotificado": "SOLICITUD EPS"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "2/02/2018",
+      "medidaSolicitada": "VEHICULO"
+    }
+  },
+  "demandas": [],
+  "numero": 3,
+  "llaveProceso": "25126408900220170071500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "CLAUDIA",
+    "primerApellido": "REATIGA",
+    "segundoApellido": "URREA",
+    "cedula": 1018441487,
+    "direccion": "CARRERA 2 E No 1 A  - 60 CASA 126 - CAJICA",
+    "email": null
+  },
+  "cc": 1018441487,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARIA CLAUDIA REATIGA URREA",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "SOLICITUD EPS"
+  }
+}

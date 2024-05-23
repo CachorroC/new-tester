@@ -1,0 +1,91 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "18/02//2021",
+    "obligacion": {
+      "A": "2290099308    /2170086682"
+    },
+    "capitalAdeudado": "78.071.921.68",
+    "entregaGarantiasAbogado": "19/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00998",
+    "llaveProceso": "1100140030442017099800",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "25/09/2017",
+    "mandamientoPago": "20/10/2017",
+    "notificacion": {
+      "certimail": "18/01/2018",
+      "tipo": "CERTIMAIL",
+      "autoNotificado": 43150
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "20/10/2017",
+      "medidaSolicitada": "VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 9,
+      "idConexion": null,
+      "llaveProceso": "1100140030442017099800",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "VEHICULO"
+      },
+      "vencimientoPagare": [
+        "2015-01-01T05:00:00.000Z",
+        "2021-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": 7807192168,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": "SENTENCIA",
+      "fechaPresentacion": ["2017-09-25T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": ["2290099308    /2170086682"],
+      "radicado": "2017 - 00998"
+    }
+  ],
+  "numero": 9,
+  "llaveProceso": "1100140030442017099800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 731500,
+      "celular": 1020731500
+    },
+    "primerNombre": "DANIELA",
+    "segundoNombre": "ALEJANDRA",
+    "primerApellido": "CARDENAS",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": 1020731500,
+    "direccion": "DIAGONAL 77  B No 19 A - 73",
+    "email": "dany_aleja@hotmail.com"
+  },
+  "cc": 1020731500,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "DANIELA ALEJANDRA CARDENAS RODRIGUEZ",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": "43150"
+  }
+}

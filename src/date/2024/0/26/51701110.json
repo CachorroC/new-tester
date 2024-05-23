@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:43.682Z",
+  "proceso": {
+    "idProceso": 51701110,
+    "idConexion": 259,
+    "llaveProceso": "11001400308220170125600",
+    "fechaProceso": "2019-02-22T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-08-04T05:00:00.000Z",
+    "despacho": "JUZGADO 019 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FERNANDO RINCON RODRIGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 19,
+      "tipo": "JUZGADO 019 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-19-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

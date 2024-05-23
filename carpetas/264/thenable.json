@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25736408900120170016600",
+  "numero": 264,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 3058707,
+    "direccion": "vereda potrero largo  guatavita",
+    "email": "N / A",
+    "tel": {
+      "fijo": null,
+      "celular": 3105683065
+    },
+    "primerNombre": "hector",
+    "segundoNombre": "julio",
+    "primerApellido": "garzon",
+    "segundoApellido": "peña"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-28T00:00:00.000Z",
+    "mandamientoPago": "2017-10-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-20T00:00:00.000Z",
+    "expediente": "25736408900120170016600",
+    "capitalAdeudado": 3675627700,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SESQUILE",
+    "obligacion": [3360084994],
+    "radicado": "2017 - 00166",
+    "vencimientoPagare": ["2017-08-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 3058707,
+  "idProcesos": null
+}

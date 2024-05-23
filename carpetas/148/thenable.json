@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "11001400300920170081300",
+  "numero": 148,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79505815,
+    "direccion": "aeronautica civil avenida calle 26 # 106 - 33",
+    "email": "nestorg1969@hotmail.com",
+    "tel": {
+      "fijo": 4109980,
+      "celular": null
+    },
+    "primerNombre": "nestor",
+    "segundoNombre": "gerardo",
+    "primerApellido": "osorio",
+    "segundoApellido": "morales"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-22T00:00:00.000Z",
+    "mandamientoPago": "2017-08-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-16T00:00:00.000Z",
+    "expediente": "11001400300920170081300",
+    "capitalAdeudado": 30873492,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12447813],
+    "radicado": "2017 - 00813",
+    "vencimientoPagare": ["2017-08-10T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 55162346,
+    "nombre": "libna audy garzon gutierrez"
+  },
+  "cc": 79505815,
+  "idProcesos": null
+}

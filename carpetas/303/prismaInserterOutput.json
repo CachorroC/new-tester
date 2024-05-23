@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 303,
+    "numero": 303,
+    "llaveProceso": "11001400303020170157900",
+    "nombre": "rafael alfonso camacho velandia",
+    "idProcesos": [50778160],
+    "category": "Terminados"
+  }
+}

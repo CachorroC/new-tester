@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25183400300120170011900",
+  "numero": 76,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 20493423,
+    "direccion": "calle 8 # 2 - 32 choconta",
+    "email": "stellamarin23@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3112110025
+    },
+    "primerNombre": "estela",
+    "primerApellido": "marin",
+    "segundoApellido": "garzón",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "25183400300120170011900",
+    "capitalAdeudado": 17517434,
+    "etapaProcesal": "2.518340030012017e+22",
+    "municipio": "CHOCONTA",
+    "obligacion": [2660080368],
+    "radicado": "2017 - 00119",
+    "vencimientoPagare": ["2019-07-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 80394005,
+    "direccion": "CALLE 8 # 2 - 32 CHOCONTA",
+    "nombre": "adelmo abril forero",
+    "telefono": 3143782313
+  },
+  "cc": 20493423,
+  "idProcesos": null
+}

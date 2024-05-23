@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 471,
+    "numero": 471,
+    "llaveProceso": "1100140030152018007100",
+    "nombre": "adriana null mireya aguilar",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

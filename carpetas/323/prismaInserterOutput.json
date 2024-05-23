@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 323,
+    "numero": 323,
+    "llaveProceso": "11001400303720170150900",
+    "nombre": "luis fernando medina potes",
+    "idProcesos": [8830323],
+    "category": "Terminados"
+  }
+}

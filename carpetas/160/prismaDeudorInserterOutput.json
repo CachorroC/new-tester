@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 158,
+    "cedula": "79387342",
+    "primerNombre": "jairo",
+    "primerApellido": "carrillo",
+    "segundoNombre": "alberto",
+    "segundoApellido": "salinas",
+    "direccion": "calle 28a sur # 28a - 18",
+    "email": "jairocarrillosa@hotmail.com",
+    "telCelular": "3118411820",
+    "telFijo": "6047182",
+    "carpetaNumero": 160
+  }
+}

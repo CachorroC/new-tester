@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 451,
+    "numero": 451,
+    "llaveProceso": "11001400305620180071100",
+    "nombre": "jose jeisson galindo carrillo",
+    "idProcesos": [51296960],
+    "category": "Terminados"
+  }
+}

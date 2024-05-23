@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 560,
+    "cedula": "9527771",
+    "primerNombre": "jaime",
+    "primerApellido": "quintero",
+    "segundoNombre": "enrique",
+    "segundoApellido": "mendoza",
+    "direccion": "cl 134 16 50 ap 104 edificio verona barrio contador bogotá",
+    "email": "jaimequinterom1@hotmail.com",
+    "telCelular": "3102997350",
+    "telFijo": "6154763",
+    "carpetaNumero": 572
+  }
+}

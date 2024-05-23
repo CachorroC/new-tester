@@ -1,0 +1,51 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "02/05/2026",
+    "obligacion": {
+      "A": 6841
+    },
+    "capitalAdeudado": "36.307.716.54",
+    "entregaGarantiasAbogado": "11/12/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "GIRARDOT",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00066",
+    "llaveProceso": "25307400300120180006600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "18/12/2017     09/02/2018",
+    "mandamientoPago": "19/02/2018",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "19/02/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 368,
+  "llaveProceso": "25307400300120180006600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "CAROLINA",
+    "segundoNombre": "MARTINEZ",
+    "primerApellido": "CALDERON",
+    "segundoApellido": null,
+    "cedula": 39577914,
+    "direccion": "CARRERA 19 No 13-20 GIRARDOT",
+    "email": "caro_23mc@hotmail.com"
+  },
+  "cc": 39577914,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "CAROLINA MARTINEZ CALDERON",
+  "notificacion": null
+}

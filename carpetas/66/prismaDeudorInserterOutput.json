@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 66,
+    "cedula": "66841096",
+    "primerNombre": "sandra",
+    "primerApellido": "suarez",
+    "segundoNombre": "patricia",
+    "segundoApellido": "galvis",
+    "direccion": "carrera 22 no. 161-26 piso 2",
+    "email": "sansuarez.ga@gmail.com",
+    "telCelular": "3144113614",
+    "telFijo": null,
+    "carpetaNumero": 66
+  }
+}

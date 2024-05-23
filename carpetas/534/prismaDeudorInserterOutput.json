@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 522,
+    "cedula": "11337530",
+    "primerNombre": "pedro",
+    "primerApellido": "triviño",
+    "segundoNombre": "julio",
+    "segundoApellido": "valbuena",
+    "direccion": "vereda san jorge zipaquira",
+    "email": "maribelbonita86@hotmail.com",
+    "telCelular": "3115159670",
+    "telFijo": null,
+    "carpetaNumero": 534
+  }
+}

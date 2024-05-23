@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "4/07/2026 // 18/08/2026",
+    "obligacion": {
+      "A": 6340091067,
+      "B": 101450659
+    },
+    "capitalAdeudado": "$ 50.683.098",
+    "entregaGarantiasAbogado": "22/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "llaveProceso": "SinEspecificar",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 601,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [6340091067, 101450659],
+      "radicado": null
+    }
+  ],
+  "numero": 601,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3112027395
+    },
+    "primerNombre": "JERONIMO",
+    "segundoNombre": "LEONARDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "CASTAÑEDA",
+    "cedula": 79166749,
+    "direccion": "Carrera 55 No. 151 – 90 Interior 3 Apartamento 203 del Conjunto Residencial Mazuren 11 de la ciudad de Bogotá D.C",
+    "email": "jeronimolgc@yahoo.com"
+  },
+  "cc": 79166749,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JERONIMO LEONARDO GONZALEZ CASTAÑEDA",
+  "notificacion": null
+}

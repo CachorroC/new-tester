@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 472,
+    "cedula": "3199064",
+    "primerNombre": "fabio",
+    "primerApellido": "pastor",
+    "segundoNombre": "hernando",
+    "segundoApellido": "pastor",
+    "direccion": "carrera 4  no  1f-52  tenjo",
+    "email": "juristenjo@hotmail.com",
+    "telCelular": "3202340560",
+    "telFijo": "8646896",
+    "carpetaNumero": 478
+  }
+}

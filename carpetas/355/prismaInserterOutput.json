@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 355,
+    "numero": 355,
+    "llaveProceso": "11001400301720170152600",
+    "nombre": "nelson ivan segura mendez",
+    "idProcesos": [50875060],
+    "category": "Terminados"
+  }
+}

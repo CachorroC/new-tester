@@ -1,0 +1,85 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "9/08/2020",
+    "obligacion": {
+      "A": 12750180
+    },
+    "capitalAdeudado": "$ 24.590.710",
+    "entregaGarantiasAbogado": "16/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 01750",
+    "llaveProceso": "11001400302420170175000",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "23/08/2017",
+    "mandamientoPago": "15/02/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "26/06/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "26/06/2018"
+      },
+      "292": {
+        "fechaAporta": "26/06/2018",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "CERTIMAIL",
+      "autoNotificado": "24/09/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "15/02/2018",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "demandas": [],
+  "numero": 193,
+  "llaveProceso": "11001400302420170175000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 7829236,
+      "celular": 3204792977
+    },
+    "primerNombre": "CARMEN",
+    "segundoNombre": "ELIZABETH",
+    "primerApellido": "QUESADA",
+    "segundoApellido": "MARTINEZ",
+    "cedula": 52465691,
+    "direccion": "CARRERA 80 # 70A - 09",
+    "email": "equesada01@hotmail.com"
+  },
+  "cc": 52465691,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "CARMEN ELIZABETH QUESADA MARTINEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-06-26T05:00:00.000Z",
+        "fechaAporta": "2018-06-26T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-06-26T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": "24/09/2018"
+  }
+}

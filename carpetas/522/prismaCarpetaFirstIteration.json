@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-06-03T05:00:00.000Z",
+  "idProcesos": [39001450],
+  "idRegUltimaAct": 1303040130,
+  "llaveProceso": "11001400306820190100400",
+  "nombre": "ARMANDO RODRIGUEZ RODRIGUEZ",
+  "numero": 522,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:40.457Z"
+}

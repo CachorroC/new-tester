@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 569,
+    "numero": 570,
+    "llaveProceso": "11001418907520230016700",
+    "nombre": "martha cecilia ospina arenas",
+    "idProcesos": [132240890],
+    "category": "Bancolombia"
+  }
+}

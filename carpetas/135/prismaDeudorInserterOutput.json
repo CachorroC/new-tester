@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 133,
+    "cedula": "5654542",
+    "primerNombre": "ruber",
+    "primerApellido": "valenzuela",
+    "segundoNombre": "andres",
+    "segundoApellido": "sierra",
+    "direccion": "carrera 16 # 10 - 30",
+    "email": null,
+    "telCelular": "3007704166",
+    "telFijo": "6045701",
+    "carpetaNumero": 135
+  }
+}

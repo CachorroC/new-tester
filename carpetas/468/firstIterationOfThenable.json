@@ -1,0 +1,84 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "8/06/2020",
+    "obligacion": {
+      "A": 3880083739,
+      "B": 377813000000000
+    },
+    "capitalAdeudado": "$ 16.881.706",
+    "entregaGarantiasAbogado": "3/08/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00384",
+    "llaveProceso": "11001408900420180038400",
+    "etapaProcesal": "11001418900420180038400",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "9/08/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO",
+        "resultado": "6/11/2018"
+      },
+      "292": {
+        "fechaRecibido": "25/02/2019",
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "3/09/2018",
+      "fisico": "SI",
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "25/02/2019",
+      "medidaSolicitada": "3/0972018"
+    }
+  },
+  "demandas": [],
+  "numero": 468,
+  "llaveProceso": "11001408900420180038400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 2400591,
+      "celular": 3102438242
+    },
+    "primerNombre": "CARLOS",
+    "segundoNombre": "EDUARDO",
+    "primerApellido": "NARANJO",
+    "segundoApellido": "PIÑEROS",
+    "cedula": 79719969,
+    "direccion": "CALLE 63 BIS No 69 a-29",
+    "email": "cenp11@hotmail.com"
+  },
+  "cc": 79719969,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "CARLOS EDUARDO NARANJO PIÑEROS",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2019-02-25T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "CERTIMAIL"
+  }
+}

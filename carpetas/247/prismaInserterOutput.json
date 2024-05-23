@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 247,
+    "numero": 247,
+    "llaveProceso": "25035418900120170017300",
+    "nombre": "dionisio null lancheros novoa",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

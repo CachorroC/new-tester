@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 106,
+    "cedula": "80112954",
+    "primerNombre": "hanyelo",
+    "primerApellido": "martinez",
+    "segundoNombre": "efrain",
+    "segundoApellido": "turriago",
+    "direccion": "diagonal 52 b suer # 5c - 20 este",
+    "email": "efrain.martinez.1021@hotmail.com",
+    "telCelular": "3176550987",
+    "telFijo": "5936306",
+    "carpetaNumero": 107
+  }
+}

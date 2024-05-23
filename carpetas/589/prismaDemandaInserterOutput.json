@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 577,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "58421147",
+    "entregaGarantiasAbogado": "2023-10-07T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "SOACHA",
+    "obligacion": ["90000218729", "2010089751"],
+    "radicado": null,
+    "vencimientoPagare": ["2052-11-01T00:00:00.000Z"],
+    "expediente": null,
+    "carpetaNumero": 589,
+    "despacho": null
+  }
+}

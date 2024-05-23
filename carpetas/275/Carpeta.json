@@ -1,0 +1,105 @@
+{
+  "id": 39670695,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 275
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "11599559",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-10-05T05:00:00.000Z"],
+    "id": 275,
+    "llaveProceso": "25754408900320170096900",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 275,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990124579"],
+    "radicado": "2017 - 00969",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2024-12-09T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 275,
+      "fechaOrdenaMedida": "2024-02-10T00:54:44.755Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 275,
+    "telCelular": "3208100658",
+    "telFijo": "6012243 ",
+    "primerNombre": "HORTENCIA",
+    "segundoNombre": null,
+    "primerApellido": "GARZON",
+    "segundoApellido": null,
+    "cedula": "39670695",
+    "direccion": "TRANSVERSAL 4 B No 3 - 64 sur  APTO 473  SOACHA",
+    "email": "rokerita19748@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754408900320170096900",
+  "nombre": "hortencia garzon",
+  "numero": 275,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 275,
+      "createdAt": "2024-02-10T00:54:44.755Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 14 DE NOVIEMBRE DE 2018 SE RETIRO EL DESGLOSE DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 275,
+      "createdAt": "2024-02-10T00:54:44.755Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 3 DE DICIEMBRE DE 2018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 275,
+      "createdAt": "2024-02-10T00:54:44.755Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 17 DE DICIEMBRE DE 2018 SE LEVANTARON MEDIDAS CAUTELARES SOBRE EL INMUEBLE",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:44.755Z"
+}

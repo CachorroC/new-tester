@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307720180085400",
+  "numero": 465,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79789409,
+    "direccion": "calle 105 sur no 2-22 este",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "giovanny",
+    "primerApellido": "duran",
+    "segundoApellido": "antonio",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-07-31T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-07-29T00:00:00.000Z",
+    "expediente": "11001400307720180085400",
+    "capitalAdeudado": 2530371197,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [209900149557, 377815750421170],
+    "radicado": "2018 - 00854",
+    "vencimientoPagare": ["2027-03-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79789409,
+  "idProcesos": null
+}

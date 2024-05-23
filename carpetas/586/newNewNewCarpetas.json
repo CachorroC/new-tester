@@ -1,0 +1,76 @@
+{
+  "id": 35507149,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 586
+  },
+  "demanda": {
+    "capitalAdeudado": "255635733",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-10-02T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "2023-310",
+    "mandamientoPago": null,
+    "municipio": "FUSAGASUGA",
+    "notificacion": {
+      "id": 586,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["90000222424"],
+    "radicado": "2023 - 00310",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2052-12-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 586,
+      "fechaOrdenaMedida": "2024-02-03T00:36:36.612Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 586,
+    "telCelular": "3506013954",
+    "telFijo": null,
+    "primerNombre": "MARIA",
+    "segundoNombre": "NANCY",
+    "primerApellido": "PINEDA",
+    "segundoApellido": "LEON",
+    "cedula": "35507149",
+    "direccion": "Carrera 3a. No. 1 - 18 Silvania (Cundinamarca)",
+    "email": "nancypleon13gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-310",
+  "nombre": "MARIA NANCY PINEDA LEON",
+  "numero": 586,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:36.613Z"
+}

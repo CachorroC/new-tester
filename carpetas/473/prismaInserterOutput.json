@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 473,
+    "numero": 473,
+    "llaveProceso": "25754418900320180085500",
+    "nombre": "sandra milena vega avila",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "11001400303420170083600",
+  "numero": 90,
+  "tipoProceso": "PRENDARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1032432802,
+    "direccion": "carrera 95 # 138 - 58",
+    "email": "orduzcrit2@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "esneider",
+    "primerApellido": "orduz",
+    "segundoApellido": "farfan"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-07-10T00:00:00.000Z",
+    "entregaGarantiasAbogado": "1899-12-30T00:00:00.000Z",
+    "expediente": "11001400303420170083600",
+    "capitalAdeudado": 26515333,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": [12330030],
+    "radicado": "2017 - 00836",
+    "vencimientoPagare": ["2020-06-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1015435620,
+    "nombre": "jesica paola guzman ospina"
+  },
+  "cc": 1032432802,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 38,
+    "numero": 38,
+    "llaveProceso": "25785418900120170010200",
+    "nombre": "luz miryam gutíerrez martínez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

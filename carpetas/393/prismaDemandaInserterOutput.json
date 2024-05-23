@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 390,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "2585739366",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2018-05-02T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["377816034306740"],
+    "radicado": "2018 - 00149",
+    "vencimientoPagare": [],
+    "expediente": "11001400303820180014900",
+    "carpetaNumero": 393,
+    "despacho": null
+  }
+}

@@ -1,0 +1,3938 @@
+[
+  {
+    "numero": " ",
+    "index": 0,
+    "VALOR_CAPITAL_ADEUDADO": 10775194.27,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10775194.27
+  },
+  {
+    "numero": 1,
+    "index": 1,
+    "VALOR_CAPITAL_ADEUDADO": 40589422,
+    "IN_VALOR_CAPITAL_ADEUDADO": 40589422
+  },
+  {
+    "numero": 2,
+    "index": 2,
+    "VALOR_CAPITAL_ADEUDADO": 162012163.13,
+    "IN_VALOR_CAPITAL_ADEUDADO": 162012163.13
+  },
+  {
+    "numero": 3,
+    "index": 3,
+    "VALOR_CAPITAL_ADEUDADO": 33175721,
+    "IN_VALOR_CAPITAL_ADEUDADO": 33175721,
+    "VALOR_COSTAS": 43476,
+    "IN_VALOR_COSTAS": 43476
+  },
+  {
+    "numero": 4,
+    "index": 4,
+    "VALOR_CAPITAL_ADEUDADO": 29925624,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29925624
+  },
+  {
+    "numero": 5,
+    "index": 5,
+    "VALOR_CAPITAL_ADEUDADO": 25184150,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25184150
+  },
+  {
+    "numero": 6,
+    "index": 6,
+    "VALOR_CAPITAL_ADEUDADO": 16313851,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16313851
+  },
+  {
+    "numero": 7,
+    "index": 7,
+    "VALOR_CAPITAL_ADEUDADO": 134026609,
+    "IN_VALOR_CAPITAL_ADEUDADO": 134026609
+  },
+  {
+    "numero": 8,
+    "index": 8,
+    "VALOR_CAPITAL_ADEUDADO": 25758912,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25758912
+  },
+  {
+    "numero": 9,
+    "index": 9,
+    "VALOR_CAPITAL_ADEUDADO": 78071921,
+    "IN_VALOR_CAPITAL_ADEUDADO": 78071921,
+    "VALOR_COSTAS": 43269,
+    "IN_VALOR_COSTAS": 43269,
+    "VALOR_AVALUO": 6069674.93,
+    "IN_VALOR_AVALUO": 6069674.93
+  },
+  {
+    "numero": 10,
+    "index": 10,
+    "VALOR_CAPITAL_ADEUDADO": 15946341,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15946341
+  },
+  {
+    "numero": 11,
+    "index": 11,
+    "VALOR_CAPITAL_ADEUDADO": 21596919,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21596919
+  },
+  {
+    "numero": 12,
+    "index": 12,
+    "VALOR_CAPITAL_ADEUDADO": 50000000,
+    "IN_VALOR_CAPITAL_ADEUDADO": 50000000
+  },
+  {
+    "numero": 13,
+    "index": 13,
+    "VALOR_CAPITAL_ADEUDADO": 23326974,
+    "IN_VALOR_CAPITAL_ADEUDADO": 23326974
+  },
+  {
+    "numero": 14,
+    "index": 14,
+    "VALOR_CAPITAL_ADEUDADO": 15987259,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15987259
+  },
+  {
+    "numero": 15,
+    "index": 15,
+    "VALOR_CAPITAL_ADEUDADO": 24792093,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24792093
+  },
+  {
+    "numero": 16,
+    "index": 16,
+    "VALOR_CAPITAL_ADEUDADO": 33791309,
+    "IN_VALOR_CAPITAL_ADEUDADO": 33791309
+  },
+  {
+    "numero": 17,
+    "index": 17,
+    "VALOR_CAPITAL_ADEUDADO": 13684674,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13684674
+  },
+  {
+    "numero": 18,
+    "index": 18,
+    "VALOR_CAPITAL_ADEUDADO": 67068123,
+    "IN_VALOR_CAPITAL_ADEUDADO": 67068123
+  },
+  {
+    "numero": 19,
+    "index": 19,
+    "VALOR_CAPITAL_ADEUDADO": 15391508,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15391508
+  },
+  {
+    "numero": 20,
+    "index": 20,
+    "VALOR_CAPITAL_ADEUDADO": 58957417,
+    "IN_VALOR_CAPITAL_ADEUDADO": 58957417
+  },
+  {
+    "numero": 21,
+    "index": 21
+  },
+  {
+    "numero": 22,
+    "index": 22,
+    "VALOR_CAPITAL_ADEUDADO": 29690679,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29690679
+  },
+  {
+    "numero": 23,
+    "index": 23,
+    "VALOR_CAPITAL_ADEUDADO": 37209133,
+    "IN_VALOR_CAPITAL_ADEUDADO": 37209133,
+    "VALOR_COSTAS": 43285,
+    "IN_VALOR_COSTAS": 43285,
+    "VALOR_AVALUO": 149,
+    "IN_VALOR_AVALUO": "54,969,149,84"
+  },
+  {
+    "numero": 24,
+    "index": 24,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "4513074195981020//3778813009303695"
+  },
+  {
+    "numero": 25,
+    "index": 25,
+    "VALOR_CAPITAL_ADEUDADO": 107818114,
+    "IN_VALOR_CAPITAL_ADEUDADO": 107818114
+  },
+  {
+    "numero": 26,
+    "index": 26,
+    "VALOR_CAPITAL_ADEUDADO": 17307303,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17307303
+  },
+  {
+    "numero": 27,
+    "index": 27,
+    "VALOR_CAPITAL_ADEUDADO": 96608106,
+    "IN_VALOR_CAPITAL_ADEUDADO": 96608106,
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "19/10/2017",
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "05/06/2018"
+  },
+  {
+    "numero": 28,
+    "index": 28
+  },
+  {
+    "numero": 29,
+    "index": 29,
+    "VALOR_CAPITAL_ADEUDADO": 51217496,
+    "IN_VALOR_CAPITAL_ADEUDADO": "51.217.496.86"
+  },
+  {
+    "numero": 30,
+    "index": 30,
+    "VALOR_CAPITAL_ADEUDADO": 48945056,
+    "IN_VALOR_CAPITAL_ADEUDADO": "48.945.056.03"
+  },
+  {
+    "numero": 31,
+    "index": 31,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "0377813522815548//209901793015"
+  },
+  {
+    "numero": 32,
+    "index": 32,
+    "VALOR_CAPITAL_ADEUDADO": 54812000,
+    "IN_VALOR_CAPITAL_ADEUDADO": 54812000,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 500000,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 500000
+  },
+  {
+    "numero": 33,
+    "index": 33,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "5303716097990273// AUDIOPRESTAMOS"
+  },
+  {
+    "numero": 34,
+    "index": 34,
+    "VALOR_CAPITAL_ADEUDADO": 26815877,
+    "IN_VALOR_CAPITAL_ADEUDADO": "26815877"
+  },
+  {
+    "numero": 35,
+    "index": 35,
+    "VALOR_CAPITAL_ADEUDADO": 26464177,
+    "IN_VALOR_CAPITAL_ADEUDADO": 26464177,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 35891726,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 35891726,
+    "VALOR_COSTAS": 1240500,
+    "IN_VALOR_COSTAS": 1240500
+  },
+  {
+    "numero": 36,
+    "index": 36,
+    "VALOR_CAPITAL_ADEUDADO": 9633585,
+    "IN_VALOR_CAPITAL_ADEUDADO": "9633585"
+  },
+  {
+    "numero": 37,
+    "index": 37,
+    "VALOR_CAPITAL_ADEUDADO": 12707877,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12707877,16"
+  },
+  {
+    "numero": 38,
+    "index": 38,
+    "VALOR_CAPITAL_ADEUDADO": 16006640,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16006640",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43252,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43252,
+    "VALOR_COSTAS": 43265,
+    "IN_VALOR_COSTAS": 43265,
+    "VALOR_AVALUO": 5386409,
+    "IN_VALOR_AVALUO": "5386409,06"
+  },
+  {
+    "numero": 39,
+    "index": 39,
+    "VALOR_CAPITAL_ADEUDADO": 23090872,
+    "IN_VALOR_CAPITAL_ADEUDADO": 23090872,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43269,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43269,
+    "VALOR_COSTAS": 43298,
+    "IN_VALOR_COSTAS": 43298
+  },
+  {
+    "numero": 40,
+    "index": 40,
+    "VALOR_CAPITAL_ADEUDADO": 19865254,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19865254"
+  },
+  {
+    "numero": 41,
+    "index": 41,
+    "VALOR_CAPITAL_ADEUDADO": 62998254,
+    "IN_VALOR_CAPITAL_ADEUDADO": "62998254"
+  },
+  {
+    "numero": 42,
+    "index": 42,
+    "VALOR_CAPITAL_ADEUDADO": 12956286,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12956286
+  },
+  {
+    "numero": 43,
+    "index": 43,
+    "VALOR_CAPITAL_ADEUDADO": 2078520,
+    "IN_VALOR_CAPITAL_ADEUDADO": 2078520
+  },
+  {
+    "numero": 44,
+    "index": 44,
+    "VALOR_CAPITAL_ADEUDADO": 2078520,
+    "IN_VALOR_CAPITAL_ADEUDADO": 2078520
+  },
+  {
+    "numero": 45,
+    "index": 45,
+    "VALOR_CAPITAL_ADEUDADO": 11832595,
+    "IN_VALOR_CAPITAL_ADEUDADO": "11832595",
+    "VALOR_COSTAS": 43259,
+    "IN_VALOR_COSTAS": 43259,
+    "VALOR_AVALUO": 8833700,
+    "IN_VALOR_AVALUO": "8833700,07"
+  },
+  {
+    "numero": 46,
+    "index": 46,
+    "VALOR_CAPITAL_ADEUDADO": 12537973,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12537973
+  },
+  {
+    "numero": 47,
+    "index": 47,
+    "VALOR_CAPITAL_ADEUDADO": 21530598,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21530598,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 31224219,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 31224219,
+    "VALOR_COSTAS": 722000,
+    "IN_VALOR_COSTAS": 722000
+  },
+  {
+    "numero": 48,
+    "index": 48,
+    "VALOR_CAPITAL_ADEUDADO": 28468389.3,
+    "IN_VALOR_CAPITAL_ADEUDADO": 28468389.3,
+    "VALOR_COSTAS": 43264,
+    "IN_VALOR_COSTAS": 43264,
+    "VALOR_AVALUO": 23485712,
+    "IN_VALOR_AVALUO": "23485712,11"
+  },
+  {
+    "numero": 49,
+    "index": 49,
+    "VALOR_CAPITAL_ADEUDADO": 35031244,
+    "IN_VALOR_CAPITAL_ADEUDADO": "35031244,39"
+  },
+  {
+    "numero": 50,
+    "index": 50,
+    "VALOR_CAPITAL_ADEUDADO": 22309546,
+    "IN_VALOR_CAPITAL_ADEUDADO": "22309546"
+  },
+  {
+    "numero": 51,
+    "index": 51
+  },
+  {
+    "numero": 52,
+    "index": 52,
+    "VALOR_CAPITAL_ADEUDADO": 16302624.57,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16302624.57
+  },
+  {
+    "numero": 53,
+    "index": 53,
+    "VALOR_CAPITAL_ADEUDADO": 97712903,
+    "IN_VALOR_CAPITAL_ADEUDADO": "97712903,24"
+  },
+  {
+    "numero": 54,
+    "index": 54,
+    "VALOR_CAPITAL_ADEUDADO": 18400664.75,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18400664.75
+  },
+  {
+    "numero": 55,
+    "index": 55,
+    "VALOR_CAPITAL_ADEUDADO": 35544456,
+    "IN_VALOR_CAPITAL_ADEUDADO": 35544456
+  },
+  {
+    "numero": 56,
+    "index": 56,
+    "VALOR_CAPITAL_ADEUDADO": 116728485.24,
+    "IN_VALOR_CAPITAL_ADEUDADO": 116728485.24
+  },
+  {
+    "numero": 57,
+    "index": 57,
+    "VALOR_CAPITAL_ADEUDADO": 28250394,
+    "IN_VALOR_CAPITAL_ADEUDADO": 28250394
+  },
+  {
+    "numero": 58,
+    "index": 58,
+    "VALOR_CAPITAL_ADEUDADO": 96125453,
+    "IN_VALOR_CAPITAL_ADEUDADO": 96125453
+  },
+  {
+    "numero": 59,
+    "index": 59,
+    "VALOR_CAPITAL_ADEUDADO": 12847942,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12847942
+  },
+  {
+    "numero": 60,
+    "index": 60,
+    "VALOR_CAPITAL_ADEUDADO": 42898,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42898
+  },
+  {
+    "numero": 61,
+    "index": 61,
+    "VALOR_CAPITAL_ADEUDADO": 21493086,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21493086
+  },
+  {
+    "numero": 62,
+    "index": 62,
+    "VALOR_CAPITAL_ADEUDADO": 15445371.43,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15445371.43,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43367,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43367
+  },
+  {
+    "numero": 63,
+    "index": 63,
+    "VALOR_CAPITAL_ADEUDADO": 20600721.7,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20600721.7
+  },
+  {
+    "numero": 64,
+    "index": 64,
+    "VALOR_CAPITAL_ADEUDADO": 32926699,
+    "IN_VALOR_CAPITAL_ADEUDADO": 32926699
+  },
+  {
+    "numero": 65,
+    "index": 65,
+    "VALOR_CAPITAL_ADEUDADO": 50511309,
+    "IN_VALOR_CAPITAL_ADEUDADO": 50511309,
+    "VALOR_AVALUO": 43353,
+    "IN_VALOR_AVALUO": 43353
+  },
+  {
+    "numero": 66,
+    "index": 66,
+    "VALOR_CAPITAL_ADEUDADO": 12845011,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12845011
+  },
+  {
+    "numero": 67,
+    "index": 67,
+    "VALOR_CAPITAL_ADEUDADO": 173618623,
+    "IN_VALOR_CAPITAL_ADEUDADO": 173618623,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43327,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43327,
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "03/09 CORRECCION 07/09"
+  },
+  {
+    "numero": 68,
+    "index": 68,
+    "VALOR_CAPITAL_ADEUDADO": 16302624.57,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16302624.57
+  },
+  {
+    "numero": 69,
+    "index": 69,
+    "VALOR_CAPITAL_ADEUDADO": 83955014,
+    "IN_VALOR_CAPITAL_ADEUDADO": 83955014,
+    "VALOR_COSTAS": 5007000,
+    "IN_VALOR_COSTAS": 5007000
+  },
+  {
+    "numero": 70,
+    "index": 70,
+    "VALOR_CAPITAL_ADEUDADO": 74069981.73,
+    "IN_VALOR_CAPITAL_ADEUDADO": 74069981.73
+  },
+  {
+    "numero": 71,
+    "index": 71,
+    "VALOR_CAPITAL_ADEUDADO": 24193522,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24193522
+  },
+  {
+    "numero": 72,
+    "index": 72
+  },
+  {
+    "numero": 73,
+    "index": 73,
+    "VALOR_CAPITAL_ADEUDADO": 78297335,
+    "IN_VALOR_CAPITAL_ADEUDADO": 78297335,
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "2018-08-09T05:00:16.000Z"
+  },
+  {
+    "numero": 74,
+    "index": 74,
+    "VALOR_CAPITAL_ADEUDADO": 44110828,
+    "IN_VALOR_CAPITAL_ADEUDADO": "44110828,47"
+  },
+  {
+    "numero": 75,
+    "index": 75,
+    "VALOR_CAPITAL_ADEUDADO": 13431343,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13431343
+  },
+  {
+    "numero": 76,
+    "index": 76,
+    "VALOR_CAPITAL_ADEUDADO": 17517434,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17517434,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 42985,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 42985,
+    "VALOR_COSTAS": 43381,
+    "IN_VALOR_COSTAS": 43381
+  },
+  {
+    "numero": 77,
+    "index": 77,
+    "VALOR_CAPITAL_ADEUDADO": 19693962.83,
+    "IN_VALOR_CAPITAL_ADEUDADO": 19693962.83
+  },
+  {
+    "numero": 78,
+    "index": 78,
+    "VALOR_CAPITAL_ADEUDADO": 11590469.44,
+    "IN_VALOR_CAPITAL_ADEUDADO": 11590469.44
+  },
+  {
+    "numero": 79,
+    "index": 79,
+    "VALOR_CAPITAL_ADEUDADO": 23640676,
+    "IN_VALOR_CAPITAL_ADEUDADO": 23640676,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43053,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43053,
+    "VALOR_AVALUO": 43314,
+    "IN_VALOR_AVALUO": 43314
+  },
+  {
+    "numero": 80,
+    "index": 80,
+    "VALOR_CAPITAL_ADEUDADO": 16208318.7,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16208318.7
+  },
+  {
+    "numero": 81,
+    "index": 81,
+    "VALOR_CAPITAL_ADEUDADO": 17337417,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17337417
+  },
+  {
+    "numero": 82,
+    "index": 82,
+    "VALOR_CAPITAL_ADEUDADO": 39576493,
+    "IN_VALOR_CAPITAL_ADEUDADO": 39576493
+  },
+  {
+    "numero": 83,
+    "index": 83,
+    "VALOR_CAPITAL_ADEUDADO": 14272971,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14.272.971.42"
+  },
+  {
+    "numero": 84,
+    "index": 84,
+    "VALOR_CAPITAL_ADEUDADO": 12128189,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12128189,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 8833700,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 8833700,
+    "VALOR_COSTAS": 904000,
+    "IN_VALOR_COSTAS": 904000
+  },
+  {
+    "numero": 85,
+    "index": 85,
+    "VALOR_CAPITAL_ADEUDADO": 24227539.02,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24227539.02
+  },
+  {
+    "numero": 86,
+    "index": 86,
+    "VALOR_CAPITAL_ADEUDADO": 17632026,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17632026,
+    "VALOR_COSTAS": 414500,
+    "IN_VALOR_COSTAS": 414500
+  },
+  {
+    "numero": 87,
+    "index": 87,
+    "VALOR_CAPITAL_ADEUDADO": 11777235,
+    "IN_VALOR_CAPITAL_ADEUDADO": 11777235
+  },
+  {
+    "numero": 88,
+    "index": 88
+  },
+  {
+    "numero": 89,
+    "index": 89,
+    "VALOR_CAPITAL_ADEUDADO": 8451598,
+    "IN_VALOR_CAPITAL_ADEUDADO": 8451598
+  },
+  {
+    "numero": 90,
+    "index": 90,
+    "VALOR_CAPITAL_ADEUDADO": 26515333,
+    "IN_VALOR_CAPITAL_ADEUDADO": 26515333
+  },
+  {
+    "numero": 91,
+    "index": 91,
+    "VALOR_CAPITAL_ADEUDADO": 17320182.5,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17320182.5
+  },
+  {
+    "numero": 92,
+    "index": 92,
+    "VALOR_CAPITAL_ADEUDADO": 20568240.8,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20568240.8,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43088,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43088
+  },
+  {
+    "numero": 93,
+    "index": 93,
+    "VALOR_CAPITAL_ADEUDADO": 37074975,
+    "IN_VALOR_CAPITAL_ADEUDADO": "37074975,05"
+  },
+  {
+    "numero": 94,
+    "index": 94,
+    "VALOR_CAPITAL_ADEUDADO": 95244711,
+    "IN_VALOR_CAPITAL_ADEUDADO": "95244711,50"
+  },
+  {
+    "numero": 95,
+    "index": 95,
+    "VALOR_CAPITAL_ADEUDADO": 19146744,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19146744,45"
+  },
+  {
+    "numero": 96,
+    "index": 96,
+    "VALOR_CAPITAL_ADEUDADO": 46027552,
+    "IN_VALOR_CAPITAL_ADEUDADO": "46027552,56"
+  },
+  {
+    "numero": 97,
+    "index": 97,
+    "VALOR_CAPITAL_ADEUDADO": 79862886,
+    "IN_VALOR_CAPITAL_ADEUDADO": "79.862.886.23"
+  },
+  {
+    "numero": 98,
+    "index": 98
+  },
+  {
+    "numero": 99,
+    "index": 99,
+    "VALOR_CAPITAL_ADEUDADO": 16215928,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16215928,08"
+  },
+  {
+    "numero": 100,
+    "index": 100,
+    "VALOR_CAPITAL_ADEUDADO": 17280116.74,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17280116.74
+  },
+  {
+    "numero": 101,
+    "index": 101,
+    "VALOR_CAPITAL_ADEUDADO": 54468401,
+    "IN_VALOR_CAPITAL_ADEUDADO": "54468401,36"
+  },
+  {
+    "numero": 102,
+    "index": 102,
+    "VALOR_CAPITAL_ADEUDADO": 50000000,
+    "IN_VALOR_CAPITAL_ADEUDADO": 50000000,
+    "VALOR_AVALUO": -1,
+    "IN_VALOR_AVALUO": "SE ENVIA SOLICITUD OFICIO PARA ENVIAR POR EL JUZGADO A SALUD TOTAL EPS // PROCESO IRRECUPERABLE"
+  },
+  {
+    "numero": 103,
+    "index": 103,
+    "VALOR_CAPITAL_ADEUDADO": 43921469,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43921469
+  },
+  {
+    "numero": 104,
+    "index": 104,
+    "VALOR_CAPITAL_ADEUDADO": 3244441,
+    "IN_VALOR_CAPITAL_ADEUDADO": 3244441,
+    "VALOR_AVALUO": 43139,
+    "IN_VALOR_AVALUO": 43139
+  },
+  {
+    "numero": 105,
+    "index": 105,
+    "VALOR_CAPITAL_ADEUDADO": 13688162,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13688162
+  },
+  {
+    "numero": 106,
+    "index": 106,
+    "VALOR_CAPITAL_ADEUDADO": 16497280.67,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16497280.67,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 23842080,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 23842080,
+    "VALOR_COSTAS": 900000,
+    "IN_VALOR_COSTAS": 900000
+  },
+  {
+    "numero": 107,
+    "index": 107,
+    "VALOR_CAPITAL_ADEUDADO": 13303854.54,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13303854.54
+  },
+  {
+    "numero": 108,
+    "index": 108,
+    "VALOR_CAPITAL_ADEUDADO": 211610990.96,
+    "IN_VALOR_CAPITAL_ADEUDADO": 211610990.96
+  },
+  {
+    "numero": 109,
+    "index": 109,
+    "VALOR_CAPITAL_ADEUDADO": 21660562,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21660562,20"
+  },
+  {
+    "numero": 110,
+    "index": 110,
+    "VALOR_CAPITAL_ADEUDADO": 25119879,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25119879,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43164,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43164
+  },
+  {
+    "numero": 111,
+    "index": 111,
+    "VALOR_CAPITAL_ADEUDADO": 12433690.05,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12433690.05
+  },
+  {
+    "numero": 112,
+    "index": 112,
+    "VALOR_CAPITAL_ADEUDADO": 98478180.94,
+    "IN_VALOR_CAPITAL_ADEUDADO": 98478180.94,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43320,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43320
+  },
+  {
+    "numero": 113,
+    "index": 113,
+    "VALOR_CAPITAL_ADEUDADO": 16305608.56,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16305608.56,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43339,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43339,
+    "VALOR_AVALUO": 43364,
+    "IN_VALOR_AVALUO": 43364
+  },
+  {
+    "numero": 114,
+    "index": 114,
+    "VALOR_CAPITAL_ADEUDADO": 20501855.28,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20501855.28
+  },
+  {
+    "numero": 115,
+    "index": 115,
+    "VALOR_CAPITAL_ADEUDADO": 17831989,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17831989,06"
+  },
+  {
+    "numero": 116,
+    "index": 116,
+    "VALOR_CAPITAL_ADEUDADO": 18077141.41,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18077141.41
+  },
+  {
+    "numero": 117,
+    "index": 117,
+    "VALOR_CAPITAL_ADEUDADO": 17256863,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17256863
+  },
+  {
+    "numero": 118,
+    "index": 118,
+    "VALOR_CAPITAL_ADEUDADO": 1092045,
+    "IN_VALOR_CAPITAL_ADEUDADO": "1092045"
+  },
+  {
+    "numero": 119,
+    "index": 119,
+    "VALOR_CAPITAL_ADEUDADO": 20987589,
+    "IN_VALOR_CAPITAL_ADEUDADO": "20987589"
+  },
+  {
+    "numero": 120,
+    "index": 120,
+    "VALOR_CAPITAL_ADEUDADO": 13906249,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13906249,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 5003149.67,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 5003149.67
+  },
+  {
+    "numero": 121,
+    "index": 121,
+    "VALOR_CAPITAL_ADEUDADO": 55929373,
+    "IN_VALOR_CAPITAL_ADEUDADO": 55929373
+  },
+  {
+    "numero": 122,
+    "index": 122,
+    "VALOR_CAPITAL_ADEUDADO": 42951,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42951
+  },
+  {
+    "numero": 123,
+    "index": 123,
+    "VALOR_CAPITAL_ADEUDADO": 42951,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42951
+  },
+  {
+    "numero": 124,
+    "index": 124
+  },
+  {
+    "numero": 125,
+    "index": 125,
+    "VALOR_CAPITAL_ADEUDADO": 21613985,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21613985
+  },
+  {
+    "numero": 126,
+    "index": 126,
+    "VALOR_CAPITAL_ADEUDADO": 14675091,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14675091"
+  },
+  {
+    "numero": 127,
+    "index": 127,
+    "VALOR_CAPITAL_ADEUDADO": 51302541.46,
+    "IN_VALOR_CAPITAL_ADEUDADO": 51302541.46
+  },
+  {
+    "numero": 128,
+    "index": 128,
+    "VALOR_CAPITAL_ADEUDADO": 13149185,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13149185
+  },
+  {
+    "numero": 129,
+    "index": 129,
+    "VALOR_CAPITAL_ADEUDADO": 12046670,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12046670,53"
+  },
+  {
+    "numero": 130,
+    "index": 130,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12477030,70/",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43294,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43294,
+    "VALOR_COSTAS": 43328,
+    "IN_VALOR_COSTAS": 43328
+  },
+  {
+    "numero": 131,
+    "index": 131,
+    "VALOR_CAPITAL_ADEUDADO": 42965,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42965
+  },
+  {
+    "numero": 132,
+    "index": 132,
+    "VALOR_CAPITAL_ADEUDADO": 57161766,
+    "IN_VALOR_CAPITAL_ADEUDADO": "57161766,97"
+  },
+  {
+    "numero": 133,
+    "index": 133,
+    "VALOR_CAPITAL_ADEUDADO": 24624884.19,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24624884.19,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43223,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43223,
+    "VALOR_AVALUO": 43355,
+    "IN_VALOR_AVALUO": 43355
+  },
+  {
+    "numero": 134,
+    "index": 134,
+    "VALOR_CAPITAL_ADEUDADO": 54428394.17,
+    "IN_VALOR_CAPITAL_ADEUDADO": 54428394.17
+  },
+  {
+    "numero": 135,
+    "index": 135,
+    "VALOR_CAPITAL_ADEUDADO": 12203589,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12203589
+  },
+  {
+    "numero": 136,
+    "index": 136,
+    "VALOR_CAPITAL_ADEUDADO": 41735442,
+    "IN_VALOR_CAPITAL_ADEUDADO": 41735442
+  },
+  {
+    "numero": 137,
+    "index": 137,
+    "VALOR_CAPITAL_ADEUDADO": 19926084,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19926084.89"
+  },
+  {
+    "numero": 138,
+    "index": 138,
+    "VALOR_CAPITAL_ADEUDADO": 45758347,
+    "IN_VALOR_CAPITAL_ADEUDADO": "45758347.68"
+  },
+  {
+    "numero": 139,
+    "index": 139,
+    "VALOR_CAPITAL_ADEUDADO": 91986323.18,
+    "IN_VALOR_CAPITAL_ADEUDADO": 91986323.18
+  },
+  {
+    "numero": 140,
+    "index": 140,
+    "VALOR_CAPITAL_ADEUDADO": 38664282.6,
+    "IN_VALOR_CAPITAL_ADEUDADO": 38664282.6
+  },
+  {
+    "numero": 141,
+    "index": 141,
+    "VALOR_CAPITAL_ADEUDADO": 28130302,
+    "IN_VALOR_CAPITAL_ADEUDADO": "28130302.27"
+  },
+  {
+    "numero": 142,
+    "index": 142,
+    "VALOR_CAPITAL_ADEUDADO": 123933432,
+    "IN_VALOR_CAPITAL_ADEUDADO": "123933432.79",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43405,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43405
+  },
+  {
+    "numero": 143,
+    "index": 143,
+    "VALOR_CAPITAL_ADEUDADO": 9079297,
+    "IN_VALOR_CAPITAL_ADEUDADO": "9079297"
+  },
+  {
+    "numero": 144,
+    "index": 144,
+    "VALOR_CAPITAL_ADEUDADO": 10481215,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10481215
+  },
+  {
+    "numero": 145,
+    "index": 145,
+    "VALOR_CAPITAL_ADEUDADO": 53995817,
+    "IN_VALOR_CAPITAL_ADEUDADO": "53995817.72"
+  },
+  {
+    "numero": 146,
+    "index": 146
+  },
+  {
+    "numero": 147,
+    "index": 147,
+    "VALOR_CAPITAL_ADEUDADO": 84049009,
+    "IN_VALOR_CAPITAL_ADEUDADO": 84049009,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43230,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43230
+  },
+  {
+    "numero": 148,
+    "index": 148,
+    "VALOR_CAPITAL_ADEUDADO": 30873492,
+    "IN_VALOR_CAPITAL_ADEUDADO": "30873492"
+  },
+  {
+    "numero": 149,
+    "index": 149,
+    "VALOR_CAPITAL_ADEUDADO": 51748331,
+    "IN_VALOR_CAPITAL_ADEUDADO": "51748331.77"
+  },
+  {
+    "numero": 150,
+    "index": 150,
+    "VALOR_CAPITAL_ADEUDADO": 47820559,
+    "IN_VALOR_CAPITAL_ADEUDADO": 47820559,
+    "VALOR_COSTAS": 43340,
+    "IN_VALOR_COSTAS": 43340
+  },
+  {
+    "numero": 151,
+    "index": 151
+  },
+  {
+    "numero": 152,
+    "index": 152,
+    "VALOR_CAPITAL_ADEUDADO": 76394840,
+    "IN_VALOR_CAPITAL_ADEUDADO": 76394840
+  },
+  {
+    "numero": 153,
+    "index": 153,
+    "VALOR_CAPITAL_ADEUDADO": 20221005,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20221005
+  },
+  {
+    "numero": 154,
+    "index": 154,
+    "VALOR_CAPITAL_ADEUDADO": 29366625,
+    "IN_VALOR_CAPITAL_ADEUDADO": "29366625.40"
+  },
+  {
+    "numero": 155,
+    "index": 155,
+    "VALOR_CAPITAL_ADEUDADO": 40423614,
+    "IN_VALOR_CAPITAL_ADEUDADO": " 40423614,08\r\n"
+  },
+  {
+    "numero": 156,
+    "index": 156,
+    "VALOR_CAPITAL_ADEUDADO": 41371150.58,
+    "IN_VALOR_CAPITAL_ADEUDADO": 41371150.58,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43180,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43180,
+    "VALOR_AVALUO": 43364,
+    "IN_VALOR_AVALUO": 43364
+  },
+  {
+    "numero": 157,
+    "index": 157
+  },
+  {
+    "numero": 158,
+    "index": 158,
+    "VALOR_CAPITAL_ADEUDADO": 183128611.42,
+    "IN_VALOR_CAPITAL_ADEUDADO": 183128611.42,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43313,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43313
+  },
+  {
+    "numero": 159,
+    "index": 159,
+    "VALOR_CAPITAL_ADEUDADO": 18653826,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18653826
+  },
+  {
+    "numero": 160,
+    "index": 160,
+    "VALOR_CAPITAL_ADEUDADO": 12000000,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12000000
+  },
+  {
+    "numero": 161,
+    "index": 161,
+    "VALOR_CAPITAL_ADEUDADO": 120292568.22,
+    "IN_VALOR_CAPITAL_ADEUDADO": 120292568.22
+  },
+  {
+    "numero": 162,
+    "index": 162,
+    "VALOR_CAPITAL_ADEUDADO": 17877732,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17877732,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43369,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43369,
+    "VALOR_COSTAS": 43375,
+    "IN_VALOR_COSTAS": 43375
+  },
+  {
+    "numero": 163,
+    "index": 163,
+    "VALOR_CAPITAL_ADEUDADO": 40423614,
+    "IN_VALOR_CAPITAL_ADEUDADO": " 40423614,08\r\n"
+  },
+  {
+    "numero": 164,
+    "index": 164,
+    "VALOR_CAPITAL_ADEUDADO": 25519225,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25519225
+  },
+  {
+    "numero": 165,
+    "index": 165,
+    "VALOR_CAPITAL_ADEUDADO": 44742148,
+    "IN_VALOR_CAPITAL_ADEUDADO": 44742148
+  },
+  {
+    "numero": 166,
+    "index": 166,
+    "VALOR_CAPITAL_ADEUDADO": 30526136,
+    "IN_VALOR_CAPITAL_ADEUDADO": 30526136,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43154,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43154,
+    "VALOR_AVALUO": 43363,
+    "IN_VALOR_AVALUO": 43363
+  },
+  {
+    "numero": 167,
+    "index": 167,
+    "VALOR_CAPITAL_ADEUDADO": 118940346.21,
+    "IN_VALOR_CAPITAL_ADEUDADO": 118940346.21,
+    "VALOR_COSTAS": 43355,
+    "IN_VALOR_COSTAS": 43355
+  },
+  {
+    "numero": 168,
+    "index": 168,
+    "VALOR_CAPITAL_ADEUDADO": 18141791.96,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18141791.96
+  },
+  {
+    "numero": 169,
+    "index": 169,
+    "VALOR_CAPITAL_ADEUDADO": 13144437,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13144437
+  },
+  {
+    "numero": 170,
+    "index": 170,
+    "VALOR_CAPITAL_ADEUDADO": 8108220.66,
+    "IN_VALOR_CAPITAL_ADEUDADO": 8108220.66
+  },
+  {
+    "numero": 171,
+    "index": 171,
+    "VALOR_CAPITAL_ADEUDADO": 46042338,
+    "IN_VALOR_CAPITAL_ADEUDADO": 46042338
+  },
+  {
+    "numero": 172,
+    "index": 172,
+    "VALOR_CAPITAL_ADEUDADO": 13487506.39,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13487506.39
+  },
+  {
+    "numero": 173,
+    "index": 173,
+    "VALOR_CAPITAL_ADEUDADO": 41576997.45,
+    "IN_VALOR_CAPITAL_ADEUDADO": 41576997.45
+  },
+  {
+    "numero": 174,
+    "index": 174,
+    "VALOR_CAPITAL_ADEUDADO": 14795920,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14795920
+  },
+  {
+    "numero": 175,
+    "index": 175,
+    "VALOR_CAPITAL_ADEUDADO": 16618551.39,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16618551.39
+  },
+  {
+    "numero": 176,
+    "index": 176,
+    "VALOR_CAPITAL_ADEUDADO": 20211828,
+    "IN_VALOR_CAPITAL_ADEUDADO": "20211828,93"
+  },
+  {
+    "numero": 177,
+    "index": 177,
+    "VALOR_CAPITAL_ADEUDADO": 18696053,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18696053
+  },
+  {
+    "numero": 178,
+    "index": 178,
+    "VALOR_CAPITAL_ADEUDADO": 39243095.51,
+    "IN_VALOR_CAPITAL_ADEUDADO": 39243095.51
+  },
+  {
+    "numero": 179,
+    "index": 179,
+    "VALOR_CAPITAL_ADEUDADO": 12687427,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12687427
+  },
+  {
+    "numero": 180,
+    "index": 180,
+    "VALOR_CAPITAL_ADEUDADO": 68421268.51,
+    "IN_VALOR_CAPITAL_ADEUDADO": 68421268.51
+  },
+  {
+    "numero": 181,
+    "index": 181,
+    "VALOR_CAPITAL_ADEUDADO": 25340036.69,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25340036.69
+  },
+  {
+    "numero": 182,
+    "index": 182,
+    "VALOR_CAPITAL_ADEUDADO": 25833335,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25833335,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43273,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43273,
+    "VALOR_COSTAS": 43280,
+    "IN_VALOR_COSTAS": 43280
+  },
+  {
+    "numero": 183,
+    "index": 183,
+    "VALOR_CAPITAL_ADEUDADO": 25833335,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25833335,
+    "VALOR_AVALUO": -1,
+    "IN_VALOR_AVALUO": "SOLICITAR JUZGADO REQUERIR A SECRETARIA DE MOVILIDAD DE COTA LAS RAZONES POR LAS CUALES NO SE HA REGISTRADO MEDIDA CAUTELAR VEHICULO SLJ234 // RECONOCE PERSONERIA 31/01/22 // REVISAR URGENTE NUEVO APODERADO CISA // BANCOLOMBIA NO HA CEDIDO A REINTEGRA CREDITO // SEPT 9 RECONOCE PODER A CISA"
+  },
+  {
+    "numero": 184,
+    "index": 184,
+    "VALOR_CAPITAL_ADEUDADO": 22277206,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22277206
+  },
+  {
+    "numero": 185,
+    "index": 185,
+    "VALOR_CAPITAL_ADEUDADO": 41262275,
+    "IN_VALOR_CAPITAL_ADEUDADO": "41262275,97"
+  },
+  {
+    "numero": 186,
+    "index": 186,
+    "VALOR_CAPITAL_ADEUDADO": 13319130,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13319130
+  },
+  {
+    "numero": 187,
+    "index": 187,
+    "VALOR_CAPITAL_ADEUDADO": 10928053.07,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10928053.07,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43439,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43439,
+    "VALOR_COSTAS": 43257,
+    "IN_VALOR_COSTAS": 43257,
+    "VALOR_AVALUO": 43314,
+    "IN_VALOR_AVALUO": 43314
+  },
+  {
+    "numero": 188,
+    "index": 188,
+    "VALOR_CAPITAL_ADEUDADO": 42969,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42969,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43276,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43276
+  },
+  {
+    "numero": 189,
+    "index": 189,
+    "VALOR_CAPITAL_ADEUDADO": 71966685.93,
+    "IN_VALOR_CAPITAL_ADEUDADO": 71966685.93
+  },
+  {
+    "numero": 190,
+    "index": 190,
+    "VALOR_CAPITAL_ADEUDADO": 42971,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42971,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43271,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43271,
+    "VALOR_AVALUO": 800000,
+    "IN_VALOR_AVALUO": 800000
+  },
+  {
+    "numero": 191,
+    "index": 191,
+    "VALOR_CAPITAL_ADEUDADO": 87649981,
+    "IN_VALOR_CAPITAL_ADEUDADO": 87649981
+  },
+  {
+    "numero": 192,
+    "index": 192,
+    "VALOR_CAPITAL_ADEUDADO": 38393691,
+    "IN_VALOR_CAPITAL_ADEUDADO": "38393691,10",
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "29/06/2018"
+  },
+  {
+    "numero": 193,
+    "index": 193,
+    "VALOR_CAPITAL_ADEUDADO": 24590710,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24590710
+  },
+  {
+    "numero": 194,
+    "index": 194,
+    "VALOR_CAPITAL_ADEUDADO": 47317351,
+    "IN_VALOR_CAPITAL_ADEUDADO": "47317351,97"
+  },
+  {
+    "numero": 195,
+    "index": 195,
+    "VALOR_CAPITAL_ADEUDADO": 25303069,
+    "IN_VALOR_CAPITAL_ADEUDADO": "25303069,52"
+  },
+  {
+    "numero": 196,
+    "index": 196,
+    "VALOR_CAPITAL_ADEUDADO": 124710637.08,
+    "IN_VALOR_CAPITAL_ADEUDADO": 124710637.08
+  },
+  {
+    "numero": 197,
+    "index": 197,
+    "VALOR_CAPITAL_ADEUDADO": 16983619,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16983619,12"
+  },
+  {
+    "numero": 198,
+    "index": 198,
+    "VALOR_CAPITAL_ADEUDADO": 29204879,
+    "IN_VALOR_CAPITAL_ADEUDADO": "29204879,50"
+  },
+  {
+    "numero": 199,
+    "index": 199,
+    "VALOR_CAPITAL_ADEUDADO": 28594039.72,
+    "IN_VALOR_CAPITAL_ADEUDADO": 28594039.72
+  },
+  {
+    "numero": 200,
+    "index": 200,
+    "VALOR_CAPITAL_ADEUDADO": 34506454.83,
+    "IN_VALOR_CAPITAL_ADEUDADO": 34506454.83,
+    "VALOR_COSTAS": 43370,
+    "IN_VALOR_COSTAS": 43370
+  },
+  {
+    "numero": 201,
+    "index": 201,
+    "VALOR_CAPITAL_ADEUDADO": 27602951.6,
+    "IN_VALOR_CAPITAL_ADEUDADO": 27602951.6
+  },
+  {
+    "numero": 202,
+    "index": 202,
+    "VALOR_CAPITAL_ADEUDADO": 54240142.64,
+    "IN_VALOR_CAPITAL_ADEUDADO": 54240142.64,
+    "VALOR_COSTAS": 43476,
+    "IN_VALOR_COSTAS": 43476
+  },
+  {
+    "numero": 203,
+    "index": 203,
+    "VALOR_CAPITAL_ADEUDADO": 60804048,
+    "IN_VALOR_CAPITAL_ADEUDADO": "60804048,55",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43257,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43257,
+    "VALOR_COSTAS": 43259,
+    "IN_VALOR_COSTAS": 43259,
+    "VALOR_AVALUO": 56350989,
+    "IN_VALOR_AVALUO": "56350989,97"
+  },
+  {
+    "numero": 204,
+    "index": 204,
+    "VALOR_CAPITAL_ADEUDADO": 41990538.4,
+    "IN_VALOR_CAPITAL_ADEUDADO": 41990538.4
+  },
+  {
+    "numero": 205,
+    "index": 205,
+    "VALOR_CAPITAL_ADEUDADO": 14068639,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14068639
+  },
+  {
+    "numero": 206,
+    "index": 206,
+    "VALOR_CAPITAL_ADEUDADO": 30556160,
+    "IN_VALOR_CAPITAL_ADEUDADO": "30556160,98"
+  },
+  {
+    "numero": 207,
+    "index": 207,
+    "VALOR_CAPITAL_ADEUDADO": 23404368,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23404368,57"
+  },
+  {
+    "numero": 208,
+    "index": 208,
+    "VALOR_CAPITAL_ADEUDADO": 27819414.85,
+    "IN_VALOR_CAPITAL_ADEUDADO": 27819414.85
+  },
+  {
+    "numero": 209,
+    "index": 209,
+    "VALOR_CAPITAL_ADEUDADO": 54090336.47,
+    "IN_VALOR_CAPITAL_ADEUDADO": 54090336.47
+  },
+  {
+    "numero": 210,
+    "index": 210,
+    "VALOR_CAPITAL_ADEUDADO": 10555422.24,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10555422.24
+  },
+  {
+    "numero": 211,
+    "index": 211,
+    "VALOR_CAPITAL_ADEUDADO": 36520798.77,
+    "IN_VALOR_CAPITAL_ADEUDADO": 36520798.77
+  },
+  {
+    "numero": 212,
+    "index": 212,
+    "VALOR_CAPITAL_ADEUDADO": 12660698,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12660698,89"
+  },
+  {
+    "numero": 213,
+    "index": 213,
+    "VALOR_CAPITAL_ADEUDADO": 12573628,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12573628,72",
+    "VALOR_AVALUO": 43216,
+    "IN_VALOR_AVALUO": 43216
+  },
+  {
+    "numero": 214,
+    "index": 214,
+    "VALOR_CAPITAL_ADEUDADO": 27490437,
+    "IN_VALOR_CAPITAL_ADEUDADO": "27490437,92"
+  },
+  {
+    "numero": 215,
+    "index": 215,
+    "VALOR_CAPITAL_ADEUDADO": 12241665,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12241665,48"
+  },
+  {
+    "numero": 216,
+    "index": 216,
+    "VALOR_CAPITAL_ADEUDADO": 42977,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42977
+  },
+  {
+    "numero": 217,
+    "index": 217,
+    "VALOR_CAPITAL_ADEUDADO": 206655465.99,
+    "IN_VALOR_CAPITAL_ADEUDADO": 206655465.99
+  },
+  {
+    "numero": 218,
+    "index": 218,
+    "VALOR_CAPITAL_ADEUDADO": 12963196,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12963196,36"
+  },
+  {
+    "numero": 219,
+    "index": 219,
+    "VALOR_CAPITAL_ADEUDADO": 50891805,
+    "IN_VALOR_CAPITAL_ADEUDADO": "50891805,53"
+  },
+  {
+    "numero": 220,
+    "index": 220,
+    "VALOR_CAPITAL_ADEUDADO": 13810342,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13810342,55",
+    "VALOR_COSTAS": 43277,
+    "IN_VALOR_COSTAS": 43277
+  },
+  {
+    "numero": 221,
+    "index": 221,
+    "VALOR_CAPITAL_ADEUDADO": 15864393.53,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15864393.53
+  },
+  {
+    "numero": 222,
+    "index": 222,
+    "VALOR_CAPITAL_ADEUDADO": 51145474,
+    "IN_VALOR_CAPITAL_ADEUDADO": "51145474,58"
+  },
+  {
+    "numero": 223,
+    "index": 223,
+    "VALOR_CAPITAL_ADEUDADO": 43653352.35,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43653352.35
+  },
+  {
+    "numero": 224,
+    "index": 224,
+    "VALOR_CAPITAL_ADEUDADO": 36182458,
+    "IN_VALOR_CAPITAL_ADEUDADO": "36182458,10"
+  },
+  {
+    "numero": 225,
+    "index": 225,
+    "VALOR_CAPITAL_ADEUDADO": 23287784,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23287784,32"
+  },
+  {
+    "numero": 226,
+    "index": 226,
+    "VALOR_CAPITAL_ADEUDADO": 19290331,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19290331,91"
+  },
+  {
+    "numero": 227,
+    "index": 227,
+    "VALOR_CAPITAL_ADEUDADO": 18546820.62,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18546820.62
+  },
+  {
+    "numero": 228,
+    "index": 228,
+    "VALOR_CAPITAL_ADEUDADO": 13622019.38,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13622019.38
+  },
+  {
+    "numero": 229,
+    "index": 229,
+    "VALOR_CAPITAL_ADEUDADO": 102825603,
+    "IN_VALOR_CAPITAL_ADEUDADO": "102825603,06"
+  },
+  {
+    "numero": 230,
+    "index": 230,
+    "VALOR_CAPITAL_ADEUDADO": 29908812.31,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29908812.31
+  },
+  {
+    "numero": 231,
+    "index": 231,
+    "VALOR_CAPITAL_ADEUDADO": 20600721,
+    "IN_VALOR_CAPITAL_ADEUDADO": "20600721.70",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43348,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43348
+  },
+  {
+    "numero": 232,
+    "index": 232,
+    "VALOR_CAPITAL_ADEUDADO": 19844757,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19.844.757.17"
+  },
+  {
+    "numero": 233,
+    "index": 233,
+    "VALOR_CAPITAL_ADEUDADO": 30506109.17,
+    "IN_VALOR_CAPITAL_ADEUDADO": 30506109.17
+  },
+  {
+    "numero": 234,
+    "index": 234,
+    "VALOR_CAPITAL_ADEUDADO": 15414194,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.414.194.82"
+  },
+  {
+    "numero": 235,
+    "index": 235,
+    "VALOR_CAPITAL_ADEUDADO": 27603820,
+    "IN_VALOR_CAPITAL_ADEUDADO": 27603820
+  },
+  {
+    "numero": 236,
+    "index": 236,
+    "VALOR_CAPITAL_ADEUDADO": 31688075,
+    "IN_VALOR_CAPITAL_ADEUDADO": "31.688.075.43"
+  },
+  {
+    "numero": 237,
+    "index": 237,
+    "VALOR_CAPITAL_ADEUDADO": 90276951,
+    "IN_VALOR_CAPITAL_ADEUDADO": "90.276.951.42"
+  },
+  {
+    "numero": 238,
+    "index": 238,
+    "VALOR_CAPITAL_ADEUDADO": 60433884,
+    "IN_VALOR_CAPITAL_ADEUDADO": "60.433.884.09"
+  },
+  {
+    "numero": 239,
+    "index": 239,
+    "VALOR_CAPITAL_ADEUDADO": 17882476,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17.882.476.98"
+  },
+  {
+    "numero": 240,
+    "index": 240,
+    "VALOR_CAPITAL_ADEUDADO": 21616444,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.616.444.55"
+  },
+  {
+    "numero": 241,
+    "index": 241,
+    "VALOR_CAPITAL_ADEUDADO": 12677786,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.677.786.00"
+  },
+  {
+    "numero": 242,
+    "index": 242,
+    "VALOR_CAPITAL_ADEUDADO": 21740168,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.740.168.69"
+  },
+  {
+    "numero": 243,
+    "index": 243,
+    "VALOR_CAPITAL_ADEUDADO": 46109381.26,
+    "IN_VALOR_CAPITAL_ADEUDADO": 46109381.26
+  },
+  {
+    "numero": 244,
+    "index": 244,
+    "VALOR_CAPITAL_ADEUDADO": 37800911,
+    "IN_VALOR_CAPITAL_ADEUDADO": "37.800.911.06"
+  },
+  {
+    "numero": 245,
+    "index": 245,
+    "VALOR_CAPITAL_ADEUDADO": 35432721,
+    "IN_VALOR_CAPITAL_ADEUDADO": "35.432.721.58"
+  },
+  {
+    "numero": 246,
+    "index": 246,
+    "VALOR_CAPITAL_ADEUDADO": 18012121,
+    "IN_VALOR_CAPITAL_ADEUDADO": "18.012.121.45"
+  },
+  {
+    "numero": 247,
+    "index": 247,
+    "VALOR_CAPITAL_ADEUDADO": 17635164,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17.635.164.44",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43256,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43256,
+    "VALOR_COSTAS": 43297,
+    "IN_VALOR_COSTAS": 43297
+  },
+  {
+    "numero": 248,
+    "index": 248,
+    "VALOR_CAPITAL_ADEUDADO": 49971067,
+    "IN_VALOR_CAPITAL_ADEUDADO": "49.971.067.69"
+  },
+  {
+    "numero": 249,
+    "index": 249,
+    "VALOR_CAPITAL_ADEUDADO": 44933312.09,
+    "IN_VALOR_CAPITAL_ADEUDADO": 44933312.09,
+    "VALOR_COSTAS": 2034700,
+    "IN_VALOR_COSTAS": 2034700
+  },
+  {
+    "numero": 250,
+    "index": 250,
+    "VALOR_CAPITAL_ADEUDADO": 46432606,
+    "IN_VALOR_CAPITAL_ADEUDADO": "46.432.606.87"
+  },
+  {
+    "numero": 251,
+    "index": 251,
+    "VALOR_CAPITAL_ADEUDADO": 56386936,
+    "IN_VALOR_CAPITAL_ADEUDADO": 56386936
+  },
+  {
+    "numero": 252,
+    "index": 252,
+    "VALOR_CAPITAL_ADEUDADO": 26469309,
+    "IN_VALOR_CAPITAL_ADEUDADO": "26.469.309.75"
+  },
+  {
+    "numero": 253,
+    "index": 253,
+    "VALOR_CAPITAL_ADEUDADO": 15114966.31,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15114966.31,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43286,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43286,
+    "VALOR_COSTAS": 43294,
+    "IN_VALOR_COSTAS": 43294
+  },
+  {
+    "numero": 254,
+    "index": 254,
+    "VALOR_CAPITAL_ADEUDADO": 12993948,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12993948
+  },
+  {
+    "numero": 255,
+    "index": 255,
+    "VALOR_CAPITAL_ADEUDADO": 15311681,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15311681
+  },
+  {
+    "numero": 256,
+    "index": 256,
+    "VALOR_CAPITAL_ADEUDADO": 6165522,
+    "IN_VALOR_CAPITAL_ADEUDADO": "6.165.522.03"
+  },
+  {
+    "numero": 257,
+    "index": 257,
+    "VALOR_CAPITAL_ADEUDADO": 13036109,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13.036.109.81"
+  },
+  {
+    "numero": 258,
+    "index": 258,
+    "VALOR_CAPITAL_ADEUDADO": 18506671.61,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18506671.61,
+    "VALOR_COSTAS": 1200000,
+    "IN_VALOR_COSTAS": 1200000
+  },
+  {
+    "numero": 259,
+    "index": 259,
+    "VALOR_CAPITAL_ADEUDADO": 79266368,
+    "IN_VALOR_CAPITAL_ADEUDADO": "79.266.368.98"
+  },
+  {
+    "numero": 260,
+    "index": 260,
+    "VALOR_CAPITAL_ADEUDADO": 16242560,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.242.560.72"
+  },
+  {
+    "numero": 261,
+    "index": 261,
+    "VALOR_CAPITAL_ADEUDADO": 18220483,
+    "IN_VALOR_CAPITAL_ADEUDADO": "18.220.483.45"
+  },
+  {
+    "numero": 262,
+    "index": 262,
+    "VALOR_CAPITAL_ADEUDADO": 15840545,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.840.545.83"
+  },
+  {
+    "numero": 263,
+    "index": 263,
+    "VALOR_CAPITAL_ADEUDADO": 21435278,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.435.278.32"
+  },
+  {
+    "numero": 264,
+    "index": 264,
+    "VALOR_CAPITAL_ADEUDADO": 36756277,
+    "IN_VALOR_CAPITAL_ADEUDADO": "36.756..277.00"
+  },
+  {
+    "numero": 265,
+    "index": 265,
+    "VALOR_CAPITAL_ADEUDADO": 115224735.56,
+    "IN_VALOR_CAPITAL_ADEUDADO": 115224735.56,
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "2018-06-07T05:00:16.000Z",
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "2018-06-26T05:00:16.000Z",
+    "VALOR_AVALUO": 128947703.46,
+    "IN_VALOR_AVALUO": 128947703.46
+  },
+  {
+    "numero": 266,
+    "index": 266,
+    "VALOR_CAPITAL_ADEUDADO": 67660913,
+    "IN_VALOR_CAPITAL_ADEUDADO": "67.660.913.00"
+  },
+  {
+    "numero": 267,
+    "index": 267,
+    "VALOR_CAPITAL_ADEUDADO": 32830090.4,
+    "IN_VALOR_CAPITAL_ADEUDADO": 32830090.4,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43343,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43343,
+    "VALOR_COSTAS": 43350,
+    "IN_VALOR_COSTAS": 43350
+  },
+  {
+    "numero": 268,
+    "index": 268,
+    "VALOR_CAPITAL_ADEUDADO": 48855784.15,
+    "IN_VALOR_CAPITAL_ADEUDADO": 48855784.15
+  },
+  {
+    "numero": 269,
+    "index": 269,
+    "VALOR_CAPITAL_ADEUDADO": 105666670,
+    "IN_VALOR_CAPITAL_ADEUDADO": "105.666.670.22"
+  },
+  {
+    "numero": 270,
+    "index": 270,
+    "VALOR_CAPITAL_ADEUDADO": 15921423,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.921.423.12"
+  },
+  {
+    "numero": 271,
+    "index": 271,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "26/09/2017"
+  },
+  {
+    "numero": 272,
+    "index": 272,
+    "VALOR_CAPITAL_ADEUDADO": 14586242,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14.586.242.26"
+  },
+  {
+    "numero": 273,
+    "index": 273,
+    "VALOR_CAPITAL_ADEUDADO": 65355736.17,
+    "IN_VALOR_CAPITAL_ADEUDADO": 65355736.17
+  },
+  {
+    "numero": 274,
+    "index": 274,
+    "VALOR_CAPITAL_ADEUDADO": 12918060,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.918.060.89"
+  },
+  {
+    "numero": 275,
+    "index": 275,
+    "VALOR_CAPITAL_ADEUDADO": 11599559,
+    "IN_VALOR_CAPITAL_ADEUDADO": "11.599.559.60"
+  },
+  {
+    "numero": 276,
+    "index": 276,
+    "VALOR_CAPITAL_ADEUDADO": 46086886,
+    "IN_VALOR_CAPITAL_ADEUDADO": "46.086.886.44"
+  },
+  {
+    "numero": 277,
+    "index": 277,
+    "VALOR_CAPITAL_ADEUDADO": 23454012,
+    "IN_VALOR_CAPITAL_ADEUDADO": 23454012,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43250,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43250
+  },
+  {
+    "numero": 278,
+    "index": 278,
+    "VALOR_CAPITAL_ADEUDADO": 12347548,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12347548
+  },
+  {
+    "numero": 279,
+    "index": 279,
+    "VALOR_CAPITAL_ADEUDADO": 14404721,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14404721,
+    "VALOR_COSTAS": 695000,
+    "IN_VALOR_COSTAS": 695000
+  },
+  {
+    "numero": 280,
+    "index": 280,
+    "VALOR_CAPITAL_ADEUDADO": 11796195,
+    "IN_VALOR_CAPITAL_ADEUDADO": 11796195
+  },
+  {
+    "numero": 281,
+    "index": 281,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "02 / 10/2017"
+  },
+  {
+    "numero": 282,
+    "index": 282,
+    "VALOR_CAPITAL_ADEUDADO": 66362958,
+    "IN_VALOR_CAPITAL_ADEUDADO": 66362958
+  },
+  {
+    "numero": 283,
+    "index": 283,
+    "VALOR_CAPITAL_ADEUDADO": 21109451,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.109.451.00"
+  },
+  {
+    "numero": 284,
+    "index": 284,
+    "VALOR_CAPITAL_ADEUDADO": 15488696,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.488.696.00"
+  },
+  {
+    "numero": 285,
+    "index": 285,
+    "VALOR_CAPITAL_ADEUDADO": 21223176.08,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21223176.08
+  },
+  {
+    "numero": 286,
+    "index": 286,
+    "VALOR_CAPITAL_ADEUDADO": 94533342.61,
+    "IN_VALOR_CAPITAL_ADEUDADO": 94533342.61
+  },
+  {
+    "numero": 287,
+    "index": 287,
+    "VALOR_CAPITAL_ADEUDADO": 44309784.97,
+    "IN_VALOR_CAPITAL_ADEUDADO": 44309784.97
+  },
+  {
+    "numero": 288,
+    "index": 288,
+    "VALOR_CAPITAL_ADEUDADO": 60495232,
+    "IN_VALOR_CAPITAL_ADEUDADO": "60.495.232.79"
+  },
+  {
+    "numero": 289,
+    "index": 289,
+    "VALOR_CAPITAL_ADEUDADO": 14645610.58,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14645610.58
+  },
+  {
+    "numero": 290,
+    "index": 290,
+    "VALOR_CAPITAL_ADEUDADO": 13869971,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13.869.971.40"
+  },
+  {
+    "numero": 291,
+    "index": 291,
+    "VALOR_CAPITAL_ADEUDADO": 55186030,
+    "IN_VALOR_CAPITAL_ADEUDADO": "55.186.030.51",
+    "VALOR_COSTAS": 43354,
+    "IN_VALOR_COSTAS": 43354
+  },
+  {
+    "numero": 292,
+    "index": 292,
+    "VALOR_CAPITAL_ADEUDADO": 25766204,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25766204
+  },
+  {
+    "numero": 293,
+    "index": 293,
+    "VALOR_CAPITAL_ADEUDADO": 12249598,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12249598,
+    "VALOR_AVALUO": -1,
+    "IN_VALOR_AVALUO": "RETIRAR DEL JUZGADO RESPUESTA DE ETB Y ALIANSALUD EPS SE RADICA OFICIO ACLARANDO CESIÓN DEL CRÉDITO"
+  },
+  {
+    "numero": 294,
+    "index": 294,
+    "VALOR_CAPITAL_ADEUDADO": 48498609.53,
+    "IN_VALOR_CAPITAL_ADEUDADO": 48498609.53
+  },
+  {
+    "numero": 295,
+    "index": 295,
+    "VALOR_CAPITAL_ADEUDADO": 25845668.94,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25845668.94
+  },
+  {
+    "numero": 296,
+    "index": 296,
+    "VALOR_CAPITAL_ADEUDADO": 20063065.47,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20063065.47
+  },
+  {
+    "numero": 297,
+    "index": 297,
+    "VALOR_CAPITAL_ADEUDADO": 28485816,
+    "IN_VALOR_CAPITAL_ADEUDADO": 28485816
+  },
+  {
+    "numero": 298,
+    "index": 298,
+    "VALOR_CAPITAL_ADEUDADO": 96442977,
+    "IN_VALOR_CAPITAL_ADEUDADO": "96.442.977.80"
+  },
+  {
+    "numero": 299,
+    "index": 299,
+    "VALOR_CAPITAL_ADEUDADO": 28432149,
+    "IN_VALOR_CAPITAL_ADEUDADO": "28.432.149.77"
+  },
+  {
+    "numero": 300,
+    "index": 300,
+    "VALOR_CAPITAL_ADEUDADO": 19678334,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19.678.334.90"
+  },
+  {
+    "numero": 301,
+    "index": 301,
+    "VALOR_CAPITAL_ADEUDADO": 43021,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43021
+  },
+  {
+    "numero": 302,
+    "index": 302,
+    "VALOR_CAPITAL_ADEUDADO": 153236346,
+    "IN_VALOR_CAPITAL_ADEUDADO": "153.236.346.48"
+  },
+  {
+    "numero": 303,
+    "index": 303,
+    "VALOR_CAPITAL_ADEUDADO": 12534383.08,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12534383.08,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43258,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43258,
+    "VALOR_COSTAS": 43264,
+    "IN_VALOR_COSTAS": 43264
+  },
+  {
+    "numero": 304,
+    "index": 304,
+    "VALOR_CAPITAL_ADEUDADO": 61821425,
+    "IN_VALOR_CAPITAL_ADEUDADO": "61.821.425.75"
+  },
+  {
+    "numero": 305,
+    "index": 305,
+    "VALOR_CAPITAL_ADEUDADO": 11961380.9,
+    "IN_VALOR_CAPITAL_ADEUDADO": 11961380.9
+  },
+  {
+    "numero": 306,
+    "index": 306,
+    "VALOR_CAPITAL_ADEUDADO": 18368757.23,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18368757.23,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43265,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43265,
+    "VALOR_COSTAS": 43278,
+    "IN_VALOR_COSTAS": 43278
+  },
+  {
+    "numero": 307,
+    "index": 307,
+    "VALOR_CAPITAL_ADEUDADO": 70693047,
+    "IN_VALOR_CAPITAL_ADEUDADO": "70.693.047.83"
+  },
+  {
+    "numero": 308,
+    "index": 308,
+    "VALOR_CAPITAL_ADEUDADO": 83592166,
+    "IN_VALOR_CAPITAL_ADEUDADO": "83.592.166.60"
+  },
+  {
+    "numero": 309,
+    "index": 309,
+    "VALOR_CAPITAL_ADEUDADO": 20515858,
+    "IN_VALOR_CAPITAL_ADEUDADO": "20.515.858.82",
+    "VALOR_COSTAS": 43276,
+    "IN_VALOR_COSTAS": 43276
+  },
+  {
+    "numero": 310,
+    "index": 310,
+    "VALOR_CAPITAL_ADEUDADO": 40406421,
+    "IN_VALOR_CAPITAL_ADEUDADO": 40406421,
+    "VALOR_AVALUO": -1,
+    "IN_VALOR_AVALUO": "VALIDAR COMO IRRECUPERABLE"
+  },
+  {
+    "numero": 311,
+    "index": 311,
+    "VALOR_CAPITAL_ADEUDADO": 10761991,
+    "IN_VALOR_CAPITAL_ADEUDADO": "10.761.991.62",
+    "VALOR_COSTAS": 43371,
+    "IN_VALOR_COSTAS": 43371
+  },
+  {
+    "numero": 312,
+    "index": 312,
+    "VALOR_CAPITAL_ADEUDADO": 10668327,
+    "IN_VALOR_CAPITAL_ADEUDADO": "10.668.327.59"
+  },
+  {
+    "numero": 313,
+    "index": 313,
+    "VALOR_CAPITAL_ADEUDADO": 12521212,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12521212,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43298,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43298,
+    "VALOR_COSTAS": 43305,
+    "IN_VALOR_COSTAS": 43305
+  },
+  {
+    "numero": 314,
+    "index": 314,
+    "VALOR_CAPITAL_ADEUDADO": 21139648,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.139.648.63"
+  },
+  {
+    "numero": 315,
+    "index": 315,
+    "VALOR_CAPITAL_ADEUDADO": 47230309,
+    "IN_VALOR_CAPITAL_ADEUDADO": "47.230.309.94",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43405,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43405
+  },
+  {
+    "numero": 316,
+    "index": 316,
+    "VALOR_CAPITAL_ADEUDADO": 44944657.34,
+    "IN_VALOR_CAPITAL_ADEUDADO": 44944657.34
+  },
+  {
+    "numero": 317,
+    "index": 317,
+    "VALOR_CAPITAL_ADEUDADO": 15008514,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.008.514.94",
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "23/10/2018"
+  },
+  {
+    "numero": 318,
+    "index": 318,
+    "VALOR_CAPITAL_ADEUDADO": 43033,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43033
+  },
+  {
+    "numero": 319,
+    "index": 319,
+    "VALOR_CAPITAL_ADEUDADO": 24165959,
+    "IN_VALOR_CAPITAL_ADEUDADO": "24.165.959.99",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43307,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43307,
+    "VALOR_COSTAS": 43349,
+    "IN_VALOR_COSTAS": 43349,
+    "VALOR_AVALUO": 13403007.23,
+    "IN_VALOR_AVALUO": 13403007.23
+  },
+  {
+    "numero": 320,
+    "index": 320,
+    "VALOR_CAPITAL_ADEUDADO": 27247328.27,
+    "IN_VALOR_CAPITAL_ADEUDADO": 27247328.27
+  },
+  {
+    "numero": 321,
+    "index": 321,
+    "VALOR_CAPITAL_ADEUDADO": 13867980,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13.867.980.00",
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "-",
+    "VALOR_COSTAS": 43276,
+    "IN_VALOR_COSTAS": 43276
+  },
+  {
+    "numero": 322,
+    "index": 322,
+    "VALOR_CAPITAL_ADEUDADO": 87015973,
+    "IN_VALOR_CAPITAL_ADEUDADO": "87.015.973.35"
+  },
+  {
+    "numero": 323,
+    "index": 323,
+    "VALOR_CAPITAL_ADEUDADO": 19362960,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19.362.960.22"
+  },
+  {
+    "numero": 324,
+    "index": 324,
+    "VALOR_CAPITAL_ADEUDADO": 35732574,
+    "IN_VALOR_CAPITAL_ADEUDADO": "35.732.574.50",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43340,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43340,
+    "VALOR_COSTAS": 43340,
+    "IN_VALOR_COSTAS": 43340
+  },
+  {
+    "numero": 325,
+    "index": 325
+  },
+  {
+    "numero": 326,
+    "index": 326,
+    "VALOR_CAPITAL_ADEUDADO": 19550288,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19.550.288.60"
+  },
+  {
+    "numero": 327,
+    "index": 327,
+    "VALOR_CAPITAL_ADEUDADO": 23116785,
+    "IN_VALOR_CAPITAL_ADEUDADO": 23116785
+  },
+  {
+    "numero": 328,
+    "index": 328,
+    "VALOR_CAPITAL_ADEUDADO": 33615204,
+    "IN_VALOR_CAPITAL_ADEUDADO": 33615204
+  },
+  {
+    "numero": 329,
+    "index": 329,
+    "VALOR_CAPITAL_ADEUDADO": 13537827.69,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13537827.69,
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "23/07/2018",
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "-",
+    "VALOR_AVALUO": 43375,
+    "IN_VALOR_AVALUO": 43375
+  },
+  {
+    "numero": 330,
+    "index": 330,
+    "VALOR_CAPITAL_ADEUDADO": 36103545,
+    "IN_VALOR_CAPITAL_ADEUDADO": 36103545
+  },
+  {
+    "numero": 331,
+    "index": 331,
+    "VALOR_CAPITAL_ADEUDADO": 43041,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43041
+  },
+  {
+    "numero": 332,
+    "index": 332,
+    "VALOR_CAPITAL_ADEUDADO": 38034170,
+    "IN_VALOR_CAPITAL_ADEUDADO": 38034170
+  },
+  {
+    "numero": 333,
+    "index": 333,
+    "VALOR_CAPITAL_ADEUDADO": 18898421,
+    "IN_VALOR_CAPITAL_ADEUDADO": "18.898.421.00"
+  },
+  {
+    "numero": 334,
+    "index": 334,
+    "VALOR_CAPITAL_ADEUDADO": 15018661,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15018661
+  },
+  {
+    "numero": 335,
+    "index": 335,
+    "VALOR_CAPITAL_ADEUDADO": 13464765,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13.464.765.14"
+  },
+  {
+    "numero": 336,
+    "index": 336,
+    "VALOR_CAPITAL_ADEUDADO": 18295501,
+    "IN_VALOR_CAPITAL_ADEUDADO": "18.295.501.00"
+  },
+  {
+    "numero": 337,
+    "index": 337,
+    "VALOR_CAPITAL_ADEUDADO": 99119191.26,
+    "IN_VALOR_CAPITAL_ADEUDADO": 99119191.26
+  },
+  {
+    "numero": 338,
+    "index": 338,
+    "VALOR_CAPITAL_ADEUDADO": 42530688,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42530688
+  },
+  {
+    "numero": 339,
+    "index": 339,
+    "VALOR_CAPITAL_ADEUDADO": 36069195,
+    "IN_VALOR_CAPITAL_ADEUDADO": 36069195,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43179,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43179,
+    "VALOR_COSTAS": 43256,
+    "IN_VALOR_COSTAS": 43256,
+    "VALOR_AVALUO": 43272,
+    "IN_VALOR_AVALUO": 43272
+  },
+  {
+    "numero": 340,
+    "index": 340,
+    "VALOR_CAPITAL_ADEUDADO": 14986915,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14986915
+  },
+  {
+    "numero": 341,
+    "index": 341,
+    "VALOR_CAPITAL_ADEUDADO": 12731580,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.731.580.01",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43256,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43256,
+    "VALOR_COSTAS": 43253,
+    "IN_VALOR_COSTAS": 43253,
+    "VALOR_AVALUO": 11254200,
+    "IN_VALOR_AVALUO": "11254200,57"
+  },
+  {
+    "numero": 342,
+    "index": 342,
+    "VALOR_CAPITAL_ADEUDADO": 43053,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43053
+  },
+  {
+    "numero": 343,
+    "index": 343,
+    "VALOR_CAPITAL_ADEUDADO": 12767956,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.767.956.00",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43265,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43265
+  },
+  {
+    "numero": 344,
+    "index": 344,
+    "VALOR_CAPITAL_ADEUDADO": 19977436.31,
+    "IN_VALOR_CAPITAL_ADEUDADO": 19977436.31
+  },
+  {
+    "numero": 345,
+    "index": 345,
+    "VALOR_CAPITAL_ADEUDADO": 12944433,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12944433,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43182,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43182,
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "-",
+    "VALOR_AVALUO": -1,
+    "IN_VALOR_AVALUO": "18/07/2018"
+  },
+  {
+    "numero": 346,
+    "index": 346,
+    "VALOR_CAPITAL_ADEUDADO": 12938618,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.938.618.00"
+  },
+  {
+    "numero": 347,
+    "index": 347,
+    "VALOR_CAPITAL_ADEUDADO": 11831747,
+    "IN_VALOR_CAPITAL_ADEUDADO": "11.831.747.86",
+    "VALOR_COSTAS": 43300,
+    "IN_VALOR_COSTAS": 43300
+  },
+  {
+    "numero": 348,
+    "index": 348,
+    "VALOR_CAPITAL_ADEUDADO": 76735593.18,
+    "IN_VALOR_CAPITAL_ADEUDADO": 76735593.18
+  },
+  {
+    "numero": 349,
+    "index": 349,
+    "VALOR_CAPITAL_ADEUDADO": 17074755,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17.074.755.31",
+    "VALOR_COSTAS": 43294,
+    "IN_VALOR_COSTAS": 43294
+  },
+  {
+    "numero": 350,
+    "index": 350,
+    "VALOR_CAPITAL_ADEUDADO": 24965682,
+    "IN_VALOR_CAPITAL_ADEUDADO": "24.965.682.98"
+  },
+  {
+    "numero": 351,
+    "index": 351,
+    "VALOR_CAPITAL_ADEUDADO": 16487437,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.487.437.90"
+  },
+  {
+    "numero": 352,
+    "index": 352,
+    "VALOR_CAPITAL_ADEUDADO": 11853652,
+    "IN_VALOR_CAPITAL_ADEUDADO": 11853652
+  },
+  {
+    "numero": 353,
+    "index": 353,
+    "VALOR_CAPITAL_ADEUDADO": 24172046.91,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24172046.91,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43193,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43193,
+    "VALOR_COSTAS": 43264,
+    "IN_VALOR_COSTAS": 43264,
+    "VALOR_AVALUO": -1,
+    "IN_VALOR_AVALUO": "10/07/2018"
+  },
+  {
+    "numero": 354,
+    "index": 354,
+    "VALOR_CAPITAL_ADEUDADO": 162645743,
+    "IN_VALOR_CAPITAL_ADEUDADO": "162.645.743.97"
+  },
+  {
+    "numero": 355,
+    "index": 355,
+    "VALOR_CAPITAL_ADEUDADO": 34896224,
+    "IN_VALOR_CAPITAL_ADEUDADO": "34.896.224.94"
+  },
+  {
+    "numero": 356,
+    "index": 356,
+    "VALOR_CAPITAL_ADEUDADO": 30573555,
+    "IN_VALOR_CAPITAL_ADEUDADO": "30.573.555.51"
+  },
+  {
+    "numero": 357,
+    "index": 357,
+    "VALOR_CAPITAL_ADEUDADO": 22149641,
+    "IN_VALOR_CAPITAL_ADEUDADO": "22.149.641.28"
+  },
+  {
+    "numero": 358,
+    "index": 358,
+    "VALOR_CAPITAL_ADEUDADO": 22130224,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22130224,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 1157000,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 1157000,
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "13/07/2018"
+  },
+  {
+    "numero": 359,
+    "index": 359,
+    "VALOR_CAPITAL_ADEUDADO": 8725321,
+    "IN_VALOR_CAPITAL_ADEUDADO": "8.725.321.75"
+  },
+  {
+    "numero": 360,
+    "index": 360,
+    "VALOR_CAPITAL_ADEUDADO": 15576784,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.576.784.43"
+  },
+  {
+    "numero": 361,
+    "index": 361,
+    "VALOR_CAPITAL_ADEUDADO": 32318533.04,
+    "IN_VALOR_CAPITAL_ADEUDADO": 32318533.04
+  },
+  {
+    "numero": 362,
+    "index": 362,
+    "VALOR_CAPITAL_ADEUDADO": 42269,
+    "IN_VALOR_CAPITAL_ADEUDADO": "42.269.61"
+  },
+  {
+    "numero": 363,
+    "index": 363,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "04/12/2017",
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "09/10/2018",
+    "VALOR_AVALUO": 1981000,
+    "IN_VALOR_AVALUO": 1981000
+  },
+  {
+    "numero": 364,
+    "index": 364,
+    "VALOR_CAPITAL_ADEUDADO": 60161467,
+    "IN_VALOR_CAPITAL_ADEUDADO": "60.161.467.78"
+  },
+  {
+    "numero": 365,
+    "index": 365,
+    "VALOR_CAPITAL_ADEUDADO": 23970146,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23.970.146.05"
+  },
+  {
+    "numero": 366,
+    "index": 366,
+    "VALOR_CAPITAL_ADEUDADO": 19041643.2,
+    "IN_VALOR_CAPITAL_ADEUDADO": 19041643.2
+  },
+  {
+    "numero": 367,
+    "index": 367,
+    "VALOR_CAPITAL_ADEUDADO": 29419277.35,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29419277.35
+  },
+  {
+    "numero": 368,
+    "index": 368,
+    "VALOR_CAPITAL_ADEUDADO": 36307716,
+    "IN_VALOR_CAPITAL_ADEUDADO": "36.307.716.54"
+  },
+  {
+    "numero": 369,
+    "index": 369,
+    "VALOR_CAPITAL_ADEUDADO": 34749647,
+    "IN_VALOR_CAPITAL_ADEUDADO": 34749647
+  },
+  {
+    "numero": 370,
+    "index": 370,
+    "VALOR_CAPITAL_ADEUDADO": 51466338,
+    "IN_VALOR_CAPITAL_ADEUDADO": "51.466.338.84"
+  },
+  {
+    "numero": 372,
+    "index": 371,
+    "VALOR_CAPITAL_ADEUDADO": 17921982,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17921982
+  },
+  {
+    "numero": 373,
+    "index": 372,
+    "VALOR_CAPITAL_ADEUDADO": 10725698,
+    "IN_VALOR_CAPITAL_ADEUDADO": "10725698,04"
+  },
+  {
+    "numero": 374,
+    "index": 373,
+    "VALOR_CAPITAL_ADEUDADO": 27006100,
+    "IN_VALOR_CAPITAL_ADEUDADO": "27006100,92"
+  },
+  {
+    "numero": 375,
+    "index": 374,
+    "VALOR_CAPITAL_ADEUDADO": 66255617,
+    "IN_VALOR_CAPITAL_ADEUDADO": "66255617,24",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43298,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43298
+  },
+  {
+    "numero": 376,
+    "index": 375,
+    "VALOR_CAPITAL_ADEUDADO": 27308454.64,
+    "IN_VALOR_CAPITAL_ADEUDADO": 27308454.64
+  },
+  {
+    "numero": 377,
+    "index": 376,
+    "VALOR_CAPITAL_ADEUDADO": 13503258,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13503258"
+  },
+  {
+    "numero": 378,
+    "index": 377,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17/01/2018"
+  },
+  {
+    "numero": 379,
+    "index": 378,
+    "VALOR_CAPITAL_ADEUDADO": 40292979.74,
+    "IN_VALOR_CAPITAL_ADEUDADO": 40292979.74,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43252,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43252,
+    "VALOR_COSTAS": 43259,
+    "IN_VALOR_COSTAS": 43259,
+    "VALOR_AVALUO": 41669104.01,
+    "IN_VALOR_AVALUO": 41669104.01
+  },
+  {
+    "numero": 380,
+    "index": 379,
+    "VALOR_CAPITAL_ADEUDADO": 40292979.74,
+    "IN_VALOR_CAPITAL_ADEUDADO": 40292979.74
+  },
+  {
+    "numero": 381,
+    "index": 380,
+    "VALOR_CAPITAL_ADEUDADO": 24878276,
+    "IN_VALOR_CAPITAL_ADEUDADO": "24878276,25"
+  },
+  {
+    "numero": 382,
+    "index": 381,
+    "VALOR_CAPITAL_ADEUDADO": 11224313,
+    "IN_VALOR_CAPITAL_ADEUDADO": "11224313"
+  },
+  {
+    "numero": 383,
+    "index": 382,
+    "VALOR_CAPITAL_ADEUDADO": 14735254,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14735254,21"
+  },
+  {
+    "numero": 384,
+    "index": 383,
+    "VALOR_CAPITAL_ADEUDADO": 30413921.26,
+    "IN_VALOR_CAPITAL_ADEUDADO": 30413921.26,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43298,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43298,
+    "VALOR_COSTAS": 43330,
+    "IN_VALOR_COSTAS": 43330
+  },
+  {
+    "numero": 385,
+    "index": 384,
+    "VALOR_CAPITAL_ADEUDADO": 15344261,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15344261
+  },
+  {
+    "numero": 386,
+    "index": 385,
+    "VALOR_CAPITAL_ADEUDADO": 26468936,
+    "IN_VALOR_CAPITAL_ADEUDADO": 26468936
+  },
+  {
+    "numero": 387,
+    "index": 386,
+    "VALOR_CAPITAL_ADEUDADO": 36331525,
+    "IN_VALOR_CAPITAL_ADEUDADO": 36331525
+  },
+  {
+    "numero": 388,
+    "index": 387,
+    "VALOR_CAPITAL_ADEUDADO": 651,
+    "IN_VALOR_CAPITAL_ADEUDADO": "27,696,651,24"
+  },
+  {
+    "numero": 389,
+    "index": 388
+  },
+  {
+    "numero": 390,
+    "index": 389,
+    "VALOR_CAPITAL_ADEUDADO": 50509238,
+    "IN_VALOR_CAPITAL_ADEUDADO": 50509238
+  },
+  {
+    "numero": 391,
+    "index": 390,
+    "VALOR_CAPITAL_ADEUDADO": 48945502.05,
+    "IN_VALOR_CAPITAL_ADEUDADO": 48945502.05
+  },
+  {
+    "numero": 392,
+    "index": 391,
+    "VALOR_CAPITAL_ADEUDADO": 38847950,
+    "IN_VALOR_CAPITAL_ADEUDADO": 38847950
+  },
+  {
+    "numero": 393,
+    "index": 392,
+    "VALOR_CAPITAL_ADEUDADO": 393,
+    "IN_VALOR_CAPITAL_ADEUDADO": "25,857,393,66"
+  },
+  {
+    "numero": 394,
+    "index": 393,
+    "VALOR_CAPITAL_ADEUDADO": 164,
+    "IN_VALOR_CAPITAL_ADEUDADO": "25,863,164,23"
+  },
+  {
+    "numero": 395,
+    "index": 394,
+    "VALOR_CAPITAL_ADEUDADO": 554,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13,974,554,00"
+  },
+  {
+    "numero": 396,
+    "index": 395,
+    "VALOR_CAPITAL_ADEUDADO": 24000000,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24000000,
+    "VALOR_COSTAS": 1200000,
+    "IN_VALOR_COSTAS": 1200000
+  },
+  {
+    "numero": 397,
+    "index": 396,
+    "VALOR_CAPITAL_ADEUDADO": 14467701,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14467701
+  },
+  {
+    "numero": 398,
+    "index": 397,
+    "VALOR_CAPITAL_ADEUDADO": 78,
+    "IN_VALOR_CAPITAL_ADEUDADO": "52,854,078,34",
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "10/08/2018"
+  },
+  {
+    "numero": 399,
+    "index": 398,
+    "VALOR_CAPITAL_ADEUDADO": 377,
+    "IN_VALOR_CAPITAL_ADEUDADO": "40,477,377,34"
+  },
+  {
+    "numero": 400,
+    "index": 399,
+    "VALOR_CAPITAL_ADEUDADO": 376,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17,247,376,00",
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "09/10/2018"
+  },
+  {
+    "numero": 401,
+    "index": 400,
+    "VALOR_CAPITAL_ADEUDADO": 997,
+    "IN_VALOR_CAPITAL_ADEUDADO": "26,633,997,29"
+  },
+  {
+    "numero": 402,
+    "index": 401,
+    "VALOR_CAPITAL_ADEUDADO": 41146013,
+    "IN_VALOR_CAPITAL_ADEUDADO": "41.146.013.90"
+  },
+  {
+    "numero": 403,
+    "index": 402,
+    "VALOR_CAPITAL_ADEUDADO": 878,
+    "IN_VALOR_CAPITAL_ADEUDADO": "27.607,878,44"
+  },
+  {
+    "numero": 404,
+    "index": 403,
+    "VALOR_CAPITAL_ADEUDADO": 88,
+    "IN_VALOR_CAPITAL_ADEUDADO": "18,236,088,30"
+  },
+  {
+    "numero": 405,
+    "index": 404,
+    "VALOR_CAPITAL_ADEUDADO": 22592582.91,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22592582.91,
+    "VALOR_COSTAS": 20,
+    "IN_VALOR_COSTAS": 20
+  },
+  {
+    "numero": 406,
+    "index": 405,
+    "VALOR_CAPITAL_ADEUDADO": 877,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12,024,877,15"
+  },
+  {
+    "numero": 407,
+    "index": 406,
+    "VALOR_CAPITAL_ADEUDADO": 31100998.65,
+    "IN_VALOR_CAPITAL_ADEUDADO": 31100998.65
+  },
+  {
+    "numero": 408,
+    "index": 407,
+    "VALOR_CAPITAL_ADEUDADO": 189,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17,508,189,65"
+  },
+  {
+    "numero": 409,
+    "index": 408,
+    "VALOR_CAPITAL_ADEUDADO": 11949471,
+    "IN_VALOR_CAPITAL_ADEUDADO": 11949471
+  },
+  {
+    "numero": 410,
+    "index": 409,
+    "VALOR_CAPITAL_ADEUDADO": 665,
+    "IN_VALOR_CAPITAL_ADEUDADO": "22,835,665,00"
+  },
+  {
+    "numero": 411,
+    "index": 410,
+    "VALOR_CAPITAL_ADEUDADO": 515,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21,817,515,53"
+  },
+  {
+    "numero": 412,
+    "index": 411,
+    "VALOR_CAPITAL_ADEUDADO": 454,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19,865,454,27"
+  },
+  {
+    "numero": 413,
+    "index": 412,
+    "VALOR_CAPITAL_ADEUDADO": 52,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21,470,052,05"
+  },
+  {
+    "numero": 414,
+    "index": 413,
+    "VALOR_CAPITAL_ADEUDADO": 10224254.04,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10224254.04
+  },
+  {
+    "numero": 415,
+    "index": 414,
+    "VALOR_CAPITAL_ADEUDADO": 43208,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43208
+  },
+  {
+    "numero": 416,
+    "index": 415,
+    "VALOR_CAPITAL_ADEUDADO": 51606071,
+    "IN_VALOR_CAPITAL_ADEUDADO": 51606071
+  },
+  {
+    "numero": 417,
+    "index": 416,
+    "VALOR_CAPITAL_ADEUDADO": 40942872,
+    "IN_VALOR_CAPITAL_ADEUDADO": 40942872
+  },
+  {
+    "numero": 418,
+    "index": 417,
+    "VALOR_CAPITAL_ADEUDADO": 598,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23,159,598,56"
+  },
+  {
+    "numero": 419,
+    "index": 418,
+    "VALOR_CAPITAL_ADEUDADO": 43211,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43211
+  },
+  {
+    "numero": 420,
+    "index": 419,
+    "VALOR_CAPITAL_ADEUDADO": 10382732.2,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10382732.2
+  },
+  {
+    "numero": 421,
+    "index": 420,
+    "VALOR_CAPITAL_ADEUDADO": 853,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13,704,853,48",
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43325,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43325,
+    "VALOR_COSTAS": 43334,
+    "IN_VALOR_COSTAS": 43334
+  },
+  {
+    "numero": 422,
+    "index": 421,
+    "VALOR_CAPITAL_ADEUDADO": 23440287.8,
+    "IN_VALOR_CAPITAL_ADEUDADO": 23440287.8
+  },
+  {
+    "numero": 423,
+    "index": 422,
+    "VALOR_CAPITAL_ADEUDADO": 538,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19,715,538,64"
+  },
+  {
+    "numero": 424,
+    "index": 423,
+    "VALOR_CAPITAL_ADEUDADO": 978,
+    "IN_VALOR_CAPITAL_ADEUDADO": "18,240,978,00"
+  },
+  {
+    "numero": 425,
+    "index": 424,
+    "VALOR_CAPITAL_ADEUDADO": 283,
+    "IN_VALOR_CAPITAL_ADEUDADO": "27,503,283,22"
+  },
+  {
+    "numero": 426,
+    "index": 425,
+    "VALOR_CAPITAL_ADEUDADO": 176,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13,098,176,52"
+  },
+  {
+    "numero": 427,
+    "index": 426,
+    "VALOR_CAPITAL_ADEUDADO": 21049111.79,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21049111.79
+  },
+  {
+    "numero": 428,
+    "index": 427,
+    "VALOR_CAPITAL_ADEUDADO": 21770748,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.770.748.74"
+  },
+  {
+    "numero": 429,
+    "index": 428,
+    "VALOR_CAPITAL_ADEUDADO": 14054721,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14.054.721.06"
+  },
+  {
+    "numero": 430,
+    "index": 429,
+    "VALOR_CAPITAL_ADEUDADO": 29045383,
+    "IN_VALOR_CAPITAL_ADEUDADO": "29.045.383.03"
+  },
+  {
+    "numero": 431,
+    "index": 430,
+    "VALOR_CAPITAL_ADEUDADO": 43214,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43214
+  },
+  {
+    "numero": 432,
+    "index": 431,
+    "VALOR_CAPITAL_ADEUDADO": 30053474.95,
+    "IN_VALOR_CAPITAL_ADEUDADO": 30053474.95,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43285,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43285,
+    "VALOR_COSTAS": 43293,
+    "IN_VALOR_COSTAS": 43293
+  },
+  {
+    "numero": 433,
+    "index": 432,
+    "VALOR_CAPITAL_ADEUDADO": 43237,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43237
+  },
+  {
+    "numero": 434,
+    "index": 433,
+    "VALOR_CAPITAL_ADEUDADO": 639,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12,204,639,17"
+  },
+  {
+    "numero": 435,
+    "index": 434,
+    "VALOR_CAPITAL_ADEUDADO": 573,
+    "IN_VALOR_CAPITAL_ADEUDADO": "32,124,573,85"
+  },
+  {
+    "numero": 436,
+    "index": 435,
+    "VALOR_CAPITAL_ADEUDADO": 581,
+    "IN_VALOR_CAPITAL_ADEUDADO": "38,569,581,81"
+  },
+  {
+    "numero": 437,
+    "index": 436,
+    "VALOR_CAPITAL_ADEUDADO": 22725077.61,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22725077.61
+  },
+  {
+    "numero": 438,
+    "index": 437,
+    "VALOR_CAPITAL_ADEUDADO": 934,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13,337,934,00"
+  },
+  {
+    "numero": 439,
+    "index": 438,
+    "VALOR_CAPITAL_ADEUDADO": 457,
+    "IN_VALOR_CAPITAL_ADEUDADO": "25,527,457,86"
+  },
+  {
+    "numero": 440,
+    "index": 439,
+    "VALOR_CAPITAL_ADEUDADO": 23,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14,670,023,70"
+  },
+  {
+    "numero": 441,
+    "index": 440,
+    "VALOR_CAPITAL_ADEUDADO": 891,
+    "IN_VALOR_CAPITAL_ADEUDADO": "17,141,891,22"
+  },
+  {
+    "numero": 442,
+    "index": 441,
+    "VALOR_CAPITAL_ADEUDADO": 18780239.49,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18780239.49
+  },
+  {
+    "numero": 443,
+    "index": 442,
+    "VALOR_CAPITAL_ADEUDADO": 941,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13,303,941,88"
+  },
+  {
+    "numero": 444,
+    "index": 443,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "8/06/208"
+  },
+  {
+    "numero": 445,
+    "index": 444,
+    "VALOR_CAPITAL_ADEUDADO": 29143861.48,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29143861.48
+  },
+  {
+    "numero": 446,
+    "index": 445,
+    "VALOR_CAPITAL_ADEUDADO": 43265,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43265
+  },
+  {
+    "numero": 447,
+    "index": 446,
+    "VALOR_CAPITAL_ADEUDADO": 19260500,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19.260.500.00"
+  },
+  {
+    "numero": 448,
+    "index": 447,
+    "VALOR_CAPITAL_ADEUDADO": 14744173.99,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14744173.99
+  },
+  {
+    "numero": 449,
+    "index": 448,
+    "VALOR_CAPITAL_ADEUDADO": 14170111.31,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14170111.31
+  },
+  {
+    "numero": 450,
+    "index": 449,
+    "VALOR_CAPITAL_ADEUDADO": 21550202,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.550.202.58"
+  },
+  {
+    "numero": 451,
+    "index": 450,
+    "VALOR_CAPITAL_ADEUDADO": 10691309.66,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10691309.66,
+    "VALOR_LIQUIDACION_DEL_CREDITO": -1,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": "11/09/2018",
+    "VALOR_COSTAS": -1,
+    "IN_VALOR_COSTAS": "24/09/2018"
+  },
+  {
+    "numero": 452,
+    "index": 451,
+    "VALOR_CAPITAL_ADEUDADO": 22244760,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22244760,
+    "VALOR_COSTAS": 1000000,
+    "IN_VALOR_COSTAS": 1000000
+  },
+  {
+    "numero": 453,
+    "index": 452,
+    "VALOR_CAPITAL_ADEUDADO": 107,
+    "IN_VALOR_CAPITAL_ADEUDADO": "11,080,107,68"
+  },
+  {
+    "numero": 454,
+    "index": 453,
+    "VALOR_CAPITAL_ADEUDADO": 15580021,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15580021
+  },
+  {
+    "numero": 455,
+    "index": 454,
+    "VALOR_CAPITAL_ADEUDADO": 448,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14,997,448,00"
+  },
+  {
+    "numero": 456,
+    "index": 455,
+    "VALOR_CAPITAL_ADEUDADO": 24310470,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24310470
+  },
+  {
+    "numero": 457,
+    "index": 456,
+    "VALOR_CAPITAL_ADEUDADO": 24765475,
+    "IN_VALOR_CAPITAL_ADEUDADO": "24.765.475.00"
+  },
+  {
+    "numero": 458,
+    "index": 457,
+    "VALOR_CAPITAL_ADEUDADO": 17502203,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17502203,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 21744166.09,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 21744166.09,
+    "VALOR_COSTAS": 1050000,
+    "IN_VALOR_COSTAS": 1050000
+  },
+  {
+    "numero": 459,
+    "index": 458,
+    "VALOR_CAPITAL_ADEUDADO": 32492443,
+    "IN_VALOR_CAPITAL_ADEUDADO": "32.492.443.00"
+  },
+  {
+    "numero": 460,
+    "index": 459,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "9/07/25018"
+  },
+  {
+    "numero": 461,
+    "index": 460,
+    "VALOR_CAPITAL_ADEUDADO": 22458995,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22458995
+  },
+  {
+    "numero": 462,
+    "index": 461,
+    "VALOR_CAPITAL_ADEUDADO": 21997013.43,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21997013.43
+  },
+  {
+    "numero": 463,
+    "index": 462,
+    "VALOR_CAPITAL_ADEUDADO": 24501535.3,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24501535.3
+  },
+  {
+    "numero": 464,
+    "index": 463,
+    "VALOR_CAPITAL_ADEUDADO": 43293,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43293
+  },
+  {
+    "numero": 465,
+    "index": 464,
+    "VALOR_CAPITAL_ADEUDADO": 711,
+    "IN_VALOR_CAPITAL_ADEUDADO": "25,303,711,97"
+  },
+  {
+    "numero": 466,
+    "index": 465,
+    "VALOR_CAPITAL_ADEUDADO": 14270897,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14270897
+  },
+  {
+    "numero": 467,
+    "index": 466
+  },
+  {
+    "numero": 468,
+    "index": 467,
+    "VALOR_CAPITAL_ADEUDADO": 16881706.3,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16881706.3
+  },
+  {
+    "numero": 469,
+    "index": 468,
+    "VALOR_CAPITAL_ADEUDADO": 792,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14,770,792,00"
+  },
+  {
+    "numero": 470,
+    "index": 469,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "26/07/2018"
+  },
+  {
+    "numero": 471,
+    "index": 470,
+    "VALOR_CAPITAL_ADEUDADO": 12555416,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.555.416.18"
+  },
+  {
+    "numero": 472,
+    "index": 471,
+    "VALOR_CAPITAL_ADEUDADO": 15720013,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.720.013.94"
+  },
+  {
+    "numero": 473,
+    "index": 472
+  },
+  {
+    "numero": 474,
+    "index": 473,
+    "VALOR_CAPITAL_ADEUDADO": 23110934,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23.110.934.37"
+  },
+  {
+    "numero": 475,
+    "index": 474,
+    "VALOR_CAPITAL_ADEUDADO": 39146947,
+    "IN_VALOR_CAPITAL_ADEUDADO": 39146947,
+    "VALOR_COSTAS": 2057000,
+    "IN_VALOR_COSTAS": 2057000
+  },
+  {
+    "numero": 476,
+    "index": 475,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21/08/2018"
+  },
+  {
+    "numero": 477,
+    "index": 476,
+    "VALOR_CAPITAL_ADEUDADO": 14534881,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14534881
+  },
+  {
+    "numero": 478,
+    "index": 477,
+    "VALOR_CAPITAL_ADEUDADO": 16147359,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.147.359.00"
+  },
+  {
+    "numero": 479,
+    "index": 478,
+    "VALOR_CAPITAL_ADEUDADO": 12821536,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.821.536.32"
+  },
+  {
+    "numero": 480,
+    "index": 479,
+    "VALOR_CAPITAL_ADEUDADO": 17217065.98,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17217065.98
+  },
+  {
+    "numero": 481,
+    "index": 480,
+    "VALOR_CAPITAL_ADEUDADO": 12768627,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.768.627.00"
+  },
+  {
+    "numero": 482,
+    "index": 481,
+    "VALOR_CAPITAL_ADEUDADO": 35321033,
+    "IN_VALOR_CAPITAL_ADEUDADO": "35.321.033.75"
+  },
+  {
+    "numero": 483,
+    "index": 482,
+    "VALOR_CAPITAL_ADEUDADO": 14134623,
+    "IN_VALOR_CAPITAL_ADEUDADO": "14.134.623.00"
+  },
+  {
+    "numero": 484,
+    "index": 483,
+    "VALOR_CAPITAL_ADEUDADO": 26503794.57,
+    "IN_VALOR_CAPITAL_ADEUDADO": 26503794.57
+  },
+  {
+    "numero": 485,
+    "index": 484,
+    "VALOR_CAPITAL_ADEUDADO": 16492041,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.492.041.34"
+  },
+  {
+    "numero": 486,
+    "index": 485,
+    "VALOR_CAPITAL_ADEUDADO": 12827556,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.827.556.00"
+  },
+  {
+    "numero": 487,
+    "index": 486,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12/09/2018"
+  },
+  {
+    "numero": 488,
+    "index": 487,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12/09/2018"
+  },
+  {
+    "numero": 489,
+    "index": 488,
+    "VALOR_CAPITAL_ADEUDADO": 23041704,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23.041.704.34"
+  },
+  {
+    "numero": 490,
+    "index": 489,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13/09/2018"
+  },
+  {
+    "numero": 491,
+    "index": 490,
+    "VALOR_CAPITAL_ADEUDADO": 18100698.65,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18100698.65
+  },
+  {
+    "numero": 492,
+    "index": 491,
+    "VALOR_CAPITAL_ADEUDADO": 12456703,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12.456.703"
+  },
+  {
+    "numero": 493,
+    "index": 492,
+    "VALOR_CAPITAL_ADEUDADO": 21035323,
+    "IN_VALOR_CAPITAL_ADEUDADO": "21.035.323.59"
+  },
+  {
+    "numero": 494,
+    "index": 493,
+    "VALOR_CAPITAL_ADEUDADO": 16225494,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.225.494.45"
+  },
+  {
+    "numero": 495,
+    "index": 494,
+    "VALOR_CAPITAL_ADEUDADO": 29229158.74,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29229158.74
+  },
+  {
+    "numero": 496,
+    "index": 495,
+    "VALOR_CAPITAL_ADEUDADO": 27373832.26,
+    "IN_VALOR_CAPITAL_ADEUDADO": 27373832.26
+  },
+  {
+    "numero": 497,
+    "index": 496,
+    "VALOR_CAPITAL_ADEUDADO": 23678920,
+    "IN_VALOR_CAPITAL_ADEUDADO": "23.678920.60"
+  },
+  {
+    "numero": 498,
+    "index": 497,
+    "VALOR_CAPITAL_ADEUDADO": 19491278,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19.491.278.99"
+  },
+  {
+    "numero": 499,
+    "index": 498,
+    "VALOR_CAPITAL_ADEUDADO": 24807317.01,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24807317.01
+  },
+  {
+    "numero": 500,
+    "index": 499,
+    "VALOR_CAPITAL_ADEUDADO": 15086199,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15086199
+  },
+  {
+    "numero": 501,
+    "index": 500,
+    "VALOR_CAPITAL_ADEUDADO": 31627561.81,
+    "IN_VALOR_CAPITAL_ADEUDADO": 31627561.81
+  },
+  {
+    "numero": 502,
+    "index": 501,
+    "VALOR_CAPITAL_ADEUDADO": 10930099.56,
+    "IN_VALOR_CAPITAL_ADEUDADO": 10930099.56
+  },
+  {
+    "numero": 503,
+    "index": 502,
+    "VALOR_CAPITAL_ADEUDADO": 15631923,
+    "IN_VALOR_CAPITAL_ADEUDADO": "15.631.923.00"
+  },
+  {
+    "numero": 504,
+    "index": 503,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "22/10/2018"
+  },
+  {
+    "numero": 505,
+    "index": 504,
+    "VALOR_CAPITAL_ADEUDADO": 14634268.88,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14634268.88
+  },
+  {
+    "numero": 506,
+    "index": 505,
+    "VALOR_CAPITAL_ADEUDADO": 15426758.96,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15426758.96
+  },
+  {
+    "numero": 507,
+    "index": 506,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "02/11/2018"
+  },
+  {
+    "numero": 508,
+    "index": 507,
+    "VALOR_CAPITAL_ADEUDADO": 29416113,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29416113
+  },
+  {
+    "numero": 509,
+    "index": 508,
+    "VALOR_CAPITAL_ADEUDADO": 16585595,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.585.595.00"
+  },
+  {
+    "numero": 510,
+    "index": 509,
+    "VALOR_CAPITAL_ADEUDADO": 40828299,
+    "IN_VALOR_CAPITAL_ADEUDADO": "40.828.299.00"
+  },
+  {
+    "numero": 511,
+    "index": 510,
+    "VALOR_CAPITAL_ADEUDADO": 41522255,
+    "IN_VALOR_CAPITAL_ADEUDADO": "41.522.255.15"
+  },
+  {
+    "numero": 512,
+    "index": 511,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "05/12/2018"
+  },
+  {
+    "numero": 513,
+    "index": 512,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "07/11/2018"
+  },
+  {
+    "numero": 514,
+    "index": 514,
+    "VALOR_CAPITAL_ADEUDADO": 46118716.63,
+    "IN_VALOR_CAPITAL_ADEUDADO": 46118716.63
+  },
+  {
+    "numero": 516,
+    "index": 515,
+    "VALOR_CAPITAL_ADEUDADO": 16800337,
+    "IN_VALOR_CAPITAL_ADEUDADO": "16.800.337.38"
+  },
+  {
+    "numero": 517,
+    "index": 516,
+    "VALOR_CAPITAL_ADEUDADO": -1,
+    "IN_VALOR_CAPITAL_ADEUDADO": "30/01/2019"
+  },
+  {
+    "numero": 518,
+    "index": 517,
+    "VALOR_CAPITAL_ADEUDADO": 12203649,
+    "IN_VALOR_CAPITAL_ADEUDADO": "12203649,80"
+  },
+  {
+    "numero": 519,
+    "index": 518,
+    "VALOR_CAPITAL_ADEUDADO": 30056040.61,
+    "IN_VALOR_CAPITAL_ADEUDADO": 30056040.61
+  },
+  {
+    "numero": 520,
+    "index": 519,
+    "VALOR_CAPITAL_ADEUDADO": 13871976,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13.871.976.56"
+  },
+  {
+    "numero": 521,
+    "index": 520,
+    "VALOR_CAPITAL_ADEUDADO": 20616779,
+    "IN_VALOR_CAPITAL_ADEUDADO": "20.616.779.01"
+  },
+  {
+    "numero": 522,
+    "index": 521,
+    "VALOR_CAPITAL_ADEUDADO": 29723047,
+    "IN_VALOR_CAPITAL_ADEUDADO": "29.723.047.63"
+  },
+  {
+    "numero": 523,
+    "index": 522,
+    "VALOR_CAPITAL_ADEUDADO": 22144741,
+    "IN_VALOR_CAPITAL_ADEUDADO": "22.144.741..93"
+  },
+  {
+    "numero": 524,
+    "index": 523,
+    "VALOR_CAPITAL_ADEUDADO": 135,
+    "IN_VALOR_CAPITAL_ADEUDADO": "19,951,135,95"
+  },
+  {
+    "numero": 525,
+    "index": 524
+  },
+  {
+    "numero": 526,
+    "index": 525,
+    "VALOR_CAPITAL_ADEUDADO": 13180105,
+    "IN_VALOR_CAPITAL_ADEUDADO": "13,180,105"
+  },
+  {
+    "numero": 527,
+    "index": 526,
+    "VALOR_CAPITAL_ADEUDADO": 29140667.39,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29140667.39
+  },
+  {
+    "numero": 528,
+    "index": 527,
+    "VALOR_CAPITAL_ADEUDADO": 46371154.05,
+    "IN_VALOR_CAPITAL_ADEUDADO": 46371154.05
+  },
+  {
+    "numero": 529,
+    "index": 528,
+    "VALOR_CAPITAL_ADEUDADO": 35424539,
+    "IN_VALOR_CAPITAL_ADEUDADO": "35.424.539.22"
+  },
+  {
+    "numero": 530,
+    "index": 529,
+    "VALOR_CAPITAL_ADEUDADO": 14409411.18,
+    "IN_VALOR_CAPITAL_ADEUDADO": 14409411.18,
+    "VALOR_COSTAS": 786400,
+    "IN_VALOR_COSTAS": 786400
+  },
+  {
+    "numero": 531,
+    "index": 530,
+    "VALOR_CAPITAL_ADEUDADO": 35608653,
+    "IN_VALOR_CAPITAL_ADEUDADO": 35608653
+  },
+  {
+    "numero": 532,
+    "index": 531,
+    "VALOR_CAPITAL_ADEUDADO": 15324570,
+    "IN_VALOR_CAPITAL_ADEUDADO": 15324570
+  },
+  {
+    "numero": 533,
+    "index": 532,
+    "VALOR_CAPITAL_ADEUDADO": 56987692.66,
+    "IN_VALOR_CAPITAL_ADEUDADO": 56987692.66
+  },
+  {
+    "numero": 534,
+    "index": 533,
+    "VALOR_CAPITAL_ADEUDADO": 33000833,
+    "IN_VALOR_CAPITAL_ADEUDADO": 33000833
+  },
+  {
+    "numero": 535,
+    "index": 534,
+    "VALOR_CAPITAL_ADEUDADO": 13583148,
+    "IN_VALOR_CAPITAL_ADEUDADO": 13583148
+  },
+  {
+    "numero": 536,
+    "index": 535,
+    "VALOR_CAPITAL_ADEUDADO": 18772901.56,
+    "IN_VALOR_CAPITAL_ADEUDADO": 18772901.56
+  },
+  {
+    "numero": 537,
+    "index": 536,
+    "VALOR_CAPITAL_ADEUDADO": 20353079.19,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20353079.19
+  },
+  {
+    "numero": 538,
+    "index": 537,
+    "VALOR_CAPITAL_ADEUDADO": 16862839.53,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16862839.53,
+    "VALOR_LIQUIDACION_DEL_CREDITO": 43321,
+    "IN_VALOR_LIQUIDACION_DEL_CREDITO": 43321,
+    "VALOR_COSTAS": 43326,
+    "IN_VALOR_COSTAS": 43326
+  },
+  {
+    "numero": 539,
+    "index": 538,
+    "VALOR_CAPITAL_ADEUDADO": 32026446.64,
+    "IN_VALOR_CAPITAL_ADEUDADO": 32026446.64,
+    "VALOR_COSTAS": 2400000,
+    "IN_VALOR_COSTAS": 2400000
+  },
+  {
+    "numero": 540,
+    "index": 539,
+    "VALOR_CAPITAL_ADEUDADO": 17667402,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17667402
+  },
+  {
+    "numero": 541,
+    "index": 540,
+    "VALOR_CAPITAL_ADEUDADO": 39855851.41,
+    "IN_VALOR_CAPITAL_ADEUDADO": 39855851.41
+  },
+  {
+    "numero": 542,
+    "index": 541,
+    "VALOR_CAPITAL_ADEUDADO": 12864472.1,
+    "IN_VALOR_CAPITAL_ADEUDADO": 12864472.1
+  },
+  {
+    "numero": 543,
+    "index": 542,
+    "VALOR_CAPITAL_ADEUDADO": 24849682.04,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24849682.04
+  },
+  {
+    "numero": 544,
+    "index": 543,
+    "VALOR_CAPITAL_ADEUDADO": 26806038,
+    "IN_VALOR_CAPITAL_ADEUDADO": 26806038
+  },
+  {
+    "numero": 545,
+    "index": 544
+  },
+  {
+    "numero": 546,
+    "index": 545,
+    "VALOR_CAPITAL_ADEUDADO": 41372567.65,
+    "IN_VALOR_CAPITAL_ADEUDADO": 41372567.65
+  },
+  {
+    "numero": 547,
+    "index": 546
+  },
+  {
+    "numero": 548,
+    "index": 547
+  },
+  {
+    "numero": 549,
+    "index": 548
+  },
+  {
+    "numero": 550,
+    "index": 549
+  },
+  {
+    "numero": 551,
+    "index": 550,
+    "VALOR_CAPITAL_ADEUDADO": 28018855,
+    "IN_VALOR_CAPITAL_ADEUDADO": 28018855
+  },
+  {
+    "numero": 552,
+    "index": 551,
+    "VALOR_CAPITAL_ADEUDADO": 77376262,
+    "IN_VALOR_CAPITAL_ADEUDADO": 77376262
+  },
+  {
+    "numero": 553,
+    "index": 552,
+    "VALOR_CAPITAL_ADEUDADO": 31804872,
+    "IN_VALOR_CAPITAL_ADEUDADO": 31804872
+  },
+  {
+    "numero": 554,
+    "index": 553,
+    "VALOR_CAPITAL_ADEUDADO": 22111021,
+    "IN_VALOR_CAPITAL_ADEUDADO": 22111021
+  },
+  {
+    "numero": 555,
+    "index": 554,
+    "VALOR_CAPITAL_ADEUDADO": 80906224,
+    "IN_VALOR_CAPITAL_ADEUDADO": 80906224
+  },
+  {
+    "numero": 556,
+    "index": 555,
+    "VALOR_CAPITAL_ADEUDADO": 149444779,
+    "IN_VALOR_CAPITAL_ADEUDADO": 149444779
+  },
+  {
+    "numero": 557,
+    "index": 556,
+    "VALOR_CAPITAL_ADEUDADO": 49329779,
+    "IN_VALOR_CAPITAL_ADEUDADO": 49329779
+  },
+  {
+    "numero": 558,
+    "index": 557,
+    "VALOR_CAPITAL_ADEUDADO": 46537671,
+    "IN_VALOR_CAPITAL_ADEUDADO": 46537671
+  },
+  {
+    "numero": 559,
+    "index": 558,
+    "VALOR_CAPITAL_ADEUDADO": 42598393,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42598393
+  },
+  {
+    "numero": 560,
+    "index": 559,
+    "VALOR_CAPITAL_ADEUDADO": 40696764,
+    "IN_VALOR_CAPITAL_ADEUDADO": 40696764
+  },
+  {
+    "numero": 561,
+    "index": 560,
+    "VALOR_CAPITAL_ADEUDADO": 36720537,
+    "IN_VALOR_CAPITAL_ADEUDADO": 36720537
+  },
+  {
+    "numero": 562,
+    "index": 561,
+    "VALOR_CAPITAL_ADEUDADO": 25252953,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25252953
+  },
+  {
+    "numero": 563,
+    "index": 562,
+    "VALOR_CAPITAL_ADEUDADO": 39472561,
+    "IN_VALOR_CAPITAL_ADEUDADO": 39472561
+  },
+  {
+    "numero": 564,
+    "index": 563,
+    "VALOR_CAPITAL_ADEUDADO": 29090298,
+    "IN_VALOR_CAPITAL_ADEUDADO": 29090298
+  },
+  {
+    "numero": 565,
+    "index": 564,
+    "VALOR_CAPITAL_ADEUDADO": 24994278,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24994278
+  },
+  {
+    "numero": 566,
+    "index": 565,
+    "VALOR_CAPITAL_ADEUDADO": 19218060,
+    "IN_VALOR_CAPITAL_ADEUDADO": 19218060
+  },
+  {
+    "numero": 567,
+    "index": 566,
+    "VALOR_CAPITAL_ADEUDADO": 19188290.43,
+    "IN_VALOR_CAPITAL_ADEUDADO": 19188290.43
+  },
+  {
+    "numero": 568,
+    "index": 567,
+    "VALOR_CAPITAL_ADEUDADO": 20815024.75,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20815024.75
+  },
+  {
+    "numero": 569,
+    "index": 568,
+    "VALOR_CAPITAL_ADEUDADO": 28820731,
+    "IN_VALOR_CAPITAL_ADEUDADO": 28820731
+  },
+  {
+    "numero": 570,
+    "index": 569,
+    "VALOR_CAPITAL_ADEUDADO": 19170517,
+    "IN_VALOR_CAPITAL_ADEUDADO": 19170517
+  },
+  {
+    "numero": 571,
+    "index": 570,
+    "VALOR_CAPITAL_ADEUDADO": 24843938,
+    "IN_VALOR_CAPITAL_ADEUDADO": 24843938
+  },
+  {
+    "numero": 572,
+    "index": 571,
+    "VALOR_CAPITAL_ADEUDADO": 91487785,
+    "IN_VALOR_CAPITAL_ADEUDADO": 91487785
+  },
+  {
+    "numero": 573,
+    "index": 572,
+    "VALOR_CAPITAL_ADEUDADO": 55099216,
+    "IN_VALOR_CAPITAL_ADEUDADO": 55099216
+  },
+  {
+    "numero": 574,
+    "index": 573,
+    "VALOR_CAPITAL_ADEUDADO": 43725000,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43725000
+  },
+  {
+    "numero": 575,
+    "index": 574,
+    "VALOR_CAPITAL_ADEUDADO": 86945177,
+    "IN_VALOR_CAPITAL_ADEUDADO": 86945177
+  },
+  {
+    "numero": 576,
+    "index": 575,
+    "VALOR_CAPITAL_ADEUDADO": 94472793,
+    "IN_VALOR_CAPITAL_ADEUDADO": 94472793
+  },
+  {
+    "numero": 577,
+    "index": 576,
+    "VALOR_CAPITAL_ADEUDADO": 26690131,
+    "IN_VALOR_CAPITAL_ADEUDADO": 26690131
+  },
+  {
+    "numero": 578,
+    "index": 577,
+    "VALOR_CAPITAL_ADEUDADO": 140332319,
+    "IN_VALOR_CAPITAL_ADEUDADO": 140332319
+  },
+  {
+    "numero": 579,
+    "index": 578,
+    "VALOR_CAPITAL_ADEUDADO": 20488522,
+    "IN_VALOR_CAPITAL_ADEUDADO": 20488522
+  },
+  {
+    "numero": 580,
+    "index": 579,
+    "VALOR_CAPITAL_ADEUDADO": 42647591,
+    "IN_VALOR_CAPITAL_ADEUDADO": 42647591
+  },
+  {
+    "numero": 581,
+    "index": 580,
+    "VALOR_CAPITAL_ADEUDADO": 51081164,
+    "IN_VALOR_CAPITAL_ADEUDADO": 51081164
+  },
+  {
+    "numero": 582,
+    "index": 581,
+    "VALOR_CAPITAL_ADEUDADO": 16827889,
+    "IN_VALOR_CAPITAL_ADEUDADO": 16827889
+  },
+  {
+    "numero": 583,
+    "index": 582,
+    "VALOR_CAPITAL_ADEUDADO": 21652918,
+    "IN_VALOR_CAPITAL_ADEUDADO": 21652918
+  },
+  {
+    "numero": 584,
+    "index": 583,
+    "VALOR_CAPITAL_ADEUDADO": 43869730,
+    "IN_VALOR_CAPITAL_ADEUDADO": 43869730
+  },
+  {
+    "numero": 585,
+    "index": 584,
+    "VALOR_CAPITAL_ADEUDADO": 25766202,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25766202
+  },
+  {
+    "numero": 586,
+    "index": 585,
+    "VALOR_CAPITAL_ADEUDADO": 255635733.43,
+    "IN_VALOR_CAPITAL_ADEUDADO": 255635733.43
+  },
+  {
+    "numero": 587,
+    "index": 586,
+    "VALOR_CAPITAL_ADEUDADO": 34080282,
+    "IN_VALOR_CAPITAL_ADEUDADO": 34080282
+  },
+  {
+    "numero": 588,
+    "index": 587,
+    "VALOR_CAPITAL_ADEUDADO": 89544516,
+    "IN_VALOR_CAPITAL_ADEUDADO": 89544516
+  },
+  {
+    "numero": 589,
+    "index": 588,
+    "VALOR_CAPITAL_ADEUDADO": 58421147,
+    "IN_VALOR_CAPITAL_ADEUDADO": 58421147
+  },
+  {
+    "numero": 590,
+    "index": 589,
+    "VALOR_CAPITAL_ADEUDADO": 56478909,
+    "IN_VALOR_CAPITAL_ADEUDADO": 56478909
+  },
+  {
+    "numero": 591,
+    "index": 590,
+    "VALOR_CAPITAL_ADEUDADO": 106398151,
+    "IN_VALOR_CAPITAL_ADEUDADO": 106398151
+  },
+  {
+    "numero": 592,
+    "index": 592,
+    "VALOR_CAPITAL_ADEUDADO": 104393034,
+    "IN_VALOR_CAPITAL_ADEUDADO": 104393034
+  },
+  {
+    "numero": 593,
+    "index": 593,
+    "VALOR_CAPITAL_ADEUDADO": 70393714,
+    "IN_VALOR_CAPITAL_ADEUDADO": 70393714
+  },
+  {
+    "numero": 594,
+    "index": 594,
+    "VALOR_CAPITAL_ADEUDADO": 65371302,
+    "IN_VALOR_CAPITAL_ADEUDADO": 65371302
+  },
+  {
+    "numero": 595,
+    "index": 595,
+    "VALOR_CAPITAL_ADEUDADO": 17492978,
+    "IN_VALOR_CAPITAL_ADEUDADO": 17492978
+  },
+  {
+    "numero": 596,
+    "index": 596,
+    "VALOR_CAPITAL_ADEUDADO": 78458975,
+    "IN_VALOR_CAPITAL_ADEUDADO": 78458975
+  },
+  {
+    "numero": 597,
+    "index": 597,
+    "VALOR_CAPITAL_ADEUDADO": 73309267,
+    "IN_VALOR_CAPITAL_ADEUDADO": 73309267
+  },
+  {
+    "numero": 598,
+    "index": 598,
+    "VALOR_CAPITAL_ADEUDADO": 73348449,
+    "IN_VALOR_CAPITAL_ADEUDADO": 73348449
+  },
+  {
+    "numero": 599,
+    "index": 599,
+    "VALOR_CAPITAL_ADEUDADO": 48451989,
+    "IN_VALOR_CAPITAL_ADEUDADO": 48451989
+  },
+  {
+    "numero": 600,
+    "index": 600,
+    "VALOR_CAPITAL_ADEUDADO": 85581623,
+    "IN_VALOR_CAPITAL_ADEUDADO": 85581623
+  },
+  {
+    "numero": 601,
+    "index": 601,
+    "VALOR_CAPITAL_ADEUDADO": 50683098,
+    "IN_VALOR_CAPITAL_ADEUDADO": 50683098
+  },
+  {
+    "numero": 602,
+    "index": 602,
+    "VALOR_CAPITAL_ADEUDADO": 100379249,
+    "IN_VALOR_CAPITAL_ADEUDADO": 100379249
+  },
+  {
+    "numero": 603,
+    "index": 603,
+    "VALOR_CAPITAL_ADEUDADO": 168578525,
+    "IN_VALOR_CAPITAL_ADEUDADO": 168578525
+  },
+  {
+    "numero": 604,
+    "index": 604,
+    "VALOR_CAPITAL_ADEUDADO": 25852498,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25852498
+  },
+  {
+    "numero": 605,
+    "index": 605,
+    "VALOR_CAPITAL_ADEUDADO": 35774452,
+    "IN_VALOR_CAPITAL_ADEUDADO": 35774452
+  },
+  {
+    "numero": 606,
+    "index": 606,
+    "VALOR_CAPITAL_ADEUDADO": 25015388,
+    "IN_VALOR_CAPITAL_ADEUDADO": 25015388
+  },
+  {
+    "numero": 607,
+    "index": 607,
+    "VALOR_CAPITAL_ADEUDADO": 150043737,
+    "IN_VALOR_CAPITAL_ADEUDADO": 150043737
+  },
+  {
+    "numero": 608,
+    "index": 608,
+    "VALOR_CAPITAL_ADEUDADO": 73608894,
+    "IN_VALOR_CAPITAL_ADEUDADO": 73608894
+  },
+  {
+    "numero": 609,
+    "index": 609,
+    "VALOR_CAPITAL_ADEUDADO": 46179087,
+    "IN_VALOR_CAPITAL_ADEUDADO": 46179087
+  },
+  {
+    "numero": 610,
+    "index": 610
+  },
+  {
+    "numero": 611,
+    "index": 611
+  },
+  {
+    "numero": 612,
+    "index": 613
+  },
+  {
+    "numero": 613,
+    "index": 614
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "id": 1018430139,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JHON  HADER OTALVARO  ROMO",
+    "cedula": "79793904",
+    "direccion": "CALLLE 183 No 11-55 BLQ 9 APTO 102",
+    "telefono": "4805457",
+    "id": 413
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "52",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.202Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.216Z"],
+    "id": 413,
+    "llaveProceso": "25754418900220180036300",
+    "mandamientoPago": [],
+    "municipio": "SOACHA ",
+    "notificacion": {
+      "id": 413,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990182990"],
+    "radicado": "2018 - 00363",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:49.419Z"],
+    "medidasCautelares": {
+      "id": 413,
+      "fechaOrdenaMedida": "2024-02-10T00:54:57.492Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 413,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "LUISA",
+    "segundoNombre": "FERNANDA",
+    "primerApellido": "SALAZAR",
+    "segundoApellido": "",
+    "cedula": "1018430139",
+    "direccion": "CARRERA 38 No 14-93 BLOQUE 9 APTO 102",
+    "email": "luifermkt889@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900220180036300",
+  "nombre": "luisa fernanda salazar  patarroyo",
+  "numero": 413,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 413,
+      "createdAt": "2024-02-10T00:54:57.492Z",
+      "pathname": null,
+      "dueDate": "2019-02-21T05:00:00.000Z",
+      "text": "21/01/2019 EL JUZGADO DICTA AUTO TERMINA PROCESO POR PAGO DE LA MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 413,
+      "createdAt": "2024-02-10T00:54:57.492Z",
+      "pathname": null,
+      "dueDate": "2018-12-01T05:00:00.000Z",
+      "text": " 1/11/2018 SE DEVUELVEN GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 413,
+      "createdAt": "2024-02-10T00:54:57.492Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 19 DE OCTUBRE DE 2020 SE HIZO LEVANTAMIENTO DE MEDIDA CAUTELAR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:57.492Z"
+}

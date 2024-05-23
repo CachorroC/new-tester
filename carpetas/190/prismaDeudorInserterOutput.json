@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 187,
+    "cedula": "79909315",
+    "primerNombre": "victor",
+    "primerApellido": "",
+    "segundoNombre": "eduardo",
+    "segundoApellido": "mora,espinosa",
+    "direccion": "41537019",
+    "email": "CARRERA 18C # 121 - 40",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 190
+  }
+}

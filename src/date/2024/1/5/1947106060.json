@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-05T11:00:05.425Z",
+  "savedDate": null,
+  "ultimaActuacion": {
+    "idRegActuacion": 1947106060,
+    "llaveProceso": "11001400303620170055400",
+    "consActuacion": 116,
+    "fechaActuacion": "2024-01-23T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 631-2024, No. Reloj Radicador: 21223, Entidad o Señor(a): CARME PERDOO - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Otro, Observaciones: solicitud de la actualizacion de los ofcios",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-23T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 116,
+    "isUltimaAct": true,
+    "idProceso": 50527610
+  }
+}

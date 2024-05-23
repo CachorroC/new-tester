@@ -1,0 +1,50 @@
+{
+  "id": 11384155,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["132687", "3778133800181884"],
+    "llaveProceso": "25290400300120170063400",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 1624256072,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-27T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "FUSAGASUGA",
+    "radicado": "2017 - 00634",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2017-09-12T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "HERNAN",
+    "segundoNombre": "ALVAREZ",
+    "primerApellido": "PARDO",
+    "segundoApellido": null,
+    "cedula": 11384155,
+    "direccion": "CARRERA 4 ESTE 4-42  FUSAGASUGA",
+    "email": "heralvarezpa@misena.edu.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25290400300120170063400",
+  "nombre": "HERNAN ALVAREZ PARDO",
+  "numero": 260,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:13.692Z"
+}

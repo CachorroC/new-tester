@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302520170099800",
+  "numero": 253,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1013604409,
+    "direccion": "calle 47 sur no 27-81",
+    "email": "jan_2504@hotmail.com",
+    "tel": {
+      "fijo": 3521314,
+      "celular": 3115197002
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "eduardo",
+    "primerApellido": "acosta",
+    "segundoApellido": "corredor"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-07T00:00:00.000Z",
+    "expediente": "11001400302520170099800",
+    "capitalAdeudado": 15114966,
+    "etapaProcesal": "1.100140030252017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12395327],
+    "radicado": "2017 - 00998",
+    "vencimientoPagare": ["2020-09-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1013604409,
+  "idProcesos": null
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301720170152600",
+  "numero": 355,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80800763,
+    "direccion": "carrera 98 a no 15 a -70 interior 18 apartamento 6",
+    "email": "nelsonivansegura@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nelson",
+    "segundoNombre": "ivan",
+    "primerApellido": "segura",
+    "segundoApellido": "mendez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-27T00:00:00.000Z",
+    "mandamientoPago": "2017-12-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400301720170152600",
+    "capitalAdeudado": 3489622494,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [136483],
+    "radicado": "2017 - 01526",
+    "vencimientoPagare": ["2026-02-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80800763,
+  "idProcesos": null
+}

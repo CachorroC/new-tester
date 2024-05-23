@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304820170087900",
+  "numero": 232,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1023868827,
+    "direccion": "calle 39 sur 9b 29 este",
+    "email": "sandrujs2009@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "milena",
+    "primerApellido": "cubillos",
+    "segundoApellido": "linares"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-18T00:00:00.000Z",
+    "mandamientoPago": "2017-10-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "11001400304820170087900",
+    "capitalAdeudado": 1984475717,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [162559],
+    "radicado": "2017 - 00879",
+    "vencimientoPagare": ["2033-03-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1023868827,
+  "idProcesos": null
+}

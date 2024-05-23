@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 545,
+    "cedula": "71685758",
+    "primerNombre": "carlos",
+    "primerApellido": "quintero",
+    "segundoNombre": "herney",
+    "segundoApellido": null,
+    "direccion": "kr 32 a 1 19 barrio santa matilde",
+    "email": "cahequi8097@gmail.com fundaoyuki@gmail.com",
+    "telCelular": "3002985587",
+    "telFijo": "6485655",
+    "carpetaNumero": 557
+  }
+}

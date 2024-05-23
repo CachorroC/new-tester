@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 54,
+    "cedula": "38261511",
+    "primerNombre": "olga",
+    "primerApellido": "gallego",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "carrera 87d no. 48-03 sur//diagonal 49 no. 85-79 sur torre 10 apartamento 2",
+    "email": "olgagallego63@hotmail.com",
+    "telCelular": "3138615288",
+    "telFijo": null,
+    "carpetaNumero": 54
+  }
+}

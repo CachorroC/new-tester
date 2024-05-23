@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 571,
+    "numero": 572,
+    "llaveProceso": "2547340030012023012900",
+    "nombre": "jaime enrique quintero mendoza",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

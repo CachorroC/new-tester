@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 291,
+    "numero": 291,
+    "llaveProceso": "11001400303920170133000",
+    "nombre": "yeimmy carolina fino ballen",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

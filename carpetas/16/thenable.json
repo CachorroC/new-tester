@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300320170088400",
+  "numero": 16,
+  "tipoProceso": "PRENDARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1077969975,
+    "direccion": "carrera 77b no 68b - 19 barrio santa helenita",
+    "email": "yess_Id@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3212337597
+    },
+    "primerNombre": "yesid",
+    "primerApellido": "albeiro",
+    "segundoApellido": "ramos",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "mandamientoPago": "2017-06-02T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "11001400300320170088400",
+    "capitalAdeudado": 33791309,
+    "etapaProcesal": "EMPLAZAMIENTO",
+    "municipio": "BOGOTA",
+    "obligacion": [2530444],
+    "radicado": "2017 - 00884",
+    "vencimientoPagare": ["2020-05-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1077969975,
+  "idProcesos": null
+}

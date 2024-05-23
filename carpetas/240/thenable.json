@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900220170082900",
+  "numero": 240,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 180145973,
+    "direccion": "carrera 8 no 3-33",
+    "email": "cesarramm09@hotmail.com",
+    "tel": {
+      "fijo": 5774513,
+      "celular": 3134293286
+    },
+    "primerNombre": "cesar",
+    "segundoNombre": "alirio",
+    "primerApellido": "moreno",
+    "segundoApellido": "mongui"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754418900220170082900",
+    "capitalAdeudado": 2161644455,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [140122],
+    "radicado": "2017 - 00829",
+    "vencimientoPagare": ["2026-06-23T00:00:00.000Z"],
+    "departamento": "CUN DINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1033683759,
+    "direccion": "CARRERA 6 No 7B 03 SUR  SOACHA",
+    "nombre": "maria lorena morales segura",
+    "telefono": 3134293286
+  },
+  "cc": 180145973,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 72,
+    "cedula": "1030545462",
+    "primerNombre": "nestor",
+    "primerApellido": "espitia",
+    "segundoNombre": "fabian",
+    "segundoApellido": "fraile",
+    "direccion": "carrera 88 # 26 - 68",
+    "email": "1988fac@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 72
+  }
+}

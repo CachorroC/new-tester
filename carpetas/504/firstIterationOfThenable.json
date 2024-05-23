@@ -1,0 +1,53 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/08/2022",
+    "telefono": null,
+    "id": 504,
+    "carpetaNumero": 504
+  },
+  "demanda": {
+    "vencimientoPagare": "CREDITO HIPOTCARIO",
+    "obligacion": {
+      "B": "26.315.289.23"
+    },
+    "capitalAdeudado": "22/10/2018",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SIBATE",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00370",
+    "llaveProceso": "25740410300120180037000",
+    "etapaProcesal": "29/10/2018"
+  },
+  "demandas": [],
+  "numero": 504,
+  "llaveProceso": "25740410300120180037000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ANA",
+    "segundoNombre": "DEL",
+    "primerApellido": "PILAR",
+    "segundoApellido": ["MENDEZ", "AMAYA"],
+    "cedula": 52432037,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 52432037,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ANA DEL PILAR MENDEZ AMAYA",
+  "notificacion": null
+}

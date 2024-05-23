@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304020170150900",
+  "numero": 220,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51726361,
+    "direccion": "avenida calle 34 # 58 - 51",
+    "email": "mariae131@hotmail.com",
+    "tel": {
+      "fijo": 7842477,
+      "celular": 3144468420
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "eugenia",
+    "primerApellido": "salcedo",
+    "segundoApellido": "pineda"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-11T00:00:00.000Z",
+    "mandamientoPago": "2017-10-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-04T00:00:00.000Z",
+    "expediente": "11001400304020170150900",
+    "capitalAdeudado": 1381034255,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [112462],
+    "radicado": "2017 - 01509",
+    "vencimientoPagare": ["2023-10-14T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 19436494,
+    "direccion": "CARRERA 87G BIS # 57F - 04 SUR",
+    "nombre": "nelson rincon lozano",
+    "telefono": 19436494
+  },
+  "cc": 51726361,
+  "idProcesos": null
+}

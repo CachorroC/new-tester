@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 548,
+    "numero": 549,
+    "llaveProceso": null,
+    "nombre": "jose antonio bejarano carreño",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

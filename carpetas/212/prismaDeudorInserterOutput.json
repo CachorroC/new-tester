@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 209,
+    "cedula": "14320811",
+    "primerNombre": "fernando",
+    "primerApellido": "farfan",
+    "segundoNombre": "vera",
+    "segundoApellido": null,
+    "direccion": "carrera 145 # 142f - 60  casa 164",
+    "email": "verafarfan@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 212
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": 10051411,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1945963400,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 7,
+      "fechaActuacion": "2024-01-18T05:00:00.000Z",
+      "actuacion": "Recepción memorial",
+      "anotacion": "Solicita correcciòn mandamiento",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2024-01-18T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    },
+    {
+      "idRegActuacion": 1928002260,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-11-03T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 03/11/2023 a las 15:37:51.",
+      "fechaInicial": "2023-11-07T05:00:00.000Z",
+      "fechaFinal": "2023-11-07T05:00:00.000Z",
+      "fechaRegistro": "2023-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    },
+    {
+      "idRegActuacion": 1928002250,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-03T05:00:00.000Z",
+      "actuacion": "Auto decreta medida cautelar",
+      "anotacion": "OFICIAR",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    },
+    {
+      "idRegActuacion": 1928002240,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-03T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 03/11/2023 a las 15:37:34.",
+      "fechaInicial": "2023-11-07T05:00:00.000Z",
+      "fechaFinal": "2023-11-07T05:00:00.000Z",
+      "fechaRegistro": "2023-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    },
+    {
+      "idRegActuacion": 1928002230,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-03T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    },
+    {
+      "idRegActuacion": 1916791020,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-10-25T05:00:00.000Z",
+      "actuacion": "Al Despacho Por Reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-10-25T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    },
+    {
+      "idRegActuacion": 1916791010,
+      "llaveProceso": "11001400301520230098000",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-10-25T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 25/10/2023 a las 12:35:10",
+      "fechaInicial": "2023-10-25T05:00:00.000Z",
+      "fechaFinal": "2023-10-25T05:00:00.000Z",
+      "fechaRegistro": "2023-10-25T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134307840,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:37.292Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 590
+  },
+  "demanda": {
+    "capitalAdeudado": "56478909",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-10-09T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "11001400301520230098000",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 590,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["310149501", "101269167 T.C. MASTER CARD 5303730423512131"],
+    "radicado": "2023 - 980",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2025-12-13T05:00:00.000Z",
+      "2026-06-20T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 590,
+      "fechaOrdenaMedida": "2024-02-03T00:36:37.145Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 590,
+    "telCelular": "6012650706",
+    "telFijo": "2650706 ",
+    "primerNombre": "EDWIN",
+    "segundoNombre": "JARAMILLO",
+    "primerApellido": "GALLEGO",
+    "segundoApellido": null,
+    "cedula": "10051411",
+    "direccion": "Calle 6a.  C No. 82A - 91 ",
+    "email": "edisoccer_3@hotmail.com"
+  },
+  "fecha": "2024-01-18T05:00:00.000Z",
+  "idProcesos": [134307840],
+  "idRegUltimaAct": 1945963400,
+  "llaveProceso": "11001400301520230098000",
+  "nombre": "EDWIN JARAMILLO GALLEGO",
+  "numero": 590,
+  "procesos": [
+    {
+      "idProceso": 134307840,
+      "idConexion": 259,
+      "llaveProceso": "11001400301520230098000",
+      "fechaProceso": "2023-10-25T05:00:00.000Z",
+      "fechaUltimaActuacion": "2024-01-18T05:00:00.000Z",
+      "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: EDWIN JARAMILLO GALLEGO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 15,
+        "tipo": "JUZGADO 015 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-015-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1945963400,
+    "llaveProceso": "11001400301520230098000",
+    "consActuacion": 7,
+    "fechaActuacion": "2024-01-18T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Solicita correcciòn mandamiento",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-18T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 7,
+    "idProceso": 134307840,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-02-03T00:36:37.145Z"
+}

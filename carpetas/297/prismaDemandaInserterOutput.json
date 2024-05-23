@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 294,
+    "departamento": "BOYACÁ",
+    "capitalAdeudado": "28485816",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2017-12-10T00:00:00.000Z",
+    "municipio": "UMBITA",
+    "obligacion": ["5450082766", "5450083252"],
+    "radicado": "2017 - 00095",
+    "vencimientoPagare": ["2019-07-01T00:00:00.000Z"],
+    "expediente": "15842408900120170009500",
+    "carpetaNumero": 297,
+    "despacho": null
+  }
+}

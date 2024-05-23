@@ -1,0 +1,105 @@
+{
+  "id": 180145973,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MARIA LORENA MORALES SEGURA",
+    "cedula": "1033683759",
+    "direccion": "CARRERA 6 No 7B 03 SUR  SOACHA ",
+    "telefono": "3134293286",
+    "id": 240
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "21616444",
+    "departamento": "CUN DINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:42.997Z"],
+    "id": 240,
+    "llaveProceso": "25754418900220170082900",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 240,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["140122"],
+    "radicado": "2017 - 00829",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.196Z"],
+    "medidasCautelares": {
+      "id": 240,
+      "fechaOrdenaMedida": "2024-02-10T00:54:41.718Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 240,
+    "telCelular": "3134293286",
+    "telFijo": "5774513 ",
+    "primerNombre": "CESAR",
+    "segundoNombre": "ALIRIO",
+    "primerApellido": "MORENO",
+    "segundoApellido": "MONGUI",
+    "cedula": "180145973",
+    "direccion": "CARRERA 8 No 3-33",
+    "email": "cesarramm09@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900220170082900",
+  "nombre": "cesar alirio moreno mongui",
+  "numero": 240,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 240,
+      "createdAt": "2024-02-10T00:54:41.717Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "17 DE ABRIL SE RETIRO LA DEMANDA DEL JUZGADO CON MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 240,
+      "createdAt": "2024-02-10T00:54:41.717Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " JUZGADO NO DECRETO MEDIDAS CAUTELARES ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 240,
+      "createdAt": "2024-02-10T00:54:41.717Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 21 DE ABRIL DE 2018 SE DEVOLVERON GRANTIAS A AECSA ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:41.718Z"
+}

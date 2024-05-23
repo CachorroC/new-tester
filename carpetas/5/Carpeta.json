@@ -1,0 +1,97 @@
+{
+  "id": 20645940,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 5
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "25184150",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.866Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:42.891Z"],
+    "id": 5,
+    "llaveProceso": "25322418900120170016800",
+    "mandamientoPago": [],
+    "municipio": "GUASCA",
+    "notificacion": {
+      "id": 5,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2273 320172490"],
+    "radicado": "2017 - 00168",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:12.464Z"],
+    "medidasCautelares": {
+      "id": 5,
+      "fechaOrdenaMedida": "2024-02-10T00:54:21.077Z",
+      "medidaSolicitada": "OK"
+    }
+  },
+  "deudor": {
+    "id": 5,
+    "telCelular": "3217662673",
+    "telFijo": null,
+    "primerNombre": "FANY",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "AVELLANEDA",
+    "segundoApellido": "TOVAR",
+    "cedula": "20645940",
+    "direccion": "CARRERA 9 No. 2-03 GUASCA",
+    "email": "patoavella8210@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25322418900120170016800",
+  "nombre": "fany patricia avellaneda tovar",
+  "numero": 5,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 5,
+      "createdAt": "2024-02-10T00:54:21.077Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "31 DE ENERO DE 2019 SE ASIGNAN LAS GARANTIAS EN FAVOR DEL DEUDOR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 5,
+      "createdAt": "2024-02-10T00:54:21.077Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MEDIDAS CAUTELARES A CARGO DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:21.077Z"
+}

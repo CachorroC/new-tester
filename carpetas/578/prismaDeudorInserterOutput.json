@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 566,
+    "cedula": "35422519",
+    "primerNombre": "diana",
+    "primerApellido": "arevalo",
+    "segundoNombre": "cristina",
+    "segundoApellido": "arboleda",
+    "direccion": "cl 4 16 10 ap 201 barrio algarra iii",
+    "email": "dicrisare@gmail.com",
+    "telCelular": "3203172020",
+    "telFijo": null,
+    "carpetaNumero": 578
+  }
+}

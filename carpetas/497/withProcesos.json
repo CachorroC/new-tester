@@ -1,0 +1,47 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "2/09/2018",
+    "obligacion": {
+      "A": 20990142568
+    },
+    "capitalAdeudado": "23.678920.60",
+    "entregaGarantiasAbogado": "26/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "ZIPAQUIRA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00435",
+    "llaveProceso": "25899410300120180043500",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "3/10/2018"
+  },
+  "demandas": [],
+  "numero": 497,
+  "llaveProceso": "25899410300120180043500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ROQUE",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": null,
+    "cedula": 11339859,
+    "direccion": "CARRERA 11 No 24 A-21 APTO 30 RINCON DEL ZIPA",
+    "email": "mluisa_06@hotmail.com"
+  },
+  "cc": 11339859,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ROQUE ANTONIO SANCHEZ",
+  "notificacion": null
+}

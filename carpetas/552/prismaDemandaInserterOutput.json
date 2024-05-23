@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 540,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "77376262",
+    "entregaGarantiasAbogado": "2023-06-20T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["530104065", "530103261"],
+    "radicado": "2023 - 00622",
+    "vencimientoPagare": [
+      "2026-02-01T00:00:00.000Z",
+      "2026-01-01T00:00:00.000Z"
+    ],
+    "expediente": "11001400300420230062200",
+    "carpetaNumero": 552,
+    "despacho": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 86,
+      "tipo": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-086-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "11/09/2027",
+    "obligacion": {
+      "A": 155766
+    },
+    "capitalAdeudado": "87.015.973.35",
+    "entregaGarantiasAbogado": "25/10/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01205",
+    "llaveProceso": "11001400308620170120500",
+    "fechaPresentacion": "7/11/2017"
+  },
+  "demandas": [
+    {
+      "idProceso": 81891881,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620170120500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2027-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 8701597335,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": ["2017-11-07T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [155766],
+      "radicado": "2017 - 01205"
+    }
+  ],
+  "numero": 322,
+  "llaveProceso": "11001400308620170120500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 5205695,
+      "celular": 3112326151
+    },
+    "primerNombre": "CLAUDIA",
+    "segundoNombre": "YAMILE",
+    "primerApellido": "SUAREZ",
+    "segundoApellido": "POBLADOR",
+    "cedula": 63395806,
+    "direccion": "CALLE 127 C - No  2 B - 18  APARTAMENTO 101",
+    "email": "claudiasuarezp@gmail.com"
+  },
+  "cc": 63395806,
+  "procesos": [
+    {
+      "idProceso": 81891881,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620170120500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [81891881],
+  "nombre": "CLAUDIA YAMILE SUAREZ POBLADOR",
+  "notificacion": null
+}

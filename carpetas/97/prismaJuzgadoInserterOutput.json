@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 85,
+      "tipo": "JUZGADO 085 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-085-civil-municipal-de-bogotá-"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 16,
+    "numero": 16,
+    "llaveProceso": "11001400300320170088400",
+    "nombre": "yesid null albeiro ramos",
+    "idProcesos": [50468620, 113956611],
+    "category": "Bancolombia"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 58,
+    "numero": 58,
+    "llaveProceso": "11001400304220170076000",
+    "nombre": "josé uriel paerez perdomo",
+    "idProcesos": [50517060],
+    "category": "Reintegra"
+  }
+}

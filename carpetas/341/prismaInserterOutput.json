@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 341,
+    "numero": 341,
+    "llaveProceso": "11001400305720170128900",
+    "nombre": "mario null velez parra",
+    "idProcesos": [17608484],
+    "category": "Terminados"
+  }
+}

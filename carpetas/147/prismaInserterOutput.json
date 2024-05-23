@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 147,
+    "numero": 147,
+    "llaveProceso": "11001400305920170074700",
+    "nombre": "milton andres laiton rincon",
+    "idProcesos": [50653750],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "LEINY ANDREA QUINTERO FIERRO",
+    "cedula": "1030602928",
+    "direccion": "CALLE 7 No 87B-90",
+    "telefono": "3208797",
+    "id": 493,
+    "carpetaNumero": 493
+  },
+  "demanda": {
+    "obligacion": {
+      "A": 20990155357
+    },
+    "capitalAdeudado": "21.035.323.59",
+    "entregaGarantiasAbogado": "6/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 01817",
+    "llaveProceso": "11001410375120180181700",
+    "etapaProcesal": "SUBSANA",
+    "fechaPresentacion": "29/09/2018"
+  },
+  "demandas": [],
+  "numero": 493,
+  "llaveProceso": "11001410375120180181700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "KELLY",
+    "segundoNombre": "YULIANA",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "FIERRO",
+    "cedula": 53103504,
+    "direccion": "CALLE 7 No 87B-90",
+    "email": "juliana.4455@hotmail.com"
+  },
+  "cc": 53103504,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "KELLY YULIANA QUINTERO FIERRO",
+  "notificacion": null
+}

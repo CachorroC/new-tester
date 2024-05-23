@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 68,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "16302625",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-07-13T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-06-22T00:00:00.000Z",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["320 160226", "160226//377813713927961"],
+    "radicado": "2017 - 00270",
+    "vencimientoPagare": ["2031-01-01T00:00:00.000Z"],
+    "expediente": "25899400300220170027000",
+    "carpetaNumero": 68,
+    "despacho": null
+  }
+}

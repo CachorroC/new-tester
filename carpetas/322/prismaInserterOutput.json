@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 322,
+    "numero": 322,
+    "llaveProceso": "11001400308620170120500",
+    "nombre": "claudia yamile suarez poblador",
+    "idProcesos": [81891881],
+    "category": "Terminados"
+  }
+}

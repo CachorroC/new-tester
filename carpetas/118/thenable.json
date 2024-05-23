@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305320170145600",
+  "numero": 118,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19308014,
+    "direccion": "transversal 119 # 151a - 51 torre 11 apto 602",
+    "email": "plangeluchis@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3103358755
+    },
+    "primerNombre": "jaime",
+    "segundoNombre": "orlando",
+    "primerApellido": "peña",
+    "segundoApellido": "rojas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-11T00:00:00.000Z",
+    "mandamientoPago": "2017-04-12T05:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-04T00:00:00.000Z",
+    "expediente": "11001400305320170145600",
+    "capitalAdeudado": 1092045,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [37813676080923, 20990093604],
+    "radicado": "2017 - 01456",
+    "vencimientoPagare": ["2022-02-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19308014,
+  "idProcesos": null
+}

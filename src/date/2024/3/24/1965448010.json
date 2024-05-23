@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1965448010,
+  "llaveProceso": "11001400302020170050100",
+  "consActuacion": 42,
+  "fechaActuacion": "2024-04-05T05:00:00.000Z",
+  "actuacion": "Recepción memorial",
+  "anotacion": "CERTIFICACION DE ENVIO 4-72 (G.C)",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-04-05T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 42,
+  "isUltimaAct": true,
+  "idProceso": 50366660
+}

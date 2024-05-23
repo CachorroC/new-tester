@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 550,
+    "numero": 551,
+    "llaveProceso": "25312400300320230037100",
+    "nombre": "pedro jonathan ramirez gomez",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

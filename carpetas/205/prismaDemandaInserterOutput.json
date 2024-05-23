@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 202,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "14068639",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-09-19T00:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN SOLICITAR LIQUIDACIÓN A REINTEGRA",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["430103841"],
+    "radicado": "2017 - 00971",
+    "vencimientoPagare": ["2021-09-01T00:00:00.000Z"],
+    "expediente": "11001400301220170097100",
+    "carpetaNumero": 205,
+    "despacho": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": 39544073,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 536
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "18772901.56",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.216Z",
+    "etapaProcesal": "11001400302020180047900",
+    "fechaPresentacion": [],
+    "id": 536,
+    "llaveProceso": "1.10014003020201e+22",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 536,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.265Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["4513072334510690", "5491580398400380"],
+    "radicado": "2018 - 00479",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:44.045Z"],
+    "medidasCautelares": {
+      "id": 536,
+      "fechaOrdenaMedida": "2024-02-10T00:55:05.507Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 536,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "BLANCA",
+    "segundoNombre": "LILIA",
+    "primerApellido": "BRAVO",
+    "segundoApellido": "PAEZ",
+    "cedula": "39544073",
+    "direccion": "CALLE 64 C No 105-88",
+    "email": "blancall21@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "1.10014003020201e+22",
+  "nombre": "blanca lilia bravo paez",
+  "numero": 536,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 536,
+      "createdAt": "2024-02-10T00:55:05.507Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "HIBRIDO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 536,
+      "createdAt": "2024-02-10T00:55:05.507Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 14 ABRIL 2023 AUTO TERMINA POR PAGO TOTAL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 536,
+      "createdAt": "2024-02-10T00:55:05.507Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 18 ABRIL 2023 SE LE ENVIA CORREO A LA DEUDORA INFORMANDOLE SOBRE RETIRO DE DESGLOSE Y RETIRO DE OFICIO DE DESEMBARGO POR SU CUENTA. ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:05.507Z"
+}

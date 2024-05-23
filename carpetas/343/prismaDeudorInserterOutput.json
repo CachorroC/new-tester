@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 340,
+    "cedula": "80803306",
+    "primerNombre": "eduardo",
+    "primerApellido": "rico",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "jimenez",
+    "direccion": "calle 22 l  no 123 a - 35",
+    "email": "magia.orfen@hotmail.com",
+    "telCelular": "3188426582",
+    "telFijo": "5470813",
+    "carpetaNumero": 343
+  }
+}

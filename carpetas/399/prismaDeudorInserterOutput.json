@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 396,
+    "cedula": "79704579",
+    "primerNombre": "giovanni",
+    "primerApellido": "perdomo",
+    "segundoNombre": "",
+    "segundoApellido": "quiroga",
+    "direccion": "carrer pubichas casa 27 d exterior",
+    "email": "giogol5@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 399
+  }
+}

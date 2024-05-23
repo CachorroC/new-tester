@@ -1,0 +1,5 @@
+{
+  "StatusCode": 400,
+  "Message": "error at PrismaClientUnknownRequestError: \nInvalid `client.demanda.upsert()` invocation in\n/home/cachorro_cami/Projects/com/rsasesorjuridico/tester/src/data/insert-carpetas.ts:295:48\n\n  292   carpeta\n  293 );\n  294 \n→ 295 const createDemanda = await client.demanda.upsert(\nCould not convert argument value Object {\"$type\": String(\"DateTime\"), \"value\": String(\"+020184-08-05T05:00:00.000Z\")} to ArgumentValue.",
+  "data": "{\n  \"name\": \"PrismaClientUnknownRequestError\",\n  \"clientVersion\": \"5.6.0\"\n}"
+}

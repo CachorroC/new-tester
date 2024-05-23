@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:23.138Z",
+  "proceso": {
+    "idProceso": 50633790,
+    "idConexion": 259,
+    "llaveProceso": "11001400301420170098800",
+    "fechaProceso": "2017-08-14T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-01-14T05:00:00.000Z",
+    "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CESAR AUGUSTO GIL GALLEGO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 14,
+      "tipo": "JUZGADO 014 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-014-civil-municipal-de-bogota"
+    }
+  }
+}

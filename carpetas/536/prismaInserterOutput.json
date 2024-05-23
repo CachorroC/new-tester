@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 535,
+    "numero": 536,
+    "llaveProceso": "11001400302020180047900",
+    "nombre": "blanca lilia bravo paez",
+    "idProcesos": [51173430],
+    "category": "Terminados"
+  }
+}

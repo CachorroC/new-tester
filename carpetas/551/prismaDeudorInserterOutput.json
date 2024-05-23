@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 539,
+    "cedula": "1075211773",
+    "primerNombre": "pedro",
+    "primerApellido": "ramirez",
+    "segundoNombre": "jonathan",
+    "segundoApellido": "gomez",
+    "direccion": "kr 1 2 41 fusagasugá",
+    "email": "jonathansoldier@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 551
+  }
+}

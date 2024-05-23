@@ -1,0 +1,50 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": "AUDIOPRESTAMO"
+    },
+    "capitalAdeudado": "12.768.627.00",
+    "entregaGarantiasAbogado": "03/9/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "kENNEDY",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2019 - 00276",
+    "llaveProceso": "11001410375120190027600",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "13/09/2018",
+    "mandamientoPago": "27/09/2018",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "27/09/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 481,
+  "llaveProceso": "11001410375120190027600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 5731671,
+      "celular": 3144195480
+    },
+    "primerNombre": "WILLINTONG",
+    "segundoNombre": "MARIO",
+    "primerApellido": "",
+    "segundoApellido": ["YARURO", "PEÑARANDA"],
+    "cedula": 80019013,
+    "direccion": "CALLE 26 SUR No 95A-49 BL 9 APTO 102",
+    "email": "willi.1977@hotmail.com"
+  },
+  "cc": 80019013,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "WILLINTONG MARIO  YARURO PEÑARANDA",
+  "notificacion": null
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:17.451Z",
+  "savedDate": 1573016400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1705464490,
+    "llaveProceso": "11001400300620180045400",
+    "consActuacion": 72,
+    "fechaActuacion": "2023-04-10T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "HIBRIDO  SE RECEPCIONA DEL DESPACHO ESTADO //JULIAN BERMUDEZ-LETRA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-04-10T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 72,
+    "isUltimaAct": true,
+    "idProceso": 51154840
+  }
+}

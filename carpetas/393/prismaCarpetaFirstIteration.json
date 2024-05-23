@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2021-05-27T05:00:00.000Z",
+  "idProcesos": [9088093],
+  "idRegUltimaAct": 1024952143,
+  "llaveProceso": "11001400303820180014900",
+  "nombre": "MIGUEL ALEJANDRO GARCIA RODRIGUEZ",
+  "numero": 393,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:22.076Z"
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 34,
+    "numero": 34,
+    "llaveProceso": "25307400300320170033000",
+    "nombre": "karen julieth pinzon gutierrez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

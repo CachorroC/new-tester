@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "8/03/2028",
+    "obligacion": {
+      "A": 2640096179
+    },
+    "capitalAdeudado": "$ 28.018.855",
+    "entregaGarantiasAbogado": "20/06/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "FUSAGASUGA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00371",
+    "llaveProceso": "25312400300320230037100"
+  },
+  "demandas": [],
+  "numero": 551,
+  "llaveProceso": "25312400300320230037100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "PEDRO",
+    "segundoNombre": "JONATHAN",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "GOMEZ",
+    "cedula": 1075211773,
+    "direccion": "KR 1 2 41 Fusagasugá",
+    "email": "jonathansoldier@hotmail.com"
+  },
+  "cc": 1075211773,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "PEDRO JONATHAN RAMIREZ GOMEZ",
+  "notificacion": null
+}

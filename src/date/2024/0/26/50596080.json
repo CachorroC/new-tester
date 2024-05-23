@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:12.174Z",
+  "proceso": {
+    "idProceso": 50596080,
+    "idConexion": 259,
+    "llaveProceso": "11001400300620170041700",
+    "fechaProceso": "2017-07-26T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-03-04T05:00:00.000Z",
+    "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: NANCY HERRERA MENDEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 6,
+      "tipo": "JUZGADO 006 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-006-civil-municipal-de-bogota"
+    }
+  }
+}

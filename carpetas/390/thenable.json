@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300420170126600",
+  "numero": 390,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 71603563,
+    "direccion": "carrera 82  no  19 - 20",
+    "email": "gilbertojaime@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "gilberto",
+    "primerApellido": "jaime",
+    "segundoApellido": "betancourt",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-20T00:00:00.000Z",
+    "mandamientoPago": "2018-01-17T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-16T00:00:00.000Z",
+    "expediente": "11001400300420170126600",
+    "capitalAdeudado": 50509238,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2500084774, "AUDIOPRESTAMO"],
+    "radicado": "2017 - 01266",
+    "vencimientoPagare": ["2020-07-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 71603563,
+  "idProcesos": null
+}

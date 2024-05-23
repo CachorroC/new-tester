@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:13.619Z",
+  "savedDate": "2018-05-15T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 646066760,
+    "llaveProceso": "11001400301520170116100",
+    "consActuacion": 59,
+    "fechaActuacion": "2019-08-06T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "TERMINADOS PQ T-996",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-08-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 59,
+    "isUltimaAct": true,
+    "idProceso": 50674600
+  }
+}

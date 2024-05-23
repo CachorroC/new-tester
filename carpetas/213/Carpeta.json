@@ -1,0 +1,105 @@
+{
+  "id": 52325613,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "OSCAR GONZALEZ GONZALEZ ",
+    "cedula": "79846140",
+    "direccion": null,
+    "telefono": null,
+    "id": 213
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "43216",
+    "capitalAdeudado": "12573628",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.977Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.982Z"],
+    "id": 213,
+    "llaveProceso": "110014003088220170148800",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 213,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.082Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "0049-01-01T00:00:00.000Z",
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["85712"],
+    "radicado": "2017 - 01488",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:44.311Z"],
+    "medidasCautelares": {
+      "id": 213,
+      "fechaOrdenaMedida": "2024-02-10T00:54:39.227Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 213,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MYRIAM",
+    "segundoNombre": "CONSUELO",
+    "primerApellido": "RIOS",
+    "segundoApellido": "FONSECA",
+    "cedula": "52325613",
+    "direccion": "CARRERA 98B # 14 - 06 CASA 166",
+    "email": "miricu143@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "110014003088220170148800",
+  "nombre": "myriam consuelo rios fonseca",
+  "numero": 213,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 213,
+      "createdAt": "2024-02-10T00:54:39.226Z",
+      "pathname": null,
+      "dueDate": "2018-05-26T05:00:00.000Z",
+      "text": "EL 26/04/2018 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 213,
+      "createdAt": "2024-02-10T00:54:39.226Z",
+      "pathname": null,
+      "dueDate": "2018-07-01T05:00:00.000Z",
+      "text": " EL 1/06/2018 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 213,
+      "createdAt": "2024-02-10T00:54:39.227Z",
+      "pathname": null,
+      "dueDate": "2018-07-27T05:00:00.000Z",
+      "text": " EL 27/06/2018 SE HIZO LEVANTAMIENTO DE MEDIDAS CAUTELARES CON CERTIFICADO DE TRADICION",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:39.227Z"
+}

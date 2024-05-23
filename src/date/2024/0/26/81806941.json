@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:31.352Z",
+  "proceso": {
+    "idProceso": 81806941,
+    "idConexion": 320,
+    "llaveProceso": "11001400308120180011100",
+    "fechaProceso": "2018-01-25T05:00:00.000Z",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 081 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: bancolombia SA | Demandado/indiciado/causante: JHON ALEXANDER ALARCON GALVIS | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 81,
+      "tipo": "JUZGADO 081 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-081-civil-municipal-de-bogota"
+    }
+  }
+}

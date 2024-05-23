@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 584,
+    "cedula": "52773230",
+    "primerNombre": "diana",
+    "primerApellido": "barreto",
+    "segundoNombre": "patricia",
+    "segundoApellido": "osma",
+    "direccion": "calle 42 no 78 h - 38 sur",
+    "email": "N / A",
+    "telCelular": "3107706773",
+    "telFijo": "3085025",
+    "carpetaNumero": 420
+  }
+}

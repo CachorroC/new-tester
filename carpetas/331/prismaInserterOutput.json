@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 331,
+    "numero": 331,
+    "llaveProceso": "11001410375220170130000",
+    "nombre": "christian dario ruiz avellaneda",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

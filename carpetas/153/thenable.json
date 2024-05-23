@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754418900220170071400",
+  "numero": 153,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52230614,
+    "direccion": "carrera 15b # 6 - 32 torre 8 apto 202",
+    "email": "rocio4332@hotmail.com",
+    "tel": {
+      "fijo": 5168872,
+      "celular": 3214064280
+    },
+    "primerNombre": "marbell",
+    "segundoNombre": "rocio",
+    "primerApellido": "dominguez",
+    "segundoApellido": "alvarez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2018-04-04T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "expediente": "25754418900220170071400",
+    "capitalAdeudado": 2022100596,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SOACHA",
+    "obligacion": [179883],
+    "radicado": "2017 - 00714",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52230614,
+  "idProcesos": null
+}

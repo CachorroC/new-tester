@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    },
+    {
+      "path": "../datos",
+    },
+    {
+      "path": "../../../examples/typescript_rest-koa",
+    },
+    {
+      "path": "../app",
+    },
+  ],
+}

@@ -1,0 +1,45 @@
+{
+  "llaveProceso": "11001400304320180038400",
+  "numero": 32,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1022940572,
+    "direccion": "calle 36 b sur no. 11-25 apto 1307 bogota",
+    "email": "jhonannicky@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3134775602
+    },
+    "primerNombre": "jonathan",
+    "segundoNombre": "andres",
+    "primerApellido": "",
+    "segundoApellido": ["bernal", "parra"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-07-28T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-05-30T00:00:00.000Z",
+    "expediente": "11001400304320180038400",
+    "capitalAdeudado": 54812000,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      4280019446,
+      "5406915580101610 4513077620518209//20990166568"
+    ],
+    "radicado": "2018- 00384",
+    "vencimientoPagare": ["2028-08-01T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1023881288,
+    "direccion": "CARRERA 4 A ESTE No. 30-13 SUR BOGOTA",
+    "nombre": "johanna mercedes medina santander",
+    "telefono": "2067151//3015485509"
+  },
+  "cc": 1022940572,
+  "idProcesos": null
+}

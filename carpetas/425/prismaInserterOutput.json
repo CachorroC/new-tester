@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 425,
+    "numero": 425,
+    "llaveProceso": "11001400307520180067400",
+    "nombre": "sandra raquel lopez de,mesa,oses",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

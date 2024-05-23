@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400300820170127300",
+  "numero": 215,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 36458257,
+    "direccion": "carrera 98b # 14 - 06 casa 155",
+    "email": "luzdary.hurtado.rios@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luz",
+    "segundoNombre": "dary",
+    "primerApellido": "hurtado",
+    "segundoApellido": "rios"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-11-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "11001400300820170127300",
+    "capitalAdeudado": 1224166548,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [85677],
+    "radicado": "2017 - 01273",
+    "vencimientoPagare": ["2017-03-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 80228299,
+    "direccion": "CARRERA 98B # 14 - 06 PUEBLO NUEVO 1",
+    "nombre": "jorge armando lopez castaño",
+    "telefono": 4185127
+  },
+  "cc": 36458257,
+  "idProcesos": null
+}

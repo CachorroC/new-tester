@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 244,
+    "departamento": "CUNDINNAMARCA",
+    "capitalAdeudado": "1763516444",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "ANAPOIMA",
+    "obligacion": ["377815356092904//45130711799741999", "5303714068687853"],
+    "radicado": "2017 - 00173",
+    "vencimientoPagare": ["2017-03-01T00:00:00.000Z"],
+    "expediente": "25035418900120170017300",
+    "carpetaNumero": 247,
+    "despacho": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001410300120180040400",
+  "numero": 430,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1024517216,
+    "direccion": "diagonal 68 d no 70c-31",
+    "email": "alejaso1291@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3112907361
+    },
+    "primerNombre": "jhonatan",
+    "segundoNombre": "alejandro",
+    "primerApellido": "",
+    "segundoApellido": ["cuellar", "arias"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-08T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-04-27T00:00:00.000Z",
+    "expediente": "11001410300120180040400",
+    "capitalAdeudado": 2904538303,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990162905],
+    "radicado": "2018 - 00404",
+    "vencimientoPagare": ["2028-04-10T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1024527755,
+    "direccion": "DIAGONAL 68D No 70C-31",
+    "nombre": "jessica alexandra santos avendaño",
+    "telefono": 3134216520
+  },
+  "cc": 1024517216,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 261,
+    "cedula": "3058707",
+    "primerNombre": "hector",
+    "primerApellido": "garzon",
+    "segundoNombre": "julio",
+    "segundoApellido": "peña",
+    "direccion": "vereda potrero largo  guatavita",
+    "email": "N / A",
+    "telCelular": "3105683065",
+    "telFijo": null,
+    "carpetaNumero": 264
+  }
+}

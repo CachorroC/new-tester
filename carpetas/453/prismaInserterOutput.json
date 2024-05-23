@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 453,
+    "numero": 453,
+    "llaveProceso": "25286400300120180084100",
+    "nombre": "ricardo null rueda melo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

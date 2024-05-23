@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-11-06T05:00:00.000Z",
+  "idProcesos": [50801260],
+  "idRegUltimaAct": 997655690,
+  "llaveProceso": "11001400307320170141100",
+  "nombre": "FERNANDO GONZALEZ TELLEZ",
+  "numero": 304,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:08.148Z"
+}

@@ -1,0 +1,54 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "MARTHA LILIANA POLOCHE AGUJA",
+    "cedula": "53122368",
+    "direccion": "CALLE 4 No 4J-09 QUINTANARE",
+    "telefono": "3006354505",
+    "id": 412,
+    "carpetaNumero": 412
+  },
+  "demanda": {
+    "vencimientoPagare": "28/12/2026",
+    "obligacion": {
+      "A": 20990147276
+    },
+    "capitalAdeudado": "19.865.454",
+    "entregaGarantiasAbogado": "16/04/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00364",
+    "llaveProceso": "25754418900220180036400",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "26/04/2018"
+  },
+  "demandas": [],
+  "numero": 412,
+  "llaveProceso": "25754418900220180036400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3204063623
+    },
+    "primerNombre": "FABIO",
+    "segundoNombre": "NELSON",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "CRISTIANO",
+    "cedula": 80896755,
+    "direccion": "CARRERA 7C- No 02-85 SUR",
+    "email": "fabiop0917@hotmail.com"
+  },
+  "cc": 80896755,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "FABIO NELSON PEREZ CRISTIANO",
+  "notificacion": null
+}

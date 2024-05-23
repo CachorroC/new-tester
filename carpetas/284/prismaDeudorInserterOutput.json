@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 281,
+    "cedula": "93119101",
+    "primerNombre": "armando",
+    "primerApellido": "vargas",
+    "segundoNombre": "barrios",
+    "segundoApellido": null,
+    "direccion": "vereda el time  ( cota )",
+    "email": "abarriosleg@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 284
+  }
+}

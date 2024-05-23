@@ -1,0 +1,60 @@
+{
+  "id": 52850427,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/09/2017",
+    "telefono": null,
+    "id": 271
+  },
+  "demanda": {
+    "obligacion": ["39.495.993.87"],
+    "llaveProceso": "11001400405420170099000",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "17/10/2017"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "3877"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "05/10/2017",
+    "fechaPresentacion": ["2017-10-17T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00990",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T03:30:00.924Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "AURA",
+    "segundoNombre": "GEOVANA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MORA",
+    "cedula": 52850427,
+    "direccion": null,
+    "email": "CARRERA 16 No  24 - 34 APARTAMENTO 302"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400405420170099000",
+  "nombre": "AURA GEOVANA RODRIGUEZ MORA",
+  "numero": 271,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:16.330Z"
+}

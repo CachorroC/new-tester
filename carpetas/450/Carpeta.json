@@ -1,0 +1,173 @@
+{
+  "id": 53133179,
+  "actuaciones": [
+    {
+      "idRegActuacion": 857051550,
+      "llaveProceso": "11001400307820180064700",
+      "consActuacion": 2,
+      "fechaActuacion": "2019-01-15T05:00:00.000Z",
+      "actuacion": "Constancia secretarial",
+      "anotacion": "SE ENTREGO DESGLOSE  ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2019-01-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 51571520,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:55:00.242Z"
+    },
+    {
+      "idRegActuacion": 857051540,
+      "llaveProceso": "11001400307820180064700",
+      "consActuacion": 1,
+      "fechaActuacion": "2019-01-15T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 15/01/2019 a las 16:30:35",
+      "fechaInicial": "2019-01-15T05:00:00.000Z",
+      "fechaFinal": "2019-01-15T05:00:00.000Z",
+      "fechaRegistro": "2019-01-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 51571520,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:00.242Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 450
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "21550202",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.270Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.277Z"],
+    "id": 450,
+    "llaveProceso": "11001400307820180064700",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 450,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990160362"],
+    "radicado": "2018 - 00647",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:44.218Z"],
+    "medidasCautelares": {
+      "id": 450,
+      "fechaOrdenaMedida": "2024-02-10T00:55:00.201Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 450,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "KELLY",
+    "segundoNombre": "YOHANNA",
+    "primerApellido": "MURCIA",
+    "segundoApellido": "DUCON",
+    "cedula": "53133179",
+    "direccion": "CALLE 63 SUR No 78 J-38 TORRE 4 APTO 603",
+    "email": "kellyohamd@hotmail.com"
+  },
+  "fecha": "2019-01-15T05:00:00.000Z",
+  "idProcesos": [51571520],
+  "idRegUltimaAct": 857051550,
+  "llaveProceso": "11001400307820180064700",
+  "nombre": "kelly yohanna murcia ducon",
+  "numero": 450,
+  "procesos": [
+    {
+      "idProceso": 51571520,
+      "idConexion": 259,
+      "llaveProceso": "11001400307820180064700",
+      "fechaProceso": "2019-01-15T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-01-15T05:00:00.000Z",
+      "despacho": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: KELLY YOHANNA MURCIA DUCON ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 78,
+        "tipo": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-78-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 857051550,
+    "llaveProceso": "11001400307820180064700",
+    "consActuacion": 2,
+    "fechaActuacion": "2019-01-15T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE ENTREGO DESGLOSE  ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-01-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 2,
+    "idProceso": 51571520,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 450,
+      "createdAt": "2024-02-10T00:55:00.201Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 18 DE SEPTIEMBRE DE 2018 SE TERMINO EL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 450,
+      "createdAt": "2024-02-10T00:55:00.201Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 17 DE ENERO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 450,
+      "createdAt": "2024-02-10T00:55:00.201Z",
+      "pathname": null,
+      "dueDate": "2023-02-19T05:00:00.000Z",
+      "text": " 19/01/2023 SE SOLICITO CERTIFICADO DE TRADICIÓN SIN MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:00.201Z"
+}

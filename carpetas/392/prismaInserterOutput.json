@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 392,
+    "numero": 392,
+    "llaveProceso": "25899400300220170013100",
+    "nombre": "edgar jobanny mateus castillo",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

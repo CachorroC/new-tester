@@ -1,0 +1,97 @@
+{
+  "id": 1033783222,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 181
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "25340036",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.969Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.975Z"],
+    "id": 181,
+    "llaveProceso": "11001418901020170011500",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 181,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12569604"],
+    "radicado": "2017 - 00115",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.963Z"],
+    "medidasCautelares": {
+      "id": 181,
+      "fechaOrdenaMedida": "2024-02-10T00:54:36.564Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 181,
+    "telCelular": "3103048137",
+    "telFijo": "7177769 ",
+    "primerNombre": "LEONARDO",
+    "segundoNombre": "ALIRIO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GUERRERO",
+    "cedula": "1033783222",
+    "direccion": "CALLE 69J # 20B - 52 ",
+    "email": "leoguegar@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418901020170011500",
+  "nombre": "leonardo alirio garcia guerrero ",
+  "numero": 181,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 181,
+      "createdAt": "2024-02-10T00:54:36.564Z",
+      "pathname": null,
+      "dueDate": "2018-10-18T05:00:00.000Z",
+      "text": "EL 18/09/2018 EL JUZGADO DECRETA TERMINACION PROCESO POR PAGO TOTAL DE LA OBLIGACIÓN ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 181,
+      "createdAt": "2024-02-10T00:54:36.564Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " DESGLOSE DE GARANTIAS Y LEVANTAMIENTO DE MEDIDA CAUTELAR A CARGO DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:36.565Z"
+}

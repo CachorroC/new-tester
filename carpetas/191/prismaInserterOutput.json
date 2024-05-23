@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 191,
+    "numero": 191,
+    "llaveProceso": "11001400307920170108200",
+    "nombre": "john alexander valencia marquez",
+    "idProcesos": [51357750],
+    "category": "Reintegra"
+  }
+}

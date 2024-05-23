@@ -1,0 +1,47 @@
+{
+  "id": 3096755,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "3360084365 / 3360084819"],
+    "llaveProceso": "25436408900120180006300",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1563192300,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-10-10T05:00:00.000Z",
+    "etapaProcesal": "ADMISIION",
+    "fechaPresentacion": ["2018-10-25T05:00:00.000Z"],
+    "mandamientoPago": "2018-07-11T05:00:00.000Z",
+    "municipio": "MANTA",
+    "radicado": "2018 - 00063",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JUAN",
+    "segundoNombre": "CARLOS",
+    "primerApellido": "LEON",
+    "segundoApellido": "MONTENEGRO",
+    "cedula": 3096755,
+    "direccion": "DIAGONAL 2 No 6 A-29",
+    "email": "jclm152@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25436408900120180006300",
+  "nombre": "JUAN CARLOS LEON MONTENEGRO",
+  "numero": 503,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:32.903Z"
+}

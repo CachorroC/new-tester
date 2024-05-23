@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 442,
+    "numero": 442,
+    "llaveProceso": "11001400307820180062300",
+    "nombre": "julian felipe echeverry forero",
+    "idProcesos": [51462640],
+    "category": "Terminados"
+  }
+}

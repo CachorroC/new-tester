@@ -1,0 +1,82 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "25/08/2030",
+    "obligacion": {
+      "A": "2273 320186673"
+    },
+    "capitalAdeudado": "$ 46.371.154",
+    "entregaGarantiasAbogado": "20/08/2019",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MADRID",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2019 - 01160",
+    "llaveProceso": "25473400100120190116000",
+    "etapaProcesal": "25430400300120190116000",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "2/09/2019",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "SI",
+        "resultado": "13/12/2019",
+        "fechaAporta": 43861
+      },
+      "292": {
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "10/10/2019",
+      "fisico": "NO",
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "medidaSolicitada": "2/12/2019"
+    }
+  },
+  "demandas": [],
+  "numero": 528,
+  "llaveProceso": "25473400100120190116000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "YOLADIS",
+    "segundoNombre": "ESTHER",
+    "primerApellido": "BLANCO",
+    "segundoApellido": "LOPEZ",
+    "cedula": 1065564377,
+    "direccion": "CALLE  23 No 12-50 CASA 16 INT 12 MANZANA 1 CONJUNTO QUINTAS DE ZARAGOZA",
+    "email": "yoladisb@hotmail.com"
+  },
+  "cc": 1065564377,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "YOLADIS ESTHER BLANCO LOPEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "CORREO"
+  }
+}

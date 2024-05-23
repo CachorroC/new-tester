@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305720170079000",
+  "numero": 107,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80112954,
+    "direccion": "diagonal 52 b suer # 5c - 20 este",
+    "email": "efrain.martinez.1021@hotmail.com",
+    "tel": {
+      "fijo": 5936306,
+      "celular": 3176550987
+    },
+    "primerNombre": "hanyelo",
+    "segundoNombre": "efrain",
+    "primerApellido": "martinez",
+    "segundoApellido": "turriago"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T00:00:00.000Z",
+    "mandamientoPago": "2017-08-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400305720170079000",
+    "capitalAdeudado": 13303855,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [6900084281, "4513070458359200 // AUDIOPRESTAMO"],
+    "radicado": "2017 - 00790",
+    "vencimientoPagare": ["2016-01-29T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80112954,
+  "idProcesos": null
+}

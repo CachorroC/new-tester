@@ -1,0 +1,53 @@
+{
+  "id": 1014200510,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "09/07/2033",
+    "telefono": null,
+    "id": 512
+  },
+  "demanda": {
+    "obligacion": ["21.856.062.58"],
+    "llaveProceso": "25754418900320180135200",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "14/12/2018//13/05/2019",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 01352",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "MORALES",
+    "segundoApellido": "GARCIA",
+    "cedula": 1014200510,
+    "direccion": null,
+    "email": "CALLE 93 No 94 N -16"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900320180135200",
+  "nombre": "SANDRA MILENA MORALES GARCIA",
+  "numero": 512,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:33.845Z"
+}

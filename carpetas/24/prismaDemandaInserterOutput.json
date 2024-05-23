@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 24,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-07-05T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-07-05T00:00:00.000Z",
+    "municipio": "GAMA",
+    "obligacion": ["5303726157973550", "5303716368987260"],
+    "radicado": "2017 - 00024",
+    "vencimientoPagare": ["2016-10-01T00:00:00.000Z"],
+    "expediente": "25299418900120170002400",
+    "carpetaNumero": 24,
+    "despacho": null
+  }
+}

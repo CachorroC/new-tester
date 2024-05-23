@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25269400300120180024600",
+  "numero": 418,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 35521020,
+    "direccion": "calle 11b- no 10-21",
+    "email": "aurag2599@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "aura",
+    "segundoNombre": "leticia",
+    "primerApellido": "gamez",
+    "segundoApellido": "rojas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-04-12T00:00:00.000Z",
+    "expediente": "25269400300120180024600",
+    "capitalAdeudado": 2315959856,
+    "etapaProcesal": "ADMISION",
+    "municipio": "FACATATIVA",
+    "obligacion": [377816809738564, 451387592504913],
+    "radicado": "2018 - 00246",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 35521020,
+  "idProcesos": null
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:30.209Z",
+  "proceso": {
+    "idProceso": 130908640,
+    "idConexion": 259,
+    "llaveProceso": "11001400308320230108800",
+    "fechaProceso": "2023-06-28T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-12T05:00:00.000Z",
+    "despacho": "JUZGADO 083 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE ALEXANDER LAVERDE PENAGOS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 83,
+      "tipo": "JUZGADO 083 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-083-civil-municipal-de-bogota"
+    }
+  }
+}

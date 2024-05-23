@@ -1,0 +1,64 @@
+{
+  "id": 52344904,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["9460081795", "5303727444531025"],
+    "llaveProceso": "25175408900320170047700",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-11-01T05:00:00.000Z",
+        "fechaAporta": "2018-11-01T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-11-22T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-03-11T05:00:00.000Z",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-09-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "CHIA",
+    "radicado": "2017 - 00477",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2018-05-09T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8615372,
+      "celular": 3103291690
+    },
+    "primerNombre": "YOHAIRA",
+    "segundoNombre": "PRADO",
+    "primerApellido": "VALOYES",
+    "segundoApellido": null,
+    "cedula": 52344904,
+    "direccion": "CARRERA 9A 14F - 28C - UNIDAD 22 CHIA",
+    "email": "yohairapadro@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25175408900320170047700",
+  "nombre": "YOHAIRA PRADO VALOYES",
+  "numero": 254,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:11.774Z"
+}

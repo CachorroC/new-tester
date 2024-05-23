@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305020180012900",
+  "numero": 391,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52190973,
+    "direccion": "avenida(calle) 68 sur no 70d-71 apartamento 1302",
+    "email": "bibianvargas@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yaneth",
+    "segundoNombre": "bibiana",
+    "primerApellido": "vargas",
+    "segundoApellido": "cano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-05-02T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400305020180012900",
+    "capitalAdeudado": 48945502,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [161684],
+    "radicado": "2018 - 00129",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52190973,
+  "idProcesos": null
+}

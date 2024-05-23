@@ -1,0 +1,100 @@
+{
+  "id": 39577914,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 368
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "36307716",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-12T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": [
+      "2017-12-18T05:00:00.000Z",
+      "2018-02-09T05:00:00.000Z"
+    ],
+    "id": 368,
+    "llaveProceso": "25307400300120180006600",
+    "mandamientoPago": [],
+    "municipio": "GIRARDOT",
+    "notificacion": {
+      "id": 368,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["6841"],
+    "radicado": "2018 - 00066",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2026-05-02T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 368,
+      "fechaOrdenaMedida": "2024-02-10T00:54:53.742Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 368,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "CAROLINA",
+    "segundoNombre": "MARTINEZ",
+    "primerApellido": "CALDERON",
+    "segundoApellido": null,
+    "cedula": "39577914",
+    "direccion": "CARRERA 19 No 13-20 GIRARDOT",
+    "email": "caro_23mc@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25307400300120180006600",
+  "nombre": "carolina martinez calderon",
+  "numero": 368,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 368,
+      "createdAt": "2024-02-10T00:54:53.742Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 26 DE JUNIO DE 2019 SE LEVANTO MEDIDA CAUTELAR DE EMBARGO DE INMUEBLE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 368,
+      "createdAt": "2024-02-10T00:54:53.742Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 27 DE JUNIO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:53.743Z"
+}

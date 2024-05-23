@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25899408900120180060900",
+  "numero": 441,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52064928,
+    "direccion": "carrera 5 no 7-40 sur",
+    "email": "janeth2609@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3102762216
+    },
+    "primerNombre": "yaneth",
+    "primerApellido": "millan",
+    "segundoApellido": "prieto",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-31T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-05-23T00:00:00.000Z",
+    "expediente": "25899408900120180060900",
+    "capitalAdeudado": 1714189122,
+    "etapaProcesal": "ADMISION",
+    "municipio": "SOACHA",
+    "obligacion": [20990156079],
+    "radicado": "2018 - 00609",
+    "vencimientoPagare": ["2032-09-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52064928,
+  "idProcesos": null
+}

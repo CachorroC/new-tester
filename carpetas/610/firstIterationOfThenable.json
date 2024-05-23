@@ -1,0 +1,61 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "entregaGarantiasAbogado": "27/11/2023",
+    "llaveProceso": "SinEspecificar",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA"
+  },
+  "demandas": [
+    {
+      "idProceso": 610,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [],
+      "capitalAdeudado": 0,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [],
+      "radicado": null
+    }
+  ],
+  "numero": 610,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOJAN",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "PARADA",
+    "cedula": 1015458592,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 1015458592,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JOJAN ANDRES LOPEZ PARADA",
+  "notificacion": null
+}

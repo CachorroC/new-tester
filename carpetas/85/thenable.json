@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303420170083400",
+  "numero": 85,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 39673896,
+    "direccion": "calle 143 # 118 - 15 apto 503 int 2",
+    "email": "sma9511@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "malaver",
+    "segundoApellido": "alvarez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-07-10T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400303420170083400",
+    "capitalAdeudado": 2422753902,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [6820082421, "377815190381158 // 530371010816"],
+    "radicado": "2017 - 00834",
+    "vencimientoPagare": ["2020-04-10T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39673896,
+  "idProcesos": null
+}

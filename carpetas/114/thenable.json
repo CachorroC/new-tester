@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754418900220170075200",
+  "numero": 114,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79209455,
+    "direccion": "calle 11 # 52a - 14 soacha",
+    "email": "antoniocaicedo1972@gmail.com",
+    "tel": {
+      "fijo": 3213173,
+      "celular": 3128067314
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "antonio",
+    "primerApellido": "caicedo",
+    "segundoApellido": "ruiz"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-11T00:00:00.000Z",
+    "mandamientoPago": "2017-08-24T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "25754418900220170075200",
+    "capitalAdeudado": 20501855,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SOACHA",
+    "obligacion": ["377813527966924/", "000000020990112484."],
+    "radicado": "2017 - 00752",
+    "vencimientoPagare": ["2023-11-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79209455,
+  "idProcesos": null
+}

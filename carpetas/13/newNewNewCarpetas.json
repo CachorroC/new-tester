@@ -1,0 +1,53 @@
+{
+  "id": 447028,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "CARMEN JULIA MORA RODRIGUEZ",
+    "cedula": "21094922",
+    "direccion": "FINCA EL HOSPICIO VIANI",
+    "telefono": "3132796326",
+    "id": 13
+  },
+  "demanda": {
+    "obligacion": ["3720087139"],
+    "llaveProceso": "25867418900120170002000",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 23326974,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-05-31T05:00:00.000Z"],
+    "mandamientoPago": "2007-02-06T05:00:00.000Z",
+    "municipio": "VIANI",
+    "radicado": "2017 - 00020",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2018-07-03T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3106890300
+    },
+    "primerNombre": "PASCUAL",
+    "segundoNombre": "ORTEGA",
+    "primerApellido": "ENCISO",
+    "segundoApellido": null,
+    "cedula": 447028,
+    "direccion": "FINCA EL HOSPICIO VIANI",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25867418900120170002000",
+  "nombre": "PASCUAL ORTEGA ENCISO",
+  "numero": 13,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:43.673Z"
+}

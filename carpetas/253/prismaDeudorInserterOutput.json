@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 250,
+    "cedula": "1013604409",
+    "primerNombre": "jorge",
+    "primerApellido": "acosta",
+    "segundoNombre": "eduardo",
+    "segundoApellido": "corredor",
+    "direccion": "calle 47 sur no 27-81",
+    "email": "jan_2504@hotmail.com",
+    "telCelular": "3115197002",
+    "telFijo": "3521314",
+    "carpetaNumero": 253
+  }
+}

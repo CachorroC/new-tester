@@ -1,0 +1,113 @@
+{
+  "id": 79412583,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LEIDY FERNANDA SANCHEZ GAMBA",
+    "cedula": "1022357168",
+    "direccion": "TRANSVERSAL 54 # 18 - 30 SUR INTERIOR 3 APTO 201",
+    "telefono": "5103158",
+    "id": 141
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "28130302",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.962Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.969Z"],
+    "id": 141,
+    "llaveProceso": "11001400303920170110000",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 141,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["156285"],
+    "radicado": "2017 - 01100",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:43.002Z"],
+    "medidasCautelares": {
+      "id": 141,
+      "fechaOrdenaMedida": "2024-02-10T00:54:33.257Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 141,
+    "telCelular": "3003932311",
+    "telFijo": "4137430 ",
+    "primerNombre": "EDGAR",
+    "segundoNombre": "DAVID",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "RINCON",
+    "cedula": "79412583",
+    "direccion": "CARREA 54 # 18 - 30 SUR APTO 201",
+    "email": "edgardavid302@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400303920170110000",
+  "nombre": "edgar david hernandez rincon",
+  "numero": 141,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 141,
+      "createdAt": "2024-02-10T00:54:33.257Z",
+      "pathname": null,
+      "dueDate": "2018-03-06T05:00:00.000Z",
+      "text": "EL 6/02/2018 LA APODERADA DEL BANCO RETIRO LA DEMANDA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 141,
+      "createdAt": "2024-02-10T00:54:33.257Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " no SE DICTARON MEDIDAS CAUTELARES ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 141,
+      "createdAt": "2024-02-10T00:54:33.257Z",
+      "pathname": null,
+      "dueDate": "2018-03-15T05:00:00.000Z",
+      "text": " EL 15/02/2018 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 141,
+      "createdAt": "2024-02-10T00:54:33.257Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:33.257Z"
+}

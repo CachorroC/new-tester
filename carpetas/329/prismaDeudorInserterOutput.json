@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 326,
+    "cedula": "10180062",
+    "primerNombre": "reinaldo",
+    "primerApellido": "melendez",
+    "segundoNombre": "adrian",
+    "segundoApellido": ",varon",
+    "direccion": "avenida calle 153 no 119 -40 interior 1 casa 17 bosques de camino verde agrupacion 2",
+    "email": "reinaldomelen@hotmail.com",
+    "telCelular": "3107584138",
+    "telFijo": "2287430",
+    "carpetaNumero": 329
+  }
+}

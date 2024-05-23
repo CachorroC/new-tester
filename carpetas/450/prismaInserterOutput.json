@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 450,
+    "numero": 450,
+    "llaveProceso": "11001400307820180064700",
+    "nombre": "kelly yohanna murcia ducon",
+    "idProcesos": [51571520],
+    "category": "Terminados"
+  }
+}

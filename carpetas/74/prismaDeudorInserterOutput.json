@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 74,
+    "cedula": "79789620",
+    "primerNombre": "carlos",
+    "primerApellido": "borray",
+    "segundoNombre": "andrés",
+    "segundoApellido": "arce",
+    "direccion": "carrera 18 # 120 - 65 apto 306",
+    "email": "carlosborray@gmail.com",
+    "telCelular": "3138327713",
+    "telFijo": null,
+    "carpetaNumero": 74
+  }
+}

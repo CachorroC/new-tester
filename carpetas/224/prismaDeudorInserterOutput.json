@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 221,
+    "cedula": "52616509",
+    "primerNombre": "maria",
+    "primerApellido": "zarate",
+    "segundoNombre": "rosa",
+    "segundoApellido": "cortes",
+    "direccion": "calle 5 # 21 - 76",
+    "email": "mariarosacortes2233@hotmail.com",
+    "telCelular": "3114881698",
+    "telFijo": null,
+    "carpetaNumero": 224
+  }
+}

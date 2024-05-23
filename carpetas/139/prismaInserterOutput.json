@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 139,
+    "numero": 139,
+    "llaveProceso": "11001400306120170079300",
+    "nombre": "ana emilce rojas sarmiento",
+    "idProcesos": [50655580],
+    "category": "Terminados"
+  }
+}

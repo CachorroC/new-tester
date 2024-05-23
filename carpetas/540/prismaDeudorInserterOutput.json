@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 528,
+    "cedula": "3242760",
+    "primerNombre": "jose",
+    "primerApellido": "garcia",
+    "segundoNombre": "rodrigo",
+    "segundoApellido": "quintero",
+    "direccion": "carrera 86 no 99-23",
+    "email": "rodrigogar68@hotmail.com",
+    "telCelular": "3143659602",
+    "telFijo": "6855750",
+    "carpetaNumero": 540
+  }
+}

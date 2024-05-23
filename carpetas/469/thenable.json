@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307020180092200",
+  "numero": 469,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 46667409,
+    "direccion": "calle 43 no 80f-20",
+    "email": null,
+    "tel": {
+      "fijo": 8117033,
+      "celular": 3123178629
+    },
+    "primerNombre": "luz",
+    "segundoNombre": "myriam",
+    "primerApellido": "valderrama",
+    "segundoApellido": "tuta"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-08-09T00:00:00.000Z",
+    "mandamientoPago": "2018-09-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-08-01T00:00:00.000Z",
+    "expediente": "11001400307020180092200",
+    "capitalAdeudado": 1477079200,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [21581018168],
+    "radicado": "2017 - 00922",
+    "vencimientoPagare": ["2022-11-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 46667409,
+  "idProcesos": null
+}

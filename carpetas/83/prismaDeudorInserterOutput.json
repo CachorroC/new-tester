@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 82,
+    "cedula": "19438068",
+    "primerNombre": "luis",
+    "primerApellido": "peña",
+    "segundoNombre": "adolfo",
+    "segundoApellido": "arciniegas",
+    "direccion": "carrera 29 no 12  a - 46",
+    "email": "luisadopa@gmail.com",
+    "telCelular": "3115672367",
+    "telFijo": "2478114",
+    "carpetaNumero": 83
+  }
+}

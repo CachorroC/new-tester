@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304620180010700",
+  "numero": 377,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 40356325,
+    "direccion": "carrera 79d 36 - 74",
+    "email": "sacave22@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "gladis",
+    "primerApellido": "velasquez",
+    "segundoApellido": "castro",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-01-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400304620180010700",
+    "capitalAdeudado": 13503258,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2150091493],
+    "radicado": "2018 - 00107",
+    "vencimientoPagare": ["2018-09-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 86004461,
+    "direccion": "CALLE 8 B 70 - 76",
+    "nombre": "fabian castrillon gutierrez",
+    "telefono": 4710758
+  },
+  "cc": 40356325,
+  "idProcesos": null
+}

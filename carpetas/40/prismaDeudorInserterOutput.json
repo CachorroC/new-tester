@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 40,
+    "cedula": "19173252",
+    "primerNombre": "josé",
+    "primerApellido": "riaño",
+    "segundoNombre": "enrique",
+    "segundoApellido": "henriquez",
+    "direccion": "calle 70 no. 113 b - 40  barrio riviera",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 40
+  }
+}

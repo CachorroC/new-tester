@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 553,
+    "cedula": "1061047348",
+    "primerNombre": "sandra",
+    "primerApellido": "palacio",
+    "segundoNombre": "milena",
+    "segundoApellido": "rivera",
+    "direccion": "transversal 96 b no. 20 d - 70 casa 23 conjunto residencial casas del portal de hayuelos",
+    "email": "sammy_1722@hotmail.es",
+    "telCelular": "3058819253",
+    "telFijo": "7442510",
+    "carpetaNumero": 565
+  }
+}

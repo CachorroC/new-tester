@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 229,
+    "cedula": "1023868827",
+    "primerNombre": "sandra",
+    "primerApellido": "cubillos",
+    "segundoNombre": "milena",
+    "segundoApellido": "linares",
+    "direccion": "calle 39 sur 9b 29 este",
+    "email": "sandrujs2009@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 232
+  }
+}

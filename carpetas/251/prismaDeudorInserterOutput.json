@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 248,
+    "cedula": "7226283",
+    "primerNombre": "carlos",
+    "primerApellido": "becerra",
+    "segundoNombre": "javier",
+    "segundoApellido": "benavides",
+    "direccion": "carrera 11a # 17 - 24 santa barbara",
+    "email": "cajux@hotmail.com",
+    "telCelular": "3178195535",
+    "telFijo": null,
+    "carpetaNumero": 251
+  }
+}

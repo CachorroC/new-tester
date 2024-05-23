@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-09-19T05:00:00.000Z",
+  "idProcesos": [50631800],
+  "idRegUltimaAct": 1878628460,
+  "llaveProceso": "11001400301220170088200",
+  "nombre": "JOSE FREDDY VARGAS RUIZ",
+  "numero": 44,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:27.272Z"
+}

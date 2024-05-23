@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 247,
+    "cedula": "72165243",
+    "primerNombre": "francisco",
+    "primerApellido": "ramirez",
+    "segundoNombre": "contreras",
+    "segundoApellido": null,
+    "direccion": "calle 3 a no 5-56 apartaamento 101 sopo",
+    "email": "vivipu@hotmail.com.co",
+    "telCelular": "3135348199",
+    "telFijo": "8715525",
+    "carpetaNumero": 250
+  }
+}

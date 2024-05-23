@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307820170116400",
+  "numero": 407,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 79328264,
+    "direccion": "carrera 11 no  144 - 22 apartamento 301",
+    "email": "nescri64@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nestor",
+    "segundoNombre": "alberto",
+    "primerApellido": "cristancho",
+    "segundoApellido": "lopez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-27T00:00:00.000Z",
+    "mandamientoPago": "2018-12-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-16T00:00:00.000Z",
+    "expediente": "11001400307820170116400",
+    "capitalAdeudado": 31100999,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [3550083774, "4513082972339 / 5303714867753385"],
+    "radicado": "2017 - 01164",
+    "vencimientoPagare": ["2024-01-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79328264,
+  "idProcesos": null
+}

@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 545,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "49329779",
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "840093593",
+      "PAGARE SIN NUMERO T. AMERICAN EXPRESS 0377844069636757"
+    ],
+    "radicado": "2023 - 00782",
+    "vencimientoPagare": [
+      "2026-07-01T00:00:00.000Z",
+      "2026-03-01T00:00:00.000Z"
+    ],
+    "expediente": "11001400301720230078200",
+    "carpetaNumero": 557,
+    "despacho": null
+  }
+}

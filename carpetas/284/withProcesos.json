@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 300093754
+    },
+    "capitalAdeudado": "15.488.696.00",
+    "entregaGarantiasAbogado": "27/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "COTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00704",
+    "llaveProceso": "25214400300120170070400",
+    "fechaPresentacion": "10/10/2017"
+  },
+  "demandas": [],
+  "numero": 284,
+  "llaveProceso": "25214400300120170070400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ARMANDO",
+    "segundoNombre": "BARRIOS",
+    "primerApellido": "VARGAS",
+    "segundoApellido": null,
+    "cedula": 93119101,
+    "direccion": "VEREDA EL TIME  ( COTA )",
+    "email": "abarriosleg@yahoo.es"
+  },
+  "cc": 93119101,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ARMANDO BARRIOS VARGAS",
+  "notificacion": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 319,
+    "numero": 319,
+    "llaveProceso": "25126400300120170075600",
+    "nombre": "gloria angelica prasca mejia",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

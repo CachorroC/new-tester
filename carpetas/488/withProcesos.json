@@ -1,0 +1,53 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/09/2024",
+    "telefono": null,
+    "id": 488,
+    "carpetaNumero": 488
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "B": "25.547.970.61"
+    },
+    "capitalAdeudado": "12/09/2018",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00834",
+    "llaveProceso": "11001418901020180083400",
+    "etapaProcesal": "20/09/2018"
+  },
+  "demandas": [],
+  "numero": 488,
+  "llaveProceso": "11001418901020180083400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "CAMPUZANO",
+    "cedula": 52837807,
+    "direccion": null,
+    "email": "CARRERA 69J No 63A- 49"
+  },
+  "cc": 52837807,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "SANDRA MILENA MORENO CAMPUZANO",
+  "notificacion": null
+}

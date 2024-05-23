@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:21.261Z",
+  "proceso": {
+    "idProceso": 71079290,
+    "idConexion": 259,
+    "llaveProceso": "11001418901220180064400",
+    "fechaProceso": "2019-11-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-22T05:00:00.000Z",
+    "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA | Demandado: BIBIANA PATRICIA ESGUERRA VASQUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 17,
+      "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-17-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

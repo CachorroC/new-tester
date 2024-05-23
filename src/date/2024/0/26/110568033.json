@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:38.335Z",
+  "proceso": {
+    "idProceso": 110568033,
+    "idConexion": 261,
+    "llaveProceso": "11001400305120170111300",
+    "fechaProceso": "2017-09-27T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-23T05:00:00.000Z",
+    "despacho": "JUZGADO 051 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: RITA CECILIA FERNANDEZ IBAÑEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 51,
+      "tipo": "JUZGADO 051 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-051-civil-municipal-de-bogota"
+    }
+  }
+}

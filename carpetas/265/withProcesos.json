@@ -1,0 +1,111 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "4/05/2020",
+    "obligacion": {
+      "A": 186718,
+      "B": "3778153354915637 / 4513079095670572"
+    },
+    "capitalAdeudado": "$ 115.224.736",
+    "entregaGarantiasAbogado": "21/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00650",
+    "llaveProceso": "1100140030202100050100",
+    "etapaProcesal": "11001400306320180065000",
+    "fechaPresentacion": "PROCESO DE INSOLVENCIA PASO A LIQUIDACION JUDICIAL",
+    "mandamientoPago": "27/09/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "SI",
+        "resultado": "26/02/2018",
+        "fechaAporta": "3/04/2018"
+      },
+      "292": {
+        "fechaRecibido": "30/05/2018",
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "9/10/2017",
+      "fisico": "NO",
+      "autoNotificado": "FISICA"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "1/06/2018",
+      "medidaSolicitada": "9/10/2017"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 265,
+      "idConexion": null,
+      "llaveProceso": "1100140030202100050100",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": "2018-01-06T05:00:00.000Z",
+        "medidaSolicitada": "9/10/2017"
+      },
+      "vencimientoPagare": ["2020-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "11001400306320180065000",
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [186718, "3778153354915637 / 4513079095670572"],
+      "radicado": "2018 - 00650"
+    }
+  ],
+  "numero": 265,
+  "llaveProceso": "1100140030202100050100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Insolvencia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3018759,
+      "celular": 3118027001
+    },
+    "primerNombre": "JULIO",
+    "segundoNombre": "RENE",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "ARGOTE",
+    "cedula": 7601476,
+    "direccion": "CARRERA 90 C No 6A - 31   - CASA 148",
+    "email": "jsanchezargote@gmail.com"
+  },
+  "cc": 7601476,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JULIO RENE SANCHEZ ARGOTE",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-04-03T05:00:00.000Z",
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2018-05-30T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "FISICA"
+  }
+}

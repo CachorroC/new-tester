@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 33,
+    "numero": 33,
+    "llaveProceso": "11001400308220170064900",
+    "nombre": "nini johana cortes monroy",
+    "idProcesos": [81869251],
+    "category": "Terminados"
+  }
+}

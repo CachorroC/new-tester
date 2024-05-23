@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:14.423Z",
+  "savedDate": 1554958800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1384688780,
+    "llaveProceso": "11001400307820170104900",
+    "consActuacion": 55,
+    "fechaActuacion": "2022-09-01T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "EXPEDIENTE A ARCHIVO DEFINITIVO CAJA N° 395 // WILLIAM LEIVA R",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-09-01T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 55,
+    "isUltimaAct": true,
+    "idProceso": 51463110
+  }
+}

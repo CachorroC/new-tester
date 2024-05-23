@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400305520170086000",
+  "numero": 223,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 17174720,
+    "direccion": "calle 159 # 15 - 45",
+    "email": "gerardomoncada70@hotmail.com",
+    "tel": {
+      "fijo": 3349755,
+      "celular": 3153330306
+    },
+    "primerNombre": "gerardo",
+    "segundoNombre": "antonio",
+    "primerApellido": "moncada",
+    "segundoApellido": "vega"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2018-01-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "11001400305520170086000",
+    "capitalAdeudado": 43653352,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      11903330957,
+      "377816208286710 // 4513083951499464 // 5176407001878614 // 5303720129694960 // AUDIOPRESTAMO"
+    ],
+    "radicado": "2017 - 00860",
+    "vencimientoPagare": [null, null, "2020-05-05T05:00:00.000Z", null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 17174720,
+  "idProcesos": null
+}

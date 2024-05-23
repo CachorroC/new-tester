@@ -1,0 +1,83 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "31/05/2022",
+    "obligacion": {
+      "A": 430104535
+    },
+    "capitalAdeudado": "$ 14.467.701",
+    "entregaGarantiasAbogado": "19/01/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MOSQUERA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00106",
+    "llaveProceso": "25473400300120180010600",
+    "etapaProcesal": "25473400300120180010600",
+    "fechaPresentacion": "CURADOR AD LITEM",
+    "mandamientoPago": "06/02/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "NO",
+        "resultado": "4/07/2018"
+      },
+      "292": {
+        "fechaRecibido": "4/0772018",
+        "fechaAporta": "NEGATIVO"
+      },
+      "certimail": "07/07/2018",
+      "fisico": "SI",
+      "autoNotificado": "CURADOR AD LITEM"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "CURADOR AD LITEM",
+      "medidaSolicitada": "07/07/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 397,
+  "llaveProceso": "25473400300120180010600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "DE",
+    "primerApellido": "JESUS",
+    "segundoApellido": ["TAPIAS", "ESTEVEZ"],
+    "cedula": 13812570,
+    "direccion": "CALLE 12A No 1B ESTE-80 MANZANA 2 CASA MOSQUERA",
+    "email": "jtapias@pastasdoria.com"
+  },
+  "cc": 13812570,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JOSE DE JESUS TAPIAS ESTEVEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "CURADOR AD LITEM"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00760",
+    "llaveProceso": "11001400308020170076000",
+    "fechaPresentacion": "2/11/2017"
+  },
+  "demandas": [],
+  "numero": 325,
+  "llaveProceso": "11001400308020170076000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARCELA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "PEREIRA",
+    "cedula": 30583011,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 30583011,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARCELA PATRICIA DIAZ PEREIRA",
+  "notificacion": null
+}

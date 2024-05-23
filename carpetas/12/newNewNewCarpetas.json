@@ -1,0 +1,54 @@
+{
+  "id": 11436632,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["2273320000000"],
+    "llaveProceso": "25269400300220180015800",
+    "notificacion": {
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "43151"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "APELACION",
+    "fechaPresentacion": ["2017-05-30T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "FACATATIVA",
+    "radicado": "2017 - 00488/ 2018 - 00158",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2026-07-05T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3214791915
+    },
+    "primerNombre": "OSCAR",
+    "segundoNombre": "MANUEL",
+    "primerApellido": "TRIVIÑO",
+    "segundoApellido": "GARCIA",
+    "cedula": 11436632,
+    "direccion": "CALLE 2 E 1 A-85 SUR FACATATIVA",
+    "email": "triracso25@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25269400300220180015800",
+  "nombre": "OSCAR MANUEL TRIVIÑO GARCIA",
+  "numero": 12,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:43.567Z"
+}

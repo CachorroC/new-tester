@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 418,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "23440288",
+    "entregaGarantiasAbogado": "2018-04-16T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2018-04-25T00:00:00.000Z",
+    "etapaProcesal": "1.100141037522018e+22",
+    "fechaPresentacion": null,
+    "municipio": "kENNEDY",
+    "obligacion": ["2099120807"],
+    "radicado": "2018 - 00602",
+    "vencimientoPagare": ["8201-12-01T00:00:00.000Z"],
+    "expediente": "11001410307520180060200",
+    "carpetaNumero": 422,
+    "despacho": null
+  }
+}

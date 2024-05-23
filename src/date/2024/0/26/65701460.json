@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:39.982Z",
+  "proceso": {
+    "idProceso": 65701460,
+    "idConexion": 259,
+    "llaveProceso": "11001400306320170129000",
+    "fechaProceso": "2017-12-13T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-24T05:00:00.000Z",
+    "despacho": "JUZGADO 019 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandante: BANCOLOMBIA | Demandado: DIANA PATRICIA BARRETO OSMA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 19,
+      "tipo": "JUZGADO 019 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-19-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

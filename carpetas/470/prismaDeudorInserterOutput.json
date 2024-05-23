@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 465,
+    "cedula": "52711938",
+    "primerNombre": "eliana",
+    "primerApellido": "lozano",
+    "segundoNombre": "janneth",
+    "segundoApellido": "arturo",
+    "direccion": null,
+    "email": "TRANSVERSAL 2A No 74B-62 SUR",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 470
+  }
+}

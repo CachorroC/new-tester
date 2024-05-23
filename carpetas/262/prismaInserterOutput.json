@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 262,
+    "numero": 262,
+    "llaveProceso": "2590400300220170063100",
+    "nombre": "rafael andres moreno zamora",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

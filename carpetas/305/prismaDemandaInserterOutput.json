@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 302,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "11961381",
+    "entregaGarantiasAbogado": "2017-10-17T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "1.100140030822017e+22",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["12048231"],
+    "radicado": "2017 - 01256",
+    "vencimientoPagare": ["2020-10-01T00:00:00.000Z"],
+    "expediente": "11001400308220170125600",
+    "carpetaNumero": 305,
+    "despacho": null
+  }
+}

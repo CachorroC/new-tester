@@ -1,0 +1,97 @@
+{
+  "id": 51944991,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "3632557",
+    "cedula": "MARIA ELIZABETH GAVIRIA OSPINA",
+    "direccion": "45689",
+    "telefono": "TRANSVERSAL 48 No 3-75 MANZAN 5 CASA 44",
+    "id": 464
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "43293",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2018-08-22T05:00:00.000Z"],
+    "id": 464,
+    "llaveProceso": "25754418900220180066400",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 464,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["19.080.628.51"],
+    "radicado": "2018 - 00664",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-08-31T22:35:25.977Z"],
+    "medidasCautelares": {
+      "id": 464,
+      "fechaOrdenaMedida": "2024-02-10T00:55:01.325Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 464,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "RICARDO",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "CELIS",
+    "segundoApellido": "ANGEL",
+    "cedula": "51944991",
+    "direccion": "51944991",
+    "email": "TRANSVERSAL 4B No 3-75   CASA 44"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900220180066400",
+  "nombre": "ricardo armando celis angel ",
+  "numero": 464,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 464,
+      "createdAt": "2024-02-10T00:55:01.325Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 3 DE JULIO DE 2019 SE TERMINO EL PROCESO POR PAGO DE LAS CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 464,
+      "createdAt": "2024-02-10T00:55:01.325Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 12 DE SEPTIEMBRE DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.326Z"
+}

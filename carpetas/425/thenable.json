@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307520180067400",
+  "numero": 425,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52498444,
+    "direccion": "carrera 29 no 40 a-53  apto 604",
+    "email": "sandralopezdemesa@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "raquel",
+    "primerApellido": "lopez",
+    "segundoApellido": ["de", "mesa", "oses"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-08T00:00:00.000Z",
+    "mandamientoPago": "2018-05-23T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-25T00:00:00.000Z",
+    "expediente": "11001400307520180067400",
+    "capitalAdeudado": 2750328322,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990126656],
+    "radicado": "2018 - 00674",
+    "vencimientoPagare": ["2025-02-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52498444,
+  "idProcesos": null
+}

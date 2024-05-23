@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 179,
+    "numero": 179,
+    "llaveProceso": "11001400301120170108400",
+    "nombre": "guillermo null gonzalez tagua",
+    "idProcesos": [50760030],
+    "category": "Reintegra"
+  }
+}

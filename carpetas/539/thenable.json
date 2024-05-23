@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303620180081800",
+  "numero": 539,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 51937267,
+    "direccion": "callle 106 b- no 54-57 apto 201 puente largo",
+    "email": "amoplata@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "adriana",
+    "segundoNombre": "lucia",
+    "primerApellido": "mora",
+    "segundoApellido": "plata"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-07-11T00:00:00.000Z",
+    "mandamientoPago": "2018-07-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-07-03T00:00:00.000Z",
+    "expediente": "11001400303620180081800",
+    "capitalAdeudado": 32026447,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2070086628, 4.59425005660657e29],
+    "radicado": "2018 - 00818",
+    "vencimientoPagare": ["2021-04-10T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51937267,
+  "idProcesos": null
+}

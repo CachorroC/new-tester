@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400300620180045400",
+  "numero": 500,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": null,
+    "direccion": "carrera 13 no 73-33",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "smartitech",
+    "primerApellido": "s.a.s",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-27T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-04-16T00:00:00.000Z",
+    "expediente": "11001400300620180045400",
+    "capitalAdeudado": 15086199,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": [68928057402, "AUDIOPRESTAMO"],
+    "radicado": "2018 - 00454",
+    "vencimientoPagare": ["2020-05-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1032408735,
+    "direccion": "CALLE 67 D - No 66 A-03",
+    "nombre": "edisson armando karl buitrago cabrera",
+    "telefono": 2501533
+  },
+  "cc": null,
+  "idProcesos": null
+}

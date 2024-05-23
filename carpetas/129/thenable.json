@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400304320170106400",
+  "numero": 129,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 41709257,
+    "direccion": "calle 150a # 101 - 20 torre 3 apto 802",
+    "email": "ele41709257@hotmail.com",
+    "tel": {
+      "fijo": 6928962,
+      "celular": 3184581490
+    },
+    "primerNombre": "elena",
+    "primerApellido": "quiñones",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-18T00:00:00.000Z",
+    "mandamientoPago": "2017-09-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-15T00:00:00.000Z",
+    "expediente": "11001400304320170106400",
+    "capitalAdeudado": 1204667053,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      54744000041,
+      "634444000044 // 377813872494423 // 5306935267717699"
+    ],
+    "radicado": "2017 - 01064",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 41709257,
+  "idProcesos": null
+}

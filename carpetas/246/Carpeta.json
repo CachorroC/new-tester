@@ -1,0 +1,241 @@
+{
+  "id": 79805533,
+  "actuaciones": [
+    {
+      "idRegActuacion": 125352043,
+      "llaveProceso": "11001400304720180024200",
+      "consActuacion": 6,
+      "fechaActuacion": "2018-02-20T05:00:00.000Z",
+      "actuacion": "Archivo Definitivo",
+      "anotacion": "TERMINADOS CAJA 492 DEL 2018\r\n",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-02-20T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 10416913,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:54:42.392Z"
+    },
+    {
+      "idRegActuacion": 125352033,
+      "llaveProceso": "11001400304720180024200",
+      "consActuacion": 5,
+      "fechaActuacion": "2018-03-12T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "RETIRA DEMANDA DIOSELINA GUTIERREZ. JC",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-03-13T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 10416913,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:42.392Z"
+    },
+    {
+      "idRegActuacion": 125352023,
+      "llaveProceso": "11001400304720180024200",
+      "consActuacion": 4,
+      "fechaActuacion": "2018-03-06T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 06/03/2018 a las 17:19:03.",
+      "fechaInicial": "2018-03-07T05:00:00.000Z",
+      "fechaFinal": "2018-03-07T05:00:00.000Z",
+      "fechaRegistro": "2018-03-06T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 10416913,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:42.392Z"
+    },
+    {
+      "idRegActuacion": 125352013,
+      "llaveProceso": "11001400304720180024200",
+      "consActuacion": 3,
+      "fechaActuacion": "2018-03-06T05:00:00.000Z",
+      "actuacion": "Auto resuelve solicitud",
+      "anotacion": "El despacho se abstiene de dar trámite - ordena devolución y archivo",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-03-06T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 10416913,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:42.392Z"
+    },
+    {
+      "idRegActuacion": 125352003,
+      "llaveProceso": "11001400304720180024200",
+      "consActuacion": 2,
+      "fechaActuacion": "2018-02-15T05:00:00.000Z",
+      "actuacion": "Al Despacho Por Reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-02-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 10416913,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:42.392Z"
+    },
+    {
+      "idRegActuacion": 125351993,
+      "llaveProceso": "11001400304720180024200",
+      "consActuacion": 1,
+      "fechaActuacion": "2018-02-15T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 15/02/2018 a las 15:36:31",
+      "fechaInicial": "2018-02-15T05:00:00.000Z",
+      "fechaFinal": "2018-02-15T05:00:00.000Z",
+      "fechaRegistro": "2018-02-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 10416913,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:42.392Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "SANDRA JANNETH BUITAGO BERNAL",
+    "cedula": "52228840",
+    "direccion": "CARRERA 26 No 44-76 SUR ",
+    "telefono": "7692061 /2077527",
+    "id": 246
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "18012121",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.991Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:42.997Z"],
+    "id": 246,
+    "llaveProceso": "11001400304720180024200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 246,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["113645"],
+    "radicado": "2018 - 00242",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:45.251Z"],
+    "medidasCautelares": {
+      "id": 246,
+      "fechaOrdenaMedida": "2024-02-10T00:54:42.342Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 246,
+    "telCelular": "3204979488",
+    "telFijo": "7696884 ",
+    "primerNombre": "EDWIN",
+    "segundoNombre": "BUITRAGO",
+    "primerApellido": "VILLAMIL",
+    "segundoApellido": null,
+    "cedula": "79805533",
+    "direccion": "CARRERA 26 No 44-76 SUR",
+    "email": null
+  },
+  "fecha": "2018-02-20T05:00:00.000Z",
+  "idProcesos": [10416913],
+  "idRegUltimaAct": 125352043,
+  "llaveProceso": "11001400304720180024200",
+  "nombre": "edwin buitrago villamil",
+  "numero": 246,
+  "procesos": [
+    {
+      "idProceso": 10416913,
+      "idConexion": 261,
+      "llaveProceso": "11001400304720180024200",
+      "fechaProceso": "2018-02-15T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-02-20T05:00:00.000Z",
+      "despacho": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: DIOSELINA GUTIERREZ | Demandado: JUAN MORALES DIAZ ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 47,
+        "tipo": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-047-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 125352043,
+    "llaveProceso": "11001400304720180024200",
+    "consActuacion": 6,
+    "fechaActuacion": "2018-02-20T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "TERMINADOS CAJA 492 DEL 2018\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-02-20T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 10416913,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 246,
+      "createdAt": "2024-02-10T00:54:42.342Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "17 DE ABRIL SE RETIRO LA DEMANDA DESPUES DE PASEAR POR EL 64 DE BOGOTA Y EL 1 DE SOACHA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 246,
+      "createdAt": "2024-02-10T00:54:42.342Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SE DEVUELVEN GARANTIAS EL 21Q DE ABRIL DE 2018 A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 246,
+      "createdAt": "2024-02-10T00:54:42.342Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SIN MEDIDAS CAUTELARES ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:42.342Z"
+}

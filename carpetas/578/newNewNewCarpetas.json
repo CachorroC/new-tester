@@ -1,0 +1,82 @@
+{
+  "id": 35422519,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 578
+  },
+  "demanda": {
+    "capitalAdeudado": "140332319",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2021-08-18T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "2023-00442",
+    "mandamientoPago": null,
+    "municipio": "ZIPAQUIRA",
+    "notificacion": {
+      "id": 578,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "3320096675",
+      "83942050 X T.C MASTER 5491580158404844 Y AMERICAN 377816059851588"
+    ],
+    "radicado": "2023 - 00442",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-03-15T05:00:00.000Z",
+      "2026-08-17T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 578,
+      "fechaOrdenaMedida": "2024-02-03T00:36:35.147Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 578,
+    "telCelular": "3203172020",
+    "telFijo": null,
+    "primerNombre": "DIANA",
+    "segundoNombre": "CRISTINA",
+    "primerApellido": "AREVALO",
+    "segundoApellido": "ARBOLEDA",
+    "cedula": "35422519",
+    "direccion": " CL 4 16 10 AP 201 Barrio Algarra III",
+    "email": "dicrisare@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-00442",
+  "nombre": "DIANA CRISTINA AREVALO ARBOLEDA",
+  "numero": 578,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:35.148Z"
+}

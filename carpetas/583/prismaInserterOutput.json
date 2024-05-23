@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 582,
+    "numero": 583,
+    "llaveProceso": "11001400308120230141400",
+    "nombre": "alba yaneth aparicio sandoval",
+    "idProcesos": [133187160],
+    "category": "Bancolombia"
+  }
+}

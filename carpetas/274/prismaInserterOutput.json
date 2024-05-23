@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 274,
+    "numero": 274,
+    "llaveProceso": "11001400300720170148400",
+    "nombre": "andres guillermo acevedo borraez",
+    "idProcesos": [50760230],
+    "category": "Terminados"
+  }
+}

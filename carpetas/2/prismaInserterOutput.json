@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 2,
+    "numero": 2,
+    "llaveProceso": "11001310304320170055400",
+    "nombre": "edwin andres cuervo verdugo",
+    "idProcesos": [52281244],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 80854028,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["20990164067", "6980087352"],
+    "llaveProceso": "25754400300220180041500",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 4082829900,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "25754400300220190041500",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00415",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2033-05-17T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MANUEL",
+    "segundoNombre": "ARNULFO",
+    "primerApellido": "ARAQUE",
+    "segundoApellido": "MUÑOZ",
+    "cedula": 80854028,
+    "direccion": "CALLE 68 No 81 G-16",
+    "email": "huesos254@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754400300220180041500",
+  "nombre": "MANUEL ARNULFO ARAQUE MUÑOZ",
+  "numero": 510,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:33.629Z"
+}

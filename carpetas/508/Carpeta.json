@@ -1,0 +1,193 @@
+{
+  "id": 11230400,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 508
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "29416113",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-11-26T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-12-07T05:00:16.000Z"],
+    "id": 508,
+    "llaveProceso": "2018-0371",
+    "mandamientoPago": ["2019-01-17T05:00:16.000Z"],
+    "municipio": "LA CALERA",
+    "notificacion": {
+      "id": 508,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2019-04-24T05:00:16.000Z",
+          "fechaAporta": "2019-04-24T05:00:16.000Z",
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "obligacion": ["2490084469"],
+    "radicado": "2018 - 00371",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-01T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 508,
+      "fechaOrdenaMedida": "2019-01-28T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO INMUEBLES"
+    }
+  },
+  "deudor": {
+    "id": 508,
+    "telCelular": "3123703828",
+    "telFijo": null,
+    "primerNombre": "JOSE",
+    "segundoNombre": "ALFONSO",
+    "primerApellido": "VASQUEZ",
+    "segundoApellido": "TOVAR",
+    "cedula": "11230400",
+    "direccion": "CALLE 2 A NO 5-22 APTO 503",
+    "email": "joalvato09@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2018-0371",
+  "nombre": "jose alfonso vasquez tovar",
+  "numero": 508,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.320Z",
+      "pathname": null,
+      "dueDate": "2023-01-16T05:00:00.000Z",
+      "text": "16/12/2022 JUZGADO ENVIA OFICIO EMBARGO ACCIONES ECOPETROL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.320Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " AUTOS DE 18 DE JULIO DE 2023 NO HA LLEGADO RESPUESTA ECOPETROL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.320Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.320Z",
+      "pathname": null,
+      "dueDate": "2019-01-07T05:00:00.000Z",
+      "text": "7/12/2018 SE RADICO DEMANDA EN LA CALERA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.320Z",
+      "pathname": null,
+      "dueDate": "2019-02-24T05:00:00.000Z",
+      "text": " 24/01/2019 SE DECRETO EMBARGO CUOTAS PARTES INMUEBLE 50 N - 20288831 ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.320Z",
+      "pathname": null,
+      "dueDate": "2019-02-28T05:00:00.000Z",
+      "text": "28/01/2019 LIBRA OFICIO A OFICINA DE INSTRUMENTOS PUBLICOS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": "1919-02-17T05:00:00.000Z",
+      "text": " 17/01/19/ LIBRA MANDAMIENTO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": "2019-05-16T05:00:00.000Z",
+      "text": "16/04/2019N SE RADICA EMBARGO EN OFICINA DE INSTRUMENTOS PUBLICOS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": "2019-05-24T05:00:00.000Z",
+      "text": " 24/04/2019 SE RADICO MEMORIAL APORTANDO  CERTIMAIL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": "2019-06-02T05:00:00.000Z",
+      "text": " 30/04/2019 NOTA DEVOLUTIVA EL DEDUOR VENDIO EL INMUEBLE 2/05/2019 SE DICTA SENTENCIA ADELANTE CON LA EJECUCIÓN ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 09/0",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "2019 SE REVOCA PODER A LINA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": "2020-04-05T05:00:00.000Z",
+      "text": " 05/03/2020 SE RADICO LIQUIDACIÓN DEL CRÉDITO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 508,
+      "createdAt": "2024-02-10T00:55:03.321Z",
+      "pathname": null,
+      "dueDate": "2020-05-20T05:00:00.000Z",
+      "text": " 20/04/2020 SE SOLICITO CERTIFICADO PREDIO DE FACATATIVA CERRADO POR RELOTEO ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:03.321Z"
+}

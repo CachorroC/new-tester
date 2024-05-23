@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305220170080900",
+  "numero": 115,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52174728,
+    "direccion": "carrera 80 # 41g - 09 sur",
+    "email": "jucana92@hotmail.com",
+    "tel": {
+      "fijo": 5741561,
+      "celular": 3212344417
+    },
+    "primerNombre": "silvia",
+    "segundoNombre": "maria",
+    "primerApellido": "valenzuela",
+    "segundoApellido": "velasquez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T00:00:00.000Z",
+    "mandamientoPago": "2018-01-23T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400305220170080900",
+    "capitalAdeudado": 1783198906,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [129471],
+    "radicado": "2017 - 00809",
+    "vencimientoPagare": ["2025-06-17T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52174728,
+  "idProcesos": null
+}

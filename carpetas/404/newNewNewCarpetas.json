@@ -1,0 +1,59 @@
+{
+  "id": 1013586083,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["167362"],
+    "llaveProceso": "257544189003201800177",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 18236088,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2018-02-21T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00177",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2033-08-28T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 2035780,
+      "celular": 3102259717
+    },
+    "primerNombre": "CESAR",
+    "segundoNombre": "AUGUSTO",
+    "primerApellido": "PINEDA",
+    "segundoApellido": "RIOS",
+    "cedula": 1013586083,
+    "direccion": "DIAGONAL 18 B No 44-24",
+    "email": "cesar.rios_30@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "257544189003201800177",
+  "nombre": "CESAR AUGUSTO PINEDA RIOS",
+  "numero": 404,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:06.056Z"
+}

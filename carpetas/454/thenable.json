@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308420180067300",
+  "numero": 454,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80089235,
+    "direccion": "calle 151 no 14a-32 apto 10",
+    "email": "cocomarnico@gmail.com",
+    "tel": {
+      "fijo": 2863225,
+      "celular": 3114473402
+    },
+    "primerNombre": "nicolas",
+    "segundoNombre": "ernesto",
+    "primerApellido": "cocoma",
+    "segundoApellido": "arciniegas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-06-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-26T00:00:00.000Z",
+    "expediente": "11001400308420180067300",
+    "capitalAdeudado": 15580021,
+    "etapaProcesal": "1.100140030842018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [4594250129248050, 5303710259485390],
+    "radicado": "2018 - 00673",
+    "vencimientoPagare": ["2021-02-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80089235,
+  "idProcesos": null
+}

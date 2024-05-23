@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:02.658Z",
+  "proceso": {
+    "idProceso": 18175150,
+    "idConexion": 260,
+    "llaveProceso": "11001400306520180061200",
+    "fechaProceso": "2018-05-10T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-04-30T05:00:00.000Z",
+    "despacho": "JUZGADO 065 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ARCANGEL HERNANDEZ RODRIGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 65,
+      "tipo": "JUZGADO 065 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-65-civil-municipal-de-bogota"
+    }
+  }
+}

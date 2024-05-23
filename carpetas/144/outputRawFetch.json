@@ -1,0 +1,46 @@
+{
+  "tipoConsulta": "NumeroRadicacion",
+  "procesos": [
+    {
+      "idProceso": 50652400,
+      "idConexion": 259,
+      "llaveProceso": "11001400302620170087200",
+      "fechaProceso": "2017-08-23T00:00:00",
+      "fechaUltimaActuacion": "2022-02-23T00:00:00",
+      "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JHON EDER CHACON GONZALEZ | Demandado: MARIA FILOMENA GONZALEZ SALAS ",
+      "esPrivado": false,
+      "cantFilas": -1
+    },
+    {
+      "idProceso": 81647161,
+      "idConexion": 320,
+      "llaveProceso": "11001400302620170087200",
+      "fechaProceso": "2019-07-30T00:00:00",
+      "fechaUltimaActuacion": "2019-07-30T00:00:00",
+      "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: MARIA FILOMENA GONZALEZ SALAS (Emplazado) | Demandado/indiciado/causante: JHON EDER CHACON GONZALEZ (Emplazado) | Defensor Privado: lina julied avila salcedo ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "parametros": {
+    "numero": "11001400302620170087200",
+    "nombre": null,
+    "tipoPersona": null,
+    "idSujeto": null,
+    "ponente": null,
+    "claseProceso": null,
+    "codificacionDespacho": null,
+    "soloActivos": false
+  },
+  "paginacion": {
+    "cantidadRegistros": 2,
+    "registrosPagina": 20,
+    "cantidadPaginas": 1,
+    "pagina": 1,
+    "paginas": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 80403235,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 382
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "11224313",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-11-01T05:00:00.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 382,
+    "llaveProceso": "25662408900120180000400",
+    "mandamientoPago": [],
+    "municipio": "SAN JUAN DE RIOSECO",
+    "notificacion": {
+      "id": 382,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.153Z",
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["3720086711"],
+    "radicado": "2018 - 00004",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:43.716Z"],
+    "medidasCautelares": {
+      "id": 382,
+      "fechaOrdenaMedida": "2024-02-10T00:54:54.855Z",
+      "medidaSolicitada": "43378"
+    }
+  },
+  "deudor": {
+    "id": 382,
+    "telCelular": "3107518479",
+    "telFijo": null,
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "LANCHEROS",
+    "segundoApellido": "BARRAGAN",
+    "cedula": "80403235",
+    "direccion": "CARRERA 4 NO 5 - 02 SAN JUAN DE RIO SECO",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25662408900120180000400",
+  "nombre": "carlos alberto lancheros barragan",
+  "numero": 382,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 382,
+      "createdAt": "2024-02-10T00:54:54.855Z",
+      "pathname": null,
+      "dueDate": "2020-10-17T05:00:00.000Z",
+      "text": "EL 17/09/2020 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 382,
+      "createdAt": "2024-02-10T00:54:54.855Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " GARANTIAS Y LEVANTAMIENTO DE MEDIDAS CAUTELARES A CARGO DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:54.855Z"
+}

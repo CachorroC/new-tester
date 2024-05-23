@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 484,
+    "cedula": "51987570",
+    "primerNombre": "sandra",
+    "primerApellido": "pacheco",
+    "segundoNombre": "patricia",
+    "segundoApellido": "ramirez",
+    "direccion": "calle 163 b no 50-80  interior 10 apt 231 conjunto la estancia iii",
+    "email": "sandrabogota2007@yahoo.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 491
+  }
+}

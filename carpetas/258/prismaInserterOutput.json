@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 258,
+    "numero": 258,
+    "llaveProceso": "11001400301320170117800",
+    "nombre": "sol judith buitrago duque",
+    "idProcesos": [50692590],
+    "category": "Reintegra"
+  }
+}

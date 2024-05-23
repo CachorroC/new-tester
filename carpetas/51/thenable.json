@@ -1,0 +1,44 @@
+{
+  "llaveProceso": "11001400300920170060700",
+  "numero": 51,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 37549188,
+    "direccion": "carrera 54c no. 143-a-90//carrera 54c no. 143-a-90 apto 213 torre 2 conjunto residencial barcelona ph",
+    "email": "caromartinezvera@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3175921396
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "carolina",
+    "primerApellido": "martinez",
+    "segundoApellido": "vera"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-23T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400300920170060700",
+    "capitalAdeudado": 0,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "6610083691//161451//3778815787383070",
+      "5303715153971258//4513076874137526//AUDIOPRESTAMO"
+    ],
+    "radicado": "2017 - 00607",
+    "vencimientoPagare": ["2017-02-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79948168,
+    "direccion": "CARRERA 54C No. 143-A-90",
+    "nombre": "danilo humberto marroquin salas"
+  },
+  "cc": 37549188,
+  "idProcesos": null
+}

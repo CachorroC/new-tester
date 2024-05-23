@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 272,
+    "cedula": "39670695",
+    "primerNombre": "hortencia",
+    "primerApellido": "garzon",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "transversal 4 b no 3 - 64 sur  apto 473  soacha",
+    "email": "rokerita19748@hotmail.com",
+    "telCelular": "3208100658",
+    "telFijo": "6012243",
+    "carpetaNumero": 275
+  }
+}

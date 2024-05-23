@@ -1,0 +1,47 @@
+{
+  "id": 52115085,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["AUDIOPRETAMO / 377815771894801", "4513070000000000"],
+    "llaveProceso": "11001418900820180076100",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1649204134,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-18T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00761",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3468511,
+      "celular": 3002667595
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARGARITA",
+    "primerApellido": "BUSTOS",
+    "segundoApellido": "BALLEN",
+    "cedula": 52115085,
+    "direccion": "CALLE 75 A No 110C-17",
+    "email": "margobus2003@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418900820180076100",
+  "nombre": "DIANA MARGARITA BUSTOS BALLEN",
+  "numero": 485,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:28.965Z"
+}

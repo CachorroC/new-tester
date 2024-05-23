@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 221,
+    "numero": 221,
+    "llaveProceso": "11001400301320170115700",
+    "nombre": "beatriz null helena machado",
+    "idProcesos": [50684250],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 52278914,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": [
+      "6520089408",
+      "TARJETA MASTER CARD No. 5303720118094313 Y TARJETA AMERICAN No. 0377844026948428"
+    ],
+    "llaveProceso": "08001418901820230073500",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2023 - 00884",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-03-02T05:00:00.000Z",
+      "2026-03-20T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7848056,
+      "celular": 3153208374
+    },
+    "primerNombre": "LUZ",
+    "segundoNombre": "JANNETH",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MORENO",
+    "cedula": 52278914,
+    "direccion": "Carrera 87 No. 48 – 50 Sur Casa 26 Conjunto Residencial Alameda de San José II",
+    "email": "lurodrig@corona.com.co  jrodriguez2805@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "08001418901820230073500",
+  "nombre": "LUZ JANNETH RODRIGUEZ MORENO",
+  "numero": 561,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:49.344Z"
+}

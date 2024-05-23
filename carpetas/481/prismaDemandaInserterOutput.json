@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 475,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1276862700",
+    "entregaGarantiasAbogado": "2018-03-09T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": null,
+    "municipio": "kENNEDY",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2019 - 00276",
+    "vencimientoPagare": [],
+    "expediente": "11001410375120190027600",
+    "carpetaNumero": 481,
+    "despacho": null
+  }
+}

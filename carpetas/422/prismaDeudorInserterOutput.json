@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 418,
+    "cedula": "41722029",
+    "primerNombre": "luz",
+    "primerApellido": "muñoz",
+    "segundoNombre": "yolanda",
+    "segundoApellido": "murcia",
+    "direccion": "calle 12 c- no 71c-60 int. 6 apto 403",
+    "email": "miyura1212@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 422
+  }
+}

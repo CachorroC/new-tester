@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2017-12-04T05:00:00.000Z",
+  "idProcesos": [50527120],
+  "idRegUltimaAct": 570501160,
+  "llaveProceso": "11001400300320170106500",
+  "nombre": "RAFAEL GONZALEZ OLEJUA",
+  "numero": 82,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:33.523Z"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:09.577Z",
+  "proceso": {
+    "idProceso": 74646350,
+    "idConexion": 259,
+    "llaveProceso": "11001400301920170052800",
+    "fechaProceso": "2017-06-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-03T05:00:00.000Z",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: EDISON PALMA CARDENAL ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 13,
+      "tipo": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-13-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

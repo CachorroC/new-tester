@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:13.409Z",
+  "proceso": {
+    "idProceso": 64641230,
+    "idConexion": 259,
+    "llaveProceso": "11001400305320180094500",
+    "fechaProceso": "2018-07-25T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-17T05:00:00.000Z",
+    "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CESAR ARMANDO VANEGAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 6,
+      "tipo": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-06-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

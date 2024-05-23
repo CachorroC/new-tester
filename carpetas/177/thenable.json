@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304520170104100",
+  "numero": 177,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79327475,
+    "direccion": "carrera 85 # 52 - 05 sur",
+    "email": "leonardyherrera@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "leonardy",
+    "primerApellido": "herrera",
+    "segundoApellido": "rojas",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "expediente": "11001400304520170104100",
+    "capitalAdeudado": 18696053,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2290099501],
+    "radicado": "2017 - 01041",
+    "vencimientoPagare": ["2022-06-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79327475,
+  "idProcesos": null
+}

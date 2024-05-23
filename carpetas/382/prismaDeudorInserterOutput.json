@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 379,
+    "cedula": "80403235",
+    "primerNombre": "carlos",
+    "primerApellido": "lancheros",
+    "segundoNombre": "alberto",
+    "segundoApellido": "barragan",
+    "direccion": "carrera 4 no 5 - 02 san juan de rio seco",
+    "email": null,
+    "telCelular": "3107518479",
+    "telFijo": null,
+    "carpetaNumero": 382
+  }
+}

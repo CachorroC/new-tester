@@ -1,0 +1,45 @@
+{
+  "llaveProceso": "11001400307620180005200",
+  "numero": 376,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "LiosJuridicos",
+  "deudor": {
+    "cedula": 11203111,
+    "direccion": "calle 128 96a - 05 casa 3 multifamiliar arrayanes",
+    "email": "roberto.rico.ruiz@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "roberto",
+    "primerApellido": "rico",
+    "segundoApellido": "ruiz",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-08-22T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307620180005200",
+    "capitalAdeudado": 2730845464,
+    "etapaProcesal": "EL 22-08-2018 EL JUZGADO DECRETO LA TERMINACIÓN DEL PROCESO POR PAGO CUOTAS EN MORA DE LA OBLIGACIÓN HIPOTECARIA //  SE ENVIO SOLICITUD DESARCHIVE EL 18 DE AGOSOTO DE 2023 A ARCHIVO CENTRAL .",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      118010,
+      "377813183474353 // 4513074148699942 / 5491579209500691"
+    ],
+    "radicado": "2018 - 00052",
+    "vencimientoPagare": ["2019-04-29T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52804144,
+    "direccion": "CALLE 128 96A - 05",
+    "nombre": "doris garzon talero",
+    "telefono": 3491122
+  },
+  "cc": 11203111,
+  "idProcesos": null
+}

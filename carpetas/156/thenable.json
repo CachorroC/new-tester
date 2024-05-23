@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25473400300120170077700",
+  "numero": 156,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52431512,
+    "direccion": "carrera 10 # 5 - 62 torre 7 apto 127",
+    "email": "gerencia@logimontacargas.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "martha",
+    "segundoNombre": "patricia",
+    "primerApellido": "morales",
+    "segundoApellido": "sarmiento"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-28T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "25473400300120170077700",
+    "capitalAdeudado": 41371151,
+    "etapaProcesal": "2.547340030012017e+22",
+    "municipio": "MOSQUERA",
+    "obligacion": [12519120, 12549733],
+    "radicado": "2017 - 00777",
+    "vencimientoPagare": ["2020-08-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52431512,
+  "idProcesos": null
+}

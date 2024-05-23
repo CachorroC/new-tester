@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 511,
+    "cedula": "1014185022",
+    "primerNombre": "luisa",
+    "primerApellido": "escobar",
+    "segundoNombre": "alejandra",
+    "segundoApellido": "andrade",
+    "direccion": "calle 90a no 45 a- 05",
+    "email": "aleja202007@hotmail.com",
+    "telCelular": "3123704906",
+    "telFijo": null,
+    "carpetaNumero": 523
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 449,
+    "cedula": "80089235",
+    "primerNombre": "nicolas",
+    "primerApellido": "cocoma",
+    "segundoNombre": "ernesto",
+    "segundoApellido": "arciniegas",
+    "direccion": "calle 151 no 14a-32 apto 10",
+    "email": "cocomarnico@gmail.com",
+    "telCelular": "3114473402",
+    "telFijo": "2863225",
+    "carpetaNumero": 454
+  }
+}

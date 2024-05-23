@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 347,
+    "cedula": "80111672",
+    "primerNombre": "diego",
+    "primerApellido": "vergara",
+    "segundoNombre": "ferney",
+    "segundoApellido": "valderrama",
+    "direccion": "calle 51  sur no  80 - 24",
+    "email": "diegovergarav@hotmail.com",
+    "telCelular": "3112441540",
+    "telFijo": "4647087",
+    "carpetaNumero": 350
+  }
+}

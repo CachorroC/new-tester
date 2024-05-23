@@ -1,0 +1,59 @@
+{
+  "id": 80792987,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["152654"],
+    "llaveProceso": "11001400308120180026400",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-05-04T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 17508189,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-02-22T05:00:00.000Z"],
+    "mandamientoPago": "2018-03-04T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00264",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2018-06-06T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JHON",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "BEJARANO",
+    "segundoApellido": "FONSECA",
+    "cedula": 80792987,
+    "direccion": "CALLE 4 D No 39 C-22",
+    "email": "jhonbeja227@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308120180026400",
+  "nombre": "JHON ALEXANDER BEJARANO FONSECA",
+  "numero": 408,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:07.727Z"
+}

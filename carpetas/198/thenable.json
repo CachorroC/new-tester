@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304020170132900",
+  "numero": 198,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1012318156,
+    "direccion": "carrera 80m # 74 - 04 sur",
+    "email": "hectormanuelverdolaga@gmail.com",
+    "tel": {
+      "fijo": 3142498,
+      "celular": 3142998727
+    },
+    "primerNombre": "hector",
+    "segundoNombre": "manuel",
+    "primerApellido": "ramirez",
+    "segundoApellido": "puentes"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "expediente": "11001400304020170132900",
+    "capitalAdeudado": 2920487950,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [167542],
+    "radicado": "2017 - 01329",
+    "vencimientoPagare": ["2028-09-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1012318156,
+  "idProcesos": null
+}

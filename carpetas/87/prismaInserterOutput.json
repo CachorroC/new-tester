@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 87,
+    "numero": 87,
+    "llaveProceso": "11001400304620170056100",
+    "nombre": "omar null espitia reyes",
+    "idProcesos": [10130493],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 218,
+    "cedula": "52192430",
+    "primerNombre": "beatriz",
+    "primerApellido": "machado",
+    "segundoNombre": "helena",
+    "segundoApellido": null,
+    "direccion": "carrera 81a # 54 - 32",
+    "email": null,
+    "telCelular": "3103025587",
+    "telFijo": "4506940",
+    "carpetaNumero": 221
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400304220170076000",
+  "numero": 58,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 14273737,
+    "direccion": "calle 23 d no.107-32 bogota",
+    "email": "lejopaerez@hotmail.com",
+    "tel": {
+      "fijo": 4183276,
+      "celular": 3228293322
+    },
+    "primerNombre": "josé",
+    "segundoNombre": "uriel",
+    "primerApellido": "paerez",
+    "segundoApellido": "perdomo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-13T00:00:00.000Z",
+    "mandamientoPago": "2017-07-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-08T00:00:00.000Z",
+    "expediente": "11001400304220170076000",
+    "capitalAdeudado": 96125453,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "5820083643//377816164971529",
+      "4513080225477441//5303720124048311"
+    ],
+    "radicado": "2017-00760",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 14273737,
+  "idProcesos": null
+}

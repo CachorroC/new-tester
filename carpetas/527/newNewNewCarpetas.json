@@ -1,0 +1,73 @@
+{
+  "id": 80654935,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "SANDRA MILENA VALBUENA RINCON",
+    "cedula": "52661952",
+    "direccion": "CALLE 7A # 7A-15 FUNZA",
+    "telefono": "F 8259768",
+    "id": 527
+  },
+  "demanda": {
+    "obligacion": ["2273 320097153", "REF 42796745"],
+    "llaveProceso": "25286400300120190041800",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:11:38.468Z",
+      "medidaSolicitada": "15/08/2019"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "25286400300120190041800",
+    "fechaPresentacion": [],
+    "mandamientoPago": "2019-05-06T05:00:00.000Z",
+    "municipio": "FUNZA",
+    "radicado": "2019 - 00418",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [
+      "2022-01-03T05:00:00.000Z",
+      "2022-05-25T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8233553,
+      "celular": 3108090708
+    },
+    "primerNombre": "JAIRO",
+    "segundoNombre": "MARCELO",
+    "primerApellido": "GUIZA",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": 80654935,
+    "direccion": "CALLE 7A #7A-15 FUNZA",
+    "email": "jmarcelo_78@yahoo.com // samvari12@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25286400300120190041800",
+  "nombre": "JAIRO MARCELO GUIZA RODRIGUEZ",
+  "numero": 527,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:38.468Z"
+}

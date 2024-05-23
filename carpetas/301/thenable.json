@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25322418900120180002200",
+  "numero": 301,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 35220385,
+    "direccion": null,
+    "email": "CALLE 1 A - No 6-68 PORTAL  GUASCA",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "blanca",
+    "segundoNombre": "yolanda",
+    "primerApellido": "acosta",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25322418900120180002200",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "43026",
+    "municipio": "GUASCA",
+    "obligacion": [169241, "24.721.567.58"],
+    "radicado": "2018 - 00022",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 44166
+  },
+  "cc": 35220385,
+  "idProcesos": null
+}

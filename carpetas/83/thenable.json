@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301920170102500",
+  "numero": 83,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19438068,
+    "direccion": "carrera 29 no 12  a - 46",
+    "email": "luisadopa@gmail.com",
+    "tel": {
+      "fijo": 2478114,
+      "celular": 3115672367
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "adolfo",
+    "primerApellido": "peña",
+    "segundoApellido": "arciniegas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400301920170102500",
+    "capitalAdeudado": 1427297142,
+    "etapaProcesal": "1.100140030192017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12436479],
+    "radicado": "2017 - 01025",
+    "vencimientoPagare": ["2017-09-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19438068,
+  "idProcesos": null
+}

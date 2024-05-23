@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:39.683Z",
+  "proceso": {
+    "idProceso": 134525980,
+    "idConexion": 259,
+    "llaveProceso": "11001400302720230116700",
+    "fechaProceso": "2023-11-01T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-12-11T05:00:00.000Z",
+    "despacho": "JUZGADO 027 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MAYRA ALEJANDRA VALBUENA BARRERO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 27,
+      "tipo": "JUZGADO 027 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-027-civil-municipal-de-bogota"
+    }
+  }
+}

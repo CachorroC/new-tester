@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400308520170159600",
+  "numero": 329,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 10180062,
+    "direccion": "avenida calle 153 no 119 -40 interior 1 casa 17 bosques de camino verde agrupacion 2",
+    "email": "reinaldomelen@hotmail.com",
+    "tel": {
+      "fijo": 2287430,
+      "celular": 3107584138
+    },
+    "primerNombre": "reinaldo",
+    "segundoNombre": "adrian",
+    "primerApellido": "melendez",
+    "segundoApellido": ["", "varon"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-11-09T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-01T00:00:00.000Z",
+    "expediente": "11001400308520170159600",
+    "capitalAdeudado": 13537828,
+    "etapaProcesal": "1.1001400308520171e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [79669],
+    "radicado": "2017 - 01596",
+    "vencimientoPagare": ["2020-02-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52079975,
+    "direccion": "AVENIDA CALLE 153 No 119 -40 INTERIOR 1 CASA 17 BOSQUES DE CAMINO VERDE AGRUPACION 2",
+    "nombre": "yeny patricia podada romero",
+    "telefono": "F 2287430"
+  },
+  "cc": 10180062,
+  "idProcesos": null
+}

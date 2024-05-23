@@ -1,0 +1,53 @@
+{
+  "id": 51953414,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "CARLOS ANDRES SUAREZ GORDILLO",
+    "cedula": "1014202066",
+    "direccion": null,
+    "telefono": null,
+    "id": 372
+  },
+  "demanda": {
+    "obligacion": ["120770"],
+    "llaveProceso": "25754400300220180007000",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-11-01T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-01-19T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00070",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2024-07-31T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3152482331
+    },
+    "primerNombre": "JANETH",
+    "segundoNombre": "RUBIELA",
+    "primerApellido": "GORDILLO",
+    "segundoApellido": "PINZON",
+    "cedula": 51953414,
+    "direccion": "TRANSVERSAL 49 # 3 - 92 CASA 360 ZAPAN 3",
+    "email": "janethrpinzon@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754400300220180007000",
+  "nombre": "JANETH RUBIELA GORDILLO PINZON",
+  "numero": 372,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:55.565Z"
+}

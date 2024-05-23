@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 388,
+    "numero": 388,
+    "llaveProceso": "11001400301720180011100",
+    "nombre": "ximena  escobar pucceti",
+    "idProcesos": [50993830],
+    "category": "Terminados"
+  }
+}

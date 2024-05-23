@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 228,
+    "numero": 228,
+    "llaveProceso": "11001400301820170151700",
+    "nombre": "fabian alexander gil gil",
+    "idProcesos": [50710250],
+    "category": "Terminados"
+  }
+}

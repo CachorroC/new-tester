@@ -1,0 +1,76 @@
+{
+  "id": 53132436,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 571
+  },
+  "demanda": {
+    "capitalAdeudado": "24843938",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-08-04T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "2023-01289",
+    "mandamientoPago": null,
+    "municipio": "MOSQUERA",
+    "notificacion": {
+      "id": 571,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["1380089168"],
+    "radicado": "2023 - 01289",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 571,
+      "fechaOrdenaMedida": "2024-02-03T00:36:33.741Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 571,
+    "telCelular": "3126172174",
+    "telFijo": "5751066 ",
+    "primerNombre": "ERLI",
+    "segundoNombre": "YANETH",
+    "primerApellido": "OYUELA",
+    "segundoApellido": "MARTINEZ",
+    "cedula": "53132436",
+    "direccion": "Carrera 10 No. 5 - 62 Bloque Torre 1 Apartamento 202 Conjunto Residencial Belverde I del municipio de Mosquera",
+    "email": "capryeyom@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-01289",
+  "nombre": "ERLI YANETH OYUELA MARTINEZ",
+  "numero": 571,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:33.741Z"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:16.951Z",
+  "savedDate": 1565326800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1951995520,
+    "llaveProceso": "11001400305620180022100",
+    "consActuacion": 80,
+    "fechaActuacion": "2024-02-09T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 1490-2024, No. Reloj Radicador: 18533, Entidad o Señor(a): GUILLERMINA VIUCHY GAITAN - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Memorial, Observaciones: ASUNTO: RESPUESTA AL OFICIO OOECM-1223DT-2896 - REMISION HOCOL S.A.",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-09T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 80,
+    "isUltimaAct": true,
+    "idProceso": 51042800
+  }
+}

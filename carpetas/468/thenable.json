@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001408900420180038400",
+  "numero": 468,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79719969,
+    "direccion": "calle 63 bis no 69 a-29",
+    "email": "cenp11@hotmail.com",
+    "tel": {
+      "fijo": 2400591,
+      "celular": 3102438242
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "eduardo",
+    "primerApellido": "naranjo",
+    "segundoApellido": "piñeros"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-08-09T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-08-03T00:00:00.000Z",
+    "expediente": "11001408900420180038400",
+    "capitalAdeudado": 16881706,
+    "etapaProcesal": "1.100141890042018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [3880083739, 377813300070688],
+    "radicado": "2018 - 00384",
+    "vencimientoPagare": ["2020-06-08T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79719969,
+  "idProcesos": null
+}

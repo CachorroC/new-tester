@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 475,
+    "cedula": "80019013",
+    "primerNombre": "willintong",
+    "primerApellido": "",
+    "segundoNombre": "mario",
+    "segundoApellido": "yaruro,peñaranda",
+    "direccion": "calle 26 sur no 95a-49 bl 9 apto 102",
+    "email": "willi.1977@hotmail.com",
+    "telCelular": "3144195480",
+    "telFijo": "5731671",
+    "carpetaNumero": 481
+  }
+}

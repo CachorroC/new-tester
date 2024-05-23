@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:14.317Z",
+  "savedDate": "2017-10-26T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1558599213,
+    "llaveProceso": "11001400304520170106300",
+    "consActuacion": 46,
+    "fechaActuacion": "2023-03-07T05:00:00.000Z",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 07/03/2023 a las 16:56:14.",
+    "fechaInicial": "2023-03-08T05:00:00.000Z",
+    "fechaFinal": "2023-03-08T05:00:00.000Z",
+    "fechaRegistro": "2023-03-07T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 46,
+    "isUltimaAct": true,
+    "idProceso": 110120573
+  }
+}

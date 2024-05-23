@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 286,
+    "numero": 286,
+    "llaveProceso": "11001400301720170119500",
+    "nombre": "alirio null heredia buitrago",
+    "idProcesos": [50721470, 127748331],
+    "category": "Reintegra"
+  }
+}

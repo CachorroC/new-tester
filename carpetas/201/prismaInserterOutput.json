@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 201,
+    "numero": 201,
+    "llaveProceso": "11001400307920170114200",
+    "nombre": "piedad maritza olga rocio,prieto,vargas",
+    "idProcesos": [128433271],
+    "category": "Insolvencia"
+  }
+}

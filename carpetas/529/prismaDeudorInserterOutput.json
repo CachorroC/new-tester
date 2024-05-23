@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 517,
+    "cedula": "2976219",
+    "primerNombre": "gonzalo",
+    "primerApellido": "poveda",
+    "segundoNombre": "contreras",
+    "segundoApellido": null,
+    "direccion": "carrera 39 b no 20t-1 apto 303",
+    "email": "gcontreras@intecq.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 529
+  }
+}

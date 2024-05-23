@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306020170101400",
+  "numero": 340,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79573945,
+    "direccion": "carrera 19  no 56 a  sur - 72",
+    "email": "cubrimage@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "william",
+    "primerApellido": "cortes",
+    "segundoApellido": "rojas",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-10-10T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-04T00:00:00.000Z",
+    "expediente": "11001400306020170101400",
+    "capitalAdeudado": 14986915,
+    "etapaProcesal": "1.100140030602017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [6690082032],
+    "radicado": "2017 - 01014",
+    "vencimientoPagare": ["2018-09-25T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79573945,
+  "idProcesos": null
+}

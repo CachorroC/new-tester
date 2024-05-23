@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-09-29T05:00:00.000Z",
+  "idProcesos": [50666380],
+  "idRegUltimaAct": 1888508020,
+  "llaveProceso": "11001400300920170083700",
+  "nombre": "DORA AIDE PEÑA PEÑA",
+  "numero": 166,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:46.930Z"
+}

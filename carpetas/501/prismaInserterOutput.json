@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 501,
+    "numero": 501,
+    "llaveProceso": "11001400305520180131600",
+    "nombre": "asociacion null agropecuaria ucebul",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

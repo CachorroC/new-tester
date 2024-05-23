@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 80,
+    "numero": 80,
+    "llaveProceso": "25817418900120170035100",
+    "nombre": "jorge andres porras vargas",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

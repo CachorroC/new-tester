@@ -1,0 +1,41 @@
+{
+  "llaveProceso": "11001400307120180093600",
+  "numero": 482,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52380535,
+    "direccion": "carrera 88d no 6d-27 torre 6 apto 618",
+    "email": "ccortes3500@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "claudia",
+    "segundoNombre": "janeth",
+    "primerApellido": "cortes",
+    "segundoApellido": "rosas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-08-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307120180093600",
+    "capitalAdeudado": 3532103375,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990114419],
+    "radicado": "2018 - 00936",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 80441668,
+    "nombre": "oscar castiblanco niño",
+    "telefono": 3568112
+  },
+  "cc": 52380535,
+  "idProcesos": null
+}

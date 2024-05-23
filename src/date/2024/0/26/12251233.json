@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:21.735Z",
+  "proceso": {
+    "idProceso": 12251233,
+    "idConexion": 261,
+    "llaveProceso": "11001400305420170071200",
+    "fechaProceso": "2017-08-11T05:00:00.000Z",
+    "fechaUltimaActuacion": "2017-11-15T05:00:00.000Z",
+    "despacho": "JUZGADO 054 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: KAREN VIVIANA CASTAÑO CORONADO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 54,
+      "tipo": "JUZGADO 054 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-054-civil-municipal-de-bogota"
+    }
+  }
+}

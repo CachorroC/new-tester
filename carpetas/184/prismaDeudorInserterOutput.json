@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 181,
+    "cedula": "17650971",
+    "primerNombre": "juan",
+    "primerApellido": "tovar",
+    "segundoNombre": "carlos",
+    "segundoApellido": "toledo",
+    "direccion": "carrera 86 # 69 h - 40",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 184
+  }
+}

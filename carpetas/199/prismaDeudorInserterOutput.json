@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 196,
+    "cedula": "1106893308",
+    "primerNombre": "martha",
+    "primerApellido": "ramirez",
+    "segundoNombre": "liliana",
+    "segundoApellido": "colorado",
+    "direccion": "vereda boqueron  finca la milagrosa municipio fusa // calle 3 # 37 - 21 barrio sicamoro melgar",
+    "email": "liliaramirez17@gmail.com",
+    "telCelular": "3108612781",
+    "telFijo": "8612781",
+    "carpetaNumero": 199
+  }
+}

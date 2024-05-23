@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 115,
+    "cedula": "52548162",
+    "primerNombre": "ana",
+    "primerApellido": "mantilla",
+    "segundoNombre": "karina",
+    "segundoApellido": "pardo",
+    "direccion": "carrera 51a # 127 - 75 apto 1102",
+    "email": "karinamantilla@hotmail.com",
+    "telCelular": "3164355892",
+    "telFijo": "3579028",
+    "carpetaNumero": 116
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 208,
+    "cedula": "17652071",
+    "primerNombre": "saul",
+    "primerApellido": "ramirez",
+    "segundoNombre": "barbosa",
+    "segundoApellido": null,
+    "direccion": "carrera 4a # 11 - 44 funza",
+    "email": "marimar832010@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 211
+  }
+}

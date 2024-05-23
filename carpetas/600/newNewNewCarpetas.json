@@ -1,0 +1,198 @@
+{
+  "id": 39754133,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1329110771,
+      "llaveProceso": "11001400304220230122300",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-12-18T05:00:00.000Z",
+      "actuacion": "Elaboración de oficios",
+      "anotacion": "C, Oficios No.2525 y 2526 embargo Registro (2). Para Revisión y firma.",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-12-19T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 162562561,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-03T00:36:38.904Z"
+    },
+    {
+      "idRegActuacion": 1325547101,
+      "llaveProceso": "11001400304220230122300",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-12-11T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 11/12/2023 a las 15:10:24.",
+      "fechaInicial": "2023-12-12T05:00:00.000Z",
+      "fechaFinal": "2023-12-12T05:00:00.000Z",
+      "fechaRegistro": "2023-12-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 162562561,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:38.904Z"
+    },
+    {
+      "idRegActuacion": 1325547091,
+      "llaveProceso": "11001400304220230122300",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-12-11T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": "DECRETA EMBARGO",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-12-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 162562561,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:38.904Z"
+    },
+    {
+      "idRegActuacion": 1320276671,
+      "llaveProceso": "11001400304220230122300",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-11-27T05:00:00.000Z",
+      "actuacion": "Al Despacho Por Reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 162562561,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:38.904Z"
+    },
+    {
+      "idRegActuacion": 1320276661,
+      "llaveProceso": "11001400304220230122300",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-11-27T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 27/11/2023 a las 09:12:29",
+      "fechaInicial": "2023-11-27T05:00:00.000Z",
+      "fechaFinal": "2023-11-27T05:00:00.000Z",
+      "fechaRegistro": "2023-11-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 162562561,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:38.904Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 600
+  },
+  "demanda": {
+    "capitalAdeudado": "85581623",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-21T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "11001400304220230122300",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 600,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["9440003508", "377814040247933"],
+    "radicado": "2023 - 1223",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-07-04T05:00:00.000Z",
+      "2026-07-19T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 600,
+      "fechaOrdenaMedida": "2024-02-03T00:36:38.763Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 600,
+    "telCelular": "3142969949",
+    "telFijo": "6791808 ",
+    "primerNombre": "DIANA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "ESCOBAR",
+    "segundoApellido": "CASTRO",
+    "cedula": "39754133",
+    "direccion": "Calle 163 No. 54 C 68 Conjunto Residencial Mirador del Parque II Bogotá",
+    "email": "descovbar@hotmail.com"
+  },
+  "fecha": "2023-12-18T05:00:00.000Z",
+  "idProcesos": [162562561],
+  "idRegUltimaAct": 1329110771,
+  "llaveProceso": "11001400304220230122300",
+  "nombre": "DIANA PATRICIA ESCOBAR CASTRO",
+  "numero": 600,
+  "procesos": [
+    {
+      "idProceso": 162562561,
+      "idConexion": 256,
+      "llaveProceso": "11001400304220230122300",
+      "fechaProceso": "2023-11-27T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-12-18T05:00:00.000Z",
+      "despacho": "JUZGADO 042 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DIANA PATRICIA ESCOBAR CASTRO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 42,
+        "tipo": "JUZGADO 042 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-42-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1329110771,
+    "llaveProceso": "11001400304220230122300",
+    "consActuacion": 5,
+    "fechaActuacion": "2023-12-18T05:00:00.000Z",
+    "actuacion": "Elaboración de oficios",
+    "anotacion": "C, Oficios No.2525 y 2526 embargo Registro (2). Para Revisión y firma.",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-12-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 5,
+    "idProceso": 162562561,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-02-03T00:36:38.763Z"
+}

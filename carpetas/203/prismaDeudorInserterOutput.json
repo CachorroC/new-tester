@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 200,
+    "cedula": "80380775",
+    "primerNombre": "gonzalo",
+    "primerApellido": "martinez",
+    "segundoNombre": "villabon",
+    "segundoApellido": null,
+    "direccion": "calle 92 bis sur # 3 - 61",
+    "email": "fantavillabon@hotmail.com",
+    "telCelular": "3118264932",
+    "telFijo": "7672705",
+    "carpetaNumero": 203
+  }
+}

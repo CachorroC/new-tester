@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 353,
+    "cedula": "53119460",
+    "primerNombre": "sonia",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "ximena",
+    "segundoApellido": "sanchez",
+    "direccion": "carrera 81 b no  19 b- 50 apartamento 601",
+    "email": "ximenars29@hotmail.com",
+    "telCelular": null,
+    "telFijo": "4707082",
+    "carpetaNumero": 356
+  }
+}

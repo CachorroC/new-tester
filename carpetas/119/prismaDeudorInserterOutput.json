@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 118,
+    "cedula": "79693495",
+    "primerNombre": "cesar",
+    "primerApellido": "gil",
+    "segundoNombre": "augusto",
+    "segundoApellido": "gallego",
+    "direccion": "diagonal 2a suer # 78l - 81 apto 501b",
+    "email": "carolcecesar@gmail.com",
+    "telCelular": "3103789233",
+    "telFijo": "4610722",
+    "carpetaNumero": 119
+  }
+}

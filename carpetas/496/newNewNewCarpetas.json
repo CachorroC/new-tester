@@ -1,0 +1,79 @@
+{
+  "id": 13222728,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 496
+  },
+  "demanda": {
+    "capitalAdeudado": "27373832",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-09-18T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-10-04T05:00:16.000Z"],
+    "llaveProceso": "201800602",
+    "mandamientoPago": "2018-10-12T05:00:16.000Z",
+    "municipio": "CHIA",
+    "notificacion": {
+      "id": 496,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2018-11-26T05:00:16.000Z",
+          "fechaAporta": "2018-12-06T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": null
+    },
+    "obligacion": ["AUDIOPRESTAMO", "5491570347356810"],
+    "radicado": "2018 - 00602",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2021-09-14T05:00:00.000Z",
+      "2021-05-07T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 496,
+      "fechaOrdenaMedida": "2018-10-22T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "deudor": {
+    "id": 496,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MODESTO",
+    "segundoNombre": "PINEDA",
+    "primerApellido": "PEREZ",
+    "segundoApellido": null,
+    "cedula": "13222728",
+    "direccion": "CARRERA 6 No 6-59",
+    "email": "mopadinco@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "201800602",
+  "nombre": "MODESTO PINEDA PEREZ",
+  "numero": 496,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:29.053Z"
+}

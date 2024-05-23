@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 416,
+    "numero": 416,
+    "llaveProceso": "11001400302020170147700",
+    "nombre": "jose antonio montealegre hernandez",
+    "idProcesos": [50873000],
+    "category": "Terminados"
+  }
+}

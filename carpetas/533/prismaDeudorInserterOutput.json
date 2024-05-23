@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 521,
+    "cedula": "79522009",
+    "primerNombre": "jairo",
+    "primerApellido": "pardo",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "jaimes",
+    "direccion": "diagonal 28 no 33-27  torre 7 apart 203  soacha",
+    "email": "jairopardo8-11-70@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 533
+  }
+}

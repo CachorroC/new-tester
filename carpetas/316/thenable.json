@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25754400300120170032300",
+  "numero": 316,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 8799171,
+    "direccion": "carrera 18 b no 4 c -  20  soacha",
+    "email": "saliradelante2012@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "manuel",
+    "segundoNombre": "enrique",
+    "primerApellido": "arteaga",
+    "segundoApellido": "orozco"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-01T00:00:00.000Z",
+    "mandamientoPago": "2017-11-24T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-26T00:00:00.000Z",
+    "expediente": "25754400300120170032300",
+    "capitalAdeudado": 44944657,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "SOACHA",
+    "obligacion": [
+      "180049   53037120066499008",
+      "3778133433049336 /4513075801129044"
+    ],
+    "radicado": "2017 - 00323",
+    "vencimientoPagare": ["2030-01-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 8799171,
+  "idProcesos": null
+}

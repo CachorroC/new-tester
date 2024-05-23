@@ -1,0 +1,92 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "YENY ESPERANZA ARIAS MENDIETA",
+    "cedula": "52771090",
+    "direccion": "CARRERA 3 # 29A - 02 LOCAL 1057",
+    "telefono": "5753416",
+    "id": 120,
+    "carpetaNumero": 120
+  },
+  "demanda": {
+    "vencimientoPagare": "12/04/2021",
+    "obligacion": {
+      "A": 6240082776
+    },
+    "capitalAdeudado": "$ 13.906.249",
+    "entregaGarantiasAbogado": "4/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00755",
+    "llaveProceso": "25754418900320170075500",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "11/08/2017",
+    "mandamientoPago": "8/09/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "12/12/2017",
+        "resultado": "POSITIVO",
+        "fechaAporta": "12/12/2017"
+      },
+      "292": {
+        "fechaAporta": "12/12/2017",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "CERTIMAIL",
+      "autoNotificado": "9/02/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "8/09/2017",
+      "medidaSolicitada": "EMBARGO INMUEBLE DE LA CODEUDORA"
+    }
+  },
+  "demandas": [],
+  "numero": 120,
+  "llaveProceso": "25754418900320170075500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JENCELL",
+    "segundoNombre": null,
+    "primerApellido": "E.U.",
+    "segundoApellido": null,
+    "cedula": 900212673,
+    "direccion": "CARRERA 3 # 29A - 02",
+    "email": null
+  },
+  "cc": 900212673,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JENCELL E.U.",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2017-12-12T05:00:00.000Z",
+        "fechaAporta": "2017-12-12T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": "2017-12-12T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": "9/02/2018"
+  }
+}

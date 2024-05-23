@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 31,
+    "cedula": "79590985",
+    "primerNombre": "jorge",
+    "primerApellido": "perez",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "carrera 13 sur no. 49-37 soacha y venida 19 no. 118-95 ofc 411",
+    "email": "jpkafu@gmail.com",
+    "telCelular": "3014192323",
+    "telFijo": "7793347",
+    "carpetaNumero": 31
+  }
+}

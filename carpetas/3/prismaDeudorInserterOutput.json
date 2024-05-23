@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 3,
+    "cedula": "1018441487",
+    "primerNombre": "maria",
+    "primerApellido": "reatiga",
+    "segundoNombre": "claudia",
+    "segundoApellido": "urrea",
+    "direccion": "carrera 2 e no 1 a  - 60 casa 126 - cajica",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 3
+  }
+}

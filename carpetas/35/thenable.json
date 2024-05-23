@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400302620170051100",
+  "numero": 35,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 72262201,
+    "direccion": "carrera 33 no. 1 h-86 duitama (boyacá)",
+    "email": "luiscagv@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3106199094
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "carlos",
+    "primerApellido": "gutierrez",
+    "segundoApellido": "velandia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "mandamientoPago": "2017-06-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "expediente": "11001400302620170051100",
+    "capitalAdeudado": 26464177,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [5.30372238582075e29, "AUTOPRESTAMO"],
+    "radicado": "2017-00511",
+    "vencimientoPagare": ["2016-09-16T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 46674085,
+    "direccion": "CALLE 14 B No. 5C-72 DIUTAMA",
+    "nombre": "jaqueline rodriguez colmenares",
+    "telefono": "7264921//3203987609"
+  },
+  "cc": 72262201,
+  "idProcesos": null
+}

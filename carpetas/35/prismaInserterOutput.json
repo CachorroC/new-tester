@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 35,
+    "numero": 35,
+    "llaveProceso": "11001400302620170051100",
+    "nombre": "luis carlos gutierrez velandia",
+    "idProcesos": [50477000],
+    "category": "Reintegra"
+  }
+}

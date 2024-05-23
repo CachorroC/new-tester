@@ -1,0 +1,59 @@
+{
+  "id": 52498444,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["20990126656"],
+    "llaveProceso": "11001400307520180067400",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 27503283,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-05-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00674",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-02-24T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "RAQUEL",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "DE",
+    "cedula": 52498444,
+    "direccion": "CARRERA 29 No 40 A-53  APTO 604",
+    "email": "sandralopezdemesa@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400307520180067400",
+  "nombre": "SANDRA RAQUEL LOPEZ DE MESA OSES",
+  "numero": 425,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:12.697Z"
+}

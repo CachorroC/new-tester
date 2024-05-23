@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 313,
+    "cedula": "8799171",
+    "primerNombre": "manuel",
+    "primerApellido": "arteaga",
+    "segundoNombre": "enrique",
+    "segundoApellido": "orozco",
+    "direccion": "carrera 18 b no 4 c -  20  soacha",
+    "email": "saliradelante2012@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 316
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 391,
+    "numero": 391,
+    "llaveProceso": "11001400305020180012900",
+    "nombre": "yaneth bibiana vargas cano",
+    "idProcesos": [11227193],
+    "category": "Terminados"
+  }
+}

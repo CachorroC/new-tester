@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 210,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1257362872",
+    "entregaGarantiasAbogado": "2017-08-30T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-12-13T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["85712"],
+    "radicado": "2017 - 01488",
+    "vencimientoPagare": ["2021-04-01T00:00:00.000Z"],
+    "expediente": "110014003088220170148800",
+    "carpetaNumero": 213,
+    "despacho": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 336,
+    "numero": 336,
+    "llaveProceso": "11001400303020170175600",
+    "nombre": "jose alfredo cardozo rodriguez",
+    "idProcesos": [50861670],
+    "category": "Terminados"
+  }
+}

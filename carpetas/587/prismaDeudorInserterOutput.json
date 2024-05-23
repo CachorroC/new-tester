@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 575,
+    "cedula": "80933163",
+    "primerNombre": "edgar",
+    "primerApellido": "vera",
+    "segundoNombre": "mauricio",
+    "segundoApellido": "rodriguez",
+    "direccion": "carrera 54 no. 4 a - 33 barrio galan - bogotá",
+    "email": "maovera23@gmail.com",
+    "telCelular": "3143688700",
+    "telFijo": "3542468",
+    "carpetaNumero": 587
+  }
+}

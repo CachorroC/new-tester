@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308320170113300",
+  "numero": 288,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 20371142,
+    "direccion": "diagonal  15 b no 104 - 46",
+    "email": "isafrevi@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "viviana",
+    "segundoNombre": "marcela",
+    "primerApellido": "roa",
+    "segundoApellido": "vivas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-06T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-10-03T00:00:00.000Z",
+    "expediente": "11001400308320170113300",
+    "capitalAdeudado": 6049523279,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [138027],
+    "radicado": "2017 - 01133",
+    "vencimientoPagare": ["2017-04-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 20371142,
+  "idProcesos": null
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-28T05:00:00.000Z",
+  "idProcesos": [50980370],
+  "idRegUltimaAct": 961171510,
+  "llaveProceso": "11001400305620180011000",
+  "nombre": "DIEGO JAVIER GALINDO MEJIA",
+  "numero": 384,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:20.631Z"
+}

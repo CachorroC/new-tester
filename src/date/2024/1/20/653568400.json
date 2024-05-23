@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:22.054Z",
+  "savedDate": "2018-05-02T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 653568400,
+    "llaveProceso": "11001400301620170136700",
+    "consActuacion": 63,
+    "fechaActuacion": "2019-09-05T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "Proceso se envia para archivo defenitivo caja 236 //karenmm//",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-09-05T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 63,
+    "isUltimaAct": true,
+    "idProceso": 50907660
+  }
+}

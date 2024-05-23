@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 336,
+    "cedula": "91072102",
+    "primerNombre": "luis",
+    "primerApellido": "mojica",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "zambrano",
+    "direccion": "carrera 53 no 153 - 84  interior 5 apartamento  204",
+    "email": "alfonso.mojica@sumatronicltda.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 339
+  }
+}

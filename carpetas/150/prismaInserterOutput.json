@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 150,
+    "numero": 150,
+    "llaveProceso": "2575440030012017024900",
+    "nombre": "victor null triana alarcon",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

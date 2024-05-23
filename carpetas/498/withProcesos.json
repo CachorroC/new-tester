@@ -1,0 +1,56 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "MONICA MAYELI  CRISTANCHO  BALLEN",
+    "cedula": "21022941",
+    "direccion": "CALLE 5 No 1 A-12",
+    "telefono": "8513122/3132518401",
+    "id": 498,
+    "carpetaNumero": 498
+  },
+  "demanda": {
+    "vencimientoPagare": "23/05/2031",
+    "obligacion": {
+      "A": "AUDIOPRESTAMO",
+      "B": 5306960218152465
+    },
+    "capitalAdeudado": "19.491.278.99",
+    "entregaGarantiasAbogado": "18/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "ZIPAQUIRA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00429",
+    "llaveProceso": "25899400300320180042900",
+    "etapaProcesal": "25899400300320180042900",
+    "fechaPresentacion": "PENDIENTE PAGAR ARANCEL $ 7000 Y DAR TRAMITE MARIA HELENA SUAREZ",
+    "mandamientoPago": "08/10/2018"
+  },
+  "demandas": [],
+  "numero": 498,
+  "llaveProceso": "25899400300320180042900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "BECERRA",
+    "segundoApellido": "BARRERA",
+    "cedula": 80546020,
+    "direccion": "CARRERA 7 No 4-11  CENTRO",
+    "email": "kristal6020@gmail.com"
+  },
+  "cc": 80546020,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JOSE ALEXANDER BECERRA BARRERA",
+  "notificacion": null
+}

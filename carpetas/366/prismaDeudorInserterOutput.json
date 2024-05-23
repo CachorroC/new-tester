@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 363,
+    "cedula": "53094561",
+    "primerNombre": "yuri",
+    "primerApellido": "gonzalez",
+    "segundoNombre": "andrea",
+    "segundoApellido": "torres",
+    "direccion": "carrera 87 k no 70-44 sur",
+    "email": "yurisita_05@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 366
+  }
+}

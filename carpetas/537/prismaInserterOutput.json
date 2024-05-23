@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 536,
+    "numero": 537,
+    "llaveProceso": "11001400305120180085000",
+    "nombre": "sandra  liliana cruz,beltran",
+    "idProcesos": [89137980],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 490,
+    "numero": 490,
+    "llaveProceso": "25754418900120180098800",
+    "nombre": "diego armando mateus espitia",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

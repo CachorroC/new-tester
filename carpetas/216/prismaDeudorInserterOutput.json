@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 213,
+    "cedula": "51833717",
+    "primerNombre": "blanca",
+    "primerApellido": "pinzon",
+    "segundoNombre": "janeth",
+    "segundoApellido": "suarez",
+    "direccion": null,
+    "email": "CARRERA 123 # 131 - 32",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 216
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 474,
+    "cedula": "39575032",
+    "primerNombre": "adriana",
+    "primerApellido": "peña",
+    "segundoNombre": "vanegas",
+    "segundoApellido": null,
+    "direccion": "carrera 14 no 22-10  apartamento  202 girardot",
+    "email": "adriana.0806@hotmail.com",
+    "telCelular": "3152573448",
+    "telFijo": null,
+    "carpetaNumero": 480
+  }
+}

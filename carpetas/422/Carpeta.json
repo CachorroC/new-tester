@@ -1,0 +1,105 @@
+{
+  "id": 41722029,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 422
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "23440287.8",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.206Z",
+    "etapaProcesal": "11001410375220180060200",
+    "fechaPresentacion": [],
+    "id": 422,
+    "llaveProceso": "11001410307520180060200",
+    "mandamientoPago": [],
+    "municipio": "kENNEDY",
+    "notificacion": {
+      "id": 422,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.269Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2099120807"],
+    "radicado": "2018 - 00602",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["8201-12-03T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 422,
+      "fechaOrdenaMedida": "2024-02-10T00:54:58.048Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 422,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "LUZ",
+    "segundoNombre": "YOLANDA",
+    "primerApellido": "MUÑOZ",
+    "segundoApellido": "MURCIA",
+    "cedula": "41722029",
+    "direccion": "CALLE 12 C- No 71C-60 INT. 6 APTO 403",
+    "email": "miyura1212@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001410307520180060200",
+  "nombre": "luz yolanda muñoz murcia",
+  "numero": 422,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 422,
+      "createdAt": "2024-02-10T00:54:58.047Z",
+      "pathname": null,
+      "dueDate": "2021-03-16T05:00:00.000Z",
+      "text": "EL 16/02/2021 EL JUZGADO TERMINO EL PROCESO POR PAGO TOTAL CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 422,
+      "createdAt": "2024-02-10T00:54:58.047Z",
+      "pathname": null,
+      "dueDate": "2022-04-02T05:00:00.000Z",
+      "text": "  2/03/2022 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 422,
+      "createdAt": "2024-02-10T00:54:58.048Z",
+      "pathname": null,
+      "dueDate": "2021-03-24T05:00:00.000Z",
+      "text": " EL 24/02/2021 SE LEVANTARON MEDIDAS CAUTELARES DE LA DEUDORA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:58.048Z"
+}

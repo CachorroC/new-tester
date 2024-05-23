@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:28.465Z",
+  "proceso": {
+    "idProceso": 132645230,
+    "idConexion": 259,
+    "llaveProceso": "11001418904120230021200",
+    "fechaProceso": "2023-08-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-09-07T05:00:00.000Z",
+    "despacho": "JUZGADO 041 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: INDIRA MAYERLY FLOREZ CASTRO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 41,
+      "tipo": "JUZGADO 041 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-041-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

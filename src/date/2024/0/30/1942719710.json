@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-31T01:59:16.741Z",
+  "savedDate": 1700110800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1942719710,
+    "llaveProceso": "11001400307520230128400",
+    "consActuacion": 9,
+    "fechaActuacion": "2023-12-15T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Notificación*",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-12-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 9,
+    "isUltimaAct": true,
+    "idProceso": 132161470
+  }
+}

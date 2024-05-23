@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25126408900220170071500",
+  "numero": 3,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1018441487,
+    "direccion": "carrera 2 e no 1 a  - 60 casa 126 - cajica",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "claudia",
+    "primerApellido": "reatiga",
+    "segundoApellido": "urrea"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-09-28T00:00:00.000Z",
+    "mandamientoPago": "2018-02-02T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-18T00:00:00.000Z",
+    "expediente": "25126408900220170071500",
+    "capitalAdeudado": 33175721,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "CAJICA",
+    "obligacion": [12204943],
+    "radicado": "2017 - 00715",
+    "vencimientoPagare": ["2017-09-13T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1018441487,
+  "idProcesos": null
+}

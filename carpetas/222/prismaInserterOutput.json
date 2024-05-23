@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 222,
+    "numero": 222,
+    "llaveProceso": "11001400302820170085800",
+    "nombre": "dufresny null augusto pinilla",
+    "idProcesos": [50688520],
+    "category": "Terminados"
+  }
+}

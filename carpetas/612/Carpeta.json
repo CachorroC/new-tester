@@ -1,0 +1,80 @@
+{
+  "id": 612,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 612
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": null,
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 612,
+    "llaveProceso": null,
+    "mandamientoPago": [],
+    "municipio": null,
+    "notificacion": {
+      "id": 612,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [],
+    "radicado": null,
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 612,
+      "fechaOrdenaMedida": "2024-02-07T03:34:28.197Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 612,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "armando",
+    "segundoNombre": "casas",
+    "primerApellido": "de",
+    "segundoApellido": "bareque",
+    "cedula": "undefined",
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "armando casas de bareque",
+  "numero": 612,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [],
+  "updatedAt": "2024-02-07T03:34:28.197Z"
+}

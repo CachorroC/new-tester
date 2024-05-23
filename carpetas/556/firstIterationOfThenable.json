@@ -1,0 +1,92 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 1,
+      "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE MADRID ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-civil-municipal-de-madrid"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "9/03/2026 // 9/03/2026 // 9/04/2026",
+    "obligacion": {
+      "A": "3830095699 // 3830095700",
+      "B": 3830095701
+    },
+    "capitalAdeudado": "$ 149.444.779",
+    "entregaGarantiasAbogado": "26/07/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MADRID",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 01127",
+    "llaveProceso": "25430400300120230112700"
+  },
+  "demandas": [
+    {
+      "idProceso": 159336301,
+      "idConexion": 320,
+      "llaveProceso": "25430400300120230112700",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "MADRID",
+      "obligacion": ["3830095699 // 3830095700", 3830095701],
+      "radicado": "2023 - 01127"
+    }
+  ],
+  "numero": 556,
+  "llaveProceso": "25430400300120230112700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3023193548
+    },
+    "primerNombre": "CIRO",
+    "segundoNombre": "ERQUILIAN",
+    "primerApellido": "ONOFRE",
+    "segundoApellido": null,
+    "cedula": 1022335014,
+    "direccion": "Carrera 13 # 4-20 Madrid (Cundinamarca)",
+    "email": "ciro.onofe1105@gmail.com"
+  },
+  "cc": 1022335014,
+  "procesos": [
+    {
+      "idProceso": 159336301,
+      "idConexion": 320,
+      "llaveProceso": "25430400300120230112700",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE MADRID ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [159336301],
+  "nombre": "CIRO ERQUILIAN ONOFRE",
+  "notificacion": null
+}

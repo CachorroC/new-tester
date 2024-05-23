@@ -1,0 +1,105 @@
+{
+  "id": 52837807,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/09/2024",
+    "telefono": null,
+    "id": 488
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "12092018",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "20/09/2018",
+    "fechaPresentacion": [],
+    "id": 488,
+    "llaveProceso": "11001418901020180083400",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 488,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["25.547.970.61"],
+    "radicado": "2018 - 00834",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-08-31T22:35:22.480Z"],
+    "medidasCautelares": {
+      "id": 488,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.595Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 488,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "CAMPUZANO",
+    "cedula": "52837807",
+    "direccion": null,
+    "email": "CARRERA 69J No 63A- 49"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418901020180083400",
+  "nombre": "sandra milena moreno campuzano",
+  "numero": 488,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 488,
+      "createdAt": "2024-02-10T00:55:02.595Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 5 DE ABRIL DE 2019 SE DIO POR TERMINADO EL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 488,
+      "createdAt": "2024-02-10T00:55:02.595Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 28 DE AGOSTO DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 488,
+      "createdAt": "2024-02-10T00:55:02.595Z",
+      "pathname": null,
+      "dueDate": "2023-02-19T05:00:00.000Z",
+      "text": " 19/01/2023 SE SOLICITO CERTIFICADO DE TRADICIÓN SIN MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.595Z"
+}

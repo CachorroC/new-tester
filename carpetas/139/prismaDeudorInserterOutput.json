@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 137,
+    "cedula": "20896387",
+    "primerNombre": "ana",
+    "primerApellido": "rojas",
+    "segundoNombre": "emilce",
+    "segundoApellido": "sarmiento",
+    "direccion": "carrera 32 # 18 - 31 sur",
+    "email": "jose_agudelo@juancarpas.edu.com",
+    "telCelular": "3204955563",
+    "telFijo": "7502262",
+    "carpetaNumero": 139
+  }
+}

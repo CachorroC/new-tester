@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 540,
+    "cedula": "1023874668",
+    "primerNombre": "oscar",
+    "primerApellido": "gomez",
+    "segundoNombre": "mauricio",
+    "segundoApellido": "mendoza",
+    "direccion": "cl 49 a bis sur no. 5 n 10",
+    "email": "oscar2794@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 552
+  }
+}

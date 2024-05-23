@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 570,
+    "cedula": "7228260",
+    "primerNombre": "pedro",
+    "primerApellido": "duarte",
+    "segundoNombre": "antonio",
+    "segundoApellido": "vargas",
+    "direccion": "calle 23 no. 12 - 50 bloque 14 apto 15 madrid (cundinamarca)",
+    "email": "duartepedroantonio@hotmail.com",
+    "telCelular": "3133073186",
+    "telFijo": null,
+    "carpetaNumero": 582
+  }
+}

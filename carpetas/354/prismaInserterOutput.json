@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 354,
+    "numero": 354,
+    "llaveProceso": "11001310304520170035900",
+    "nombre": "bernardo anibal gil torres",
+    "idProcesos": [62939862],
+    "category": "Terminados"
+  }
+}

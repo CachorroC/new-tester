@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 583,
+    "cedula": "37861286",
+    "primerNombre": "maryluz",
+    "primerApellido": "pinzon",
+    "segundoNombre": "ocasiones",
+    "segundoApellido": null,
+    "direccion": "diagonal 52# 3 - 24 apto 50",
+    "email": "maryluzocasiones1104.p@hotmail.com",
+    "telCelular": "3156780088",
+    "telFijo": "7675057",
+    "carpetaNumero": 178
+  }
+}

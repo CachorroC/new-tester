@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "12/04/2018",
+    "obligacion": {
+      "A": 20990201453
+    },
+    "capitalAdeudado": "41.522.255.15",
+    "entregaGarantiasAbogado": "21/11/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "SOACHA",
+    "radicado": "2018 - 00416",
+    "llaveProceso": "25754400300220180041600",
+    "fechaPresentacion": "ADMISION"
+  },
+  "demandas": [],
+  "numero": 511,
+  "llaveProceso": "25754400300220180041600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARJORIE",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "MONTOYA",
+    "cedula": 52851677,
+    "direccion": "CARRRA 102 No 69-22",
+    "email": "dhyanitaco@hotmail.com"
+  },
+  "cc": 52851677,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "DIANA MARJORIE ROMERO MONTOYA",
+  "notificacion": null
+}

@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 549,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "36720537",
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "6520089408",
+      "TARJETA MASTER CARD No. 5303720118094313 Y TARJETA AMERICAN No. 0377844026948428"
+    ],
+    "radicado": "2023 - 00884",
+    "vencimientoPagare": [
+      "2026-03-01T00:00:00.000Z",
+      "2026-03-01T00:00:00.000Z"
+    ],
+    "expediente": "08001418901820230073500",
+    "carpetaNumero": 561,
+    "despacho": null
+  }
+}

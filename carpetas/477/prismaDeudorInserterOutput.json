@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 471,
+    "cedula": "79568543",
+    "primerNombre": "adolfo",
+    "primerApellido": "leon",
+    "segundoNombre": "",
+    "segundoApellido": "daza,fernandez",
+    "direccion": "calle 60 no 38-26 apto 301",
+    "email": "adolfo.daza@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 477
+  }
+}

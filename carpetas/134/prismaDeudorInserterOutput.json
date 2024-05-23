@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 132,
+    "cedula": "80722626",
+    "primerNombre": "fredy",
+    "primerApellido": "bueno",
+    "segundoNombre": "alexander",
+    "segundoApellido": "parada",
+    "direccion": "carrera 2 # 1 - 04 bloque 8 apto 101",
+    "email": "fredy8221@hotmail.com",
+    "telCelular": "3105519200",
+    "telFijo": "8284768",
+    "carpetaNumero": 134
+  }
+}

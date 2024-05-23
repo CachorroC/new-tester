@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:14.595Z",
+  "proceso": {
+    "idProceso": 51318660,
+    "idConexion": 259,
+    "llaveProceso": "11001400303220180095900",
+    "fechaProceso": "2018-07-19T05:00:00.000Z",
+    "fechaUltimaActuacion": "2021-03-25T05:00:00.000Z",
+    "despacho": "JUZGADO 008 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE ANTONIO FLOREZ OVIEDO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 8,
+      "tipo": "JUZGADO 008 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-08-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

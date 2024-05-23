@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1944054930,
+  "llaveProceso": "11001400308320230108800",
+  "consActuacion": 13,
+  "fechaActuacion": "2024-01-12T05:00:00.000Z",
+  "actuacion": "Recepción memorial",
+  "anotacion": "CORRECCIÓN AUTO TERMINACIÓN",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-01-12T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 13,
+  "isUltimaAct": true,
+  "idProceso": 130908640
+}

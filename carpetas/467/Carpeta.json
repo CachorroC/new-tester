@@ -1,0 +1,115 @@
+{
+  "id": 79938802,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 467
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "37/0/2018",
+    "fechaPresentacion": ["2018-09-27T05:00:00.000Z"],
+    "id": 467,
+    "llaveProceso": "11001400301720180083200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 467,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["5303720477397800", "19,774,658,00"],
+    "radicado": "2018 - 00832",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["+147555-12-28T18:41:42.600Z"],
+    "medidasCautelares": {
+      "id": 467,
+      "fechaOrdenaMedida": "2024-02-10T00:55:01.517Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 467,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MANUEL",
+    "segundoNombre": "SANTIAGO",
+    "primerApellido": "CORREAL",
+    "segundoApellido": "ZUÑIGA",
+    "cedula": "79938802",
+    "direccion": null,
+    "email": "CARRERA 94 A No 18-14"
+  },
+  "fecha": null,
+  "idProcesos": [51345660],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400301720180083200",
+  "nombre": "manuel santiago correal zuñiga",
+  "numero": 467,
+  "procesos": [
+    {
+      "idProceso": 51345660,
+      "idConexion": 259,
+      "llaveProceso": "11001400301720180083200",
+      "fechaProceso": "2018-08-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2022-06-29T05:00:00.000Z",
+      "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MANUEL SANTIAGO CORREAL ZUÑIGA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 17,
+        "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 467,
+      "createdAt": "2024-02-10T00:55:01.517Z",
+      "pathname": null,
+      "dueDate": "2020-01-11T05:00:00.000Z",
+      "text": "EL 11/12/2019 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 467,
+      "createdAt": "2024-02-10T00:55:01.517Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " GARANTIAS Y LEVANTAMIENTO DE MEDIDAS CAUTELARES EN FAVOR Y A CARGO DE LA PARTE DEMANDADA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.518Z"
+}

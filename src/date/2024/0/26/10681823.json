@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:12.738Z",
+  "proceso": {
+    "idProceso": 10681823,
+    "idConexion": 261,
+    "llaveProceso": "11001400304820170050700",
+    "fechaProceso": "2017-07-17T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-05-31T05:00:00.000Z",
+    "despacho": "JUZGADO 048 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: CARLOS ANDRES BORRAY ARCE | Demandado: VERONICA ARTINEZ SEGURA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 48,
+      "tipo": "JUZGADO 048 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-048-civil-municipal-de-bogota"
+    }
+  }
+}

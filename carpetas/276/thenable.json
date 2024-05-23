@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300420170038100",
+  "numero": 276,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79200345,
+    "direccion": "carrera 5  no 5 - 30 apartamento 202 soacha",
+    "email": "nelson_mayorga@outlook.com",
+    "tel": {
+      "fijo": 9008364,
+      "celular": 3204283595
+    },
+    "primerNombre": "nelson",
+    "primerApellido": "mayorga",
+    "segundoApellido": "gomez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-10T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754400300420170038100",
+    "capitalAdeudado": 4608688644,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [190886],
+    "radicado": "2017 - 00381",
+    "vencimientoPagare": ["2017-05-02T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79200345,
+  "idProcesos": null
+}

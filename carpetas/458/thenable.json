@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303720180011100",
+  "numero": 458,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 52271112,
+    "direccion": "carrera 101 no 70 a-14 interior 1 apartamento 408",
+    "email": "saraja.7@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "beltran",
+    "segundoApellido": "oviedo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-02T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400303720180011100",
+    "capitalAdeudado": 17502203,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2018 - 00111",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52271112,
+  "idProcesos": null
+}

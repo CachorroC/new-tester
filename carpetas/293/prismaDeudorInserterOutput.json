@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 290,
+    "cedula": "1032383389",
+    "primerNombre": "anderson",
+    "primerApellido": "santos",
+    "segundoNombre": "revelo",
+    "segundoApellido": null,
+    "direccion": "calle 64 sur  no 85 b - 40  apartamento  104",
+    "email": "ars.09@hotmail.com",
+    "telCelular": "3118526428",
+    "telFijo": "4725511",
+    "carpetaNumero": 293
+  }
+}

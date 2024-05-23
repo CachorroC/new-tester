@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 6,
+    "numero": 6,
+    "llaveProceso": "11001400307620170044400",
+    "nombre": "francisco null montaña quesada",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308620170120500",
+  "numero": 322,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 63395806,
+    "direccion": "calle 127 c - no  2 b - 18  apartamento 101",
+    "email": "claudiasuarezp@gmail.com",
+    "tel": {
+      "fijo": 5205695,
+      "celular": 3112326151
+    },
+    "primerNombre": "claudia",
+    "segundoNombre": "yamile",
+    "primerApellido": "suarez",
+    "segundoApellido": "poblador"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-07T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-10-25T00:00:00.000Z",
+    "expediente": "11001400308620170120500",
+    "capitalAdeudado": 8701597335,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [155766],
+    "radicado": "2017 - 01205",
+    "vencimientoPagare": ["2027-09-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 63395806,
+  "idProcesos": null
+}

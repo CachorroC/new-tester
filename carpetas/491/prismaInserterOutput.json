@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 491,
+    "numero": 491,
+    "llaveProceso": "11001418900820180078500",
+    "nombre": "sandra patricia pacheco ramirez",
+    "idProcesos": [87350810],
+    "category": "Reintegra"
+  }
+}

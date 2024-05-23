@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303520170142500",
+  "numero": 48,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52837630,
+    "direccion": "carrera  39 b no  27 a - 40 sur",
+    "email": "jennyadrianapt@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jenny",
+    "segundoNombre": "adriana",
+    "primerApellido": "patarroyo",
+    "segundoApellido": "torres"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-18T00:00:00.000Z",
+    "expediente": "11001400303520170142500",
+    "capitalAdeudado": 28468389,
+    "etapaProcesal": "1.100140030352017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12549338],
+    "radicado": "2017 - 01425",
+    "vencimientoPagare": ["2017-09-12T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52837630,
+  "idProcesos": null
+}

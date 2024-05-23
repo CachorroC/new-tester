@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001310301020170071000",
+  "numero": 167,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79688268,
+    "direccion": "carrera 83a # 116a - 72 casa 214",
+    "email": "maurgonzal@yahoo.com",
+    "tel": {
+      "fijo": 4589855,
+      "celular": 3196564315
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "mauricio",
+    "primerApellido": "gonzalez",
+    "segundoApellido": "calderon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-12-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001310301020170071000",
+    "capitalAdeudado": 118940346,
+    "etapaProcesal": "1.100131030102017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [197033],
+    "radicado": "2017 - 00710",
+    "vencimientoPagare": ["2031-10-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 51856840,
+    "direccion": "CARRERA 83A # 116A - 72 CASA 214",
+    "nombre": "rosalina ayala perez",
+    "telefono": 4589855
+  },
+  "cc": 79688268,
+  "idProcesos": null
+}

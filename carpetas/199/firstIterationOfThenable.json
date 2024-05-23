@@ -1,0 +1,85 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "16/08/2020",
+    "obligacion": {
+      "A": 12650694
+    },
+    "capitalAdeudado": "$ 28.594.040",
+    "entregaGarantiasAbogado": "22/08/2017",
+    "departamento": "TOLIMA",
+    "municipio": "MELGAR",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00259",
+    "llaveProceso": "73449408900220170025900",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "31/08/2017",
+    "mandamientoPago": "19/09/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "12/12/2017",
+        "resultado": "POSITIVO",
+        "fechaAporta": "13/12/2017"
+      },
+      "292": {
+        "fechaAporta": "12/12/2017",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "PERSONAL",
+      "autoNotificado": "13/12/2017"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "19/09/2017",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "demandas": [],
+  "numero": 199,
+  "llaveProceso": "73449408900220170025900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 8612781,
+      "celular": 3108612781
+    },
+    "primerNombre": "MARTHA",
+    "segundoNombre": "LILIANA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "COLORADO",
+    "cedula": 1106893308,
+    "direccion": "VEREDA BOQUERON . FINCA LA MILAGROSA. MUNICIPIO FUSA // CALLE 3 # 37 - 21 BARRIO SICAMORO. MELGAR",
+    "email": "liliaramirez17@gmail.com"
+  },
+  "cc": 1106893308,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARTHA LILIANA RAMIREZ COLORADO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2017-12-12T05:00:00.000Z",
+        "fechaAporta": "2017-12-13T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": "2017-12-12T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": "13/12/2017"
+  }
+}

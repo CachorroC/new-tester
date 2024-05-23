@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 400,
+    "numero": 400,
+    "llaveProceso": "25307400300220180007500",
+    "nombre": "oscar guillermo lozano gonzalez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

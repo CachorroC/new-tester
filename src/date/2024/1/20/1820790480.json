@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:19.606Z",
+  "savedDate": "2019-03-12T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1820790480,
+    "llaveProceso": "11001400306320170092400",
+    "consActuacion": 57,
+    "fechaActuacion": "2023-07-24T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "EXPEDIENTE DIGITAL PARA ESTADO PASA A LETRA // LAURA ROMERO LINARES",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-07-24T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 57,
+    "isUltimaAct": true,
+    "idProceso": 65700110
+  }
+}

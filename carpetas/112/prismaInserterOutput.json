@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 112,
+    "numero": 112,
+    "llaveProceso": "11001400302020170097400",
+    "nombre": "maria trinidad sotelo torres",
+    "idProcesos": [112880210],
+    "category": "Terminados"
+  }
+}

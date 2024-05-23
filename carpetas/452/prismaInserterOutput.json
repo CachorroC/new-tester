@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 452,
+    "numero": 452,
+    "llaveProceso": "11001400305920180009000",
+    "nombre": "maria marin de orozco",
+    "idProcesos": [50989890],
+    "category": "Reintegra"
+  }
+}

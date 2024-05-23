@@ -1,0 +1,233 @@
+{
+  "id": 79698506,
+  "actuaciones": [
+    {
+      "idRegActuacion": 582442800,
+      "llaveProceso": "11001400300520180071100",
+      "consActuacion": 6,
+      "fechaActuacion": "2018-09-06T05:00:00.000Z",
+      "actuacion": "Archivo Definitivo",
+      "anotacion": "RETIRADA  PAQ 33",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-09-06T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 51277500,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:55:00.036Z"
+    },
+    {
+      "idRegActuacion": 582442790,
+      "llaveProceso": "11001400300520180071100",
+      "consActuacion": 5,
+      "fechaActuacion": "2018-07-11T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "RETIRA DEMANDA autorizada DTE",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-07-25T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 51277500,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:00.036Z"
+    },
+    {
+      "idRegActuacion": 582442780,
+      "llaveProceso": "11001400300520180071100",
+      "consActuacion": 4,
+      "fechaActuacion": "2018-07-05T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 05/07/2018 a las 15:27:17.",
+      "fechaInicial": "2018-07-06T05:00:00.000Z",
+      "fechaFinal": "2018-07-06T05:00:00.000Z",
+      "fechaRegistro": "2018-07-05T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 51277500,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:00.036Z"
+    },
+    {
+      "idRegActuacion": 582442770,
+      "llaveProceso": "11001400300520180071100",
+      "consActuacion": 3,
+      "fechaActuacion": "2018-07-05T05:00:00.000Z",
+      "actuacion": "Auto inadmite demanda",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-07-05T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 51277500,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:00.036Z"
+    },
+    {
+      "idRegActuacion": 582442760,
+      "llaveProceso": "11001400300520180071100",
+      "consActuacion": 2,
+      "fechaActuacion": "2018-07-03T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": "G C-2",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-07-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 51277500,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:00.036Z"
+    },
+    {
+      "idRegActuacion": 582442750,
+      "llaveProceso": "11001400300520180071100",
+      "consActuacion": 1,
+      "fechaActuacion": "2018-06-27T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 27/06/2018 a las 10:41:50",
+      "fechaInicial": "2018-06-27T05:00:00.000Z",
+      "fechaFinal": "2018-06-27T05:00:00.000Z",
+      "fechaRegistro": "2018-06-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 51277500,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:00.036Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 447
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "19260500",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.272Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": [],
+    "id": 447,
+    "llaveProceso": "11001400300520180071100",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 447,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["1010082679"],
+    "radicado": "2018 - 00711",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:46.687Z"],
+    "medidasCautelares": {
+      "id": 447,
+      "fechaOrdenaMedida": "2024-02-10T00:55:00.002Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 447,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "PACHECO",
+    "segundoApellido": "TORRES",
+    "cedula": "79698506",
+    "direccion": "CARRERA 80 BIS A No 70A-15",
+    "email": null
+  },
+  "fecha": "2018-09-06T05:00:00.000Z",
+  "idProcesos": [51277500],
+  "idRegUltimaAct": 582442800,
+  "llaveProceso": "11001400300520180071100",
+  "nombre": "carlos antonio pacheco torres",
+  "numero": 447,
+  "procesos": [
+    {
+      "idProceso": 51277500,
+      "idConexion": 259,
+      "llaveProceso": "11001400300520180071100",
+      "fechaProceso": "2018-06-27T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-09-06T05:00:00.000Z",
+      "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CARLOS ANTONIO PACHECO TORRES ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 5,
+        "tipo": "JUZGADO 005 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-05-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 582442800,
+    "llaveProceso": "11001400300520180071100",
+    "consActuacion": 6,
+    "fechaActuacion": "2018-09-06T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "RETIRADA  PAQ 33",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-09-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 51277500,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 447,
+      "createdAt": "2024-02-10T00:55:00.002Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "11 DE JULIO DE 2018 APODERADA DE LA DEMANDANTE RETIRO LA DEMANDA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 447,
+      "createdAt": "2024-02-10T00:55:00.002Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SIN MEDIDAS CAUTELARES DICTADAS POR EL JUZGADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:00.003Z"
+}

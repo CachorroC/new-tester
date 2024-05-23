@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 429,
+    "cedula": "80429531",
+    "primerNombre": "francisco",
+    "primerApellido": "gil",
+    "segundoNombre": "javier",
+    "segundoApellido": "florez",
+    "direccion": "diagonal 15b no 104-45 casa  132",
+    "email": "diagonal132@gmail.com",
+    "telCelular": "3193862544",
+    "telFijo": null,
+    "carpetaNumero": 434
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 364,
+    "numero": 364,
+    "llaveProceso": "11001400307320170164700",
+    "nombre": "sandra patricia sanchez velasquez",
+    "idProcesos": [50923290],
+    "category": "Terminados"
+  }
+}

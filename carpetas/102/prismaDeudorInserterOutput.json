@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 101,
+    "cedula": "1070329396",
+    "primerNombre": "erika",
+    "primerApellido": "quintero",
+    "segundoNombre": "alejandra",
+    "segundoApellido": "reyes",
+    "direccion": "call 2 no. 8-40 el colegio",
+    "email": null,
+    "telCelular": "3114456631",
+    "telFijo": null,
+    "carpetaNumero": 102
+  }
+}

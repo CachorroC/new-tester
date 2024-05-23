@@ -1,0 +1,44 @@
+{
+  "llaveProceso": "11001418904420230023900",
+  "numero": 580,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 19488050,
+    "direccion": "transversal 78 no. 40j - 14 sur",
+    "email": "joseignaciogaleanoa@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3103052825
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "ignacio",
+    "primerApellido": "galeano",
+    "segundoApellido": "alvarado"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-24T00:00:00.000Z",
+    "expediente": "11001418904420230023900",
+    "capitalAdeudado": 42647591,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      790100533,
+      "790101375 Y 101380449 X T.C. AMERICAN 0377844056881358"
+    ],
+    "radicado": "2023 - 0239",
+    "vencimientoPagare": [
+      null,
+      null,
+      "2026-04-04T05:00:00.000Z",
+      "2026-05-08T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19488050,
+  "idProcesos": null
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T17:00:05.343Z",
+  "savedDate": 1702875600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1948123830,
+    "llaveProceso": "11001400302020170077600",
+    "consActuacion": 103,
+    "fechaActuacion": "2024-01-26T05:00:00.000Z",
+    "actuacion": "Entrega de oficios",
+    "anotacion": "se remite el Oficio No. OOECM-1223DG-4223 BANCOS ordenado en auto del 30 de noviembre de 2020. LETRA, YANNETH AMAYA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-26T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 103,
+    "isUltimaAct": true,
+    "idProceso": 50511250
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900320190027000",
+  "numero": 484,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 30339083,
+    "direccion": "carrera 7a no  2-94 sur",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jenny",
+    "segundoNombre": "",
+    "primerApellido": "andrea",
+    "segundoApellido": ["avila", "garzon"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-06-09T05:00:00.000Z",
+    "expediente": "25754418900320190027000",
+    "capitalAdeudado": 26503795,
+    "etapaProcesal": "2.575441890032019e+22",
+    "municipio": "SOACHA",
+    "obligacion": [20990157739],
+    "radicado": "2019 - 00270",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 14277736,
+    "direccion": "CALLE 68 C No 2-04 SUR ESTE",
+    "nombre": "nelson mendez verjan",
+    "telefono": "F 2000631"
+  },
+  "cc": 30339083,
+  "idProcesos": null
+}

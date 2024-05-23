@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:16.746Z",
+  "proceso": {
+    "idProceso": 112013800,
+    "idConexion": 260,
+    "llaveProceso": "11001400307020190055100",
+    "fechaProceso": "2019-04-05T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-03-23T05:00:00.000Z",
+    "despacho": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEYDI CATALINA LOSADA CABRERA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 70,
+      "tipo": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-070-civil-municipal-de-bogota"
+    }
+  }
+}

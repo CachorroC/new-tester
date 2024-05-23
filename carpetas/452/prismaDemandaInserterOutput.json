@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 447,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "22244760",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-02-26T00:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2018-05-02T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["1740087269"],
+    "radicado": "2018 - 00090",
+    "vencimientoPagare": ["2020-03-01T00:00:00.000Z"],
+    "expediente": "11001400305920180009000",
+    "carpetaNumero": 452,
+    "despacho": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 516,
+    "numero": 517,
+    "llaveProceso": "11001418901020190016200",
+    "nombre": "marylu null valencia suarez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

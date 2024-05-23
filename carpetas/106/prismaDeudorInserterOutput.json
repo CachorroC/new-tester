@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 105,
+    "cedula": "501492",
+    "primerNombre": "daniel",
+    "primerApellido": "gonzalez",
+    "segundoNombre": "hernandez",
+    "segundoApellido": null,
+    "direccion": "calle 134 no. 58-58",
+    "email": "danielher84@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 106
+  }
+}

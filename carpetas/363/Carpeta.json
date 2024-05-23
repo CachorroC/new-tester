@@ -1,0 +1,156 @@
+{
+  "id": 52645617,
+  "actuaciones": [
+    {
+      "idRegActuacion": 910129771,
+      "llaveProceso": "25754400300220170040900",
+      "consActuacion": 9010242,
+      "fechaActuacion": "2019-09-05T05:00:00.000Z",
+      "actuacion": "SALIDA FINALIZANDO INSTANCIA",
+      "anotacion": "",
+      "fechaInicial": "2019-09-13T05:00:00.000Z",
+      "fechaFinal": "2019-10-13T05:00:00.000Z",
+      "fechaRegistro": "2019-09-13T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 1,
+      "idProceso": 167403471,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:53.310Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "27/07/2028",
+    "telefono": null,
+    "id": 363
+  },
+  "demanda": {
+    "liquidacion": "9102018",
+    "avaluo": "1981000",
+    "capitalAdeudado": "4122017",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "12/12/2017",
+    "fechaPresentacion": ["2018-01-16T05:00:00.000Z"],
+    "id": 363,
+    "llaveProceso": "25754400300220170040900",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 363,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["4513077734943038", "31.247.705.94"],
+    "radicado": "2017 - 00409",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 363,
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "29/05/2018"
+    }
+  },
+  "deudor": {
+    "id": 363,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MARIA",
+    "segundoNombre": "LILIANA",
+    "primerApellido": "CASTAÑEDA",
+    "segundoApellido": "ZAPATA",
+    "cedula": "52645617",
+    "direccion": null,
+    "email": "CARRERA 4 A ESTE No 38 - 56 CASA 127 SOACHA"
+  },
+  "fecha": "2019-09-05T05:00:00.000Z",
+  "idProcesos": [167403471],
+  "idRegUltimaAct": 910129771,
+  "llaveProceso": "25754400300220170040900",
+  "nombre": "maria liliana castañeda zapata",
+  "numero": 363,
+  "procesos": [
+    {
+      "idProceso": 167403471,
+      "idConexion": 320,
+      "llaveProceso": "25754400300220170040900",
+      "fechaProceso": "2017-12-13T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-09-05T05:00:00.000Z",
+      "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: MARÍA LILIANA CASTAÑEDA ZAPATA | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 2,
+        "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 910129771,
+    "llaveProceso": "25754400300220170040900",
+    "consActuacion": 9010242,
+    "fechaActuacion": "2019-09-05T05:00:00.000Z",
+    "actuacion": "SALIDA FINALIZANDO INSTANCIA",
+    "anotacion": "",
+    "fechaInicial": "2019-09-13T05:00:00.000Z",
+    "fechaFinal": "2019-10-13T05:00:00.000Z",
+    "fechaRegistro": "2019-09-13T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 1,
+    "idProceso": 167403471,
+    "isUltimaAct": false
+  },
+  "notas": [
+    {
+      "carpetaNumero": 363,
+      "createdAt": "2024-02-10T00:54:53.281Z",
+      "pathname": null,
+      "dueDate": "2019-10-06T05:00:00.000Z",
+      "text": "EL 6/09/2019 EL JUZGADO DECRETA TERMINACION PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 363,
+      "createdAt": "2024-02-10T00:54:53.281Z",
+      "pathname": null,
+      "dueDate": "2019-11-02T05:00:00.000Z",
+      "text": " EL 2/10/2019 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 363,
+      "createdAt": "2024-02-10T00:54:53.281Z",
+      "pathname": null,
+      "dueDate": "2019-11-28T05:00:00.000Z",
+      "text": "  EL 28/10/2019 SE HIZO EL LEVANTAMIENTO DE LAS MEDIDAS CAUTELARES DESEMBARGO DEL INMUEBLE",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:53.281Z"
+}

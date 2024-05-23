@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 68,
+    "cedula": "35412591",
+    "primerNombre": "martha",
+    "primerApellido": "gomez",
+    "segundoNombre": "stella",
+    "segundoApellido": "bolivar",
+    "direccion": "carrera 7 no. 25-51 bq/ to 9 apto 104 parque residencial villazo zipaquira",
+    "email": null,
+    "telCelular": "3114720151",
+    "telFijo": null,
+    "carpetaNumero": 68
+  }
+}

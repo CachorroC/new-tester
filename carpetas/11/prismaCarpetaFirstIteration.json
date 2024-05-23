@@ -1,0 +1,13 @@
+{
+  "category": "LiosJuridicos",
+  "fecha": "2023-07-10T05:00:00.000Z",
+  "idProcesos": [50508570],
+  "idRegUltimaAct": 1803990780,
+  "llaveProceso": "11001400303720170083900",
+  "nombre": "JAVIER ROMERO REYES",
+  "numero": 11,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:22.383Z"
+}

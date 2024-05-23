@@ -1,0 +1,5 @@
+{
+  "StatusCode": 203,
+  "Message": "\nInvalid `client.deudor.upsert()` invocation in\n/home/cachorro_cami/Projects/com/rsasesorjuridico/tester/src/data/insert-carpetas.ts:388:46\n\n  385   carpeta\n  386 );\n  387 \n→ 388 const createDeudor = await client.deudor.upsert(\nForeign key constraint failed on the field: `Deudor_carpetaNumero_fkey (index)`",
+  "data": { "field_name": "Deudor_carpetaNumero_fkey (index)" }
+}

@@ -1,0 +1,69 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "ANA ISABEL JURADO LEON",
+    "cedula": "20736637",
+    "direccion": "CALLE 11 A No. 3-29 URBANIZACION EL PORVENIR MADRID",
+    "telefono": "8252559",
+    "id": 55,
+    "carpetaNumero": 55
+  },
+  "demanda": {
+    "vencimientoPagare": "6/03/2018",
+    "obligacion": {
+      "A": "3830084858//4090832249783283",
+      "B": "AUTOPRESTAMO"
+    },
+    "capitalAdeudado": 35544456,
+    "entregaGarantiasAbogado": "12/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MADRID",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 01087",
+    "llaveProceso": "25430400300120170108700",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "20/06/2017",
+    "mandamientoPago": "6/12/2017",
+    "notificacion": {
+      "tipo": "PERSONAL",
+      "autoNotificado": 43181
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "6/12/2017",
+      "medidaSolicitada": "BANCOS"
+    }
+  },
+  "demandas": [],
+  "numero": 55,
+  "llaveProceso": "25430400300120170108700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3124488945
+    },
+    "primerNombre": "DOUGLAS",
+    "segundoNombre": "AYURE",
+    "primerApellido": "RIOS",
+    "segundoApellido": null,
+    "cedula": 80353430,
+    "direccion": "CALLE 11 A No. 3-29 URBANIZACION EL PORVENIR MADRID",
+    "email": "faride1109@yahoo.com"
+  },
+  "cc": 80353430,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "DOUGLAS AYURE RIOS",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "43181"
+  }
+}

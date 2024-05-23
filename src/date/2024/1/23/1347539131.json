@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:26.488Z",
+  "savedDate": "2023-11-02T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1347539131,
+    "llaveProceso": "11001400304220230109900",
+    "consActuacion": 6,
+    "fechaActuacion": "2024-02-23T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "C, correo envio oficios Nos.0326 y 0327 embargo registro",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-23T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "isUltimaAct": true,
+    "idProceso": 162013641
+  }
+}

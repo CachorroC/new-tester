@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900920180038900",
+  "numero": 472,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 91250936,
+    "direccion": "carrera 7 d no 151-40 apto 101",
+    "email": "sergioespinel5@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sergio",
+    "primerApellido": "espinel",
+    "segundoApellido": "correal",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-09-08T05:00:00.000Z",
+    "mandamientoPago": "2018-10-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-03-08T05:00:00.000Z",
+    "expediente": "11001418900920180038900",
+    "capitalAdeudado": 1572001394,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2010085214, 3778151023327],
+    "radicado": "2018 - 00389",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 91250936,
+  "idProcesos": null
+}

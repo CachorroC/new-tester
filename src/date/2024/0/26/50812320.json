@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:44.290Z",
+  "proceso": {
+    "idProceso": 50812320,
+    "idConexion": 259,
+    "llaveProceso": "11001400306420170149000",
+    "fechaProceso": "2017-10-30T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-10-21T05:00:00.000Z",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JORGE ARTURO JIMENEZ LEAL ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 13,
+      "tipo": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-13-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

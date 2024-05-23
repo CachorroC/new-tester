@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 446,
+    "cedula": "1032389993",
+    "primerNombre": "jose",
+    "primerApellido": "galindo",
+    "segundoNombre": "jeisson",
+    "segundoApellido": "carrillo",
+    "direccion": "calle4 48b sur no 72 m-21",
+    "email": "jeisongc18@hotmail.com",
+    "telCelular": "3209393337",
+    "telFijo": null,
+    "carpetaNumero": 451
+  }
+}

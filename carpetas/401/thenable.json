@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302520180023700",
+  "numero": 401,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52357813,
+    "direccion": "calle 50 sur no 87 d- 81",
+    "email": "dandraojeda_5@hotmail.com",
+    "tel": {
+      "fijo": 7232225,
+      "celular": 3112572775
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "",
+    "segundoApellido": ["ojeda", "rodriguez"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400302520180023700",
+    "capitalAdeudado": 2663399729,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [142837],
+    "radicado": "2018-0237",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52357813,
+  "idProcesos": null
+}

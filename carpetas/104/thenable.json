@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300620170041700",
+  "numero": 104,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51922135,
+    "direccion": "carrera 73 no. 87-07 apartamento 211 torre 6",
+    "email": "nancy_herrera2@hotmail.es",
+    "tel": {
+      "fijo": null,
+      "celular": 3103230563
+    },
+    "primerNombre": "nancy",
+    "primerApellido": "herrera",
+    "segundoApellido": "mendez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-21T00:00:00.000Z",
+    "mandamientoPago": "2017-07-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-07-19T00:00:00.000Z",
+    "expediente": "11001400300620170041700",
+    "capitalAdeudado": 3244441,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [127061, 540084358],
+    "radicado": "2017 - 00417",
+    "vencimientoPagare": ["2015-08-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51922135,
+  "idProcesos": null
+}

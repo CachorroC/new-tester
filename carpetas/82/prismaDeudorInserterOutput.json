@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 81,
+    "cedula": "13921619",
+    "primerNombre": "rafael",
+    "primerApellido": "olejua",
+    "segundoNombre": "gonzalez",
+    "segundoApellido": null,
+    "direccion": "calle 89 # 95g- 26",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 82
+  }
+}

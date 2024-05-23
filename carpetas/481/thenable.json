@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001410375120190027600",
+  "numero": 481,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80019013,
+    "direccion": "calle 26 sur no 95a-49 bl 9 apto 102",
+    "email": "willi.1977@hotmail.com",
+    "tel": {
+      "fijo": 5731671,
+      "celular": 3144195480
+    },
+    "primerNombre": "willintong",
+    "segundoNombre": "mario",
+    "primerApellido": "",
+    "segundoApellido": ["yaruro", "peñaranda"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "expediente": "11001410375120190027600",
+    "capitalAdeudado": 1276862700,
+    "etapaProcesal": "ADMISION",
+    "municipio": "kENNEDY",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2019 - 00276",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80019013,
+  "idProcesos": null
+}

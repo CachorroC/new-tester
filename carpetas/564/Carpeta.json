@@ -1,0 +1,161 @@
+{
+  "id": 79399032,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 564
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "29090298",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 564,
+    "llaveProceso": "2023-01280",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 564,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["9460085166"],
+    "radicado": "2023 - 01280",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-08T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 564,
+      "fechaOrdenaMedida": "2024-02-10T00:55:07.621Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 564,
+    "telCelular": "3125642401",
+    "telFijo": null,
+    "primerNombre": "JORGE",
+    "segundoNombre": "ALEX",
+    "primerApellido": "ABADIA",
+    "segundoApellido": "CARRILLO",
+    "cedula": "79399032",
+    "direccion": "Transversal 77 N 7A -16 Int 9 // Carrera 69 NO. 31 - 68",
+    "email": "abadiajorgesa@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-01280",
+  "nombre": "jorge alex abadia carrillo",
+  "numero": 564,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "31 JULIO RADICO DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 14 AGOSTO 2023  AUTO LIBRA MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " REQUIERE CAMARA DE COEMRCIO DE EMPRESA  FABRICA NACIONAL DE GUARDAESCOBAS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 17 AGOSTO 2023 SE ENVIA REFORMA DEMANDA Y CAMBIO MP ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SE ENVIA CAMARA COMERCIO EMPRESA PARA EMBARGO.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "27 SEPT 2023 SE ENVIA SOLICITUD AMPLIACION MC ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 29 SEPT INGRESA DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "28 SEPT MODIFICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "/ 30 NOV 2023 SE ENVIA NOTIFICACION SIN RADICAR OFICIOS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 564,
+      "createdAt": "2024-02-10T00:55:07.621Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 13 DIC 2023 SE ENVIA NOTIFICACVION POSITIVA A JUZGADO ENVIAR IMPULSO MEDIDA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:07.621Z"
+}

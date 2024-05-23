@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 423,
+    "cedula": "1069738339",
+    "primerNombre": "juan",
+    "primerApellido": "chingate",
+    "segundoNombre": "camilo",
+    "segundoApellido": "penagos",
+    "direccion": "vereda la 22 kilometro 30 (cajica) // vereda subia norte parte baja finca el rincon lote 2 (granada- cund): vereda subia norte parte baja finca el rincon lote 2 (granada - cund)",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 427
+  }
+}

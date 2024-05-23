@@ -1,0 +1,241 @@
+{
+  "id": 1024517216,
+  "actuaciones": [
+    {
+      "idRegActuacion": 737744993,
+      "llaveProceso": "11001410300120180040400",
+      "consActuacion": 5,
+      "fechaActuacion": "2018-08-28T05:00:00.000Z",
+      "actuacion": "Envio Expediente Centro Servicios Administrativos",
+      "anotacion": "COMPETENCIA OFICIO 925 - JUZGADO 37 CIVIL MUNICIPAL",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-08-28T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 50678323,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:54:58.794Z"
+    },
+    {
+      "idRegActuacion": 737744983,
+      "llaveProceso": "11001410300120180040400",
+      "consActuacion": 4,
+      "fechaActuacion": "2018-08-14T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 14/08/2018 a las 16:30:48.",
+      "fechaInicial": "2018-08-15T05:00:00.000Z",
+      "fechaFinal": "2018-08-15T05:00:00.000Z",
+      "fechaRegistro": "2018-08-14T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 50678323,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:58.794Z"
+    },
+    {
+      "idRegActuacion": 737744973,
+      "llaveProceso": "11001410300120180040400",
+      "consActuacion": 3,
+      "fechaActuacion": "2018-08-14T05:00:00.000Z",
+      "actuacion": "Auto ordena enviar proceso",
+      "anotacion": "REMITIR A LA OFICINA DE CENTRO DE SERVICIOS ADMINISTRATIVOS JURISDICCIONALES PARA LOS JUZGADOS CIVILES Y DE FAMILIA - REPARTO- EL PRESENTE PROCESO PARA SER ASIGNADO A LOS JUECES CIVILES MUNICIPALES DE BOGOTÁ D.C.",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-08-14T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 50678323,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:58.794Z"
+    },
+    {
+      "idRegActuacion": 737744963,
+      "llaveProceso": "11001410300120180040400",
+      "consActuacion": 2,
+      "fechaActuacion": "2018-07-26T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-07-26T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 50678323,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:58.794Z"
+    },
+    {
+      "idRegActuacion": 737744953,
+      "llaveProceso": "11001410300120180040400",
+      "consActuacion": 1,
+      "fechaActuacion": "2018-07-26T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 26/07/2018 a las 13:11:30",
+      "fechaInicial": "2018-07-26T05:00:00.000Z",
+      "fechaFinal": "2018-07-26T05:00:00.000Z",
+      "fechaRegistro": "2018-07-26T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 50678323,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:58.794Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JESSICA ALEXANDRA SANTOS AVENDAÑO",
+    "cedula": "1024527755",
+    "direccion": "DIAGONAL 68D No 70C-31",
+    "telefono": "3134216520",
+    "id": 430
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "29045383",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.217Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.228Z"],
+    "id": 430,
+    "llaveProceso": "11001410300120180040400",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 430,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990162905"],
+    "radicado": "2018 - 00404",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.853Z"],
+    "medidasCautelares": {
+      "id": 430,
+      "fechaOrdenaMedida": "2024-02-10T00:54:58.701Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 430,
+    "telCelular": "3112907361",
+    "telFijo": null,
+    "primerNombre": "JHONATAN",
+    "segundoNombre": "ALEJANDRO",
+    "primerApellido": "",
+    "segundoApellido": "CUELLAR",
+    "cedula": "1024517216",
+    "direccion": "DIAGONAL 68 D No 70C-31",
+    "email": "alejaso1291@hotmail.com"
+  },
+  "fecha": "2019-12-19T05:00:00.000Z",
+  "idProcesos": [17487020, 50678323],
+  "idRegUltimaAct": 909598440,
+  "llaveProceso": "11001410300120180040400",
+  "nombre": "jhonatan alejandro  cuellar arias",
+  "numero": 430,
+  "procesos": [
+    {
+      "idProceso": 17487020,
+      "idConexion": 257,
+      "llaveProceso": "11001410300120180040400",
+      "fechaProceso": "2018-06-12T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-12-19T05:00:00.000Z",
+      "despacho": "JUZGADO 001  DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JESSICA ALEXANDRA SANTOS AVENDAÑO | Demandado: JHONATAN ALEXANDER CUELLAR ARIAS ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 1,
+        "tipo": "JUZGADO 001  DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-001--de-pequeñas-causas-y-competencia-múltiple-de-bogotá-"
+      }
+    },
+    {
+      "idProceso": 50678323,
+      "idConexion": 135,
+      "llaveProceso": "11001410300120180040400",
+      "fechaProceso": "2018-07-26T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-08-28T05:00:00.000Z",
+      "despacho": "JUZGADO 001  MUNICIPAL DE PEQUEÑAS CAUSAS LABORALES DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: JAIME ORLANDO CARRILLO DAZA | Demandado: COOVIPORFAC LIMITADA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 1,
+        "tipo": "JUZGADO 001  MUNICIPAL DE PEQUEÑAS CAUSAS LABORALES DE BOGOTÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-001--municipal-de-pequeñas-causas-laborales-de-bogotá-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 909598440,
+    "llaveProceso": "11001410300120180040400",
+    "consActuacion": 46,
+    "fechaActuacion": "2019-12-19T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CAJA 150 DE 2019\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-12-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 46,
+    "idProceso": 17487020,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 430,
+      "createdAt": "2024-02-10T00:54:58.701Z",
+      "pathname": null,
+      "dueDate": "2019-12-22T05:00:00.000Z",
+      "text": "EL 22/11/2019 EL JUZGADO DECRETO TERMINACION PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 430,
+      "createdAt": "2024-02-10T00:54:58.701Z",
+      "pathname": null,
+      "dueDate": "2020-06-22T05:00:00.000Z",
+      "text": "EL 22/05/2020 SE HIZO LEVANTAMIENTO DE MEDIDA CAUTELAR CON CERTIFICADO DE TRADICION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 430,
+      "createdAt": "2024-02-10T00:54:58.701Z",
+      "pathname": null,
+      "dueDate": "2020-02-14T05:00:00.000Z",
+      "text": " EL 14/01/2020 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:58.701Z"
+}

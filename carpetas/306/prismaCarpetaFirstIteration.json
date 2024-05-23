@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-10-21T05:00:00.000Z",
+  "idProcesos": [50812320],
+  "idRegUltimaAct": 1470562550,
+  "llaveProceso": "11001400306420170149000",
+  "nombre": "JORGE ARTURO JIMENEZ LEAL",
+  "numero": 306,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:31:08.494Z"
+}

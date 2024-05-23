@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306220170122900",
+  "numero": 267,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52102735,
+    "direccion": "carrera 5 c bis no  54 - 06 sur",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ana",
+    "segundoNombre": "fabiola",
+    "primerApellido": "cardozo",
+    "segundoApellido": "herreño"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-22T00:00:00.000Z",
+    "expediente": "11001400306220170122900",
+    "capitalAdeudado": 32830090,
+    "etapaProcesal": "1.100140030622017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12547875],
+    "radicado": "2017 - 01229",
+    "vencimientoPagare": ["2020-09-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52102735,
+  "idProcesos": null
+}

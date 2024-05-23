@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 102,
+    "cedula": "16831314",
+    "primerNombre": "eduardo",
+    "primerApellido": "arango",
+    "segundoNombre": "enrique",
+    "segundoApellido": "chacon",
+    "direccion": "carrera 74 no. 25 g-69",
+    "email": "kikearango@hotmail.com",
+    "telCelular": "3216066052",
+    "telFijo": null,
+    "carpetaNumero": 103
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "09/12/2024",
+    "obligacion": {
+      "A": 20990124579
+    },
+    "capitalAdeudado": "11.599.559.60",
+    "entregaGarantiasAbogado": "27/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00969",
+    "llaveProceso": "25754408900320170096900",
+    "fechaPresentacion": "05/10/2017"
+  },
+  "demandas": [],
+  "numero": 275,
+  "llaveProceso": "25754408900320170096900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 6012243,
+      "celular": 3208100658
+    },
+    "primerNombre": "HORTENCIA",
+    "segundoNombre": null,
+    "primerApellido": "GARZON",
+    "segundoApellido": null,
+    "cedula": 39670695,
+    "direccion": "TRANSVERSAL 4 B No 3 - 64 sur  APTO 473  SOACHA",
+    "email": "rokerita19748@hotmail.com"
+  },
+  "cc": 39670695,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "HORTENCIA GARZON",
+  "notificacion": null
+}

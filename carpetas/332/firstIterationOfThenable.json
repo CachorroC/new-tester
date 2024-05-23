@@ -1,0 +1,47 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "5/06/2017",
+    "obligacion": {
+      "A": "161947 /377813179503108",
+      "B": 377813223799561
+    },
+    "capitalAdeudado": "38.034.170.49",
+    "entregaGarantiasAbogado": "8/11/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018   00098",
+    "llaveProceso": "25754400100420180009800",
+    "fechaPresentacion": "16/11/2017 // 15/03/2018"
+  },
+  "demandas": [],
+  "numero": 332,
+  "llaveProceso": "25754400100420180009800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 9032416,
+      "celular": 3168017488
+    },
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "MARROQUIN",
+    "cedula": 91284725,
+    "direccion": "CARRERA 7 A  No  2 A - 35 TORRE 10 APARTAMENTO 303",
+    "email": "nichemen@hotmail.com"
+  },
+  "cc": 91284725,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MIGUEL ANTONIO SANCHEZ MARROQUIN",
+  "notificacion": null
+}

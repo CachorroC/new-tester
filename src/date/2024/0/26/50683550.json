@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:42.919Z",
+  "proceso": {
+    "idProceso": 50683550,
+    "idConexion": 259,
+    "llaveProceso": "11001400301320170116300",
+    "fechaProceso": "2017-09-05T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-07-24T05:00:00.000Z",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS OCTAVIO ROJAS VALBUENA | Demandado: MARIA YANNETH RUIZ PAVA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 13,
+      "tipo": "JUZGADO 013 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-013-civil-municipal-de-bogota"
+    }
+  }
+}

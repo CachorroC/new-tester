@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "15842408900120170009500",
+  "numero": 297,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 6006685,
+    "direccion": "calle 5 a no 6 - 23 umbita",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3123077900
+    },
+    "primerNombre": "miguel",
+    "segundoNombre": "angel",
+    "primerApellido": "martinez",
+    "segundoApellido": "huertas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-12-10T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "15842408900120170009500",
+    "capitalAdeudado": 28485816,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "UMBITA",
+    "obligacion": [5450082766, 5450083252],
+    "radicado": "2017 - 00095",
+    "vencimientoPagare": ["2019-10-07T05:00:00.000Z"],
+    "departamento": "BOYACÁ",
+    "juzgados": []
+  },
+  "cc": 6006685,
+  "idProcesos": null
+}

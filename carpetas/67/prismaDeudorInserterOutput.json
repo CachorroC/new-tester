@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 67,
+    "cedula": "78076295",
+    "primerNombre": "humberto",
+    "primerApellido": "avena",
+    "segundoNombre": "enrique",
+    "segundoApellido": "corrales",
+    "direccion": "cl 106 no. 50-21 bogota",
+    "email": "havena@ingeobrasas.com",
+    "telCelular": "3005146155",
+    "telFijo": null,
+    "carpetaNumero": 67
+  }
+}

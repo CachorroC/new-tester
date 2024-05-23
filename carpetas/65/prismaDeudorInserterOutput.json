@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 65,
+    "cedula": "79276611",
+    "primerNombre": "ernesto",
+    "primerApellido": "idarraga",
+    "segundoNombre": "augusto",
+    "segundoApellido": "quintero",
+    "direccion": "calle 70 sur no. 3-23",
+    "email": "ernes_Idar2021@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 65
+  }
+}

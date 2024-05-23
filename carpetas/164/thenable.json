@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304520170090500",
+  "numero": 164,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 14255996,
+    "direccion": "carrera 82 a no. 6b-30 casa 36",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3102785072
+    },
+    "primerNombre": "uriel",
+    "primerApellido": "ruiz",
+    "segundoApellido": "diaz",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-21T00:00:00.000Z",
+    "mandamientoPago": "2017-09-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-07-19T00:00:00.000Z",
+    "expediente": "11001400304520170090500",
+    "capitalAdeudado": 25519225,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [6240082772],
+    "radicado": "2017 - 00905",
+    "vencimientoPagare": ["2019-09-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 14255996,
+  "idProcesos": null
+}

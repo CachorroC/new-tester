@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 7,
+    "cedula": "79733852",
+    "primerNombre": "jose",
+    "primerApellido": "prieto",
+    "segundoNombre": "ricardo",
+    "segundoApellido": "cruz",
+    "direccion": "calle 21 bis sur no. 88-58 bogota",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 7
+  }
+}

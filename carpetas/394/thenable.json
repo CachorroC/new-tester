@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305120180029900",
+  "numero": 394,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79424813,
+    "direccion": "carrera 16 no 7 - 32  bogota",
+    "email": "servicioscyga@hotmail.com",
+    "tel": {
+      "fijo": 5605872,
+      "celular": 3153113742
+    },
+    "primerNombre": "omar",
+    "segundoNombre": "hernando",
+    "primerApellido": "quiroga",
+    "segundoApellido": "torres"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-02T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400305120180029900",
+    "capitalAdeudado": 2586316423,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [165720],
+    "radicado": "2018 - 00299",
+    "vencimientoPagare": ["2033-08-07T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79424813,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 101,
+    "numero": 101,
+    "llaveProceso": "11001400301020170065301",
+    "nombre": "leila johanna martinez mora",
+    "idProcesos": [50540650],
+    "category": "Terminados"
+  }
+}

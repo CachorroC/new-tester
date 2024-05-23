@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 529,
+    "cedula": "79533771",
+    "primerNombre": "jose",
+    "primerApellido": "estrada",
+    "segundoNombre": "ramon",
+    "segundoApellido": "castillo",
+    "direccion": "carrera 81 g no 48-03 sur",
+    "email": "jrestradacastillo@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 541
+  }
+}

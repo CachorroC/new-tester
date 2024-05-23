@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 47,
+    "numero": 47,
+    "llaveProceso": "11001400300620170030200",
+    "nombre": "ana rita guzman gomez",
+    "idProcesos": [50521190],
+    "category": "Reintegra"
+  }
+}

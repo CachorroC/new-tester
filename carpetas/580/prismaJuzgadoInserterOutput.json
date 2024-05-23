@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 44,
+      "tipo": "JUZGADO 044 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-044-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  ]
+}

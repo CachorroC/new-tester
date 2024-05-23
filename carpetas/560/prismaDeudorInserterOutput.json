@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 548,
+    "cedula": "1129565798",
+    "primerNombre": "hansel",
+    "primerApellido": "barros",
+    "segundoNombre": "martinez",
+    "segundoApellido": null,
+    "direccion": "cr 51 43 04 barrio abajo barranquilla // carrera 71 no. 88a - 31 barranquilla // calle 42 a no. 46 - 04 barrio el parque en soledad (atlantico)",
+    "email": "inghanselmartinez@hotmail.com",
+    "telCelular": "3043463859",
+    "telFijo": "3930210",
+    "carpetaNumero": 560
+  }
+}

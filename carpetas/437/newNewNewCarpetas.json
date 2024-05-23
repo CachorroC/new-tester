@@ -1,0 +1,67 @@
+{
+  "id": 80162319,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "4513070000000000"],
+    "llaveProceso": "11001400371520180021200",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-07-16T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "PERSONAL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-10-10T05:00:00.000Z",
+      "medidaSolicitada": "20/06/2018"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001418901520180021200",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00212",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2021-05-23T05:00:00.000Z",
+      "2020-11-15T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JAVIER",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "ZIPA",
+    "segundoApellido": "SALAMANCA",
+    "cedula": 80162319,
+    "direccion": "CARRERA 79A No 13-10",
+    "email": "javierzipa83@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400371520180021200",
+  "nombre": "JAVIER ANTONIO ZIPA SALAMANCA",
+  "numero": 437,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:16.460Z"
+}

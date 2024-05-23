@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300220180020500",
+  "numero": 406,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 8510459,
+    "direccion": "calle 86 a sur no 80k-40",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "santiago",
+    "segundoNombre": "javier",
+    "primerApellido": "sarabia",
+    "segundoApellido": "jimenez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-01-03T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400300220180020500",
+    "capitalAdeudado": 1202487715,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [112507],
+    "radicado": "2018 - 00205",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 8510459,
+  "idProcesos": null
+}

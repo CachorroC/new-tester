@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 71,
+    "cedula": "53015307",
+    "primerNombre": "betty",
+    "primerApellido": "torres",
+    "segundoNombre": "stephani",
+    "segundoApellido": "rojas",
+    "direccion": "cl 146a # 53a - 10 apt 102",
+    "email": "stephanytorresrojas@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 71
+  }
+}

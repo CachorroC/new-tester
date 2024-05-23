@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 191,
+    "cedula": "52790965",
+    "primerNombre": "fabiola",
+    "primerApellido": "rueda",
+    "segundoNombre": "martinez",
+    "segundoApellido": null,
+    "direccion": "calle 20c # 106 - 27 apto 202 int 13",
+    "email": "fabiola_19805@hotmail.com",
+    "telCelular": "3107976282",
+    "telFijo": null,
+    "carpetaNumero": 194
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 273,
+    "numero": 273,
+    "llaveProceso": "11001400306420180102900",
+    "nombre": "sonia marcela molina quimbayo",
+    "idProcesos": [113353750],
+    "category": "Insolvencia"
+  }
+}

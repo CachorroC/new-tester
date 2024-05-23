@@ -1,0 +1,76 @@
+{
+  "id": 7228260,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 582
+  },
+  "demanda": {
+    "capitalAdeudado": "16827889",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-08-24T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "25430400300120230129500",
+    "mandamientoPago": null,
+    "municipio": "MADRID",
+    "notificacion": {
+      "id": 582,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["3830095609"],
+    "radicado": "2023 - 01295",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-06T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 582,
+      "fechaOrdenaMedida": "2024-02-03T00:36:35.949Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 582,
+    "telCelular": "3133073186",
+    "telFijo": null,
+    "primerNombre": "PEDRO",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "DUARTE",
+    "segundoApellido": "VARGAS",
+    "cedula": "7228260",
+    "direccion": "Calle 23 No. 12 - 50 Bloque 14 Apto 15 Madrid (Cundinamarca)",
+    "email": "duartepedroantonio@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25430400300120230129500",
+  "nombre": "PEDRO ANTONIO DUARTE VARGAS",
+  "numero": 582,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:35.949Z"
+}

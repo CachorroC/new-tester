@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304820170050700",
+  "numero": 74,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79789620,
+    "direccion": "carrera 18 # 120 - 65 apto 306",
+    "email": "carlosborray@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3138327713
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "andrés",
+    "primerApellido": "borray",
+    "segundoApellido": "arce"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-15T00:00:00.000Z",
+    "mandamientoPago": "2017-07-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400304820170050700",
+    "capitalAdeudado": 4411082847,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12185017],
+    "radicado": "2017 - 00507",
+    "vencimientoPagare": ["2017-06-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52666505,
+    "direccion": "CALLE 107A # 54- 57 APTO 202",
+    "nombre": "veronica martinez segura",
+    "telefono": 8040407
+  },
+  "cc": 79789620,
+  "idProcesos": null
+}

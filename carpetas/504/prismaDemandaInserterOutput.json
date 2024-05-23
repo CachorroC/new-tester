@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 496,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "29-10-2018",
+    "fechaPresentacion": null,
+    "municipio": "SIBATE",
+    "obligacion": ["26.315.289.23"],
+    "radicado": "2018 - 00370",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "25740410300120180037000",
+    "carpetaNumero": 504,
+    "despacho": null
+  }
+}

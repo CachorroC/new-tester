@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25473400300120180010600",
+  "numero": 397,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 13812570,
+    "direccion": "calle 12a no 1b este-80 manzana 2 casa mosquera",
+    "email": "jtapias@pastasdoria.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "de",
+    "primerApellido": "jesus",
+    "segundoApellido": ["tapias", "estevez"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-06-02T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "25473400300120180010600",
+    "capitalAdeudado": 14467701,
+    "etapaProcesal": "2.547340030012018e+22",
+    "municipio": "MOSQUERA",
+    "obligacion": [430104535],
+    "radicado": "2018 - 00106",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 13812570,
+  "idProcesos": null
+}

@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400301420180092900",
+  "numero": 540,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 3242760,
+    "direccion": "carrera 86 no 99-23",
+    "email": "rodrigogar68@hotmail.com",
+    "tel": {
+      "fijo": 6855750,
+      "celular": 3143659602
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "rodrigo",
+    "primerApellido": "garcia",
+    "segundoApellido": "quintero"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-07-26T00:00:00.000Z",
+    "expediente": "11001400301420180092900",
+    "capitalAdeudado": 17667402,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [1980096337, 6700083464],
+    "radicado": "2018 - 00929",
+    "vencimientoPagare": [
+      "2121-10-05T05:00:00.000Z",
+      "2021-10-05T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 3242760,
+  "idProcesos": null
+}

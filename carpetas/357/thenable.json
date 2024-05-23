@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305520170137800",
+  "numero": 357,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1012330386,
+    "direccion": "calle 79 sur no 77 l- 72 int 59",
+    "email": "disayuri@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "sayuri",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "garcia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-12-12T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-04-12T05:00:00.000Z",
+    "expediente": "11001400305520170137800",
+    "capitalAdeudado": 2214964128,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [146999],
+    "radicado": "2017 - 01378",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1012330386,
+  "idProcesos": null
+}

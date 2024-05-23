@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25899400300320180042900",
+  "numero": 498,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80546020,
+    "direccion": "carrera 7 no 4-11  centro",
+    "email": "kristal6020@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "alexander",
+    "primerApellido": "becerra",
+    "segundoApellido": "barrera"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-08-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "25899400300320180042900",
+    "capitalAdeudado": 1949127899,
+    "etapaProcesal": "2.589940030032018e+22",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["AUDIOPRESTAMO", 5306960218152465],
+    "radicado": "2018 - 00429",
+    "vencimientoPagare": ["2031-05-23T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 21022941,
+    "direccion": "CALLE 5 No 1 A-12",
+    "nombre": "monica mayeli  cristancho  ballen",
+    "telefono": "8513122-3132518401"
+  },
+  "cc": 80546020,
+  "idProcesos": null
+}

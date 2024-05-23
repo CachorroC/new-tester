@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301920180044300",
+  "numero": 423,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80059977,
+    "direccion": "carrer 1 este no 67 a - 60 sur  apto 103 torre 7",
+    "email": "andrespedraza12933@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "andres",
+    "primerApellido": "pedraza",
+    "segundoApellido": "garcia",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-25T00:00:00.000Z",
+    "mandamientoPago": "2018-05-09T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-16T00:00:00.000Z",
+    "expediente": "11001400301920180044300",
+    "capitalAdeudado": 1971553864,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990125146, 377813200121300],
+    "radicado": "2018 - 00443",
+    "vencimientoPagare": ["2024-12-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52297401,
+    "direccion": "CALLE 14 G ESTE No 76B-52SUR APTO 102",
+    "nombre": "yuby clayre garzon velasquez",
+    "telefono": 7683537
+  },
+  "cc": 80059977,
+  "idProcesos": null
+}

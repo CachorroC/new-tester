@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-10-25T05:00:00.000Z",
+  "idProcesos": [50995460],
+  "idRegUltimaAct": 1931962060,
+  "llaveProceso": "11001400301120180011800",
+  "nombre": "CRISTIAN CAMILO GARCIA ESCOBAR",
+  "numero": 335,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:12.535Z"
+}

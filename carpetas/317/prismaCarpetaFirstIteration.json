@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-03-05T05:00:00.000Z",
+  "idProcesos": [50832550],
+  "idRegUltimaAct": 962231690,
+  "llaveProceso": "11001400301820170181300",
+  "nombre": "WILSON JAVIER SANCHEZ",
+  "numero": 317,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:09.837Z"
+}

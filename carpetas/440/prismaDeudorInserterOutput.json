@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 435,
+    "cedula": "30387764",
+    "primerNombre": "blanca",
+    "primerApellido": "quiroga",
+    "segundoNombre": "esther",
+    "segundoApellido": "giraldo",
+    "direccion": "carrera 13 no 13-24 oficina 625",
+    "email": "quirogag8878@gmail.com",
+    "telCelular": "3107996508",
+    "telFijo": null,
+    "carpetaNumero": 440
+  }
+}

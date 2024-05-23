@@ -1,0 +1,47 @@
+{
+  "id": 19459237,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["5860083295"],
+    "llaveProceso": "11001418903220180137000",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1413462300,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-13T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BARRIOS UNIDOS",
+    "radicado": "2018 - 01370",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2022-09-21T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "WILSON",
+    "segundoNombre": "RICARDO",
+    "primerApellido": "ESCOBAR",
+    "segundoApellido": "ESCOBAR",
+    "cedula": 19459237,
+    "direccion": "CALLE 71 A No 69A-11 APTO  301",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418903220180137000",
+  "nombre": "WILSON RICARDO ESCOBAR ESCOBAR",
+  "numero": 483,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:28.746Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 183,
+    "cedula": "24134505",
+    "primerNombre": "cely",
+    "primerApellido": "rojas",
+    "segundoNombre": "margoth",
+    "segundoApellido": "velandia",
+    "direccion": "calle 29 a # 2 - 76 apto 304 chia",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 186
+  }
+}

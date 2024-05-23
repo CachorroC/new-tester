@@ -1,0 +1,68 @@
+{
+  "id": 41610065,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "EDGAR EFREN PARRA",
+    "cedula": "79481751",
+    "direccion": null,
+    "telefono": null,
+    "id": 127
+  },
+  "demanda": {
+    "obligacion": ["6670083892", "12074022"],
+    "llaveProceso": "SinEspecificar",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "2438                  2439"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "VEHICULO INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-01-08T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-10-27T05:00:00.000Z"],
+    "mandamientoPago": "2017-03-11T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00735",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": [
+      "2021-05-26T05:00:00.000Z",
+      "2017-07-26T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3614483,
+      "celular": 3124498840
+    },
+    "primerNombre": "ZOILA",
+    "segundoNombre": "IRENE",
+    "primerApellido": "SUAVITA",
+    "segundoApellido": "DE",
+    "cedula": 41610065,
+    "direccion": "CARRERA 23 # 20 - 40 SUR",
+    "email": "albertotrilleras@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "SinEspecificar",
+  "nombre": "ZOILA IRENE SUAVITA DE TRILLERAS",
+  "numero": 127,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:27.429Z"
+}

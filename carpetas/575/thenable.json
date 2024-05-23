@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900520230134200",
+  "numero": 575,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 79780047,
+    "direccion": "carrera 13 a no. 113 42 apartamento 207 santa paula // carrera 11 no. 112 – 65 // calle 119 no. 7 – 14 consultorio 617 // calle 85 a no. 21 - 51",
+    "email": "carrerasiachoque@yahoo.com",
+    "tel": {
+      "fijo": 7574806,
+      "celular": 3164336320
+    },
+    "primerNombre": "javier",
+    "segundoNombre": "alejandro",
+    "primerApellido": "carrera",
+    "segundoApellido": "siachoque"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-17T00:00:00.000Z",
+    "expediente": "11001418900520230134200",
+    "capitalAdeudado": 86945177,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["Q 0000000079780047027001"],
+    "radicado": "2023 - 00864",
+    "vencimientoPagare": ["2026-04-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79780047,
+  "idProcesos": null
+}

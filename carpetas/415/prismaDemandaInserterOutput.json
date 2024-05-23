@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 412,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "43",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "43217",
+    "fechaPresentacion": "2018-06-13T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["5303710076309980", "3378591161"],
+    "radicado": "2018 - 00474",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "11001400304320180047400",
+    "carpetaNumero": 415,
+    "despacho": null
+  }
+}

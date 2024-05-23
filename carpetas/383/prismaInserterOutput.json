@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 383,
+    "numero": 383,
+    "llaveProceso": "11001400302620180047900",
+    "nombre": "nohora esperanza barrero rodriguez",
+    "idProcesos": [51176440],
+    "category": "Terminados"
+  }
+}

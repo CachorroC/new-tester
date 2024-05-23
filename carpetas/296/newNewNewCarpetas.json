@@ -1,0 +1,64 @@
+{
+  "id": 86074992,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12445450"],
+    "llaveProceso": "11001410375220170129100",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-03-08T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-03-05T05:00:00.000Z",
+      "medidaSolicitada": "12/01/2018"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-06-10T05:00:00.000Z",
+    "etapaProcesal": "11001410375220170129100",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "KENNEDY",
+    "radicado": "2017 - 01291",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-10-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIDIER",
+    "segundoNombre": "HARVEY",
+    "primerApellido": "PRADA",
+    "segundoApellido": "AGUIRRE",
+    "cedula": 86074992,
+    "direccion": "DIAGONAL 40 G SUR-  No 72 J - 35 INTERIOR 2A",
+    "email": "diharveypra@yahoo.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001410375220170129100",
+  "nombre": "DIDIER HARVEY PRADA AGUIRRE",
+  "numero": 296,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:26.619Z"
+}

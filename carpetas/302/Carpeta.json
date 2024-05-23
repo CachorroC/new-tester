@@ -1,0 +1,97 @@
+{
+  "id": 79906707,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "RUBY AMINTA BARRERO CUECA ",
+    "cedula": "39678085",
+    "direccion": "CARRERA 68 A  No 31  A- 06 SUR ",
+    "telefono": "2705042",
+    "id": 302
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "153236346",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.020Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:43.027Z"],
+    "id": 302,
+    "llaveProceso": "25286310300120170100300",
+    "mandamientoPago": [],
+    "municipio": "FUNZA",
+    "notificacion": {
+      "id": 302,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["159541"],
+    "radicado": "2017 - 01003",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:48.572Z"],
+    "medidasCautelares": {
+      "id": 302,
+      "fechaOrdenaMedida": "2024-02-10T00:54:47.754Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 302,
+    "telCelular": "3005821212",
+    "telFijo": "8272125 ",
+    "primerNombre": "EDGAR",
+    "segundoNombre": "GODOY",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": null,
+    "cedula": "79906707",
+    "direccion": "CARRER 5  No 2-35  MANZANA 21 CASA 208- MOSQUERA",
+    "email": "s3curityinformation@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25286310300120170100300",
+  "nombre": "edgar godoy lopez",
+  "numero": 302,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 302,
+      "createdAt": "2024-02-10T00:54:47.754Z",
+      "pathname": null,
+      "dueDate": "2018-04-22T05:00:00.000Z",
+      "text": "22/03/2018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 302,
+      "createdAt": "2024-02-10T00:54:47.754Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE DECRETARON MEDIDAS CAUTELARES EN EL PROCESO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:47.754Z"
+}

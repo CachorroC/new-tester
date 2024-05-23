@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 402,
+    "numero": 402,
+    "llaveProceso": "11001400306420180021800",
+    "nombre": "blanca cecilia ardila huertas",
+    "idProcesos": [17948440],
+    "category": "Terminados"
+  }
+}

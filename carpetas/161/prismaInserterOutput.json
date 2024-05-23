@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 161,
+    "numero": 161,
+    "llaveProceso": "25286310300120170095600",
+    "nombre": "ricardo alberto beltran hernandez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

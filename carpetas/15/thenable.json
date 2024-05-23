@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400307220170065400",
+  "numero": 15,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1098678636,
+    "direccion": "carrera 78 f 50 interior 2 ap/ ca 101",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3155112901
+    },
+    "primerNombre": "silvia",
+    "segundoNombre": "susana",
+    "primerApellido": "sierra",
+    "segundoApellido": "castañeda"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "mandamientoPago": "2017-06-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "11001400307220170065400",
+    "capitalAdeudado": 24792093,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2450966],
+    "radicado": "2017 - 00654",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "nombre": 0
+  },
+  "cc": 1098678636,
+  "idProcesos": null
+}

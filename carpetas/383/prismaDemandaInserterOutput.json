@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 380,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "1473525421",
+    "entregaGarantiasAbogado": "2018-01-18T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2018-05-22T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "KENNEDY",
+    "obligacion": ["116650"],
+    "radicado": "2018 - 00479",
+    "vencimientoPagare": ["2024-03-01T00:00:00.000Z"],
+    "expediente": "11001400302620180047900",
+    "carpetaNumero": 383,
+    "despacho": null
+  }
+}

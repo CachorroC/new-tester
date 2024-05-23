@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:21.784Z",
+  "proceso": {
+    "idProceso": 70545740,
+    "idConexion": 259,
+    "llaveProceso": "11001400307520190100800",
+    "fechaProceso": "2019-09-19T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-11-19T05:00:00.000Z",
+    "despacho": "JUZGADO 075 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: INGRIT YOHANA VASQUEZ ROJAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 75,
+      "tipo": "JUZGADO 075 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-75-civil-municipal-de-bogota"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001410375220170130000",
+  "numero": 331,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1016043191,
+    "direccion": null,
+    "email": "CALLE 23 SUR No 96 - 82",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "christian",
+    "segundoNombre": "dario",
+    "primerApellido": "ruiz",
+    "segundoApellido": "avellaneda"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-01-16T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001410375220170130000",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "43053",
+    "municipio": "BOGOTA",
+    "obligacion": ["10.670.890.00"],
+    "radicado": "2017 - 01300",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 43059
+  },
+  "cc": 1016043191,
+  "idProcesos": null
+}

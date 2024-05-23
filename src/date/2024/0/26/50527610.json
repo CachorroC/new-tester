@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:13.460Z",
+  "proceso": {
+    "idProceso": 50527610,
+    "idConexion": 259,
+    "llaveProceso": "11001400303620170055400",
+    "fechaProceso": "2017-06-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-23T05:00:00.000Z",
+    "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDRES FELIPE JIMENEZ PERDOMO | Demandado: DS&D SOLUCIONES CONSTRUCTIVAS S.A.S | Demandado: CARMEN JULIA REDONDO PLAZAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 17,
+      "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-17-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

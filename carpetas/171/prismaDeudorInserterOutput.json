@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 169,
+    "cedula": "1024468871",
+    "primerNombre": "maritza",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "natali",
+    "segundoApellido": "urrea",
+    "direccion": "calle 59c sur # 87k - 64 apto 1016",
+    "email": "jlaura00@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 171
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305520170094300",
+  "numero": 226,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80513085,
+    "direccion": "calle 77 # 84 - 34",
+    "email": "ngurrero@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nestor",
+    "segundoNombre": "german",
+    "primerApellido": "urrego",
+    "segundoApellido": "aguilera"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-13T00:00:00.000Z",
+    "mandamientoPago": "2017-10-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "11001400305520170094300",
+    "capitalAdeudado": 1929033191,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12583959],
+    "radicado": "2017 - 00943",
+    "vencimientoPagare": ["2017-08-31T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80513085,
+  "idProcesos": null
+}

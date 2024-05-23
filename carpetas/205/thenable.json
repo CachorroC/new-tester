@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301220170097100",
+  "numero": 205,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 51856244,
+    "direccion": "carrera 2a bis a este # 89a  sur",
+    "email": null,
+    "tel": {
+      "fijo": 7616370,
+      "celular": 3143313269
+    },
+    "primerNombre": "nelida",
+    "segundoNombre": "del",
+    "primerApellido": "carmen",
+    "segundoApellido": ["rivera", "mesa"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400301220170097100",
+    "capitalAdeudado": 14068639,
+    "etapaProcesal": "EJECUCIÓN SOLICITAR LIQUIDACIÓN A REINTEGRA",
+    "municipio": "BOGOTA",
+    "obligacion": [430103841],
+    "radicado": "2017 - 00971",
+    "vencimientoPagare": ["2021-09-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79604259,
+    "direccion": "CARRERA 138A # 142B - 11",
+    "nombre": "fabio alberto rivera mesa",
+    "telefono": 3118869672
+  },
+  "cc": 51856244,
+  "idProcesos": null
+}

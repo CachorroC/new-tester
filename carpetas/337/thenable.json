@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300620170096400",
+  "numero": 337,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 79666742,
+    "direccion": "transversal 17 no  64 f - 04 casa 1 bifamiliar marly",
+    "email": "rubypaez71@hotmail.com",
+    "tel": {
+      "fijo": 7651426,
+      "celular": 3115030138
+    },
+    "primerNombre": "hector",
+    "segundoNombre": "alfonso",
+    "primerApellido": "torres",
+    "segundoApellido": "rios"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-11-20T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-16T00:00:00.000Z",
+    "expediente": "11001400300620170096400",
+    "capitalAdeudado": 99119191,
+    "etapaProcesal": "1.100140030062017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [140085],
+    "radicado": "2017 - 00964",
+    "vencimientoPagare": ["2026-06-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79666742,
+  "idProcesos": null
+}

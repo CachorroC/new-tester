@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:03.808Z",
+  "proceso": {
+    "idProceso": 50980370,
+    "idConexion": 259,
+    "llaveProceso": "11001400305620180011000",
+    "fechaProceso": "2018-01-31T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-28T05:00:00.000Z",
+    "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DIEGO JAVIER GALINDO MEJIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 2,
+      "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-02-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

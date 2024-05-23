@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2017-08-16T05:00:00.000Z",
+  "idProcesos": [50465740],
+  "idRegUltimaAct": 638268360,
+  "llaveProceso": "11001400301420170066700",
+  "nombre": "JOSE WILSON ROJAS VALDES",
+  "numero": 8,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:22.003Z"
+}

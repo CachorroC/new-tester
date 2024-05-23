@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 195,
+    "numero": 195,
+    "llaveProceso": "1100140030122017099100",
+    "nombre": "douglas fabian siza cortes",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:41.228Z",
+  "proceso": {
+    "idProceso": 135801811,
+    "idConexion": 320,
+    "llaveProceso": "11001418901420190065600",
+    "fechaProceso": "2019-04-03T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-09-12T05:00:00.000Z",
+    "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: LEIDY YANETH VIDAL RODRIGUEZ (Emplazado) ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 14,
+      "tipo": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-014-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

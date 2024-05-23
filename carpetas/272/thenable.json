@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300620170076300",
+  "numero": 272,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80406979,
+    "direccion": "calle 9 no 1 - 32     tabio",
+    "email": "nellyandreabotiab@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "fernando",
+    "primerApellido": "gutierrez",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-10T05:00:00.000Z",
+    "mandamientoPago": "2017-09-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400300620170076300",
+    "capitalAdeudado": 1458624226,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12381866],
+    "radicado": "2017 - 00763",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80406979,
+  "idProcesos": null
+}

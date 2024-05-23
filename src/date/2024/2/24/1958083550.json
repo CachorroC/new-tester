@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1958083550,
+  "llaveProceso": "11001418901420190065600",
+  "consActuacion": 113,
+  "fechaActuacion": "2024-03-01T05:00:00.000Z",
+  "actuacion": "Constancia secretarial",
+  "anotacion": "SE RECEPCIONA EXPEDIENTE DIGITAL POR ESTADO //PASA A LETRA// ANUAR GUERRA - CLAUDIA ESCOBAR",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-03-04T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 113,
+  "isUltimaAct": true,
+  "idProceso": 51816100
+}

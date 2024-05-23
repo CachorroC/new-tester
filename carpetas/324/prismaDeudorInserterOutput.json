@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 321,
+    "cedula": "80032088",
+    "primerNombre": "jose",
+    "primerApellido": "morales",
+    "segundoNombre": "edwin",
+    "segundoApellido": "alfonso",
+    "direccion": "transversal 28 no 22-13 apartamento 304 torre 7 soacha",
+    "email": "majupi170301@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 324
+  }
+}

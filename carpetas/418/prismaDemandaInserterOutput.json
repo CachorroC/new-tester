@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 415,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "2315959856",
+    "entregaGarantiasAbogado": "2018-04-12T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": null,
+    "municipio": "FACATATIVA",
+    "obligacion": ["377816809738564", "451387592504913"],
+    "radicado": "2018 - 00246",
+    "vencimientoPagare": [],
+    "expediente": "25269400300120180024600",
+    "carpetaNumero": 418,
+    "despacho": null
+  }
+}

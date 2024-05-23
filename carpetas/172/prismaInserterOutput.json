@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 172,
+    "numero": 172,
+    "llaveProceso": "11001400302720170085000",
+    "nombre": "adriana del pilar alfonso,baquero",
+    "idProcesos": [50666880],
+    "category": "Terminados"
+  }
+}

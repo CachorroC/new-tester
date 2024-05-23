@@ -1,0 +1,59 @@
+{
+  "id": 79892208,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["5303730000000000"],
+    "llaveProceso": "25286400300120180084100",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 11080107,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-07-03T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "FUNZA",
+    "radicado": "2018 - 00841",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "RICARDO",
+    "segundoNombre": "RUEDA",
+    "primerApellido": "MELO",
+    "segundoApellido": null,
+    "cedula": 79892208,
+    "direccion": "CARRERA 7 A No 5-22 MANZANA A CASA 3A",
+    "email": "ricardomelorr77@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25286400300120180084100",
+  "nombre": "RICARDO RUEDA MELO",
+  "numero": 453,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:20.646Z"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:10.127Z",
+  "savedDate": 1600146000000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1935210120,
+    "llaveProceso": "11001400300120170100100",
+    "consActuacion": 117,
+    "fechaActuacion": "2023-11-16T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 13929-2023, No. Reloj Radicador: 18634, Entidad o Señor(a): JUZGADO 13 CIVL MUNICIPAL DE EJECUCION - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Otro, Observaciones: ALLEGA SOLICITUD DEL JUZGADO 13 CIVL MUNICIPAL DE EJECUCION",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-11-16T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 116,
+    "isUltimaAct": false,
+    "idProceso": 50621670
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 95,
+    "cedula": "52818959",
+    "primerNombre": "yuranny",
+    "primerApellido": "cespedes",
+    "segundoNombre": "polanco",
+    "segundoApellido": null,
+    "direccion": "carrera 72 # 57b - 50",
+    "email": "bluemoontauro@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 96
+  }
+}

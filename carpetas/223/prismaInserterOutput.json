@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 223,
+    "numero": 223,
+    "llaveProceso": "11001400305520170086000",
+    "nombre": "gerardo antonio moncada vega",
+    "idProcesos": [86524020],
+    "category": "Reintegra"
+  }
+}

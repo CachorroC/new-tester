@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:08.116Z",
+  "proceso": {
+    "idProceso": 17487020,
+    "idConexion": 257,
+    "llaveProceso": "11001410300120180040400",
+    "fechaProceso": "2018-06-12T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-12-19T05:00:00.000Z",
+    "despacho": "JUZGADO 001  DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JESSICA ALEXANDRA SANTOS AVENDAÑO | Demandado: JHONATAN ALEXANDER CUELLAR ARIAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 1,
+      "tipo": "JUZGADO 001  DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-001--de-pequeñas-causas-y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 547,
+    "numero": 548,
+    "llaveProceso": "11001400300820170102400",
+    "nombre": "clara patricia peña beltran",
+    "idProcesos": [50665190],
+    "category": "Terminados"
+  }
+}

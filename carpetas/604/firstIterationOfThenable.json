@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "7/07/2026",
+    "obligacion": {
+      "A": 2210097142
+    },
+    "capitalAdeudado": "$ 25.852.498",
+    "entregaGarantiasAbogado": "23/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "SOACHA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 604,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "SOACHA",
+      "obligacion": [2210097142],
+      "radicado": null
+    }
+  ],
+  "numero": 604,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3197613676
+    },
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "MONCADA",
+    "segundoApellido": "MORALES",
+    "cedula": 3010366,
+    "direccion": "Carrera 3 B No. 24 A 57 Barrio Camilo Torres Sector 2 de la ciudad de Soacha (Cundinamrca)",
+    "email": "carlosalbertomoncada63@gmail.com"
+  },
+  "cc": 3010366,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "CARLOS ALBERTO MONCADA MORALES",
+  "notificacion": null
+}

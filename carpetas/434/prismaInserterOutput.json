@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 434,
+    "numero": 434,
+    "llaveProceso": "11001400306820180099900",
+    "nombre": "francisco javier gil florez",
+    "idProcesos": [19222160],
+    "category": "Terminados"
+  }
+}

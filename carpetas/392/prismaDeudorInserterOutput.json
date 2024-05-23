@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 389,
+    "cedula": "79712791",
+    "primerNombre": "edgar",
+    "primerApellido": "mateus",
+    "segundoNombre": "jobanny",
+    "segundoApellido": "castillo",
+    "direccion": "calle 3 c no  13 - 07   zipaquira",
+    "email": "giovannymat@yahoo.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 392
+  }
+}

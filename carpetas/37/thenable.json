@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25740418900120170021700",
+  "numero": 37,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1030536736,
+    "direccion": "calle 14 mo. 8 -04 barrio san juan sibate",
+    "email": "luis.alfonso@correo.polica.gov.co",
+    "tel": {
+      "fijo": null,
+      "celular": 3208091862
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "alberto",
+    "primerApellido": "alfonso",
+    "segundoApellido": "giraldo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-06T00:00:00.000Z",
+    "expediente": "25740418900120170021700",
+    "capitalAdeudado": 1270787716,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "SIBATE",
+    "obligacion": [12548843],
+    "radicado": "2017 - 00217",
+    "vencimientoPagare": ["2020-05-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1030536736,
+    "direccion": "CALLE 14 Mo. 8 -04 BARRIO SAN JUAN SIBATE",
+    "nombre": "luis alberto afonso giraldo",
+    "telefono": 3208091862
+  },
+  "cc": 1030536736,
+  "idProcesos": null
+}

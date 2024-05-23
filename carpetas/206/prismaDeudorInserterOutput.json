@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 203,
+    "cedula": "80729141",
+    "primerNombre": "edgar",
+    "primerApellido": "velandia",
+    "segundoNombre": "martinez",
+    "segundoApellido": null,
+    "direccion": "carrera 17 f 71a - 95 sur  casa 239",
+    "email": "edgar_julian@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 206
+  }
+}

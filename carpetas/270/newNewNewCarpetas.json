@@ -1,0 +1,47 @@
+{
+  "id": 1018423770,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12327160"],
+    "llaveProceso": "11001408903420170113900",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1592142312,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-10-05T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01139",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-09-21T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 4566333,
+      "celular": 3107727822
+    },
+    "primerNombre": "WILMER",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "QUIÑONES",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": 1018423770,
+    "direccion": "CALLE 37 B No 68 I - 23 SUR",
+    "email": "andresxaw@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001408903420170113900",
+  "nombre": "WILMER ANDRES QUIÑONES HERNANDEZ",
+  "numero": 270,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:16.242Z"
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 333,
+    "numero": 333,
+    "llaveProceso": "11001400306320170131700",
+    "nombre": "ahida lucero guevara becerra",
+    "idProcesos": [17718250],
+    "category": "Terminados"
+  }
+}

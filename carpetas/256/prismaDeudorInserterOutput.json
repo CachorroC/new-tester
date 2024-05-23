@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 253,
+    "cedula": "79881862",
+    "primerNombre": "freddy",
+    "primerApellido": "martinez",
+    "segundoNombre": "arias",
+    "segundoApellido": null,
+    "direccion": "transversal 112 c no  64 d -15 bloque 7 apartamento 4",
+    "email": "freddydanasebas@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 256
+  }
+}

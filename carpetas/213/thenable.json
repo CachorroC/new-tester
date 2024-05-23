@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "110014003088220170148800",
+  "numero": 213,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52325613,
+    "direccion": "carrera 98b # 14 - 06 casa 166",
+    "email": "miricu143@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "myriam",
+    "segundoNombre": "consuelo",
+    "primerApellido": "rios",
+    "segundoApellido": "fonseca"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-12-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-30T00:00:00.000Z",
+    "expediente": "110014003088220170148800",
+    "capitalAdeudado": 1257362872,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [85712],
+    "radicado": "2017 - 01488",
+    "vencimientoPagare": ["2021-04-25T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79846140,
+    "nombre": "oscar gonzalez gonzalez"
+  },
+  "cc": 52325613,
+  "idProcesos": null
+}

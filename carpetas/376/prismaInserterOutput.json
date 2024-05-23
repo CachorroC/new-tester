@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 376,
+    "numero": 376,
+    "llaveProceso": "11001400307620180005200",
+    "nombre": "roberto null rico ruiz",
+    "idProcesos": [51500810],
+    "category": "LiosJuridicos"
+  }
+}

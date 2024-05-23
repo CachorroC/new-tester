@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:45.601Z",
+  "proceso": {
+    "idProceso": 50907660,
+    "idConexion": 259,
+    "llaveProceso": "11001400301620170136700",
+    "fechaProceso": "2017-12-13T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-09-05T05:00:00.000Z",
+    "despacho": "JUZGADO 009 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ADELA BARAJAS MORENO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 9,
+      "tipo": "JUZGADO 009 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-09-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

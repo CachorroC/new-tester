@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300820170105800",
+  "numero": 279,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1069745324,
+    "direccion": "calle 14a sur # 11m - 18 casa 22",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3115964170
+    },
+    "primerNombre": "andres",
+    "segundoNombre": "felipe",
+    "primerApellido": "gutierrez",
+    "segundoApellido": "trujillo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-09-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-25T00:00:00.000Z",
+    "expediente": "11001400300820170105800",
+    "capitalAdeudado": 14404721,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2330087057],
+    "radicado": "2017 - 01058",
+    "vencimientoPagare": ["2020-12-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1069745324,
+  "idProcesos": null
+}

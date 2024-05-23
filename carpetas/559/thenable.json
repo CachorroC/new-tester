@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900420230088600",
+  "numero": 559,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 80219425,
+    "direccion": "calle 50 sur no. 93 d 38 torre 07 apartamento 601 conjunto residencial porvenir reservado etapa 7; carrera 89 a no. 45 a – 33 sur casa 207 agrupación de vivienda la margarita etapa 9",
+    "email": "edwsal736@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3112633806
+    },
+    "primerNombre": "edwin",
+    "segundoNombre": "alexander",
+    "primerApellido": "salcedo",
+    "segundoApellido": "perez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001418900420230088600",
+    "capitalAdeudado": 42598393,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [1080103378],
+    "radicado": "2023 - 00886",
+    "vencimientoPagare": ["2026-03-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80219425,
+  "idProcesos": null
+}

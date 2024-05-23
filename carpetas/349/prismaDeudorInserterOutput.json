@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 346,
+    "cedula": "30746589",
+    "primerNombre": "liliana",
+    "primerApellido": "rosero",
+    "segundoNombre": "garcia",
+    "segundoApellido": null,
+    "direccion": "carrera 73 b no  146 f - 50 interior 9 apartamento 604",
+    "email": "admithel.ltda@yahoo.com",
+    "telCelular": "3155831999",
+    "telFijo": null,
+    "carpetaNumero": 349
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305620170119500",
+  "numero": 339,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 91072102,
+    "direccion": "carrera 53 no 153 - 84  interior 5 apartamento  204",
+    "email": "alfonso.mojica@sumatronicltda.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "alfonso",
+    "primerApellido": "mojica",
+    "segundoApellido": "zambrano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-11-20T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-09T00:00:00.000Z",
+    "expediente": "11001400305620170119500",
+    "capitalAdeudado": 36069195,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [53392043, "530092506 /530092671"],
+    "radicado": "2017 - 01195",
+    "vencimientoPagare": ["2021-04-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 91072102,
+  "idProcesos": null
+}

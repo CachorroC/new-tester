@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 368,
+    "numero": 368,
+    "llaveProceso": "25307400300120180006600",
+    "nombre": "carolina null martinez calderon",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

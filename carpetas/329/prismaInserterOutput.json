@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 329,
+    "numero": 329,
+    "llaveProceso": "11001400308520170159600",
+    "nombre": "reinaldo adrian melendez ,varon",
+    "idProcesos": [65614470],
+    "category": "Terminados"
+  }
+}

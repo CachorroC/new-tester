@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303520170119000",
+  "numero": 41,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52991801,
+    "direccion": "carrera 80 d no. 7-b-83 bogota",
+    "email": "karicazo@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3103247337
+    },
+    "primerNombre": "yency",
+    "segundoNombre": "karina",
+    "primerApellido": "castiblanco",
+    "segundoApellido": "bohorquez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "0147-11-08T04:56:16.000Z",
+    "mandamientoPago": "2017-08-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-08T00:00:00.000Z",
+    "expediente": "11001400303520170119000",
+    "capitalAdeudado": 62998254,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [186924],
+    "radicado": "2017 - 01190",
+    "vencimientoPagare": ["2020-01-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52991801,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 369,
+    "numero": 369,
+    "llaveProceso": "11001400302220170120800",
+    "nombre": "inversion null rivoli s.a.s.",
+    "idProcesos": [50817380, 81647611],
+    "category": "Reintegra"
+  }
+}

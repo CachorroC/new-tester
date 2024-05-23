@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307820170097500",
+  "numero": 358,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1116782267,
+    "direccion": "diagonal 2  no 79 f- 04",
+    "email": "juanotero1989@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3005941798
+    },
+    "primerNombre": "jogli",
+    "segundoNombre": "joaquin",
+    "primerApellido": "otero",
+    "segundoApellido": "vargas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-12T00:00:00.000Z",
+    "mandamientoPago": "2017-10-20T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-06T00:00:00.000Z",
+    "expediente": "11001400307820170097500",
+    "capitalAdeudado": 22130224,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [3880082626],
+    "radicado": "2017 - 00975",
+    "vencimientoPagare": ["2019-02-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1116782267,
+  "idProcesos": null
+}

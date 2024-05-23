@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 311,
+    "numero": 311,
+    "llaveProceso": "11001400370820170018400",
+    "nombre": "paula andrea pinzon otalvaro",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

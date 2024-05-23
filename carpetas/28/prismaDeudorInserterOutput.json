@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 28,
+    "cedula": "20563933",
+    "primerNombre": "maria",
+    "primerApellido": "torres",
+    "segundoNombre": "socorro",
+    "segundoApellido": "de,gonzalez",
+    "direccion": "calle 17 no 8-41 apto 101 fusagasuga",
+    "email": "anyelicllau2006@hotmail.com",
+    "telCelular": "3102301734",
+    "telFijo": "8671269",
+    "carpetaNumero": 28
+  }
+}

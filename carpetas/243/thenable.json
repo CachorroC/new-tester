@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306920170084500",
+  "numero": 243,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 300388244,
+    "direccion": "calle 15 # 15 - 45",
+    "email": null,
+    "tel": {
+      "fijo": 1111111,
+      "celular": 3222223988
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "olga",
+    "primerApellido": "castañeda",
+    "segundoApellido": "perugachi"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-31T00:00:00.000Z",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-25T00:00:00.000Z",
+    "expediente": "11001400306920170084500",
+    "capitalAdeudado": 46109381,
+    "etapaProcesal": "EN EJECUCIÓN LIQUIDACIÓN CREDITO SOLICITADA A COVINOC",
+    "municipio": "BOGOTA",
+    "obligacion": [12577419],
+    "radicado": "2017 - 00845",
+    "vencimientoPagare": ["2020-08-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 300388244,
+  "idProcesos": null
+}

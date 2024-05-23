@@ -1,0 +1,59 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "A": 5303710000000000,
+      "B": "20.453.625"
+    },
+    "capitalAdeudado": "$ 43.211",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CHIA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00237",
+    "llaveProceso": "25175410300120180023700",
+    "etapaProcesal": 43217,
+    "fechaPresentacion": "11/05/2018",
+    "notificacion": {
+      "autoNotificado": 43231
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "INMUEBLE",
+      "medidaSolicitada": "0758/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 419,
+  "llaveProceso": "25175410300120180023700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ALVARO",
+    "segundoNombre": "HERNAN",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": 73133278,
+    "direccion": null,
+    "email": "CALLE 1 SUR No 5A- 179 CASA 26"
+  },
+  "cc": 73133278,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ALVARO HERNAN RUIZ HERNANDEZ",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "43231"
+  }
+}

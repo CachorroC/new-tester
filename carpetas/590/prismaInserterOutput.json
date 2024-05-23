@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 589,
+    "numero": 590,
+    "llaveProceso": null,
+    "nombre": "edwin null jaramillo gallego",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

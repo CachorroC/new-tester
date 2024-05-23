@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 469,
+    "numero": 469,
+    "llaveProceso": "11001400307020180092200",
+    "nombre": "luz myriam valderrama tuta",
+    "idProcesos": [18376650],
+    "category": "Terminados"
+  }
+}

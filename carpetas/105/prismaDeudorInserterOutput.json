@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 104,
+    "cedula": "15319344",
+    "primerNombre": "estelio",
+    "primerApellido": "jesus",
+    "segundoNombre": "de",
+    "segundoApellido": ",roldan,pozo",
+    "direccion": "calle 42 a bis sur no. 90a -64",
+    "email": null,
+    "telCelular": "3133809713",
+    "telFijo": null,
+    "carpetaNumero": 105
+  }
+}

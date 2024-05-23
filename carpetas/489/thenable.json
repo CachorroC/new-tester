@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900320180100800",
+  "numero": 489,
+  "tipoProceso": "HIPOTECARIA",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80257279,
+    "direccion": "calle 72 g- sur no 35-13 sur",
+    "email": "jjanzola@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "orlando",
+    "primerApellido": "silva",
+    "segundoApellido": "calderon",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754418900320180100800",
+    "capitalAdeudado": 2304170434,
+    "etapaProcesal": "ADMISION",
+    "municipio": "SOACHA",
+    "obligacion": [20990126542],
+    "radicado": "2018 - 01008",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 10336884340,
+    "direccion": "TRANSVERSAL 4B No 3-75 CASA 87",
+    "nombre": "luz mery salcedo espinosa",
+    "telefono": 7308097
+  },
+  "cc": 80257279,
+  "idProcesos": null
+}

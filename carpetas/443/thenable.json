@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301020180078400",
+  "numero": 443,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80424051,
+    "direccion": "carrera 10 no 12-32 apto 230 torre 8",
+    "email": "dieben71@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3502092709
+    },
+    "primerNombre": "diego",
+    "segundoNombre": "fernando",
+    "primerApellido": "benitez",
+    "segundoApellido": "alvarado"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-06-19T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-05-08T00:00:00.000Z",
+    "expediente": "11001400301020180078400",
+    "capitalAdeudado": 1330394188,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO", 1740087509],
+    "radicado": "2018 - 00784",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80424051,
+  "idProcesos": null
+}

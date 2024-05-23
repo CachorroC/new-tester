@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "7/05/2026",
+    "llaveProceso": "SinEspecificar",
+    "obligacion": {
+      "A": 149899724
+    },
+    "capitalAdeudado": "$ 43.869.730",
+    "entregaGarantiasAbogado": "26/09/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 584,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [149899724],
+      "radicado": null
+    }
+  ],
+  "numero": 584,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 6056125,
+      "celular": 3045793470
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "CAMILA",
+    "primerApellido": "MORALES",
+    "segundoApellido": "RAMIREZ",
+    "cedula": 53177851,
+    "direccion": "Carrera 55 No. 152 - 35 Interior 4 Apto 603 Conjunto Residencial Mazuren 15 de Bogotá y/o en Condominio Residencial Portobari vía Tiquiza Fagua ubicado en el municipio de Chía (Cundinamarca)",
+    "email": "moralesmariacamila@hotmail.com"
+  },
+  "cc": 53177851,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "MARIA CAMILA MORALES RAMIREZ",
+  "notificacion": null
+}

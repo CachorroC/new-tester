@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 536,
+    "cedula": "23270185",
+    "primerNombre": "clara",
+    "primerApellido": "peña",
+    "segundoNombre": "patricia",
+    "segundoApellido": "beltran",
+    "direccion": null,
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 548
+  }
+}

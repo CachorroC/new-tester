@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400302020170090100",
+  "numero": 60,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1032373332,
+    "direccion": null,
+    "email": "CRA 77 A No. 63f-47 piso 2",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "lady",
+    "segundoNombre": "johanna",
+    "primerApellido": "bayona",
+    "segundoApellido": "garcía"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-18T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400302020170090100",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [35987412],
+    "radicado": "2017 - 00901",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 43150
+  },
+  "cc": 1032373332,
+  "idProcesos": null
+}
