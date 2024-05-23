@@ -7,7 +7,11 @@ export function extrapolateTipoToCorrectType(
 ): string {
   let output = tipo;
 
-  const hasEjecucion = /EJE|E/gim.test(
+  const hasEjecucion = /EJE|E|EJ/gim.test(
+    tipo
+  );
+
+  const isPromiscuoCircuito = /PCTO/gim.test(
     tipo
   );
 
@@ -23,7 +27,7 @@ export function extrapolateTipoToCorrectType(
     tipo
   );
 
-  const isCivilCircuito = /(CC|CIRCUITO|CTO)/gim.test(
+  const isCivilCircuito = /(CC|CIRCUITO|CTO|C CTO)/gim.test(
     tipo
   );
 
@@ -38,7 +42,9 @@ export function extrapolateTipoToCorrectType(
       output = 'PROMISCUO MUNICIPAL';
     }
   } else {
-    if ( isCivilMunicipal ) {
+    if ( isPromiscuoCircuito ) {
+      output = 'PROMISCUO DEL CIRCUITO';
+    } else if ( isCivilMunicipal ) {
       output = 'CIVIL MUNICIPAL';
     } else if ( isCivilCircuito ) {
       output = 'CIVIL DEL CIRCUITO';
@@ -116,24 +122,19 @@ export class NewJuzgado implements Juzgado {
           )
           .trim();
 
+
         const indexOfDespacho = normalizedIteratedName.indexOf(
           normalizedName
         );
 
-        const localeComparedDespachos = normalizedIteratedName.localeCompare(
+        const includesDespacho = normalizedIteratedName.includes(
           normalizedName
         );
 
-        if ( localeComparedDespachos !== -1 ) {
-          console.log(
-            localeComparedDespachos
-          );
 
-        }
-
-        if ( indexOfDespacho !== -1 ) {
+        if ( indexOfDespacho !== -1 || includesDespacho ) {
           console.log(
-            `${ normalizedIteratedName } === ${ normalizedName }: ${ normalizedIteratedName === normalizedName }`
+            `${ includesDespacho }: ${ normalizedIteratedName } === ${ normalizedName }: ${ normalizedIteratedName === normalizedName }`
           );
           return true;
         }
@@ -220,7 +221,14 @@ export class NewJuzgado implements Juzgado {
     }
 
     return new NewJuzgado(
-      `JUZGADO ${ newId } ${ newTipo } DE ${ ciudad }`
+      `JUZGADO ${ newId } ${ newTipo } DE ${ ciudad.toUpperCase()
+        .normalize(
+          'NFD'
+        )
+        .replaceAll(
+          /\p{Diacritic}/gu, ''
+        )
+        .trim() }`
     );
   }
   static fromProceso(

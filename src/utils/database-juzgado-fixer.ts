@@ -31,8 +31,8 @@ for ( const carpeta of Carpetas ) {
   );
   outgoingJuzgados.push(
     {
-      juzgado    : juzgadoByCareta,
-      baseDeDatos: juzgadoByCarpeta
+      ...juzgadoByCarpeta,
+      ...juzgadoByCareta,
     }
   );
 }
