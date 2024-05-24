@@ -129,15 +129,15 @@
     "id": "067",
     "tipo": "CIVIL MUNICIPAL",
     "tipoRaw": "CM ",
-    "ciudad": "SUBA",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "67 CM ",
       "67",
       " ",
       "CM "
     ],
-    "value": "JUZGADO 067 CIVIL MUNICIPAL DE SUBA",
-    "url": ""
+    "value": "JUZGADO 067 CIVIL MUNICIPAL DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-67-civil-municipal-de-bogota"
   },
   {
     "id": "014",
@@ -225,7 +225,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -234,8 +234,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "003",
@@ -864,7 +864,7 @@
   },
   {
     "id": "009",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -873,8 +873,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 009 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-009-civil-municipal-de-bogota"
+    "value": "JUZGADO 009 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-09-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "029",
@@ -1060,7 +1060,7 @@
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -1069,8 +1069,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "064",
@@ -1370,15 +1370,15 @@
     "id": "001",
     "tipo": "CIVIL MUNICIPAL",
     "tipoRaw": "CM",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "1CM",
       "1",
       "",
       "CM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE KENNEDY",
-    "url": ""
+    "value": "JUZGADO 001 CIVIL MUNICIPAL DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-bogota"
   },
   {
     "id": "001",
@@ -1495,13 +1495,13 @@
   {
     "id": "002",
     "tipo": "CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS",
-    "tipoRaw": "C CTO E",
+    "tipoRaw": "C CTO EJ",
     "ciudad": "BOGOTÁ",
     "fullArray": [
-      "2 C CTO E",
+      "2 C CTO EJ",
       "2",
       " ",
-      "C CTO E"
+      "C CTO EJ"
     ],
     "value": "JUZGADO 002 CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS DE BOGOTA",
     "url": "https://www.ramajudicial.gov.co/web/juzgado-02-de-ejecucion-civil-del-circuito-de-bogota"
@@ -1578,7 +1578,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -1587,8 +1587,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "052",
@@ -1662,7 +1662,7 @@
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -1671,8 +1671,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "001",
@@ -1746,7 +1746,7 @@
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -1755,8 +1755,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "080",
@@ -1816,7 +1816,7 @@
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": " PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -1825,8 +1825,8 @@
       " ",
       " PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "068",
@@ -2124,7 +2124,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -2133,8 +2133,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "036",
@@ -2432,7 +2432,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -2441,8 +2441,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "004",
@@ -2516,7 +2516,7 @@
   },
   {
     "id": "010",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -2525,8 +2525,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-bogota"
+    "value": "JUZGADO 010 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "001",
@@ -2978,7 +2978,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -2987,8 +2987,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "008",
@@ -3216,7 +3216,7 @@
   },
   {
     "id": "009",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -3225,8 +3225,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 009 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-009-civil-municipal-de-bogota"
+    "value": "JUZGADO 009 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-09-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "048",
@@ -3342,7 +3342,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -3351,8 +3351,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "023",
@@ -3371,13 +3371,13 @@
   {
     "id": "003",
     "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
-    "tipoRaw": "DE PEQUEÑAS CAUSAS",
+    "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
-      "3 DE PEQUEÑAS CAUSAS",
+      "3PCYCM",
       "3",
-      " ",
-      "DE PEQUEÑAS CAUSAS"
+      "",
+      "PCYCM"
     ],
     "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
     "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
@@ -3804,17 +3804,17 @@
   },
   {
     "id": "046",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "46PCYCM",
       "46",
       "",
       "PCYCM"
     ],
-    "value": "JUZGADO 046 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-46-civil-municipal-de-bogota"
+    "value": "JUZGADO 046 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "007",
@@ -3832,7 +3832,7 @@
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -3841,8 +3841,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "004",
@@ -3994,18 +3994,18 @@
     "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-municipal-de-bogota"
   },
   {
-    "id": "0 0",
-    "tipo": "50 CIVIL MUNICIPAL DE 0",
+    "id": "050",
+    "tipo": "CIVIL MUNICIPAL",
     "tipoRaw": "CM",
-    "ciudad": "Bogota",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "50CM",
       "50",
       "",
       "CM"
     ],
-    "value": "JUZGADO 050 CIVIL MUNICIPAL DE 0",
-    "url": ""
+    "value": "JUZGADO 050 CIVIL MUNICIPAL DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-50-civil-municipal-de-bogota"
   },
   {
     "id": "083",
@@ -4065,7 +4065,7 @@
   },
   {
     "id": "010",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": " PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -4074,8 +4074,8 @@
       " ",
       " PCYCM"
     ],
-    "value": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-bogota"
+    "value": "JUZGADO 010 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "007",
@@ -4123,15 +4123,15 @@
     "id": "002",
     "tipo": "CIVIL MUNICIPAL",
     "tipoRaw": "CM ",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "2 CM ",
       "2",
       " ",
       "CM "
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE KENNEDY",
-    "url": ""
+    "value": "JUZGADO 002 CIVIL MUNICIPAL DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-bogota"
   },
   {
     "id": "001",
@@ -4331,7 +4331,7 @@
   },
   {
     "id": "008",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -4340,22 +4340,22 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 008 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-008-civil-municipal-de-bogota"
+    "value": "JUZGADO 008 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-08-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "043",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "43 PCYCM",
       "43",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 043 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-43-civil-municipal-de-bogota"
+    "value": "JUZGADO 043 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "078",
@@ -4373,17 +4373,17 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "CM",
-    "ciudad": "CAJICA",
+    "tipo": "PROMISCUO MUNICIPAL",
+    "tipoRaw": "PM",
+    "ciudad": "CAJICÁ - CUNDINAMARCA",
     "fullArray": [
-      "002 CM",
+      "002 PM",
       "002",
       " ",
-      "CM"
+      "PM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE CAJICA",
-    "url": ""
+    "value": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-promiscuo-municipal-de-cajica"
   },
   {
     "id": "003",
@@ -5180,7 +5180,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -5189,8 +5189,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "001",
@@ -5331,15 +5331,15 @@
     "id": "026",
     "tipo": "CIVIL MUNICIPAL",
     "tipoRaw": "CM ",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "26 CM ",
       "26",
       " ",
       "CM "
     ],
-    "value": "JUZGADO 026 CIVIL MUNICIPAL DE KENNEDY",
-    "url": ""
+    "value": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-26-civil-municipal-de-bogota"
   },
   {
     "id": "056",
@@ -5623,7 +5623,7 @@
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -5632,8 +5632,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "013",
@@ -5721,7 +5721,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -5730,12 +5730,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -5744,12 +5744,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -5758,8 +5758,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA ",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "044",
@@ -5875,17 +5875,17 @@
   },
   {
     "id": "026",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "26 PCYCM",
       "26",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 026 CIVIL MUNICIPAL DE KENNEDY",
-    "url": ""
+    "value": "JUZGADO 026 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-026-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "019",
@@ -5987,7 +5987,7 @@
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -5996,8 +5996,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-bogota"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-001-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "022",
@@ -6085,21 +6085,21 @@
   },
   {
     "id": "015",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
-      "15 PCCM",
+      "15 PCYCM",
       "15",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 015 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-015-civil-municipal-de-bogota"
+    "value": "JUZGADO 015 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-015-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "006",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6108,12 +6108,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 006 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-006-civil-municipal-de-bogota"
+    "value": "JUZGADO 006 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-06-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6122,12 +6122,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "008",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6136,12 +6136,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 008 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-008-civil-municipal-de-bogota"
+    "value": "JUZGADO 008 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-08-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6150,8 +6150,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "078",
@@ -6197,7 +6197,7 @@
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6206,12 +6206,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6220,8 +6220,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "005",
@@ -6351,16 +6351,16 @@
   },
   {
     "id": "025",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "25 PCYCM",
       "25",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 025 CIVIL MUNICIPAL DE KENNEDY",
+    "value": "JUZGADO 025 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
     "url": ""
   },
   {
@@ -6435,7 +6435,7 @@
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6444,8 +6444,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "012",
@@ -6463,7 +6463,7 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6472,8 +6472,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "077",
@@ -6519,7 +6519,7 @@
   },
   {
     "id": "004",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6528,8 +6528,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 004 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-04-civil-municipal-de-bogota"
+    "value": "JUZGADO 004 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-004-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "070",
@@ -6547,7 +6547,7 @@
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6556,12 +6556,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "015",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6570,12 +6570,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 015 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-015-civil-municipal-de-bogota"
+    "value": "JUZGADO 015 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-015-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "009",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6584,12 +6584,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 009 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-009-civil-municipal-de-bogota"
+    "value": "JUZGADO 009 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-09-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6598,12 +6598,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "032",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6612,8 +6612,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 032 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-032-civil-municipal-de-bogota"
+    "value": "JUZGADO 032 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-32-de-pequenas-causas-y-competencia-multiple-localidad-barrios-unidos-de-bogota"
   },
   {
     "id": "002",
@@ -6631,7 +6631,7 @@
   },
   {
     "id": "012",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6640,8 +6640,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 012 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-012-civil-municipal-de-bogota"
+    "value": "JUZGADO 012 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-012-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "007",
@@ -6701,17 +6701,17 @@
   },
   {
     "id": "031",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "31 PCYCM",
       "31",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 031 CIVIL MUNICIPAL DE KENNEDY",
-    "url": ""
+    "value": "JUZGADO 031 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-31-de-pequenas-causas-y-competencia-multiples-de-bogota"
   },
   {
     "id": "071",
@@ -6731,19 +6731,19 @@
     "id": "032",
     "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PEQUEÑAS CAUSAS",
-    "ciudad": "BARRIOS UNIDOS",
+    "ciudad": "BOGOTÁ",
     "fullArray": [
       "32 PEQUEÑAS CAUSAS",
       "32",
       " ",
       "PEQUEÑAS CAUSAS"
     ],
-    "value": "JUZGADO 032 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BARRIOS UNIDOS ",
-    "url": ""
+    "value": "JUZGADO 032 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-32-de-pequenas-causas-y-competencia-multiple-localidad-barrios-unidos-de-bogota"
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6752,12 +6752,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "008",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6766,12 +6766,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 008 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-008-civil-municipal-de-bogota"
+    "value": "JUZGADO 008 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-08-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "005",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6780,12 +6780,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 005 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-05-civil-municipal-de-bogota"
+    "value": "JUZGADO 005 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-005-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "014",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6794,12 +6794,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 014 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-014-civil-municipal-de-bogota"
+    "value": "JUZGADO 014 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-014-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "010",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6808,12 +6808,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-bogota"
+    "value": "JUZGADO 010 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6822,12 +6822,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6836,8 +6836,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "005",
@@ -6869,21 +6869,21 @@
   },
   {
     "id": "025",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "25 PCYCM",
       "25",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 025 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-25-civil-municipal-de-bogota"
+    "value": "JUZGADO 025 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -6892,8 +6892,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "003",
@@ -6953,7 +6953,7 @@
   },
   {
     "id": "013",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -6962,8 +6962,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 013 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-013-civil-municipal-de-bogota"
+    "value": "JUZGADO 013 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-13-de-pequenas-causas-y-competencias-multiples-de-bogota"
   },
   {
     "id": "017",
@@ -7039,15 +7039,15 @@
     "id": "025",
     "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PEQUEÑAS CAUSAS ",
-    "ciudad": "KENNEDY",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "25 PEQUEÑAS CAUSAS ",
       "25",
       " ",
       "PEQUEÑAS CAUSAS "
     ],
-    "value": "JUZGADO 025 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE KENNEDY",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-25-de-pequenas-causas-y-competencias-multiple-de-kennedy"
+    "value": "JUZGADO 025 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "004",
@@ -7135,17 +7135,17 @@
   },
   {
     "id": "003",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
-      "3 PCCM",
+      "3 PCYCM",
       "3",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 003 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-003-civil-municipal-de-soacha"
+    "value": "JUZGADO 003 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-03-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "044",
@@ -7163,7 +7163,7 @@
   },
   {
     "id": "021",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7172,8 +7172,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 021 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-021-civil-municipal-de-bogota"
+    "value": "JUZGADO 021 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-21-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "017",
@@ -7191,7 +7191,7 @@
   },
   {
     "id": "014",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7200,12 +7200,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 014 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-014-civil-municipal-de-bogota"
+    "value": "JUZGADO 014 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-014-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "010",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7214,12 +7214,12 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-bogota"
+    "value": "JUZGADO 010 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "009",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7228,8 +7228,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 009 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-009-civil-municipal-de-bogota"
+    "value": "JUZGADO 009 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-09-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "070",
@@ -7247,21 +7247,21 @@
   },
   {
     "id": "055",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "55 PCYCM",
       "55",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 055 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-55-civil-municipal-de-bogota"
+    "value": "JUZGADO 055 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "012",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7270,8 +7270,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 012 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-012-civil-municipal-de-bogota"
+    "value": "JUZGADO 012 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-012-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "068",
@@ -7289,31 +7289,31 @@
   },
   {
     "id": "058",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "058 PCYCM",
       "058",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 058 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-58-civil-municipal-de-bogota"
+    "value": "JUZGADO 058 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "057",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "057 PCYCM",
       "057",
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 057 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-57-civil-municipal-de-bogota"
+    "value": "JUZGADO 057 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "036",
@@ -7457,17 +7457,17 @@
   },
   {
     "id": "051",
-    "tipo": "CIVIL DEL CIRCUITO",
-    "tipoRaw": "PCC - ",
-    "ciudad": "BOGOTÁ",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM - ",
+    "ciudad": "BOGOTA",
     "fullArray": [
-      "51 PCC - ",
+      "51 PCYCM - ",
       "51",
       " ",
-      "PCC - "
+      "PCYCM - "
     ],
-    "value": "JUZGADO 051 CIVIL DEL CIRCUITO DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-051-civil-del-circuito-de-bogota"
+    "value": "JUZGADO 051 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "020",
@@ -7583,17 +7583,17 @@
   },
   {
     "id": "043",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
+    "ciudad": "BOGOTA",
     "fullArray": [
-      "43 PCCM",
+      "43 PCYCM",
       "43",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 043 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-43-civil-municipal-de-bogota"
+    "value": "JUZGADO 043 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "fullArray": null,
@@ -7648,21 +7648,21 @@
   },
   {
     "id": "055",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
+    "ciudad": "BOGOTA",
     "fullArray": [
-      "55 PCCM",
+      "55 PCYCM",
       "55",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 055 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-55-civil-municipal-de-bogota"
+    "value": "JUZGADO 055 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "001",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -7671,8 +7671,8 @@
       " ",
       "PCYCM"
     ],
-    "value": "JUZGADO 001 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-municipal-de-soacha"
+    "value": "JUZGADO 001 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-01-municipal-de-pequenas-causas-y-competencia-multiple-de-soacha"
   },
   {
     "id": "003",
@@ -7718,17 +7718,17 @@
   },
   {
     "id": "018",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
-      "18 PCCM",
+      "18 PCYCM",
       "18",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 018 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-018-civil-municipal-de-bogota"
+    "value": "JUZGADO 018 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-018-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "032",
@@ -7788,7 +7788,7 @@
   },
   {
     "id": "004",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7797,8 +7797,8 @@
       "",
       "PCYCM"
     ],
-    "value": "JUZGADO 004 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-04-civil-municipal-de-bogota"
+    "value": "JUZGADO 004 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-004-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "018",
@@ -7816,7 +7816,7 @@
   },
   {
     "id": "004",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7825,8 +7825,8 @@
       "",
       "PCYCM"
     ],
-    "value": "JUZGADO 004 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-04-civil-municipal-de-bogota"
+    "value": "JUZGADO 004 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-004-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "fullArray": null,
@@ -7839,7 +7839,7 @@
   },
   {
     "id": "032",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
     "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -7848,36 +7848,36 @@
       "",
       "PCYCM"
     ],
-    "value": "JUZGADO 032 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-032-civil-municipal-de-bogota"
+    "value": "JUZGADO 032 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-32-de-pequenas-causas-y-competencia-multiple-localidad-barrios-unidos-de-bogota"
   },
   {
     "id": "021",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM ",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM ",
     "ciudad": "BOGOTÁ",
     "fullArray": [
-      "21 PCCM ",
+      "21 PCYCM ",
       "21",
       " ",
-      "PCCM "
+      "PCYCM "
     ],
-    "value": "JUZGADO 021 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-021-civil-municipal-de-bogota"
+    "value": "JUZGADO 021 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-21-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "051",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM ",
-    "ciudad": "BOGOTÁ",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM ",
+    "ciudad": "BOGOTA",
     "fullArray": [
-      "51 PCCM ",
+      "51 PCYCM ",
       "51",
       " ",
-      "PCCM "
+      "PCYCM "
     ],
-    "value": "JUZGADO 051 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-051-civil-municipal-de-bogota"
+    "value": "JUZGADO 051 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "065",
@@ -7895,17 +7895,17 @@
   },
   {
     "id": "057",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
+    "ciudad": "BOGOTA",
     "fullArray": [
-      "57 PCCM",
+      "57 PCYCM",
       "57",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 057 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-57-civil-municipal-de-bogota"
+    "value": "JUZGADO 057 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": ""
   },
   {
     "id": "063",
@@ -7923,31 +7923,31 @@
   },
   {
     "id": "075",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "75 PCCM",
       "75",
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 075 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-75-civil-municipal-de-bogota"
+    "value": "JUZGADO 075 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "014",
-    "tipo": "CIVIL MUNICIPAL",
-    "tipoRaw": "PCCM",
+    "tipo": "DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE",
+    "tipoRaw": "PCYCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
-      "14 PCCM",
+      "14 PCYCM",
       "14",
       " ",
-      "PCCM"
+      "PCYCM"
     ],
-    "value": "JUZGADO 014 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-014-civil-municipal-de-bogota"
+    "value": "JUZGADO 014 DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-014-de-pequenas-causas-y-competencia-multiple-de-bogota"
   },
   {
     "id": "001",
@@ -7993,7 +7993,7 @@
   },
   {
     "id": "005",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8002,8 +8002,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 005 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-05-civil-municipal-de-bogota"
+    "value": "JUZGADO 005 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-5-civil-del-circuito-de-bogota"
   },
   {
     "id": "006",
@@ -8035,7 +8035,7 @@
   },
   {
     "id": "041",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8044,8 +8044,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 041 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-041-civil-municipal-de-bogota"
+    "value": "JUZGADO 041 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-41-civil-del-circuito-de-bogota"
   },
   {
     "id": "002",
@@ -8063,31 +8063,31 @@
   },
   {
     "id": "070",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "70 PCCM",
       "70",
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-070-civil-municipal-de-bogota"
+    "value": "JUZGADO 070 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "061",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "61 PCCM",
       "61",
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 061 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-61-civil-municipal-de-bogota"
+    "value": "JUZGADO 061 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "033",
@@ -8119,17 +8119,17 @@
   },
   {
     "id": "063",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "63 PCCM",
       "63",
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 063 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-63-civil-municipal-de-bogota"
+    "value": "JUZGADO 063 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "053",
@@ -8147,28 +8147,28 @@
   },
   {
     "id": "070",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": " PCCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "70  PCCM",
       "70",
       " ",
       " PCCM"
     ],
-    "value": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-070-civil-municipal-de-bogota"
+    "value": "JUZGADO 070 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "001",
     "tipo": "CIVIL DEL CIRCUITO",
-    "tipoRaw": "CC",
+    "tipoRaw": "CCTO",
     "ciudad": "FUSAGASUGÁ",
     "fullArray": [
-      "01 CC",
+      "01 CCTO",
       "01",
       " ",
-      "CC"
+      "CCTO"
     ],
     "value": "JUZGADO 001 CIVIL DEL CIRCUITO DE FUSAGASUGA",
     "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-del-circuito-de-fusagasuga"
@@ -8287,17 +8287,17 @@
   },
   {
     "id": "002",
-    "tipo": "CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS",
-    "tipoRaw": "CC DE ZIPAQUIRA",
-    "ciudad": "ZIPAQUIRA",
+    "tipo": "CIVIL DEL CIRCUITO",
+    "tipoRaw": "CCTO",
+    "ciudad": "ZIPAQUIRÁ",
     "fullArray": [
-      "2 CC DE ZIPAQUIRA",
+      "2 CCTO",
       "2",
       " ",
-      "CC DE ZIPAQUIRA"
+      "CCTO"
     ],
-    "value": "JUZGADO 002 CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS DE ZIPAQUIRA",
-    "url": ""
+    "value": "JUZGADO 002 CIVIL DEL CIRCUITO DE ZIPAQUIRA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-del-circuito-de-zipaquira"
   },
   {
     "id": "034",
@@ -8428,20 +8428,20 @@
   {
     "id": "001",
     "tipo": "CIVIL DEL CIRCUITO",
-    "tipoRaw": "CC",
+    "tipoRaw": "CCTO",
     "ciudad": "TUNJA",
     "fullArray": [
-      "01 CC",
+      "01 CCTO",
       "01",
       " ",
-      "CC"
+      "CCTO"
     ],
     "value": "JUZGADO 001 CIVIL DEL CIRCUITO DE TUNJA",
     "url": "https://www.ramajudicial.gov.co/web/juzgado-01-civil-del-circuito-de-tunja"
   },
   {
     "id": "002",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "SOACHA",
     "fullArray": [
@@ -8450,8 +8450,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    "value": "JUZGADO 002 CIVIL DEL CIRCUITO DE SOACHA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-del-circuito-de-soacha"
   },
   {
     "id": "077",
@@ -8469,7 +8469,7 @@
   },
   {
     "id": "010",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BARRANQUILLA",
     "fullArray": [
@@ -8478,8 +8478,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 010 CIVIL MUNICIPAL DE BARRANQUILLA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-barranquilla"
+    "value": "JUZGADO 010 CIVIL DEL CIRCUITO DE BARRANQUILLA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-del-circuito-de-barranquilla"
   },
   {
     "id": "010",
@@ -8567,7 +8567,7 @@
   },
   {
     "id": "047",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM ",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8576,8 +8576,8 @@
       " ",
       "PCCM "
     ],
-    "value": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-047-civil-municipal-de-bogota"
+    "value": "JUZGADO 047 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-47-civil-del-circuito-de-bogota"
   },
   {
     "id": "002",
@@ -8637,7 +8637,7 @@
   },
   {
     "id": "036",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8646,19 +8646,19 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 036 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-036-civil-municipal-de-bogota"
+    "value": "JUZGADO 036 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-36-civil-del-circuito-de-bogota"
   },
   {
     "id": "002",
     "tipo": "CIVIL DEL CIRCUITO",
-    "tipoRaw": "CC",
+    "tipoRaw": "CCTO",
     "ciudad": "ZIPAQUIRÁ",
     "fullArray": [
-      "02 CC",
+      "02 CCTO",
       "02",
       " ",
-      "CC"
+      "CCTO"
     ],
     "value": "JUZGADO 002 CIVIL DEL CIRCUITO DE ZIPAQUIRA",
     "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-del-circuito-de-zipaquira"
@@ -8674,7 +8674,7 @@
   },
   {
     "id": "029",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8683,8 +8683,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 029 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-29-civil-municipal-de-bogota"
+    "value": "JUZGADO 029 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-029-civil-del-circuito-de-bogota"
   },
   {
     "id": "003",
@@ -8739,7 +8739,7 @@
   },
   {
     "id": "017",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8748,8 +8748,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-municipal-de-bogota"
+    "value": "JUZGADO 017 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-del-circuito-de-bogota"
   },
   {
     "id": "009",
@@ -8809,31 +8809,31 @@
   },
   {
     "id": "060",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "60 PCCM",
       "60",
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 060 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-060-civil-municipal-de-bogota"
+    "value": "JUZGADO 060 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "072",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM ",
-    "ciudad": "BOGOTÁ",
+    "ciudad": "BOGOTA",
     "fullArray": [
       "72 PCCM ",
       "72",
       " ",
       "PCCM "
     ],
-    "value": "JUZGADO 072 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-072-civil-municipal-de-bogota"
+    "value": "JUZGADO 072 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": ""
   },
   {
     "id": "025",
@@ -8865,7 +8865,7 @@
   },
   {
     "id": "046",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8874,8 +8874,8 @@
       " ",
       "PCCM"
     ],
-    "value": "JUZGADO 046 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-46-civil-municipal-de-bogota"
+    "value": "JUZGADO 046 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-046-civil-del-circuito-de-bogota"
   },
   {
     "fullArray": null,
@@ -8888,7 +8888,7 @@
   },
   {
     "id": "046",
-    "tipo": "CIVIL MUNICIPAL",
+    "tipo": "CIVIL DEL CIRCUITO",
     "tipoRaw": "PCCM ",
     "ciudad": "BOGOTÁ",
     "fullArray": [
@@ -8897,19 +8897,19 @@
       " ",
       "PCCM "
     ],
-    "value": "JUZGADO 046 CIVIL MUNICIPAL DE BOGOTA",
-    "url": "https://www.ramajudicial.gov.co/web/juzgado-46-civil-municipal-de-bogota"
+    "value": "JUZGADO 046 CIVIL DEL CIRCUITO DE BOGOTA",
+    "url": "https://www.ramajudicial.gov.co/web/juzgado-046-civil-del-circuito-de-bogota"
   },
   {
     "id": "016",
     "tipo": "CIVIL DEL CIRCUITO",
-    "tipoRaw": "CC ",
+    "tipoRaw": "CCTO",
     "ciudad": "BOGOTÁ",
     "fullArray": [
-      "16 CC ",
+      "16 CCTO",
       "16",
       " ",
-      "CC "
+      "CCTO"
     ],
     "value": "JUZGADO 016 CIVIL DEL CIRCUITO DE BOGOTA",
     "url": "https://www.ramajudicial.gov.co/web/juzgado-16-civil-del-circuito-de-bogota"

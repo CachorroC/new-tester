@@ -15,7 +15,7 @@ export function extrapolateTipoToCorrectType(
     tipo
   );
 
-  const isPequeñasCausas = /PCCM|PCYCM|Peque/gim.test(
+  const isPequeñasCausas = /PCCM|PCYCM|Peque|causas/gim.test(
     tipo
   );
 
@@ -27,31 +27,31 @@ export function extrapolateTipoToCorrectType(
     tipo
   );
 
-  const isCivilCircuito = /(CC|CIRCUITO|CTO|C CTO)/gim.test(
+  const isCivilCircuito = /(CCTO|CIRCUITO|CTO|C CTO|CC)/gim.test(
     tipo
   );
 
   if ( hasEjecucion ) {
-    if ( isCivilMunicipal ) {
-      output = 'CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS';
-    } else if ( isCivilCircuito ) {
+    if ( isCivilCircuito ) {
       output = 'CIVIL DEL CIRCUITO DE EJECUCIÓN DE SENTENCIAS';
     } else if ( isPequeñasCausas ) {
       output = 'DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE';
     } else if ( isPromiscuoMunicipal ) {
       output = 'PROMISCUO MUNICIPAL';
+    } else if ( isCivilMunicipal ) {
+      output = 'CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS';
     }
   } else {
     if ( isPromiscuoCircuito ) {
       output = 'PROMISCUO DEL CIRCUITO';
-    } else if ( isCivilMunicipal ) {
-      output = 'CIVIL MUNICIPAL';
-    } else if ( isCivilCircuito ) {
+    }  else if ( isCivilCircuito ) {
       output = 'CIVIL DEL CIRCUITO';
     } else if ( isPequeñasCausas ) {
       output = 'DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE';
     } else if ( isPromiscuoMunicipal ) {
       output = 'PROMISCUO MUNICIPAL';
+    } else if ( isCivilMunicipal ) {
+      output = 'CIVIL MUNICIPAL';
     }
   }
 
