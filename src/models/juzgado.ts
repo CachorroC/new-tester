@@ -59,6 +59,7 @@ export function extrapolateTipoToCorrectType(
 }
 
 export class NewJuzgado implements Juzgado {
+  private numericId: number;
   constructor(
     constructorString: string
   ) {
@@ -68,15 +69,17 @@ export class NewJuzgado implements Juzgado {
     this.url = '';
 
     if ( !matchedValues ) {
-      this.id = constructorString.slice(
-        7, 9
-      )
+      this.id = constructorString.trim()
+        .slice(
+          7, 9
+        )
         .padStart(
           3, '000'
         );
-      this.tipo = constructorString.slice(
-        9
-      );
+      this.tipo = constructorString.trim()
+        .slice(
+          9
+        );
 
     } else {
       const [
@@ -97,7 +100,15 @@ export class NewJuzgado implements Juzgado {
 
 
 
-
+    this.numericId = Number(
+      this.id
+    );
+    console.log(
+      this.numericId
+    );
+    console.log(
+      this.id
+    );
 
     const [ matchedDespacho ] = Despachos.filter(
       (
@@ -131,8 +142,18 @@ export class NewJuzgado implements Juzgado {
           normalizedName
         );
 
+        const includesBuilded = normalizedIteratedName.includes(
+          `${ this.numericId } ${ this.tipo }`.toLowerCase()
+            .normalize(
+              'NFD'
+            )
+            .replaceAll(
+              /\p{Diacritic}/gu, ''
+            )
+            .trim()
+        );
 
-        if ( indexOfDespacho !== -1 || includesDespacho ) {
+        if (  indexOfDespacho !== -1 || includesDespacho||includesBuilded  ) {
           console.log(
             `${ includesDespacho }: ${ normalizedIteratedName } === ${ normalizedName }: ${ normalizedIteratedName === normalizedName }`
           );
