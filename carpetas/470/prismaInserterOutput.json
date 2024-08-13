@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 470,
+    "numero": 470,
+    "llaveProceso": "25754418900320180084100",
+    "nombre": "eliana janneth lozano arturo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

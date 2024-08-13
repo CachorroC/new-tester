@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306820170130600",
+  "numero": 334,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 79853302,
+    "direccion": "calle  70 a bis  no 117-16",
+    "email": "nanbravo04@hotmail.com",
+    "tel": {
+      "fijo": 7459324,
+      "celular": 3132088678
+    },
+    "primerNombre": "nestor",
+    "segundoNombre": "julio",
+    "primerApellido": "martinez",
+    "segundoApellido": "orjuela"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-10T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306820170130600",
+    "capitalAdeudado": 15018661,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2017 - 01306",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79853302,
+  "idProcesos": null
+}

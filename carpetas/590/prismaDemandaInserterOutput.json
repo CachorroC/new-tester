@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 578,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "56478909",
+    "entregaGarantiasAbogado": "2023-10-09T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["310149501", "101269167 T.C. MASTER CARD 5303730423512131"],
+    "radicado": null,
+    "vencimientoPagare": [
+      "2025-12-01T00:00:00.000Z",
+      "2026-06-01T00:00:00.000Z"
+    ],
+    "expediente": null,
+    "carpetaNumero": 590,
+    "despacho": null
+  }
+}

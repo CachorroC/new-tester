@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2017-10-13T05:00:00.000Z",
+  "idProcesos": [50466490],
+  "idRegUltimaAct": 690458400,
+  "llaveProceso": "11001400302220170048300",
+  "nombre": "ANDRES MAURICIO FERNANDEZ DE SOTO DOMINGUEZ",
+  "numero": 20,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:23.497Z"
+}

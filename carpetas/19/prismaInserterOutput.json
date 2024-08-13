@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 19,
+    "numero": 19,
+    "llaveProceso": "11001400302120170175500",
+    "nombre": "eliacid null chaves obando",
+    "idProcesos": [50869770],
+    "category": "Terminados"
+  }
+}

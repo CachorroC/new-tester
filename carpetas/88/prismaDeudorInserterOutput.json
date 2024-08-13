@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 87,
+    "cedula": "51890871",
+    "primerNombre": "idaly",
+    "primerApellido": "cardona",
+    "segundoNombre": "ferro",
+    "segundoApellido": null,
+    "direccion": "calle 6 no. 4-07 bogota",
+    "email": "lasmi40@hotmail.com",
+    "telCelular": "3103126814",
+    "telFijo": null,
+    "carpetaNumero": 88
+  }
+}

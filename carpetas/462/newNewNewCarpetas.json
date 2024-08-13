@@ -1,0 +1,64 @@
+{
+  "id": 80755973,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["20990165644"],
+    "llaveProceso": "25754418900120180070000",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2019-02-28T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "9/08/2018"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-06-07T05:00:00.000Z",
+    "etapaProcesal": "25754418900120180070000",
+    "fechaPresentacion": [],
+    "mandamientoPago": "2018-12-07T05:00:00.000Z",
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00700",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2043-07-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7279254,
+      "celular": 3114915425
+    },
+    "primerNombre": "YAMID",
+    "segundoNombre": "GELVES",
+    "primerApellido": "CACERES",
+    "segundoApellido": null,
+    "cedula": 80755973,
+    "direccion": "CARRERA 87 No 69-165",
+    "email": "yamid11@hotmail.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900120180070000",
+  "nombre": "YAMID GELVES CACERES",
+  "numero": 462,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:23.607Z"
+}

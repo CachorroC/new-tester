@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 344,
+    "numero": 344,
+    "llaveProceso": "11001400303320170147400",
+    "nombre": "luis augusto sanchez ortiz",
+    "idProcesos": [50763460],
+    "category": "Reintegra"
+  }
+}

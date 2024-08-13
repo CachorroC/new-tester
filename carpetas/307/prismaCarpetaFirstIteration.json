@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-03-06T05:00:00.000Z",
+  "idProcesos": [50800110],
+  "idRegUltimaAct": 962646520,
+  "llaveProceso": "11001400303620170112500",
+  "nombre": "CARLOS ARTURO CASTAÑO ALDANA",
+  "numero": 307,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:08.610Z"
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 287,
+    "numero": 287,
+    "llaveProceso": "11001400301620170015700",
+    "nombre": "carlos german ruge castañeda",
+    "idProcesos": [50242270],
+    "category": "Insolvencia"
+  }
+}

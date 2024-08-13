@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:23.801Z",
+  "proceso": {
+    "idProceso": 51206070,
+    "idConexion": 259,
+    "llaveProceso": "11001400302720180057700",
+    "fechaProceso": "2018-05-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-06-21T05:00:00.000Z",
+    "despacho": "JUZGADO 004 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: GLORIA GIRALDO DE ROVIDA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 4,
+      "tipo": "JUZGADO 004 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-04-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 53051476,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "EDGAR BUSTAMANTE ANGEL",
+    "cedula": "79263455",
+    "direccion": "calle 64 no. 85-60 INTERIOR 1 LOTE 19 MANZANA 36 URBANIZACION LA ISABELA  ETAPA IIcalle 64 I No. 86-60",
+    "telefono": "2241552//3212307798",
+    "id": 53
+  },
+  "demanda": {
+    "obligacion": ["320 131802"],
+    "llaveProceso": "11001400308520170097500",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 97712903,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-06T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2017-06-21T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00975",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-09-01T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3212307798
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARCELA",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "LOZANO",
+    "cedula": 53051476,
+    "direccion": "calle 64 No. 85-60 INTERIOR 1 LOTE 19 MANZANA 36 URBANIZACION LA ISABELA  ETAPA IIcalle 64 I No. 86-60",
+    "email": "dimarce1513@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308520170097500",
+  "nombre": "DIANA MARCELA SANCHEZ LOZANO",
+  "numero": 53,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:56.735Z"
+}

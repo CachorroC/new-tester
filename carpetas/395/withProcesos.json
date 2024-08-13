@@ -1,0 +1,47 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "29/09/2018",
+    "obligacion": {
+      "A": 60144000242
+    },
+    "capitalAdeudado": "13.974.554",
+    "entregaGarantiasAbogado": "29/01/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00090",
+    "llaveProceso": "11001400308420180009000",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "05/02/2018"
+  },
+  "demandas": [],
+  "numero": 395,
+  "llaveProceso": "11001400308420180009000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JORGE",
+    "segundoNombre": "BERMEO",
+    "primerApellido": "ROJAS",
+    "segundoApellido": null,
+    "cedula": 2869326,
+    "direccion": "CARRERA 59 A No 136- 25 APARTAMENTO 302 BOGOTA",
+    "email": "jbermeo01@hotmail.com"
+  },
+  "cc": 2869326,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JORGE BERMEO ROJAS",
+  "notificacion": null
+}

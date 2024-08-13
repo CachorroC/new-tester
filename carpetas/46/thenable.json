@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25183400300120170010600",
+  "numero": 46,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 11251297,
+    "direccion": "carrera 2b no.14-04 barrio villa alejandra choconta",
+    "email": "alvaro.r@live.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3166182970
+    },
+    "primerNombre": "alvaro",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "alonso",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "mandamientoPago": "2017-06-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "expediente": "25183400300120170010600",
+    "capitalAdeudado": 12537973,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "CHOCONTA",
+    "obligacion": [5.30371393265579e30, 4.09983949630826e29],
+    "radicado": "2017-00106",
+    "vencimientoPagare": [null, null, "2020-04-05T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11251297,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 339,
+    "cedula": "91240362",
+    "primerNombre": "gabriel",
+    "primerApellido": "castillo",
+    "segundoNombre": "augusto",
+    "segundoApellido": "castelblanco",
+    "direccion": null,
+    "email": "CARRERA 87 No  17 - 59",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 342
+  }
+}

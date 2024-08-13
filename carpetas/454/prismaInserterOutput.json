@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 454,
+    "numero": 454,
+    "llaveProceso": "11001400308420180067300",
+    "nombre": "nicolas ernesto cocoma arciniegas",
+    "idProcesos": [112068890],
+    "category": "Terminados"
+  }
+}

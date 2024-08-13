@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 198,
+    "numero": 198,
+    "llaveProceso": "11001400304020170132900",
+    "nombre": "hector manuel ramirez puentes",
+    "idProcesos": [19150031],
+    "category": "Terminados"
+  }
+}

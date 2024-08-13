@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:30.731Z",
+  "proceso": {
+    "idProceso": 86374941,
+    "idConexion": 320,
+    "llaveProceso": "25754400300220170026500",
+    "fechaProceso": "2017-08-31T05:00:00.000Z",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA ",
+    "departamento": "CUNDINAMARCA",
+    "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: JEOVANY  ROJAS CRUZ | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 2,
+      "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    }
+  }
+}

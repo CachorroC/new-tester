@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 331,
+    "cedula": "79853302",
+    "primerNombre": "nestor",
+    "primerApellido": "martinez",
+    "segundoNombre": "julio",
+    "segundoApellido": "orjuela",
+    "direccion": "calle  70 a bis  no 117-16",
+    "email": "nanbravo04@hotmail.com",
+    "telCelular": "3132088678",
+    "telFijo": "7459324",
+    "carpetaNumero": 334
+  }
+}

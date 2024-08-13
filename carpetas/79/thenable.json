@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303320170089200",
+  "numero": 79,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 38289111,
+    "direccion": "diagonal 2 # 64a - 65 int 1 apto 401",
+    "email": "ccctina0218@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "cristina",
+    "primerApellido": "castaño",
+    "segundoApellido": "castillo",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-16T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400303320170089200",
+    "capitalAdeudado": 23640676,
+    "etapaProcesal": "1.100140030332017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [3890084585],
+    "radicado": "2017 - 00892",
+    "vencimientoPagare": ["2020-08-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 38289111,
+  "idProcesos": null
+}

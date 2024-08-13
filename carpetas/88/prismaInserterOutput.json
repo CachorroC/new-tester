@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 88,
+    "numero": 88,
+    "llaveProceso": "1100140030820170052800",
+    "nombre": "idaly null ferro cardona",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

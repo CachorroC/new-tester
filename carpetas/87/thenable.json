@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304620170056100",
+  "numero": 87,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 4198210,
+    "direccion": "calle 39 i # 72f - 53 sur",
+    "email": "omar690501@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "omar",
+    "primerApellido": "espitia",
+    "segundoApellido": "reyes",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-07-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400304620170056100",
+    "capitalAdeudado": 11777235,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2150091074],
+    "radicado": "2017 - 00561",
+    "vencimientoPagare": ["2018-04-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 46676055,
+    "direccion": "CARRERA 68K # 38 SUR - 42",
+    "nombre": "nohemi sanchez forero",
+    "telefono": 2048159
+  },
+  "cc": 4198210,
+  "idProcesos": null
+}

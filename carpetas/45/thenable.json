@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301920170052800",
+  "numero": 45,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 4042105,
+    "direccion": "sin informacion",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3123142449
+    },
+    "primerNombre": "edison",
+    "primerApellido": "palma",
+    "segundoApellido": "cardenal",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-14T00:00:00.000Z",
+    "mandamientoPago": "2017-07-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400301920170052800",
+    "capitalAdeudado": 11832595,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [377815134447388, "40999835900267587//53037142299024763"],
+    "radicado": "2017 - 00528",
+    "vencimientoPagare": ["2020-02-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 4042105,
+  "idProcesos": null
+}

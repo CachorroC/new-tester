@@ -1,0 +1,215 @@
+{
+  "id": 1024481233,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1939013450,
+      "llaveProceso": "11001418907020230053800",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-11-30T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 30/11/2023 a las 14:45:41.",
+      "fechaInicial": "2023-12-01T05:00:00.000Z",
+      "fechaFinal": "2023-12-01T05:00:00.000Z",
+      "fechaRegistro": "2023-11-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 134910360,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-03T00:36:35.459Z"
+    },
+    {
+      "idRegActuacion": 1939013440,
+      "llaveProceso": "11001418907020230053800",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-30T05:00:00.000Z",
+      "actuacion": "Auto decreta medida cautelar",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 134910360,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:35.459Z"
+    },
+    {
+      "idRegActuacion": 1939013430,
+      "llaveProceso": "11001418907020230053800",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-30T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 30/11/2023 a las 14:45:25.",
+      "fechaInicial": "2023-12-01T05:00:00.000Z",
+      "fechaFinal": "2023-12-01T05:00:00.000Z",
+      "fechaRegistro": "2023-11-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 134910360,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:35.459Z"
+    },
+    {
+      "idRegActuacion": 1939013420,
+      "llaveProceso": "11001418907020230053800",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-30T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 134910360,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:35.459Z"
+    },
+    {
+      "idRegActuacion": 1931898770,
+      "llaveProceso": "11001418907020230053800",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-11-10T05:00:00.000Z",
+      "actuacion": "Al despacho por reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-10T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 134910360,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:35.459Z"
+    },
+    {
+      "idRegActuacion": 1931898760,
+      "llaveProceso": "11001418907020230053800",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-11-10T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 10/11/2023 a las 03:07:14",
+      "fechaInicial": "2023-11-10T05:00:00.000Z",
+      "fechaFinal": "2023-11-10T05:00:00.000Z",
+      "fechaRegistro": "2023-11-10T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 134910360,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:35.459Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 579
+  },
+  "demanda": {
+    "capitalAdeudado": "20488522",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2021-08-18T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "11001418907020230053800",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 579,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["9440087467", "40733834 X T.C. VISA 4513080401547652"],
+    "radicado": "2023 - 538",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-03-21T05:00:00.000Z",
+      "2026-03-07T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 579,
+      "fechaOrdenaMedida": "2024-02-03T00:36:35.206Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 579,
+    "telCelular": "3108012331",
+    "telFijo": "8027134 ",
+    "primerNombre": "ANDREA",
+    "segundoNombre": "CAROLINA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "BARRETO",
+    "cedula": "1024481233",
+    "direccion": "Calle 114 No. 6 A 92",
+    "email": "suenopandapijamas@gmail.com"
+  },
+  "fecha": "2023-11-30T05:00:00.000Z",
+  "idProcesos": [134910360],
+  "idRegUltimaAct": 1939013450,
+  "llaveProceso": "11001418907020230053800",
+  "nombre": "ANDREA CAROLINA DIAZ BARRETO ",
+  "numero": 579,
+  "procesos": [
+    {
+      "idProceso": 134910360,
+      "idConexion": 259,
+      "llaveProceso": "11001418907020230053800",
+      "fechaProceso": "2023-11-10T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-30T05:00:00.000Z",
+      "despacho": "JUZGADO 070 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDREA CAROLINA DIAZ BARRETO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 70,
+        "tipo": "JUZGADO 070 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-070-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1939013450,
+    "llaveProceso": "11001418907020230053800",
+    "consActuacion": 6,
+    "fechaActuacion": "2023-11-30T05:00:00.000Z",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 30/11/2023 a las 14:45:41.",
+    "fechaInicial": "2023-12-01T05:00:00.000Z",
+    "fechaFinal": "2023-12-01T05:00:00.000Z",
+    "fechaRegistro": "2023-11-30T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 134910360,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-02-03T00:36:35.206Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 29,
+    "cedula": "80814800",
+    "primerNombre": "whitman",
+    "primerApellido": "najar",
+    "segundoNombre": "jeferson",
+    "segundoApellido": "ramirez",
+    "direccion": "carrera  9 no 19 - 59 chia",
+    "email": "whitman.najarramirez@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 29
+  }
+}

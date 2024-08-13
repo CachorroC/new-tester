@@ -1,0 +1,65 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "3/09/2025",
+    "obligacion": {
+      "A": 127011
+    },
+    "entregaGarantiasAbogado": "30/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "FUSAGASUGA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00369",
+    "llaveProceso": "25290400300120170036900",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "8/06/2017",
+    "mandamientoPago": "28/06/2017",
+    "notificacion": {
+      "291": {
+        "fechaAporta": "APTO 301 EDIFICIO ADRIANA  FOLIIO MATR15731010"
+      },
+      "certimail": "28/06/2017"
+    }
+  },
+  "demandas": [],
+  "numero": 28,
+  "llaveProceso": "25290400300120170036900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 8671269,
+      "celular": 3102301734
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "SOCORRO",
+    "primerApellido": "TORRES",
+    "segundoApellido": ["DE", "GONZALEZ"],
+    "cedula": 20563933,
+    "direccion": "CALLE 17 No 8-41 APTO 101 FUSAGASUGA",
+    "email": "anyelicllau2006@hotmail.com"
+  },
+  "cc": 20563933,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARIA SOCORRO TORRES DE GONZALEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

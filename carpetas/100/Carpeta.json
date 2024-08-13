@@ -1,0 +1,105 @@
+{
+  "id": 80430881,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 100
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "17280116.74",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.914Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.915Z"],
+    "id": 100,
+    "llaveProceso": "25430418900120170068400",
+    "mandamientoPago": [],
+    "municipio": "MADRID",
+    "notificacion": {
+      "id": 100,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:42.941Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["377813893568486", "12484407"],
+    "radicado": "2017 - 00684",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.899Z"],
+    "medidasCautelares": {
+      "id": 100,
+      "fechaOrdenaMedida": "2024-02-10T00:54:29.260Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 100,
+    "telCelular": "3143190799",
+    "telFijo": null,
+    "primerNombre": "JHON",
+    "segundoNombre": "JAIRO",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "ORTIZ",
+    "cedula": "80430881",
+    "direccion": "CALLE 8 # 1 - 92E MADRID",
+    "email": "jojaro07@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25430418900120170068400",
+  "nombre": "jhon jairo rubio ortiz",
+  "numero": 100,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 100,
+      "createdAt": "2024-02-10T00:54:29.260Z",
+      "pathname": null,
+      "dueDate": "2018-03-15T05:00:00.000Z",
+      "text": "EL 15/02/2018 EL JUZGADO DECRETO TERMINACION PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 100,
+      "createdAt": "2024-02-10T00:54:29.260Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "  EL 14 DE MARZO DE 2.018 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 100,
+      "createdAt": "2024-02-10T00:54:29.260Z",
+      "pathname": null,
+      "dueDate": "2022-03-10T05:00:00.000Z",
+      "text": " EL 10/02/2022 SE CONSULTO RUNT Y NO EXISTE MEDIDA CAUTELAR VIGENTE",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:29.260Z"
+}

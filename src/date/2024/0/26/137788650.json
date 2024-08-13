@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:38.466Z",
+  "proceso": {
+    "idProceso": 137788650,
+    "idConexion": 259,
+    "llaveProceso": "11001400301020230121200",
+    "fechaProceso": "2023-11-29T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-25T05:00:00.000Z",
+    "despacho": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: EDWIN ALBERTO PIÑEROS ECHEVERRIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 10,
+      "tipo": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-bogota"
+    }
+  }
+}

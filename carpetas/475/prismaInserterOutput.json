@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 475,
+    "numero": 475,
+    "llaveProceso": "25754408900220180011300",
+    "nombre": "jose librando candela munevar",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

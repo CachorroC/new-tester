@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 331,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "15018661",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2017-10-10T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2017 - 01306",
+    "vencimientoPagare": ["2020-01-01T00:00:00.000Z"],
+    "expediente": "11001400306820170130600",
+    "carpetaNumero": 334,
+    "despacho": null
+  }
+}

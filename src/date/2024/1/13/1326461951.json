@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:22.601Z",
+  "savedDate": 1698901200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1326461951,
+    "llaveProceso": "11001400304220230109900",
+    "consActuacion": 5,
+    "fechaActuacion": "2023-12-13T05:00:00.000Z",
+    "actuacion": "Elaboración de oficios",
+    "anotacion": "C, Oficio No.2433 y 2434 embargo registro - Para revisión y firma.",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-12-13T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 5,
+    "isUltimaAct": true,
+    "idProceso": 162013641
+  }
+}

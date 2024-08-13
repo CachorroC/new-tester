@@ -1,0 +1,50 @@
+{
+  "id": 1033783222,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12569604"],
+    "llaveProceso": "11001418901020170011500",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-05-10T05:00:00.000Z",
+      "medidaSolicitada": "VEHICULO"
+    },
+    "capitalAdeudado": 25340036,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-08-28T05:00:00.000Z"],
+    "mandamientoPago": "2017-05-10T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00115",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-08-16T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7177769,
+      "celular": 3103048137
+    },
+    "primerNombre": "LEONARDO",
+    "segundoNombre": "ALIRIO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GUERRERO",
+    "cedula": 1033783222,
+    "direccion": "CALLE 69J # 20B - 52",
+    "email": "leoguegar@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418901020170011500",
+  "nombre": "LEONARDO ALIRIO GARCIA GUERRERO",
+  "numero": 181,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:45.428Z"
+}

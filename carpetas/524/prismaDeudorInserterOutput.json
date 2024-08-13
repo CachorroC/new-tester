@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 512,
+    "cedula": "52433839",
+    "primerNombre": "ingrit",
+    "primerApellido": "vasquez",
+    "segundoNombre": "yohana",
+    "segundoApellido": "rojas",
+    "direccion": "carrera 15 # 33-17",
+    "email": "grpte@hotmail.com",
+    "telCelular": "3213987669",
+    "telFijo": null,
+    "carpetaNumero": 524
+  }
+}

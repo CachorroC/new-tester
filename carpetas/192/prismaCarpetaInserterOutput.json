@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "numero": 192,
+    "llaveProceso": "1100140030732017015300",
+    "nombre": "diana patricia sanchez salcedo",
+    "idProcesos": [],
+    "category": "Terminados",
+    "tipoProceso": "HIPOTECARIO",
+    "fecha": null,
+    "revisado": false,
+    "updatedAt": "2023-11-29T08:37:11.850Z",
+    "terminado": true,
+    "idRegUltimaAct": null
+  }
+}

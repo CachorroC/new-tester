@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 406,
+    "cedula": "900545720",
+    "primerNombre": "creas",
+    "primerApellido": "s.a.s",
+    "segundoNombre": "consultores",
+    "segundoApellido": null,
+    "direccion": "carrera 50 1# 47 - 50 int 1 apto 101",
+    "email": "andibarracosta@gmail.com",
+    "telCelular": "3107982028",
+    "telFijo": "8626344",
+    "carpetaNumero": 409
+  }
+}

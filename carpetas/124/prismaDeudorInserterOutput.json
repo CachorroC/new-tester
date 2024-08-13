@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 122,
+    "cedula": "40025572",
+    "primerNombre": "blanca",
+    "primerApellido": "arias",
+    "segundoNombre": "edelmira",
+    "segundoApellido": "melo",
+    "direccion": "calle 181 # 17b 47 san antonio",
+    "email": "eariasseguros@hotmail.com",
+    "telCelular": "3202092701",
+    "telFijo": "6749599",
+    "carpetaNumero": 124
+  }
+}

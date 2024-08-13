@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1957653950,
+  "llaveProceso": "11001400300420170126600",
+  "consActuacion": 64,
+  "fechaActuacion": "2024-03-01T05:00:00.000Z",
+  "actuacion": "Constancia secretarial",
+  "anotacion": "SE CREA PROCESO EN GESTOR CON 3 CUADERNOS, PASA A LIQUIDACIONES CON  M18798  //  DIANA GOMEZ",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-03-01T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 64,
+  "isUltimaAct": true,
+  "idProceso": 50859050
+}

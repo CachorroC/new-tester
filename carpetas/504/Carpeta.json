@@ -1,0 +1,105 @@
+{
+  "id": 52432037,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/08/2022",
+    "telefono": null,
+    "id": 504
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "22102018",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "29/10/2018",
+    "fechaPresentacion": [],
+    "id": 504,
+    "llaveProceso": "25740410300120180037000",
+    "mandamientoPago": [],
+    "municipio": "SIBATE",
+    "notificacion": {
+      "id": 504,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["26.315.289.23"],
+    "radicado": "2018 - 00370",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 504,
+      "fechaOrdenaMedida": "2024-02-10T00:55:03.187Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 504,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "ANA",
+    "segundoNombre": "DEL",
+    "primerApellido": "PILAR",
+    "segundoApellido": "MENDEZ",
+    "cedula": "52432037",
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25740410300120180037000",
+  "nombre": "ana del pilar mendez amaya",
+  "numero": 504,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 504,
+      "createdAt": "2024-02-10T00:55:03.187Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 22 DE ENERO DE 2019 SE TERMINO EL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 504,
+      "createdAt": "2024-02-10T00:55:03.187Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 2 DE SEPTIEMBRE DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 504,
+      "createdAt": "2024-02-10T00:55:03.187Z",
+      "pathname": null,
+      "dueDate": "2023-02-19T05:00:00.000Z",
+      "text": " 19/01/2023 SE VERIFICÓ QUE NO HUBO MEDIDAS CAUTELARES SOBRE EL PREDIO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:03.187Z"
+}

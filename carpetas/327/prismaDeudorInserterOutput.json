@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 324,
+    "cedula": "94524378",
+    "primerNombre": "jose",
+    "primerApellido": "escobar",
+    "segundoNombre": "daniel",
+    "segundoApellido": "patiño",
+    "direccion": "jose.daniel.escobar@hotmail.co",
+    "email": "6332400 / 3155459543",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 327
+  }
+}

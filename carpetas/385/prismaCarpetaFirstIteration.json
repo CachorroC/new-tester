@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-07-26T05:00:00.000Z",
+  "idProcesos": [50980350],
+  "idRegUltimaAct": 1823075530,
+  "llaveProceso": "11001400303520180007400",
+  "nombre": "AVELINO SIERRA SIERRA",
+  "numero": 385,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:20.818Z"
+}

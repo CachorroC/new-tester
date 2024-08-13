@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 241,
+    "numero": 241,
+    "llaveProceso": "11001400302320170104400",
+    "nombre": "publi null magic s..a.s.",
+    "idProcesos": [50725030],
+    "category": "Terminados"
+  }
+}

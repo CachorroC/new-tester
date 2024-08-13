@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 230,
+    "cedula": "11313124",
+    "primerNombre": "jose",
+    "primerApellido": "torres",
+    "segundoNombre": "luis",
+    "segundoApellido": "tamayo",
+    "direccion": "calle 145 # 46 - 13 apto 202 int 5",
+    "email": "jotorres@perosnalsoft.com.co",
+    "telCelular": "3138216786",
+    "telFijo": "3138216",
+    "carpetaNumero": 233
+  }
+}

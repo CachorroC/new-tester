@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 368,
+    "cedula": "39765816",
+    "primerNombre": "martha",
+    "primerApellido": "mora",
+    "segundoNombre": "andrea",
+    "segundoApellido": "collazos",
+    "direccion": "calle 50 sur 93 d- 38 apto 401 torre 6",
+    "email": "andreato1a@hotmaul.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 371
+  }
+}

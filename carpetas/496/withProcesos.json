@@ -1,0 +1,84 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "14/09/2021 // 07/05/2021",
+    "obligacion": {
+      "A": "AUDIOPRESTAMO",
+      "B": 5491570347356810
+    },
+    "capitalAdeudado": "$ 27.373.832",
+    "entregaGarantiasAbogado": "18/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CHIA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00602",
+    "llaveProceso": "25175408900320180060200",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "4/10/2018",
+    "mandamientoPago": "12/10/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "26/11/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "6/12/2018"
+      },
+      "292": {
+        "resultado": "POSITIVO"
+      },
+      "certimail": "NO",
+      "fisico": "SI",
+      "tipo": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "22/10/2018",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 496,
+  "llaveProceso": "25175408900320180060200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MODESTO",
+    "segundoNombre": "PINEDA",
+    "primerApellido": "PEREZ",
+    "segundoApellido": null,
+    "cedula": 13222728,
+    "direccion": "CARRERA 6 No 6-59",
+    "email": "mopadinco@yahoo.com"
+  },
+  "cc": 13222728,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MODESTO PINEDA PEREZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-11-26T05:00:00.000Z",
+        "fechaAporta": "2018-12-06T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": null
+  }
+}

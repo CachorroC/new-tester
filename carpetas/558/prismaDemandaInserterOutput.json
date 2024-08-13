@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 546,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "46537671",
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "3880005183",
+      "PAGARE SIN NUMERO T. MASTER CARD 5303720122061696"
+    ],
+    "radicado": "2023 -  00315",
+    "vencimientoPagare": [
+      "2026-03-01T00:00:00.000Z",
+      "2026-03-01T00:00:00.000Z"
+    ],
+    "expediente": "11001400305920230031500",
+    "carpetaNumero": 558,
+    "despacho": null
+  }
+}

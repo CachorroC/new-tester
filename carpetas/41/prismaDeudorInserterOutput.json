@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 41,
+    "cedula": "52991801",
+    "primerNombre": "yency",
+    "primerApellido": "castiblanco",
+    "segundoNombre": "karina",
+    "segundoApellido": "bohorquez",
+    "direccion": "carrera 80 d no. 7-b-83 bogota",
+    "email": "karicazo@yahoo.com",
+    "telCelular": "3103247337",
+    "telFijo": null,
+    "carpetaNumero": 41
+  }
+}

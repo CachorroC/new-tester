@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418901620190108500",
+  "numero": 502,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1023861016,
+    "direccion": "transversal 70g sur-68-52 torre 18 apartamento 1401",
+    "email": "Anrf1985@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "angelica",
+    "segundoNombre": "nathaly",
+    "primerApellido": "rozo",
+    "segundoApellido": "franco"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-12-10T05:00:00.000Z",
+    "expediente": "11001418901620190108500",
+    "capitalAdeudado": 10930100,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [4.59426010701041e29],
+    "radicado": "2019 - 01085",
+    "vencimientoPagare": ["2021-05-01T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1023861016,
+  "idProcesos": null
+}

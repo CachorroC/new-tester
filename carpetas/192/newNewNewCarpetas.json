@@ -1,0 +1,53 @@
+{
+  "id": 53053612,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["490098495", "128775"],
+    "llaveProceso": "1100140030732017015300",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 38393691,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-12-10T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01532",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [
+      "2021-02-22T05:00:00.000Z",
+      "+020258-05-19T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "SALCEDO",
+    "cedula": 53053612,
+    "direccion": "TRANVERSAL 142 # 150 - 50 CASA 2 ET 8",
+    "email": "baldini@mybosi.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "1100140030732017015300",
+  "nombre": "DIANA PATRICIA SANCHEZ SALCEDO",
+  "numero": 192,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:48.533Z"
+}

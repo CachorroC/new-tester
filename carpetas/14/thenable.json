@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25740418900120170028400",
+  "numero": 14,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52441656,
+    "direccion": "transversal 6 b  no 12 a - 18   sibate",
+    "email": "elmisosro1@hotmailcom",
+    "tel": {
+      "fijo": 5295780,
+      "celular": 3133743400
+    },
+    "primerNombre": "elsa",
+    "segundoNombre": "milena",
+    "primerApellido": "sosa",
+    "segundoApellido": ["", "romero"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-27T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-09-19T00:00:00.000Z",
+    "expediente": "25740418900120170028400",
+    "capitalAdeudado": 15987259,
+    "etapaProcesal": null,
+    "municipio": "SIBATE",
+    "obligacion": [4517],
+    "radicado": "2017 - 00284",
+    "vencimientoPagare": ["2023-03-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52441656,
+  "idProcesos": null
+}

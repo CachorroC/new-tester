@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 517,
+    "numero": 518,
+    "llaveProceso": "11001418900920190016200",
+    "nombre": "jorge ivan avendaño vanegas",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

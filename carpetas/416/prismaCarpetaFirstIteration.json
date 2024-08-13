@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-11-03T05:00:00.000Z",
+  "idProcesos": [50873000],
+  "idRegUltimaAct": 1928198460,
+  "llaveProceso": "11001400302020170147700",
+  "nombre": "JOSE ANTONIO MONTEALEGRE HERNANDEZ",
+  "numero": 416,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:25.427Z"
+}

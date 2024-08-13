@@ -1,0 +1,88 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "45026",
+    "telefono": null,
+    "id": 131,
+    "carpetaNumero": 131
+  },
+  "demanda": {
+    "vencimientoPagare": "15/12/2192",
+    "obligacion": {
+      "B": 16924662
+    },
+    "capitalAdeudado": "$ 42.965",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00774",
+    "llaveProceso": "25754418900120170077400",
+    "etapaProcesal": 42965,
+    "fechaPresentacion": "5/09/2017",
+    "mandamientoPago": "FISICO",
+    "notificacion": {
+      "291": {
+        "resultado": "17/09/2018"
+      },
+      "292": {
+        "fechaAporta": 43404,
+        "resultado": "FISICO"
+      },
+      "tipo": 43413,
+      "autoNotificado": 42983
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "INMUEBLE",
+      "medidaSolicitada": "1064"
+    }
+  },
+  "demandas": [],
+  "numero": 131,
+  "llaveProceso": "25754418900120170077400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ROCIO",
+    "segundoNombre": "ALEIDA",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "BARRETO",
+    "cedula": 52830770,
+    "direccion": null,
+    "email": "CARRERA 9 ESTE # 36 - 40 CASA 34"
+  },
+  "cc": 52830770,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ROCIO ALEIDA ORTIZ BARRETO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "42983"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 588,
+    "cedula": "1023891419",
+    "primerNombre": "edwin",
+    "primerApellido": "sarmiento",
+    "segundoNombre": "camilo",
+    "segundoApellido": "gomez",
+    "direccion": "carrera 3 no 6-25 sur torre 6 apto 104",
+    "email": "edwin.sarmiento@altipal.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 506
+  }
+}

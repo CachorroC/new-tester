@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 312,
+    "numero": 312,
+    "llaveProceso": "11001418904320170114000",
+    "nombre": "pedro pablo sarmiento mayorga",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

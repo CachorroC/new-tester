@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 417,
+    "cedula": "79837700",
+    "primerNombre": "alexander",
+    "primerApellido": "ortiz",
+    "segundoNombre": "muñoz",
+    "segundoApellido": null,
+    "direccion": "diagonal 2 no 79 a-45 bloq 2 apto 402",
+    "email": "alexmortiz76@yahoo.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 421
+  }
+}

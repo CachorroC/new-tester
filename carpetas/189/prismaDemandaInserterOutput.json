@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 186,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "7196668593",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "TOCANCIPA",
+    "obligacion": ["175217", "5303718084430842"],
+    "radicado": "2017 - 00494",
+    "vencimientoPagare": ["2034-06-01T00:00:00.000Z"],
+    "expediente": "25817418900120170049400",
+    "carpetaNumero": 189,
+    "despacho": null
+  }
+}

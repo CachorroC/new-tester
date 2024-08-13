@@ -1,0 +1,113 @@
+{
+  "id": 52851677,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 511
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "41522255",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 511,
+    "llaveProceso": "25754400300220180041600",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 511,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990201453"],
+    "radicado": "2018 - 00416",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2018-04-12T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 511,
+      "fechaOrdenaMedida": "2024-02-10T00:55:03.617Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 511,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARJORIE",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "MONTOYA",
+    "cedula": "52851677",
+    "direccion": "CARRRA 102 No 69-22",
+    "email": "dhyanitaco@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754400300220180041600",
+  "nombre": "diana marjorie romero montoya",
+  "numero": 511,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 511,
+      "createdAt": "2024-02-10T00:55:03.617Z",
+      "pathname": null,
+      "dueDate": "2019-03-01T05:00:00.000Z",
+      "text": "EL 29/01/2019 SE RECHAZO LA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 511,
+      "createdAt": "2024-02-10T00:55:03.617Z",
+      "pathname": null,
+      "dueDate": "2019-03-03T05:00:00.000Z",
+      "text": " EL 31/01/2019 SE RETIRO LA DEMANDA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 511,
+      "createdAt": "2024-02-10T00:55:03.617Z",
+      "pathname": null,
+      "dueDate": "2019-04-06T05:00:00.000Z",
+      "text": " EL 6/03/2019 SE DEVOLVIERON LAS GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 511,
+      "createdAt": "2024-02-10T00:55:03.617Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE DECRETARON MEDIDAS CAUTELARES EN EL PROCESO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:03.618Z"
+}

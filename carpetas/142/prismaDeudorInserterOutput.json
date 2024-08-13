@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 140,
+    "cedula": "36184358",
+    "primerNombre": "deisy",
+    "primerApellido": "cuellar",
+    "segundoNombre": "polania",
+    "segundoApellido": null,
+    "direccion": "carrea 2 # 21 - 55 to 402 j funza",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 142
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303420170108900",
+  "numero": 143,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1023904524,
+    "direccion": "calle 22c sur # 5 - 54",
+    "email": "dalila_paito@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "paola",
+    "segundoNombre": "andrea",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "morales"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-22T00:00:00.000Z",
+    "mandamientoPago": "2017-09-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-17T00:00:00.000Z",
+    "expediente": "11001400303420170108900",
+    "capitalAdeudado": 9079297,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [4280023643],
+    "radicado": "2017 - 01089",
+    "vencimientoPagare": ["2017-06-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 5568506,
+    "direccion": "CALLE 22C SUR # 5 - 54",
+    "nombre": "jose manuel ardila",
+    "telefono": 8136733
+  },
+  "cc": 1023904524,
+  "idProcesos": null
+}

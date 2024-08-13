@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:13.974Z",
+  "savedDate": 1513314000000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1263708100,
+    "llaveProceso": "11001400307320170156300",
+    "consActuacion": 46,
+    "fechaActuacion": "2022-03-15T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "SE ARCHIVA EN LA CAJA 342 CON STICKER No. 1002769393\r\n // JUAN DAVID VH  \r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-03-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 46,
+    "isUltimaAct": true,
+    "idProceso": 50873850
+  }
+}

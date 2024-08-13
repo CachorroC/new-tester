@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301220170102100",
+  "numero": 255,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 23946115,
+    "direccion": "diagonal 136 bis # 3 - 80 sur",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yeimi",
+    "segundoNombre": "zoraida",
+    "primerApellido": "perez",
+    "segundoApellido": "acevedo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-01T00:00:00.000Z",
+    "expediente": "11001400301220170102100",
+    "capitalAdeudado": 15311681,
+    "etapaProcesal": "1.100140030122017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [940082843],
+    "radicado": "2017 - 01021",
+    "vencimientoPagare": ["2019-07-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1002415012,
+    "direccion": "CALLE 136 # 14 - 22 SUR",
+    "nombre": "pablo andres perez acevedo",
+    "telefono": "7708676 // 3142983369"
+  },
+  "cc": 23946115,
+  "idProcesos": null
+}

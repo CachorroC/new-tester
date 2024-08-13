@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 87,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-06-28T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["12488415"],
+    "radicado": "2017 - 00528",
+    "vencimientoPagare": ["2018-07-01T00:00:00.000Z"],
+    "expediente": "1100140030820170052800",
+    "carpetaNumero": 88,
+    "despacho": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 282,
+    "numero": 282,
+    "llaveProceso": "11001400301520170139400",
+    "nombre": "matias humberto avila aguilar",
+    "idProcesos": [50777890],
+    "category": "Bancolombia"
+  }
+}

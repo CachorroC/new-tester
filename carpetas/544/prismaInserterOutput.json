@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 543,
+    "numero": 544,
+    "llaveProceso": "11001400304320190215900",
+    "nombre": "sonia angelica lopez ortiz",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

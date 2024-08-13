@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 269,
+    "cedula": "80406979",
+    "primerNombre": "luis",
+    "primerApellido": "gutierrez",
+    "segundoNombre": "fernando",
+    "segundoApellido": "rodriguez",
+    "direccion": "calle 9 no 1 - 32     tabio",
+    "email": "nellyandreabotiab@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 272
+  }
+}

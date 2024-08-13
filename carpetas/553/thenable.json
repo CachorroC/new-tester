@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308320230108800",
+  "numero": 553,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 80220698,
+    "direccion": "carrera 7 # 180 75 // carrera 8 a no. 182 - 12",
+    "email": "lxndrlaverde@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "alexander",
+    "primerApellido": "laverde",
+    "segundoApellido": "penagos"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-06-20T00:00:00.000Z",
+    "expediente": "11001400308320230108800",
+    "capitalAdeudado": 31804872,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [130089828],
+    "radicado": "2023 - 01088",
+    "vencimientoPagare": ["2025-02-25T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80220698,
+  "idProcesos": null
+}

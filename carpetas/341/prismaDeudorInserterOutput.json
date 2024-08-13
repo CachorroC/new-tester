@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 338,
+    "cedula": "19294251",
+    "primerNombre": "mario",
+    "primerApellido": "parra",
+    "segundoNombre": "velez",
+    "segundoApellido": null,
+    "direccion": "carrera 14 no  127 - 10 oficina 707",
+    "email": "mariovelezparra@gmail.com",
+    "telCelular": "3102124649",
+    "telFijo": "6155668",
+    "carpetaNumero": 341
+  }
+}

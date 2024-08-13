@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "110014003080201E+22",
+  "numero": 127,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 41610065,
+    "direccion": "carrera 23 # 20 - 40 sur",
+    "email": "albertotrilleras@hotmail.com",
+    "tel": {
+      "fijo": 3614483,
+      "celular": 3124498840
+    },
+    "primerNombre": "zoila",
+    "segundoNombre": "irene",
+    "primerApellido": "suavita",
+    "segundoApellido": ["de", "trilleras"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-27T00:00:00.000Z",
+    "mandamientoPago": "2017-11-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "110014003080201E+22",
+    "capitalAdeudado": 51302541,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [6670083892, 12074022],
+    "radicado": "2017 - 00735",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79481751,
+    "nombre": "edgar efren parra"
+  },
+  "cc": 41610065,
+  "idProcesos": null
+}

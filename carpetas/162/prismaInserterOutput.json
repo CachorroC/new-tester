@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 162,
+    "numero": 162,
+    "llaveProceso": "11001400304120170094600",
+    "nombre": "manhattan null dotaciones s.a.s",
+    "idProcesos": [52159350],
+    "category": "Terminados"
+  }
+}

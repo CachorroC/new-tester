@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 375,
+    "cedula": "11346521",
+    "primerNombre": "nelson",
+    "primerApellido": "moreno",
+    "segundoNombre": "yesith",
+    "segundoApellido": "leon",
+    "direccion": null,
+    "email": "DIAGINAL 51A 59 A - 17 APARTAMENTO 1",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 378
+  }
+}

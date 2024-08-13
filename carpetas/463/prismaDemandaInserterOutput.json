@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 458,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "24501535",
+    "entregaGarantiasAbogado": "2018-07-05T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2019-05-07T00:00:00.000Z",
+    "etapaProcesal": "CONTESTACION DEMANDA",
+    "fechaPresentacion": "2018-07-12T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "AMERICAN 0377814037749057",
+      "VISA 4513083943843365 // MASTER 5303729958258417"
+    ],
+    "radicado": "2019 - 00656",
+    "vencimientoPagare": [
+      "2021-02-01T00:00:00.000Z",
+      "2021-02-01T00:00:00.000Z"
+    ],
+    "expediente": "11001418901420190065600",
+    "carpetaNumero": 463,
+    "despacho": null
+  }
+}

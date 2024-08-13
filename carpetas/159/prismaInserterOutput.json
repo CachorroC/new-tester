@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 159,
+    "numero": 159,
+    "llaveProceso": "11001400307320170133300",
+    "nombre": "allan fredy tobar enciso",
+    "idProcesos": [50765090],
+    "category": "Terminados"
+  }
+}

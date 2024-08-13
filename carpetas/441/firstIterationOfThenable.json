@@ -1,0 +1,47 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "18/09/2032",
+    "obligacion": {
+      "A": 20990156079
+    },
+    "capitalAdeudado": "17.141.891",
+    "entregaGarantiasAbogado": "23/05/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00609",
+    "llaveProceso": "25899408900120180060900",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "31/05/2018"
+  },
+  "demandas": [],
+  "numero": 441,
+  "llaveProceso": "25899408900120180060900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3102762216
+    },
+    "primerNombre": "YANETH",
+    "segundoNombre": "MILLAN",
+    "primerApellido": "PRIETO",
+    "segundoApellido": null,
+    "cedula": 52064928,
+    "direccion": "CARRERA 5 No 7-40 SUR",
+    "email": "janeth2609@hotmail.com"
+  },
+  "cc": 52064928,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "YANETH MILLAN PRIETO",
+  "notificacion": null
+}

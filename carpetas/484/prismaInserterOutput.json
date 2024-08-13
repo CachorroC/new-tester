@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 484,
+    "numero": 484,
+    "llaveProceso": "25754418900320190027000",
+    "nombre": "jenny  andrea avila,garzon",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

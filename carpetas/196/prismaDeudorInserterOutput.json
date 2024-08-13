@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 193,
+    "cedula": "80130064",
+    "primerNombre": "jairo",
+    "primerApellido": "tibata",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "transversal 5q  # 48p - 06 sur",
+    "email": "jairotibata@hotmail.com",
+    "telCelular": "3157303099",
+    "telFijo": "7677881",
+    "carpetaNumero": 196
+  }
+}

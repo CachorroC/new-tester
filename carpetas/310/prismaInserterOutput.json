@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 310,
+    "numero": 310,
+    "llaveProceso": "11001400302120170153200",
+    "nombre": "libardo alfonso gonzalez triviño",
+    "idProcesos": [50769660, 81620291],
+    "category": "Bancolombia"
+  }
+}

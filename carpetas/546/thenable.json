@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300220170100200",
+  "numero": 546,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1116782267,
+    "direccion": "diagonal 2 no 79 f -04",
+    "email": "juanotero1989@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3005941798
+    },
+    "primerNombre": "jogli",
+    "segundoNombre": "joaquin",
+    "primerApellido": "otero",
+    "segundoApellido": "vargas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-12T00:00:00.000Z",
+    "mandamientoPago": "2017-11-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-06T00:00:00.000Z",
+    "expediente": "11001400300220170100200",
+    "capitalAdeudado": 41372568,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [12541235],
+    "radicado": "2017 - 01002",
+    "vencimientoPagare": ["2020-10-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1116782267,
+  "idProcesos": null
+}

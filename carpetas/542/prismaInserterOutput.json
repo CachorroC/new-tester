@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 541,
+    "numero": 542,
+    "llaveProceso": "11001418901220180064400",
+    "nombre": "bibiana patricia esguerra vasquez",
+    "idProcesos": [71079290],
+    "category": "Reintegra"
+  }
+}

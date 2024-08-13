@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 316,
+    "cedula": "33307437",
+    "primerNombre": "gloria",
+    "primerApellido": "prasca",
+    "segundoNombre": "angelica",
+    "segundoApellido": "mejia",
+    "direccion": "carrera 2 no 1 - 23  cajica",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 319
+  }
+}

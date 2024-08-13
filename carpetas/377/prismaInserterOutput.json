@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 377,
+    "numero": 377,
+    "llaveProceso": "11001400304620180010700",
+    "nombre": "gladis null velasquez castro",
+    "idProcesos": [10138483],
+    "category": "Terminados"
+  }
+}

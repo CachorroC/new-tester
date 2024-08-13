@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25126400300120170075600",
+  "numero": 319,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 33307437,
+    "direccion": "carrera 2 no 1 - 23  cajica",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "gloria",
+    "segundoNombre": "angelica",
+    "primerApellido": "prasca",
+    "segundoApellido": "mejia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-08T00:00:00.000Z",
+    "mandamientoPago": "2018-04-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-25T00:00:00.000Z",
+    "expediente": "25126400300120170075600",
+    "capitalAdeudado": 2416595999,
+    "etapaProcesal": "LIQUIDACION",
+    "municipio": "CAJICA",
+    "obligacion": [
+      "335008770 /3350086329",
+      "53003710116636165-0377813180199052"
+    ],
+    "radicado": "2017 - 00756",
+    "vencimientoPagare": ["2017-12-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 33307437,
+  "idProcesos": null
+}

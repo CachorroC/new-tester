@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "31/10/2033",
+    "obligacion": {
+      "A": 169486
+    },
+    "capitalAdeudado": 120292568,
+    "entregaGarantiasAbogado": "24/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MOSQUERA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00956",
+    "llaveProceso": "25286310300120170095600",
+    "fechaPresentacion": "31/08/2017"
+  },
+  "demandas": [],
+  "numero": 161,
+  "llaveProceso": "25286310300120170095600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3153808,
+      "celular": 3153808376
+    },
+    "primerNombre": "RICARDO",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "BELTRAN",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": 79335809,
+    "direccion": "CALLE 23 # 5 - 23 CASA 4 INT 10",
+    "email": "norina@reservalaboral.com.co"
+  },
+  "cc": 79335809,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "RICARDO ALBERTO BELTRAN HERNANDEZ",
+  "notificacion": null
+}

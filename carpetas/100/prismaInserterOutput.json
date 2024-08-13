@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 100,
+    "numero": 100,
+    "llaveProceso": "25430418900120170068400",
+    "nombre": "jhon jairo rubio ortiz",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

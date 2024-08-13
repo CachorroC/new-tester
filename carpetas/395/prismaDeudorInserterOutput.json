@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 392,
+    "cedula": "2869326",
+    "primerNombre": "jorge",
+    "primerApellido": "rojas",
+    "segundoNombre": "bermeo",
+    "segundoApellido": null,
+    "direccion": "carrera 59 a no 136- 25 apartamento 302 bogota",
+    "email": "jbermeo01@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 395
+  }
+}

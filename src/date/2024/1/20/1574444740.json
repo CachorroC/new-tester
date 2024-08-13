@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:45.864Z",
+  "savedDate": "2020-09-04T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1574444740,
+    "llaveProceso": "11001400302020170097400",
+    "consActuacion": 93,
+    "fechaActuacion": "2022-12-19T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "ENTREGUE  OFICIO A L A AUTORIZADA DE LA DEMANDADA//LUCERO SUAREZ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-12-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 93,
+    "isUltimaAct": true,
+    "idProceso": 112880210
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 185,
+    "numero": 185,
+    "llaveProceso": "25754400300320170028300",
+    "nombre": "william giovanni dorado fernandez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

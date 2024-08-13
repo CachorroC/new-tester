@@ -1,0 +1,269 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 98177804,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 8,
+      "fechaActuacion": "2017-12-07T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "se hace entreha de la presente demanda a la actora sin compensacion ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-12-07T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": true,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177794,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 7,
+      "fechaActuacion": "2017-08-15T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 15/08/2017 a las 07:54:51.",
+      "fechaInicial": "2017-08-16T05:00:00.000Z",
+      "fechaFinal": "2017-08-16T05:00:00.000Z",
+      "fechaRegistro": "2017-08-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177784,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 6,
+      "fechaActuacion": "2017-08-15T05:00:00.000Z",
+      "actuacion": "Auto resuelve corrección providencia",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-08-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177774,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 5,
+      "fechaActuacion": "2017-08-09T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-08-09T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177764,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 4,
+      "fechaActuacion": "2017-08-02T05:00:00.000Z",
+      "actuacion": "Elaboración de oficios",
+      "anotacion": "1721 CL.",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-08-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177754,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 3,
+      "fechaActuacion": "2017-07-18T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 18/07/2017 a las 15:49:59.",
+      "fechaInicial": "2017-07-19T05:00:00.000Z",
+      "fechaFinal": "2017-07-19T05:00:00.000Z",
+      "fechaRegistro": "2017-07-18T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177744,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 2,
+      "fechaActuacion": "2017-07-18T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-07-18T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    },
+    {
+      "idRegActuacion": 98177734,
+      "llaveProceso": "11001400305620170059100",
+      "consActuacion": 1,
+      "fechaActuacion": "2017-06-30T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 30/06/2017 a las 12:22:09",
+      "fechaInicial": "2017-06-30T05:00:00.000Z",
+      "fechaFinal": "2017-06-30T05:00:00.000Z",
+      "fechaRegistro": "2017-06-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 17325724,
+      "isUltimaAct": false,
+      "carpetaNumero": 94,
+      "createdAt": "2023-12-10T20:30:35.421Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 56,
+      "tipo": "JUZGADO 056 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-056-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "9/10/2034",
+    "obligacion": {
+      "A": 177994
+    },
+    "capitalAdeudado": 95244711,
+    "entregaGarantiasAbogado": "28/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00591",
+    "llaveProceso": "11001400305620170059100",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "29/06/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 1721,
+        "resultado": "2/08/2017"
+      },
+      "certimail": "18/07/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 17325724,
+      "idConexion": 263,
+      "llaveProceso": "11001400305620170059100",
+      "fechaProceso": "2017-06-30T05:00:00.000Z",
+      "fechaUltimaActuacion": "2017-12-07T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: AIDA YURANY  GRIJALBA MARTINEZ ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2034-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 95244711,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-06-29T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [177994],
+      "radicado": "2017 - 00591"
+    }
+  ],
+  "numero": 94,
+  "llaveProceso": "11001400305620170059100",
+  "fecha": "2017-12-07T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 98177804,
+    "llaveProceso": "11001400305620170059100",
+    "consActuacion": 8,
+    "fechaActuacion": "2017-12-07T00:00:00",
+    "actuacion": "Retiro demanda",
+    "anotacion": "se hace entreha de la presente demanda a la actora sin compensacion ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2017-12-07T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "idProceso": 17325724,
+    "isUltimaAct": true
+  },
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "AIDA",
+    "segundoNombre": "YURANI",
+    "primerApellido": "GRIJALBA",
+    "segundoApellido": "MARTINEZ",
+    "cedula": 1030527169,
+    "direccion": "CARRERA 70C # 1A - 86 SUR",
+    "email": "o"
+  },
+  "cc": 1030527169,
+  "procesos": [
+    {
+      "idProceso": 17325724,
+      "idConexion": 263,
+      "llaveProceso": "11001400305620170059100",
+      "fechaProceso": "2017-06-30T05:00:00.000Z",
+      "fechaUltimaActuacion": "2017-12-07T05:00:00.000Z",
+      "despacho": "JUZGADO 056 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: AIDA YURANY  GRIJALBA MARTINEZ ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [17325724],
+  "nombre": "AIDA YURANI GRIJALBA MARTINEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 495,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1563192300",
+    "entregaGarantiasAbogado": "2018-10-10T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-07-11T00:00:00.000Z",
+    "etapaProcesal": "ADMISIION",
+    "fechaPresentacion": null,
+    "municipio": "MANTA",
+    "obligacion": ["AUDIOPRESTAMO", "3360084365 / 3360084819"],
+    "radicado": "2018 - 00063",
+    "vencimientoPagare": [],
+    "expediente": "25436408900120180006300",
+    "carpetaNumero": 503,
+    "despacho": null
+  }
+}

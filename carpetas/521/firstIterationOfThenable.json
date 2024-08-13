@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 4099830000000000
+    },
+    "capitalAdeudado": "20.616.779.01",
+    "entregaGarantiasAbogado": "08/02/2019",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2019 - 00235",
+    "llaveProceso": "11001418901220190023500",
+    "fechaPresentacion": "15/02/2019"
+  },
+  "demandas": [],
+  "numero": 521,
+  "llaveProceso": "11001418901220190023500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "AQUILINA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "LANCHEROS",
+    "cedula": 40050052,
+    "direccion": "CARRERA 4A No 93-11p 1",
+    "email": "aquimaria1965@gmail.com"
+  },
+  "cc": 40050052,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARIA AQUILINA RODRIGUEZ LANCHEROS",
+  "notificacion": null
+}

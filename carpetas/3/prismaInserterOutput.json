@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 3,
+    "numero": 3,
+    "llaveProceso": "25126408900220170071500",
+    "nombre": "maria claudia reatiga urrea",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

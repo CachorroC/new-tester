@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001418900420230088400",
+  "numero": 562,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 17139148,
+    "direccion": "carrera 80 no. 8 - 11 torre 3 interior 5 apartamento 519 torres de santa barbara conjunto residencial",
+    "email": "ajasalama@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "mario",
+    "segundoNombre": "hernan",
+    "primerApellido": "salamanca",
+    "segundoApellido": "patiño"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001418900420230088400",
+    "capitalAdeudado": 25252953,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      9960086465,
+      "TARJETA DE CREDITO MASTER CARD 5303720132348190"
+    ],
+    "radicado": "2023 - 00985",
+    "vencimientoPagare": [
+      "2026-10-05T05:00:00.000Z",
+      "2026-06-03T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 17139148,
+  "idProcesos": null
+}

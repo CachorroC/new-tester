@@ -1,0 +1,25 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 544,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "149444779",
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "MADRID",
+    "obligacion": ["3830095699 // 3830095700", "3830095701"],
+    "radicado": "2023 - 01127",
+    "vencimientoPagare": [
+      "2026-03-01T00:00:00.000Z",
+      "2026-03-01T00:00:00.000Z",
+      "2026-04-01T00:00:00.000Z"
+    ],
+    "expediente": "25430400300120230112700",
+    "carpetaNumero": 556,
+    "despacho": null
+  }
+}

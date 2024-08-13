@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 562,
+    "cedula": "1014214413",
+    "primerNombre": "ingrid",
+    "primerApellido": "patarroyo",
+    "segundoNombre": "lizeth",
+    "segundoApellido": "baez",
+    "direccion": "carrera 85 l # 63b-42 conjunto residencial portales de villaluz etapa 1",
+    "email": "ingridpatarroyobaez@gmail.com",
+    "telCelular": "3007547824",
+    "telFijo": null,
+    "carpetaNumero": 574
+  }
+}

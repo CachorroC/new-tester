@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400307520180061700",
+  "numero": 421,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79837700,
+    "direccion": "diagonal 2 no 79 a-45 bloq 2 apto 402",
+    "email": "alexmortiz76@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "alexander",
+    "primerApellido": "muñoz",
+    "segundoApellido": "ortiz",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-27T00:00:00.000Z",
+    "mandamientoPago": "2018-05-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-24T00:00:00.000Z",
+    "expediente": "11001400307520180061700",
+    "capitalAdeudado": 1370485348,
+    "etapaProcesal": "LIQUIDACION",
+    "municipio": "BOGOTA",
+    "obligacion": [4099840209665970],
+    "radicado": "2018 - 00617",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "telefono": 4514661
+  },
+  "cc": 79837700,
+  "idProcesos": null
+}

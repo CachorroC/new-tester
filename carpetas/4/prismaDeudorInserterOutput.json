@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 4,
+    "cedula": "93437973",
+    "primerNombre": "dipson",
+    "primerApellido": "sanchez",
+    "segundoNombre": "eusebio",
+    "segundoApellido": "castiblanco",
+    "direccion": "carrera 104 no. 12  b-94 bogota",
+    "email": "dipsonsanchez16@g0mail.com",
+    "telCelular": "3182165543",
+    "telFijo": null,
+    "carpetaNumero": 4
+  }
+}

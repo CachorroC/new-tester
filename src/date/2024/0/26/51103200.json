@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:00.676Z",
+  "proceso": {
+    "idProceso": 51103200,
+    "idConexion": 259,
+    "llaveProceso": "11001400303520180037000",
+    "fechaProceso": "2018-04-06T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-08-25T05:00:00.000Z",
+    "despacho": "JUZGADO 035 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JENNY LILIANA MONTOYA VILLAMIL ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 35,
+      "tipo": "JUZGADO 035 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-35-civil-municipal-de-bogota"
+    }
+  }
+}

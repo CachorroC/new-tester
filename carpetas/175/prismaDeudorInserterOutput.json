@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 173,
+    "cedula": "91354321",
+    "primerNombre": "omar",
+    "primerApellido": "fula",
+    "segundoNombre": "gustavo",
+    "segundoApellido": "avila",
+    "direccion": "calle 36 # 1 este - 81 bloque 21 casa 11 soacha",
+    "email": "omarfula@hotmail.com",
+    "telCelular": "3118866968",
+    "telFijo": "8212461",
+    "carpetaNumero": 175
+  }
+}

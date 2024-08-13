@@ -1,0 +1,75 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": "4762591//3118113651",
+    "id": 34,
+    "carpetaNumero": 34
+  },
+  "demanda": {
+    "vencimientoPagare": "26/04/2036",
+    "obligacion": {
+      "A": 23595
+    },
+    "capitalAdeudado": 26815877,
+    "entregaGarantiasAbogado": "6/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "GIRARDOT",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00330",
+    "llaveProceso": "25307400300320170033000",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "8/06/2017",
+    "mandamientoPago": "21/06/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 1292,
+        "resultado": "BOGOTA"
+      },
+      "certimail": "21/06/2017",
+      "fisico": "EMBARGO APTO"
+    }
+  },
+  "demandas": [],
+  "numero": 34,
+  "llaveProceso": "25307400300320170033000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3006308169
+    },
+    "primerNombre": "KAREN",
+    "segundoNombre": "JULIETH",
+    "primerApellido": "PINZON",
+    "segundoApellido": "GUTIERREZ",
+    "cedula": 1070612757,
+    "direccion": "M 7 TORRE 6 APTO 404 GIRARDOT// CALLE 3 No. 27-01 edificio torr 6 manzana 7 ciudadela Cafam del Sol apto 404",
+    "email": "kjpg_11@hotmail.com"
+  },
+  "cc": 1070612757,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "KAREN JULIETH PINZON GUTIERREZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

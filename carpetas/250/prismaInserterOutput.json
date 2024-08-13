@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 250,
+    "numero": 250,
+    "llaveProceso": "25758418900120170059900",
+    "nombre": "francisco null contreras ramirez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

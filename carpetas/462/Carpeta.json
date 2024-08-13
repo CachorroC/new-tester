@@ -1,0 +1,97 @@
+{
+  "id": 80755973,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 462
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "21997013.43",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.287Z",
+    "etapaProcesal": "25754418900120180070000",
+    "fechaPresentacion": [],
+    "id": 462,
+    "llaveProceso": "25754418900120180070000",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 462,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.313Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990165644"],
+    "radicado": "2018 - 00700",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:52.416Z"],
+    "medidasCautelares": {
+      "id": 462,
+      "fechaOrdenaMedida": "2024-02-10T00:55:01.174Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 462,
+    "telCelular": "3114915425",
+    "telFijo": "7279254 ",
+    "primerNombre": "YAMID",
+    "segundoNombre": "GELVES",
+    "primerApellido": "CACERES",
+    "segundoApellido": null,
+    "cedula": "80755973",
+    "direccion": "CARRERA 87 No 69-165",
+    "email": "yamid11@hotmail.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900120180070000",
+  "nombre": "yamid gelves caceres",
+  "numero": 462,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 462,
+      "createdAt": "2024-02-10T00:55:01.174Z",
+      "pathname": null,
+      "dueDate": "2021-07-17T05:00:00.000Z",
+      "text": "EL 17/06/2021 EL JUZGADO DECRETA TERMINACION PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 462,
+      "createdAt": "2024-02-10T00:55:01.174Z",
+      "pathname": null,
+      "dueDate": "2021-12-11T05:00:00.000Z",
+      "text": "EL 11/11/2021 SE HIZO DEVOLUCION GARANTIAS Y CERTIFICADO CON LEVANTAMIENTO DE MEDIDAS CAUTELARES A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.175Z"
+}

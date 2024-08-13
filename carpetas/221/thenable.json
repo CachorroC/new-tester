@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301320170115700",
+  "numero": 221,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52192430,
+    "direccion": "carrera 81a # 54 - 32",
+    "email": null,
+    "tel": {
+      "fijo": 4506940,
+      "celular": 3103025587
+    },
+    "primerNombre": "beatriz",
+    "primerApellido": "helena",
+    "segundoApellido": "machado",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-04T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-18T00:00:00.000Z",
+    "expediente": "11001400301320170115700",
+    "capitalAdeudado": 15864394,
+    "etapaProcesal": "1.100140030132017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [20990095881],
+    "radicado": "2017 - 01157",
+    "vencimientoPagare": ["2022-04-19T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 5607979,
+    "direccion": "CARRERA 81A # 54 - 32",
+    "nombre": "hernando gonzalez garcia",
+    "telefono": "3063338 // 3142580589"
+  },
+  "cc": 52192430,
+  "idProcesos": null
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 483,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "20-09-2018",
+    "fechaPresentacion": "2018-02-11T00:00:00.000Z",
+    "municipio": "SOACHA",
+    "obligacion": ["17.506.316.71"],
+    "radicado": "2018 - 00988",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "25754418900120180098800",
+    "carpetaNumero": 490,
+    "despacho": null
+  }
+}

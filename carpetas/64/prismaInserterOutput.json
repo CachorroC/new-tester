@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 64,
+    "numero": 64,
+    "llaveProceso": "11001400302920170055700",
+    "nombre": "rafael ernesto cadena parga",
+    "idProcesos": [50517510],
+    "category": "Insolvencia"
+  }
+}

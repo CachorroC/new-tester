@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 154,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "41371151",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-08-28T00:00:00.000Z",
+    "etapaProcesal": "2.547340030012017e+22",
+    "fechaPresentacion": null,
+    "municipio": "MOSQUERA",
+    "obligacion": ["12519120", "12549733"],
+    "radicado": "2017 - 00777",
+    "vencimientoPagare": ["2020-08-01T00:00:00.000Z"],
+    "expediente": "25473400300120170077700",
+    "carpetaNumero": 156,
+    "despacho": null
+  }
+}

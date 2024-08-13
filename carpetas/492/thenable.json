@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25736408900120180013500",
+  "numero": 492,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 22444794,
+    "direccion": "calle 22 no 1-137",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maribel",
+    "segundoNombre": "del",
+    "primerApellido": "rosario",
+    "segundoApellido": ["rivera", "jimenez"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-03-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "25736408900120180013500",
+    "capitalAdeudado": 12456703,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SESQUILE",
+    "obligacion": [3360085515],
+    "radicado": "2018 - 00135",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 22444794,
+  "idProcesos": null
+}

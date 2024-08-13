@@ -1,0 +1,105 @@
+{
+  "id": 52788376,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 474
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "23110934",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-10T05:00:00.000Z"],
+    "id": 474,
+    "llaveProceso": "11001418903220180127100",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 474,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990125162"],
+    "radicado": "2018 - 01271",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2030-01-04T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 474,
+      "fechaOrdenaMedida": "2024-02-10T00:55:01.825Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 474,
+    "telCelular": "3144765126",
+    "telFijo": "4383117 ",
+    "primerNombre": "NADIA",
+    "segundoNombre": "KATERINE",
+    "primerApellido": "MORENO",
+    "segundoApellido": "CAMACHO",
+    "cedula": "52788376",
+    "direccion": "TRANSVERSAL 83 A No 73-10   ALMERIA",
+    "email": "katiusaka79@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418903220180127100",
+  "nombre": "nadia katerine moreno camacho",
+  "numero": 474,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 474,
+      "createdAt": "2024-02-10T00:55:01.825Z",
+      "pathname": null,
+      "dueDate": "2019-06-30T05:00:00.000Z",
+      "text": "EL 30/05/2019 EL JUZGADO TERMINA PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 474,
+      "createdAt": "2024-02-10T00:55:01.825Z",
+      "pathname": null,
+      "dueDate": "2019-08-23T05:00:00.000Z",
+      "text": " EL 23/07/2019 SE HIZO LEVANTAMIENTO DE MEDIDA CAUTELAR CON CERTIFICADO DE TRADICION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 474,
+      "createdAt": "2024-02-10T00:55:01.825Z",
+      "pathname": null,
+      "dueDate": "2019-12-19T05:00:00.000Z",
+      "text": " EL 19/11/2019 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:01.825Z"
+}

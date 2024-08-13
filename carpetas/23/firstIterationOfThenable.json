@@ -1,0 +1,62 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "26/04/2017",
+    "obligacion": {
+      "A": 12517400,
+      "B": 5306941968938113
+    },
+    "capitalAdeudado": "37209133/3162345",
+    "entregaGarantiasAbogado": "19/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "GIRARDOT",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00337",
+    "llaveProceso": "25307400300120170033700",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "30/05/2017",
+    "mandamientoPago": "26/07/2017",
+    "notificacion": {
+      "tipo": "OK",
+      "autoNotificado": "OK"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "26/07/2017",
+      "medidaSolicitada": "26/07/2017"
+    }
+  },
+  "demandas": [],
+  "numero": 23,
+  "llaveProceso": "25307400300120170033700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3186899839
+    },
+    "primerNombre": "EDER",
+    "segundoNombre": "ALEXIS",
+    "primerApellido": "HERRERA",
+    "segundoApellido": "SAENZ",
+    "cedula": 11207272,
+    "direccion": "MANZANA D CS 8 DIAMANTE GIRARDOT",
+    "email": "karendiaz@hotmail.com"
+  },
+  "cc": 11207272,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "EDER ALEXIS HERRERA SAENZ",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "OK"
+  }
+}

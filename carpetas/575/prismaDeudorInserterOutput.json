@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 563,
+    "cedula": "79780047",
+    "primerNombre": "javier",
+    "primerApellido": "carrera",
+    "segundoNombre": "alejandro",
+    "segundoApellido": "siachoque",
+    "direccion": "carrera 13 a no. 113 42 apartamento 207 santa paula // carrera 11 no. 112 – 65 // calle 119 no. 7 – 14 consultorio 617 // calle 85 a no. 21 - 51",
+    "email": "carrerasiachoque@yahoo.com",
+    "telCelular": "3164336320",
+    "telFijo": "7574806",
+    "carpetaNumero": 575
+  }
+}

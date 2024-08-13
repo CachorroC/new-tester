@@ -1,0 +1,64 @@
+{
+  "id": 4281808,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["1000090987"],
+    "llaveProceso": "25754408900220180011300",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-06-19T05:00:00.000Z",
+        "fechaAporta": "2018-05-18T05:00:00.000Z",
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-06-19T05:00:00.000Z",
+        "fechaAporta": "2018-05-18T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "7/06/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-02-04T05:00:00.000Z",
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2018-02-22T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00113",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "LIBRANDO",
+    "primerApellido": "CANDELA",
+    "segundoApellido": "MUNEVAR",
+    "cedula": 4281808,
+    "direccion": "CALLE 1 A No 13-30  SOACHA",
+    "email": "eedibrando600@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754408900220180011300",
+  "nombre": "JOSE LIBRANDO CANDELA MUNEVAR",
+  "numero": 475,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:26.813Z"
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 397,
+    "cedula": "79652256",
+    "primerNombre": "oscar",
+    "primerApellido": "lozano",
+    "segundoNombre": "guillermo",
+    "segundoApellido": "gonzalez",
+    "direccion": "xarrera 2 no 10-30b centenario - girardot",
+    "email": "ocaelmejor@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 400
+  }
+}

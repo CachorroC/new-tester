@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 283,
+    "numero": 283,
+    "llaveProceso": "11001400304120170114000",
+    "nombre": "janson david carreño quijano",
+    "idProcesos": [50772500],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1818568720,
+  "llaveProceso": "11001400307820170116400",
+  "consActuacion": 48,
+  "fechaActuacion": "2023-07-21T05:00:00.000Z",
+  "actuacion": "Constancia secretarial",
+  "anotacion": "SE RECEPCIONA EXPEDIENTE  CON 2 CUADERNOS //  ESTEFANIA LOPEZ       HIBRIDO ",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2023-07-21T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 48,
+  "isUltimaAct": true,
+  "idProceso": 51465700
+}

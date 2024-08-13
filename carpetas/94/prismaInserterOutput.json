@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 94,
+    "numero": 94,
+    "llaveProceso": "11001400305620170059100",
+    "nombre": "aida yurani grijalba martinez",
+    "idProcesos": [17325724],
+    "category": "Terminados"
+  }
+}

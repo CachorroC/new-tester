@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:11.838Z",
+  "savedDate": "2019-02-13T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1238361070,
+    "llaveProceso": "11001400300420170063900",
+    "consActuacion": 84,
+    "fechaActuacion": "2021-12-14T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "\r\nSE RECEPCIONA EL EXPEDIENTE EN  EL AREA DE ESTADOS PARA LO  PERTINENTE STEFANNY ORTIZ Cuadernos  2\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2021-12-14T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 84,
+    "isUltimaAct": true,
+    "idProceso": 50542600
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "5/12/2033",
+    "obligacion": {
+      "A": 170453
+    },
+    "capitalAdeudado": "47.230.309.94",
+    "entregaGarantiasAbogado": "28/10/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00364",
+    "llaveProceso": "25754400300320170036400",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "1/11/2017",
+    "mandamientoPago": "13/02/2018",
+    "notificacion": {
+      "292": {
+        "resultado": 43315
+      },
+      "fisico": "X",
+      "tipo": "FISICA",
+      "autoNotificado": 43375
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "13/02/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 315,
+  "llaveProceso": "25754400300320170036400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "BLADIMIR",
+    "segundoNombre": "GUTIERREZ",
+    "primerApellido": "CIFUENTES",
+    "segundoApellido": null,
+    "cedula": 80203869,
+    "direccion": "CALLE 34 A SUR No 13 - 46  SOACHA",
+    "email": "bladimir0612@hotmail.com"
+  },
+  "cc": 80203869,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "BLADIMIR GUTIERREZ CIFUENTES",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": false,
+    "autoNotificado": "43375"
+  }
+}

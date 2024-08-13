@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 239,
+    "cedula": "79793904",
+    "primerNombre": "john",
+    "primerApellido": "otalvaro",
+    "segundoNombre": "hader",
+    "segundoApellido": ",romo",
+    "direccion": "calle 183 no11 -55 bloque 9 apartamento 102",
+    "email": "johnhader70@hotmail.com",
+    "telCelular": "3223968514",
+    "telFijo": "4805457",
+    "carpetaNumero": 242
+  }
+}

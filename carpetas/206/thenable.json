@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306420170146900",
+  "numero": 206,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80729141,
+    "direccion": "carrera 17 f 71a - 95 sur  casa 239",
+    "email": "edgar_julian@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "edgar",
+    "primerApellido": "martinez",
+    "segundoApellido": "velandia",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-05T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "expediente": "11001400306420170146900",
+    "capitalAdeudado": 3055616098,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [120356, 1590082995],
+    "radicado": "2017 - 01469",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53067213,
+    "direccion": "CARRERA 6 # 17 - 90",
+    "nombre": "angie paola diaz pastas",
+    "telefono": 5383916
+  },
+  "cc": 80729141,
+  "idProcesos": null
+}

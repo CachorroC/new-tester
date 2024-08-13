@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25785418900120180017100",
+  "numero": 479,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 39809183,
+    "direccion": "calle 8 no 0-105  tabio",
+    "email": "tani_botia@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "tania",
+    "segundoNombre": "consuelo",
+    "primerApellido": "botia",
+    "segundoApellido": "correa"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-06-09T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25785418900120180017100",
+    "capitalAdeudado": 1282153632,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "TABIO",
+    "obligacion": [4594250481433800, 5303720342826530],
+    "radicado": "2018 - 00171",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39809183,
+  "idProcesos": null
+}

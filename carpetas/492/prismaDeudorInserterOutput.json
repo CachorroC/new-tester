@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 485,
+    "cedula": "22444794",
+    "primerNombre": "maribel",
+    "primerApellido": "rosario",
+    "segundoNombre": "del",
+    "segundoApellido": "rivera,jimenez",
+    "direccion": "calle 22 no 1-137",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 492
+  }
+}

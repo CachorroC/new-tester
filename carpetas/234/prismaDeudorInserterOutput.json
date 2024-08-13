@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 231,
+    "cedula": "16940930",
+    "primerNombre": "mauricio",
+    "primerApellido": "aguirre",
+    "segundoNombre": "alexander",
+    "segundoApellido": "bermudez",
+    "direccion": "calle 152 12 35 int 7",
+    "email": "mauricio.aguirre@bav.sabmiller",
+    "telCelular": "3052392765",
+    "telFijo": "7451585",
+    "carpetaNumero": 234
+  }
+}

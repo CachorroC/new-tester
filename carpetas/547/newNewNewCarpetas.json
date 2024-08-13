@@ -1,0 +1,47 @@
+{
+  "id": 348774,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": [],
+    "llaveProceso": "25754400300120210015300",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 0,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2021 - 00153",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "EDGAR",
+    "primerApellido": "ACHURI",
+    "segundoApellido": "GONZALEZ",
+    "cedula": 348774,
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754400300120210015300",
+  "nombre": "JOSE EDGAR ACHURI GONZALEZ",
+  "numero": 547,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:46.185Z"
+}

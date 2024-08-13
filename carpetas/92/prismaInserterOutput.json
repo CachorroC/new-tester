@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 92,
+    "numero": 92,
+    "llaveProceso": "11001400301320170084100",
+    "nombre": "magda milena salinas rodriguez",
+    "idProcesos": [50525440],
+    "category": "Terminados"
+  }
+}

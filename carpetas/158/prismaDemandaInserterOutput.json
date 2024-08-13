@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 156,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "183128611",
+    "entregaGarantiasAbogado": "2017-08-17T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-08-29T00:00:00.000Z",
+    "etapaProcesal": "2.589931030012017e+22",
+    "fechaPresentacion": null,
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["173482", "4099849860904006 // AUDIOPRESTAMO"],
+    "radicado": "2017 - 00393",
+    "vencimientoPagare": ["2034-03-01T00:00:00.000Z"],
+    "expediente": "25899310300120170039300",
+    "carpetaNumero": 158,
+    "despacho": null
+  }
+}

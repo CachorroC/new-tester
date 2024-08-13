@@ -1,0 +1,68 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "6/08/2026",
+    "obligacion": {
+      "A": 1770096862
+    },
+    "capitalAdeudado": "$ 35.774.452",
+    "llaveProceso": "SinEspecificar",
+    "entregaGarantiasAbogado": "24/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "juzgado": null,
+      "idProceso": 665,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [1770096862],
+      "radicado": null
+    }
+  ],
+  "numero": 665,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3103378368
+    },
+    "primerNombre": "MARIO",
+    "segundoNombre": "JAVIER",
+    "primerApellido": "LEGUIZAMON",
+    "segundoApellido": "BERMUDEZ",
+    "cedula": 1104695882,
+    "direccion": "Calle 64 D No. 86 - 24 Apartamento 201 de la ciudad de Bogotá D.C.",
+    "email": "mj001122@hotmail.com   mjleguizamonb@gmail.com"
+  },
+  "cc": 1104695882,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "MARIO JAVIER LEGUIZAMON BERMUDEZ",
+  "notificacion": null
+}

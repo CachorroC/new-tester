@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 494,
+    "numero": 494,
+    "llaveProceso": "25754418900320180102200",
+    "nombre": "luisa enelly gugu vitopia",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

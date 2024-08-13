@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 402,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "22592583",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2018-02-22T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["87823"],
+    "radicado": "2018 - 00236",
+    "vencimientoPagare": ["2020-12-01T00:00:00.000Z"],
+    "expediente": "11001400302120180023600",
+    "carpetaNumero": 405,
+    "despacho": null
+  }
+}

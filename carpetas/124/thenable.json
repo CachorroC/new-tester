@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303320170118000",
+  "numero": 124,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 40025572,
+    "direccion": "calle 181 # 17b 47 san antonio",
+    "email": "eariasseguros@hotmail.com",
+    "tel": {
+      "fijo": 6749599,
+      "celular": 3202092701
+    },
+    "primerNombre": "blanca",
+    "segundoNombre": "edelmira",
+    "primerApellido": "arias",
+    "segundoApellido": "melo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-16T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-09T00:00:00.000Z",
+    "expediente": "11001400303320170118000",
+    "capitalAdeudado": 0,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [153313, 377815399826276],
+    "radicado": "2017 - 01180",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 40025572,
+  "idProcesos": null
+}

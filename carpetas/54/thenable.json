@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420170113800",
+  "numero": 54,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 38261511,
+    "direccion": "carrera 87d no. 48-03 sur//diagonal 49 no. 85-79 sur torre 10 apartamento 2",
+    "email": "olgagallego63@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3138615288
+    },
+    "primerNombre": "olga",
+    "primerApellido": "gallego",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-21T00:00:00.000Z",
+    "mandamientoPago": "2017-08-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400306420170113800",
+    "capitalAdeudado": 18400665,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [320095437],
+    "radicado": "2017 - 01138",
+    "vencimientoPagare": ["2022-04-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 38261511,
+  "idProcesos": null
+}

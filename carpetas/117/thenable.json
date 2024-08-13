@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307020170056600",
+  "numero": 117,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 19386444,
+    "direccion": "calle 18 # 19 - 75 / calle 26 nte no. 5a - 54 cali - valle //cr 60 d 97 85 brr andes bogota",
+    "email": "3176677592",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nicolas",
+    "segundoNombre": "fernando",
+    "primerApellido": "montoya",
+    "segundoApellido": "correa"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-08-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400307020170056600",
+    "capitalAdeudado": 17256863,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [420087224],
+    "radicado": "2017 - 00566",
+    "vencimientoPagare": ["2019-01-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19386444,
+  "idProcesos": null
+}

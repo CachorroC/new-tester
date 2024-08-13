@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 278,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "10-10-2017 // 13-03-2018",
+    "fechaPresentacion": null,
+    "municipio": "ARBELAEZ",
+    "obligacion": ["112.243.598.43"],
+    "radicado": "2018 - 00049",
+    "vencimientoPagare": ["2125-01-01T00:00:00.000Z"],
+    "expediente": "25053408900120180004900",
+    "carpetaNumero": 281,
+    "despacho": null
+  }
+}

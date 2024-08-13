@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-05-24T05:00:00.000Z",
+  "idProcesos": [10130493],
+  "idRegUltimaAct": 518893563,
+  "llaveProceso": "11001400304620170056100",
+  "nombre": "OMAR ESPITIA REYES",
+  "numero": 87,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:34.278Z"
+}

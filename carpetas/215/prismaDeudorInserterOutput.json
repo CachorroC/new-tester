@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 212,
+    "cedula": "36458257",
+    "primerNombre": "luz",
+    "primerApellido": "hurtado",
+    "segundoNombre": "dary",
+    "segundoApellido": "rios",
+    "direccion": "carrera 98b # 14 - 06 casa 155",
+    "email": "luzdary.hurtado.rios@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 215
+  }
+}

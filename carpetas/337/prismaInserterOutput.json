@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 337,
+    "numero": 337,
+    "llaveProceso": "11001400300620170096400",
+    "nombre": "hector alfonso torres rios",
+    "idProcesos": [50857820],
+    "category": "Insolvencia"
+  }
+}

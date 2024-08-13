@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 300,
+    "numero": 300,
+    "llaveProceso": "25286400300120170081600",
+    "nombre": "fabio edilberto jara sanchez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

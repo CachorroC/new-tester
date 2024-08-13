@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 77,
+    "numero": 77,
+    "llaveProceso": "25754418900120170083700",
+    "nombre": "jeimy carolina leguizamon vasquez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

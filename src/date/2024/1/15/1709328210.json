@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:03.425Z",
+  "savedDate": 1568869200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1709328210,
+    "llaveProceso": "11001400302620170051100",
+    "consActuacion": 108,
+    "fechaActuacion": "2023-04-13T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": " PROCESO BAJA DEL DESPACHO CON 2 CUADERNOS /PASA A LETRA  PARA LO PERTINENTE /ANDRES ARIZA\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-04-13T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 108,
+    "isUltimaAct": true,
+    "idProceso": 50477000
+  }
+}

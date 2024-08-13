@@ -1,0 +1,70 @@
+{
+  "id": 24134505,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": "QUENIA MILENA ROJAS VELANDIA",
+    "cedula": "24134635",
+    "direccion": "CALLE 172 # 21A - 17",
+    "telefono": "3118661189",
+    "id": 186
+  },
+  "demanda": {
+    "obligacion": ["1680097051"],
+    "llaveProceso": "25175408900220170041200",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-07-08T05:00:00.000Z",
+        "fechaAporta": "2018-08-30T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-08-20T05:00:00.000Z",
+        "resultado": null
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS // REMANENTES 2017-00129"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-08T05:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-08-15T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "CHIA",
+    "radicado": "2017 - 00412",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2021-01-29T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "CELY",
+    "segundoNombre": "MARGOTH",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "VELANDIA",
+    "cedula": 24134505,
+    "direccion": "CALLE 29 A # 2 - 76 APTO 304 CHIA",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25175408900220170041200",
+  "nombre": "CELY MARGOTH ROJAS VELANDIA",
+  "numero": 186,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:47.213Z"
+}

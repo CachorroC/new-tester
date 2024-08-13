@@ -1,0 +1,59 @@
+{
+  "id": 79108747,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["377815178176828", "53037234659826290"],
+    "llaveProceso": "11001400303920170080000",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "22/06/2017"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "VEHICULO"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-06T05:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-06-14T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017-00800",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-11-05T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8054434,
+      "celular": 3118802970
+    },
+    "primerNombre": "EDGAR",
+    "segundoNombre": "HERNANDEZ",
+    "primerApellido": "RUBIO",
+    "segundoApellido": null,
+    "cedula": 79108747,
+    "direccion": "CARRERA 17 A No. 175-82 INTERIOR 1 PTO 601",
+    "email": "edgarH62@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400303920170080000",
+  "nombre": "EDGAR HERNANDEZ RUBIO",
+  "numero": 84,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:09.491Z"
+}

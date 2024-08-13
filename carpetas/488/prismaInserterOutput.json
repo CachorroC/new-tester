@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 488,
+    "numero": 488,
+    "llaveProceso": "11001418901020180083400",
+    "nombre": "sandra milena moreno campuzano",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

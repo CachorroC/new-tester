@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305120170111300",
+  "numero": 295,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 36536419,
+    "direccion": "calle 124 no  20-76 apartamento 503",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "rita",
+    "segundoNombre": "cecilia",
+    "primerApellido": "fernandez",
+    "segundoApellido": "ibañez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-21T00:00:00.000Z",
+    "mandamientoPago": "2017-10-02T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-18T00:00:00.000Z",
+    "expediente": "11001400305120170111300",
+    "capitalAdeudado": 25845669,
+    "etapaProcesal": "PENDIENTE SENTENCIA Y OFICIOS",
+    "municipio": "BOGOTA",
+    "obligacion": [12389160],
+    "radicado": "2017 - 01113",
+    "vencimientoPagare": ["2020-09-12T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 36536419,
+  "idProcesos": null
+}

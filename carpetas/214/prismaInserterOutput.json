@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 214,
+    "numero": 214,
+    "llaveProceso": "257544189002220170086700",
+    "nombre": "yenny patricia rubio mahecha",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

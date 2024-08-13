@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 523,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "13583148",
+    "entregaGarantiasAbogado": "2020-09-25T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "1.10014003069202e+22",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["370091753", "3700700231"],
+    "radicado": "2020 - 00823",
+    "vencimientoPagare": ["2022-11-01T00:00:00.000Z"],
+    "expediente": "11001400306920200082300",
+    "carpetaNumero": 535,
+    "despacho": null
+  }
+}

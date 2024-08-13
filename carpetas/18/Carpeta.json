@@ -1,0 +1,105 @@
+{
+  "id": 79205977,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 18
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "67068123",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.866Z",
+    "etapaProcesal": "AUDIENCIA",
+    "fechaPresentacion": ["1970-01-01T00:00:42.885Z"],
+    "id": 18,
+    "llaveProceso": "25175400300320170026900",
+    "mandamientoPago": [],
+    "municipio": "CHIA",
+    "notificacion": {
+      "id": 18,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12645083", "12340733"],
+    "radicado": "2017 - 00269",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.852Z"],
+    "medidasCautelares": {
+      "id": 18,
+      "fechaOrdenaMedida": "2024-02-10T00:54:22.076Z",
+      "medidaSolicitada": "PERSONAL"
+    }
+  },
+  "deudor": {
+    "id": 18,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "LUIS",
+    "segundoNombre": "ENRIQUE",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": "CHAVARRIA",
+    "cedula": "79205977",
+    "direccion": "cra 4 No. 5-51 Chía",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25175400300320170026900",
+  "nombre": "luis enrique acosta chavarria",
+  "numero": 18,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 18,
+      "createdAt": "2024-02-10T00:54:22.076Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 17 DE NERO DE 2019 SE DEVOLVIERON GARANTIAS EN FAVOR DEL DEUDOR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 18,
+      "createdAt": "2024-02-10T00:54:22.076Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " LAS MEDIDAS CAUTELARES LE CORRESPONDEN LEVANTAR AL DEUDOR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 18,
+      "createdAt": "2024-02-10T00:54:22.076Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "CONSULTADO EL RUNT NO TIENE MEDIDAS CAUTELARES EN ESTE PROCESO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:22.077Z"
+}

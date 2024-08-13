@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 1,
+    "numero": 1,
+    "llaveProceso": "2530740030012017025000",
+    "nombre": "alexandra milena jimenez aguilar",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

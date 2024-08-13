@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 370,
+    "cedula": "79616846",
+    "primerNombre": "rodrigo",
+    "primerApellido": "ruiz",
+    "segundoNombre": "alberto",
+    "segundoApellido": "villalba",
+    "direccion": "carrera 5 # 12 - 53 apulo",
+    "email": "rodrigo_ruiz33@hotmail.com",
+    "telCelular": "3112764286",
+    "telFijo": null,
+    "carpetaNumero": 373
+  }
+}

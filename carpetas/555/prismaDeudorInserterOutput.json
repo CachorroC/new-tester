@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 543,
+    "cedula": "53130409",
+    "primerNombre": "jeimmy",
+    "primerApellido": "quiroga",
+    "segundoNombre": "soley",
+    "segundoApellido": "ramirez",
+    "direccion": "cl 55 bis 16 48 apartamento 702 edificio bangkok",
+    "email": "jsquiroga72@hotmail.com",
+    "telCelular": "3506509064",
+    "telFijo": "3917539",
+    "carpetaNumero": 555
+  }
+}

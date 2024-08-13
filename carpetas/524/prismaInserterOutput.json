@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 523,
+    "numero": 524,
+    "llaveProceso": "11001400307520190100800",
+    "nombre": "ingrit yohana vasquez rojas",
+    "idProcesos": [70545740],
+    "category": "Terminados"
+  }
+}

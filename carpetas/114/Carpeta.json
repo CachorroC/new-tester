@@ -1,0 +1,156 @@
+{
+  "id": 79209455,
+  "actuaciones": [
+    {
+      "idRegActuacion": 910128311,
+      "llaveProceso": "25754418900220170075200",
+      "consActuacion": 8615264,
+      "fechaActuacion": "2019-08-22T05:00:00.000Z",
+      "actuacion": "AUTO EMPLAZA",
+      "anotacion": "EMPLAZAMIENTO DE LAS PERSONAS QUE TENGAN CRÉDITOS CON TÍTULOS DE EJECUCIÓN CONTRA ABUNDIO BOHÓRQUEZ.",
+      "fechaInicial": "2019-08-22T05:00:00.000Z",
+      "fechaFinal": "2019-09-12T05:00:00.000Z",
+      "fechaRegistro": "2019-08-22T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 1,
+      "idProceso": 86396721,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:30.601Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 114
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "20501855.28",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.948Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.958Z"],
+    "id": 114,
+    "llaveProceso": "25754418900220170075200",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 114,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:42.971Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "1087-01-01T00:00:00.000Z",
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["377813527966924/", "000000020990112484."],
+    "radicado": "2017 - 00752",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:45.245Z"],
+    "medidasCautelares": {
+      "id": 114,
+      "fechaOrdenaMedida": "2024-02-10T00:54:30.552Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 114,
+    "telCelular": "3128067314",
+    "telFijo": "3213173 ",
+    "primerNombre": "JOSE",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "CAICEDO",
+    "segundoApellido": "RUIZ",
+    "cedula": "79209455",
+    "direccion": "CALLE 11 # 52A - 14 SOACHA",
+    "email": "antoniocaicedo1972@gmail.com"
+  },
+  "fecha": "2019-08-22T05:00:00.000Z",
+  "idProcesos": [86396721],
+  "idRegUltimaAct": 910128311,
+  "llaveProceso": "25754418900220170075200",
+  "nombre": "jose antonio caicedo ruiz",
+  "numero": 114,
+  "procesos": [
+    {
+      "idProceso": 86396721,
+      "idConexion": 320,
+      "llaveProceso": "25754418900220170075200",
+      "fechaProceso": "2019-08-22T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-08-22T05:00:00.000Z",
+      "despacho": "JUZGADO 002 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: ALVARO  CARRILLO  | Demandado/indiciado/causante: ABUNDIO  BOHORQUEZ VILLAMIL | Demandado/indiciado/causante: ACREEDORES DE ABUNDIO BOHORQUEZ    (Emplazado) | Defensor Privado: sANDER SENEY SIERRA CORREDOR ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 2,
+        "tipo": "JUZGADO 002 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE SOACHA ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-002-de-pequeñas-causas--y-competencia-múltiple-de-soacha-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 910128311,
+    "llaveProceso": "25754418900220170075200",
+    "consActuacion": 8615264,
+    "fechaActuacion": "2019-08-22T05:00:00.000Z",
+    "actuacion": "AUTO EMPLAZA",
+    "anotacion": "EMPLAZAMIENTO DE LAS PERSONAS QUE TENGAN CRÉDITOS CON TÍTULOS DE EJECUCIÓN CONTRA ABUNDIO BOHÓRQUEZ.",
+    "fechaInicial": "2019-08-22T05:00:00.000Z",
+    "fechaFinal": "2019-09-12T05:00:00.000Z",
+    "fechaRegistro": "2019-08-22T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 1,
+    "idProceso": 86396721,
+    "isUltimaAct": false
+  },
+  "notas": [
+    {
+      "carpetaNumero": 114,
+      "createdAt": "2024-02-10T00:54:30.552Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "17 DE ABRIL SE RETIRO LA DEMANDA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 114,
+      "createdAt": "2024-02-10T00:54:30.552Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 21 DE ABRIL DE 2018 SE DEVOLVIERON GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 114,
+      "createdAt": "2024-02-10T00:54:30.552Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 19 DE JUNIO DE 2018 SE LEVANTARON MEDIDAS CAUTELARES ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:30.553Z"
+}

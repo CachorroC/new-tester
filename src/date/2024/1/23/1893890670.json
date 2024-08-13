@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:25.012Z",
+  "savedDate": "2022-11-01T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1893890670,
+    "llaveProceso": "11001400303620180081800",
+    "consActuacion": 139,
+    "fechaActuacion": "2023-10-04T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA EXPEDIENTE DEL AREA DE ESTADO/INGRESA AL AREA DE LETRA /JULIAN SANCHEZ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-10-04T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 139,
+    "isUltimaAct": true,
+    "idProceso": 51306830
+  }
+}

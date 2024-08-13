@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25878418900120170021800",
+  "numero": 180,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 21016631,
+    "direccion": "calle 3 # 5 - 31 viota",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "alcira",
+    "segundoNombre": "delia",
+    "primerApellido": "saenz",
+    "segundoApellido": "garavis"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-29T00:00:00.000Z",
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "25878418900120170021800",
+    "capitalAdeudado": 6842126851,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "VIOTA",
+    "obligacion": [12594582],
+    "radicado": "2017 - 00218",
+    "vencimientoPagare": ["2017-08-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 21016631,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 158,
+    "numero": 158,
+    "llaveProceso": "25899310300120170039300",
+    "nombre": "julian jhohany gallego montes",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

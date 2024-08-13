@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 445,
+    "cedula": "53133179",
+    "primerNombre": "kelly",
+    "primerApellido": "murcia",
+    "segundoNombre": "yohanna",
+    "segundoApellido": "ducon",
+    "direccion": "calle 63 sur no 78 j-38 torre 4 apto 603",
+    "email": "kellyohamd@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 450
+  }
+}

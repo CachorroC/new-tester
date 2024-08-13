@@ -1,0 +1,171 @@
+{
+  "id": 80357801,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 208
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "27819414.85",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-08-22T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-08-28T05:00:16.000Z"],
+    "id": 208,
+    "llaveProceso": "25754400300220170026500",
+    "mandamientoPago": ["2017-09-12T05:00:16.000Z"],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 208,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2018-08-28T05:00:16.000Z",
+          "fechaAporta": "2018-08-28T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": "2018-09-07T05:00:16.000Z",
+          "resultado": true
+        }
+      ],
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "2018-09-07T05:00:16.000Z"
+    },
+    "obligacion": ["12725973"],
+    "radicado": "2017 - 00265",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-08-15T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 208,
+      "fechaOrdenaMedida": "2017-12-09T05:00:00.000Z",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "deudor": {
+    "id": 208,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JEOVANY",
+    "segundoNombre": "ROJAS",
+    "primerApellido": "CRUZ",
+    "segundoApellido": null,
+    "cedula": "80357801",
+    "direccion": "CALLE 34 # 1A - 40 CASA 247",
+    "email": "jeovanyrojas@outlook.com"
+  },
+  "fecha": null,
+  "idProcesos": [86374941],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754400300220170026500",
+  "nombre": "jeovany rojas cruz",
+  "numero": 208,
+  "procesos": [
+    {
+      "idProceso": 86374941,
+      "idConexion": 320,
+      "llaveProceso": "25754400300220170026500",
+      "fechaProceso": "2017-08-31T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: JEOVANY  ROJAS CRUZ | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 2,
+        "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " LINK GERENCIA@ PARA VERLO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " PROCESO DIGITALIZADO DESCARGADO EN NUBE  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 18 NOV 2022 SE  ENVA AVALUO DEL VEHÍCULO PARA APROBACIÓN ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 7 DIC 2022 NO APRUEBA AVALUO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": "2023-03-27T05:00:00.000Z",
+      "text": " 27/02/2023 DESISTIMIENTO AVALUO Y SE APORTA NUEVO A TRAVES DE SIGBA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": "2023-04-03T05:00:00.000Z",
+      "text": " 3/03/2023 RESPUESTA REQUIERE DE JUZGADO VILLAVICENCIO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 14 JUNIO 2023 AUTO APRUEBA AVALUO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 17 AGOSTO 2023 SE ENVIA SOLICITUD REMATE.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 208,
+      "createdAt": "2024-02-10T00:54:38.739Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 28 SEPT FIJA FECHA REMATE PARA 17 ENERO 2024 FECHA LIMITE PUBICACION 1 DIC",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:38.740Z"
+}

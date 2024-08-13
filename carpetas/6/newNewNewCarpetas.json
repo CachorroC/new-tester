@@ -1,0 +1,53 @@
+{
+  "id": 79645559,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MARIA CRISTINA CHAPARRO PIRAGAUTA",
+    "cedula": "46374311",
+    "direccion": "DIAGONAL 83 N 76 C-22 BOGOTA",
+    "telefono": "4380641//3114720261",
+    "id": 6
+  },
+  "demanda": {
+    "obligacion": ["2273 320111490"],
+    "llaveProceso": "11001400307620170044400",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 16313851,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-05-30T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 -00444",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2008-09-05T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3118469698
+    },
+    "primerNombre": "FRANCISCO",
+    "segundoNombre": "MONTAÑA",
+    "primerApellido": "QUESADA",
+    "segundoApellido": null,
+    "cedula": 79645559,
+    "direccion": "CALLE 6 BIS A 90 A-80 TORRE 7 APTO 203",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400307620170044400",
+  "nombre": "FRANCISCO MONTAÑA QUESADA",
+  "numero": 6,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:41.916Z"
+}

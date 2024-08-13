@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 156,
+    "cedula": "80808819",
+    "primerNombre": "julian",
+    "primerApellido": "gallego",
+    "segundoNombre": "jhohany",
+    "segundoApellido": "montes",
+    "direccion": "carrera 3 este # 6b - 36 chia",
+    "email": "jjgallego14@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 158
+  }
+}

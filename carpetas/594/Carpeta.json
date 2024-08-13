@@ -1,0 +1,113 @@
+{
+  "id": 63359557,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 594
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "65371302",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-10-20T05:00:16.000Z",
+    "etapaProcesal": "11001400303420230106500",
+    "fechaPresentacion": [],
+    "id": 594,
+    "llaveProceso": "2023-1065",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 594,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2250087454"],
+    "radicado": null,
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-06-04T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 594,
+      "fechaOrdenaMedida": "2024-02-10T00:55:10.320Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 594,
+    "telCelular": "3007465888",
+    "telFijo": "4206527 ",
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MAGNOLIA",
+    "primerApellido": "CAMPOS",
+    "segundoApellido": "ROBLES",
+    "cedula": "63359557",
+    "direccion": "Calle 6 C No. 82 A-25 Interior 1 Apartamento 703 Conjunto Residencial Zapan de Castilla P.H., de la ciudad de Bogotá.",
+    "email": "sandracollection1@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-1065",
+  "nombre": "sandra magnolia campos robles",
+  "numero": 594,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 594,
+      "createdAt": "2024-02-10T00:55:10.320Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "23 OCTUBRE SE RADICA DEMANDA  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 594,
+      "createdAt": "2024-02-10T00:55:10.320Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " RETIRAR DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 594,
+      "createdAt": "2024-02-10T00:55:10.320Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 7 NOV 2023 SE RADICA ANTE JUZGADO RETIRO O SUSPENCION DEMANDA  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 594,
+      "createdAt": "2024-02-10T00:55:10.320Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 9 NOV AUTO RETIRA DEMANDA ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:10.320Z"
+}

@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:17.744Z",
+  "savedDate": "2019-03-21T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1262270900,
+    "llaveProceso": "11001400303720170139100",
+    "consActuacion": 70,
+    "fechaActuacion": "2022-03-09T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "    SE RECEPCIONA EXPEDIENTE EN EL AREA DE ESTADOS PARA LO PERTINENTE LUIS G y ESTEFANNY ORTIZ--CUADERNOS 2\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-03-09T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 70,
+    "isUltimaAct": true,
+    "idProceso": 112945420
+  }
+}

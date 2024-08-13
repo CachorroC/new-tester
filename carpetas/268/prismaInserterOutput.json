@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 268,
+    "numero": 268,
+    "llaveProceso": "11001400303520170147500",
+    "nombre": "jorge hugo leal serrato",
+    "idProcesos": [50764160],
+    "category": "Terminados"
+  }
+}

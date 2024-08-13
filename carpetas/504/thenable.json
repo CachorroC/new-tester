@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25740410300120180037000",
+  "numero": 504,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52432037,
+    "direccion": null,
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ana",
+    "segundoNombre": "del",
+    "primerApellido": "pilar",
+    "segundoApellido": ["mendez", "amaya"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25740410300120180037000",
+    "capitalAdeudado": null,
+    "etapaProcesal": "29-10-2018",
+    "municipio": "SIBATE",
+    "obligacion": ["26.315.289.23"],
+    "radicado": "2018 - 00370",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": "22-08-2022"
+  },
+  "cc": 52432037,
+  "idProcesos": null
+}

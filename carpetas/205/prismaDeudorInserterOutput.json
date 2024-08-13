@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 202,
+    "cedula": "51856244",
+    "primerNombre": "nelida",
+    "primerApellido": "carmen",
+    "segundoNombre": "del",
+    "segundoApellido": "rivera,mesa",
+    "direccion": "carrera 2a bis a este # 89a  sur",
+    "email": null,
+    "telCelular": "3143313269",
+    "telFijo": "7616370",
+    "carpetaNumero": 205
+  }
+}

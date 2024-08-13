@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 281,
+    "numero": 281,
+    "llaveProceso": "25053408900120180004900",
+    "nombre": "yenny margoth lara muñoz",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

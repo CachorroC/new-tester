@@ -1,0 +1,72 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "1/07/2026 // 7/08/2026",
+    "obligacion": {
+      "A": 400098501,
+      "B": 84153832
+    },
+    "capitalAdeudado": "$ 73.309.267",
+    "entregaGarantiasAbogado": "14/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "MOSQUERA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023-01680"
+  },
+  "demandas": [
+    {
+      "idProceso": 597,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "MOSQUERA",
+      "obligacion": [400098501, 84153832],
+      "radicado": "2023-01680"
+    }
+  ],
+  "numero": 597,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 8293976,
+      "celular": 3115627079
+    },
+    "primerNombre": "DANNY",
+    "segundoNombre": "EDUARDO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "MORENO",
+    "cedula": 1016021964,
+    "direccion": "Calle 18 A No. 4 - 34 ESTE Mosquera (Cundinamarca)",
+    "email": "daedsam@hotmail.com"
+  },
+  "cc": 1016021964,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "DANNY EDUARDO SANCHEZ MORENO",
+  "notificacion": null
+}

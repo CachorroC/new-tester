@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:11.534Z",
+  "savedDate": "2017-08-23T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 105009223,
+    "llaveProceso": "11001400304320170106400",
+    "consActuacion": 24,
+    "fechaActuacion": "2018-04-16T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "PAQUETE 420 / 2018",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-04-16T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 24,
+    "isUltimaAct": true,
+    "idProceso": 9333743
+  }
+}

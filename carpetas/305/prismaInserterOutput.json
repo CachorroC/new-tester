@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 305,
+    "numero": 305,
+    "llaveProceso": "11001400308220170125600",
+    "nombre": "fernando null rincon rodriguez",
+    "idProcesos": [51701110],
+    "category": "Terminados"
+  }
+}

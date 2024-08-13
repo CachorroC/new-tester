@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 533,
+    "numero": 534,
+    "llaveProceso": "2589940010020200028900",
+    "nombre": "pedro julio triviño valbuena",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 316,
+    "numero": 316,
+    "llaveProceso": "25754400300120170032300",
+    "nombre": "manuel enrique arteaga orozco",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

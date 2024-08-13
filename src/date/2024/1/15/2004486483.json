@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:19.426Z",
+  "savedDate": 1701320400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 2004486483,
+    "llaveProceso": "11001400303820230113800",
+    "consActuacion": 6,
+    "fechaActuacion": "2024-02-14T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "Con solicitud corregir mandamiento de pago",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-14T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "isUltimaAct": true,
+    "idProceso": 128522533
+  }
+}

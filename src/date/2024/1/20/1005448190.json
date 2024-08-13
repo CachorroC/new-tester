@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:33.304Z",
+  "savedDate": "2017-08-29T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1005448190,
+    "llaveProceso": "11001400300820170102400",
+    "consActuacion": 27,
+    "fechaActuacion": "2021-02-15T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CJ 016",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2021-02-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 27,
+    "isUltimaAct": true,
+    "idProceso": 50665190
+  }
+}

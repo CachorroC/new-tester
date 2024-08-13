@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 48,
+    "numero": 48,
+    "llaveProceso": "11001400303520170142500",
+    "nombre": "jenny adriana patarroyo torres",
+    "idProcesos": [50746150],
+    "category": "Terminados"
+  }
+}

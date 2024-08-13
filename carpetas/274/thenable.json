@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300720170148400",
+  "numero": 274,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80312466,
+    "direccion": "carrera 28 no  84 - 36",
+    "email": "andresacevedo24@hotmail.com",
+    "tel": {
+      "fijo": 6915340,
+      "celular": 3178134824
+    },
+    "primerNombre": "andres",
+    "segundoNombre": "guillermo",
+    "primerApellido": "acevedo",
+    "segundoApellido": "borraez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-10T05:00:00.000Z",
+    "mandamientoPago": "2017-09-11T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400300720170148400",
+    "capitalAdeudado": 1291806089,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [109481],
+    "radicado": "2017 - 01484",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80312466,
+  "idProcesos": null
+}

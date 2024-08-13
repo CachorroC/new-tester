@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25799418900120170024700",
+  "numero": 237,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80237050,
+    "direccion": "carrera 9 no 3-93",
+    "email": "numasue@gmail.com",
+    "tel": {
+      "fijo": 8656241,
+      "celular": 3114602334
+    },
+    "primerNombre": "numael",
+    "segundoNombre": "augusto",
+    "primerApellido": "gonzalez",
+    "segundoApellido": "salguero"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "expediente": "25799418900120170024700",
+    "capitalAdeudado": 9027695142,
+    "etapaProcesal": null,
+    "municipio": "TENJO",
+    "obligacion": [151792],
+    "radicado": "2017 - 00247",
+    "vencimientoPagare": ["2017-05-14T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1078366269,
+    "direccion": "CARRERA 9 No 3-93",
+    "nombre": "ingrid dayhana forero palacios",
+    "telefono": "8656241 /3124269483"
+  },
+  "cc": 80237050,
+  "idProcesos": null
+}

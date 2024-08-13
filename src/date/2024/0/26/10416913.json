@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:35.584Z",
+  "proceso": {
+    "idProceso": 10416913,
+    "idConexion": 261,
+    "llaveProceso": "11001400304720180024200",
+    "fechaProceso": "2018-02-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-02-20T05:00:00.000Z",
+    "despacho": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: DIOSELINA GUTIERREZ | Demandado: JUAN MORALES DIAZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 47,
+      "tipo": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-047-civil-municipal-de-bogota"
+    }
+  }
+}

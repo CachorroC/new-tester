@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 49,
+    "numero": 49,
+    "llaveProceso": "11001400305120170064400",
+    "nombre": "jose israel monroy cordoba",
+    "idProcesos": [11486153],
+    "category": "Terminados"
+  }
+}

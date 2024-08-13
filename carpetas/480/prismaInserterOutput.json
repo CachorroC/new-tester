@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 480,
+    "numero": 480,
+    "llaveProceso": "25307400300320210053900",
+    "nombre": "adriana null vanegas peña",
+    "idProcesos": [121826111],
+    "category": "Reintegra"
+  }
+}

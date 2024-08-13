@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 342,
+    "cedula": "51974282",
+    "primerNombre": "sandra",
+    "primerApellido": "prada",
+    "segundoNombre": "jeannette",
+    "segundoApellido": "gutierrez",
+    "direccion": "calle 128 c no 45 - 08 interior 22",
+    "email": "sjpradag@yahoo.es",
+    "telCelular": "3204900530",
+    "telFijo": "7216691",
+    "carpetaNumero": 345
+  }
+}

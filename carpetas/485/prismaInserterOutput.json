@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 485,
+    "numero": 485,
+    "llaveProceso": "11001418900820180076100",
+    "nombre": "diana margarita bustos ballen",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 485,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "12456703",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-03-10T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "SESQUILE",
+    "obligacion": ["3360085515"],
+    "radicado": "2018 - 00135",
+    "vencimientoPagare": [],
+    "expediente": "25736408900120180013500",
+    "carpetaNumero": 492,
+    "despacho": null
+  }
+}

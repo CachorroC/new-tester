@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 49,
+    "cedula": "79532034",
+    "primerNombre": "jose",
+    "primerApellido": "monroy",
+    "segundoNombre": "israel",
+    "segundoApellido": "cordoba",
+    "direccion": "carrera 77  l no. 57-h39 sur//carrera 11b no. 12-68 sur bogota//  transversal 31 no. 28-31 apto 103 bloque 7",
+    "email": "ramirosilva80@hotmail.com",
+    "telCelular": "3165275725",
+    "telFijo": null,
+    "carpetaNumero": 49
+  }
+}

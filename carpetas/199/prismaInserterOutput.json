@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 199,
+    "numero": 199,
+    "llaveProceso": "73449408900220170025900",
+    "nombre": "martha liliana ramirez colorado",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

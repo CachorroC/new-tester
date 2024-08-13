@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 89,
+    "numero": 89,
+    "llaveProceso": "11001400306520170093400",
+    "nombre": "julian armando acosta rodriguez",
+    "idProcesos": [18162740],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 86,
+      "tipo": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-086-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": {
+    "nombre": "ELIZABETH YAYA SIERRA",
+    "cedula": "52936062",
+    "direccion": "CARRERA 96 D # 6 - 55 CASA 81 ESTAPA 1",
+    "telefono": "7326829",
+    "id": 374,
+    "carpetaNumero": 374
+  },
+  "demanda": {
+    "vencimientoPagare": "26/08/2024",
+    "obligacion": {
+      "A": 121543
+    },
+    "capitalAdeudado": 27006100,
+    "entregaGarantiasAbogado": "15/01/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00067",
+    "llaveProceso": "11001400308620180006700",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "22/01/2018"
+  },
+  "demandas": [
+    {
+      "idProceso": 81895161,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620180006700",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2024-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 27006100,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2018-01-22T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [121543],
+      "radicado": "2018 - 00067"
+    }
+  ],
+  "numero": 374,
+  "llaveProceso": "11001400308620180006700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JHOAN",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "BARAJAS",
+    "segundoApellido": "MONTENEGRO",
+    "cedula": 80850549,
+    "direccion": "CALLE 2 SUR 16 - 36 MANZANA 104 // CARRERA 96 D 6 - 55 CADA 81 ET 1",
+    "email": "jjhoan_27@hotmail.com"
+  },
+  "cc": 80850549,
+  "procesos": [
+    {
+      "idProceso": 81895161,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620180006700",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [81895161],
+  "nombre": "JHOAN ANTONIO BARAJAS MONTENEGRO",
+  "notificacion": null
+}

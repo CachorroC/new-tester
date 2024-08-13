@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 211,
+    "cedula": "52702559",
+    "primerNombre": "yenny",
+    "primerApellido": "rubio",
+    "segundoNombre": "patricia",
+    "segundoApellido": "mahecha",
+    "direccion": "calle 6d # 5 - 60 manzana c casa 17",
+    "email": "jennyprm@hotmail.com",
+    "telCelular": "3204297147",
+    "telFijo": "7290666",
+    "carpetaNumero": 214
+  }
+}

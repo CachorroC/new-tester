@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:29.923Z",
+  "proceso": {
+    "idProceso": 134307840,
+    "idConexion": 259,
+    "llaveProceso": "11001400301520230098000",
+    "fechaProceso": "2023-10-25T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-18T05:00:00.000Z",
+    "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: EDWIN JARAMILLO GALLEGO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 15,
+      "tipo": "JUZGADO 015 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-015-civil-municipal-de-bogota"
+    }
+  }
+}

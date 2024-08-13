@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 371,
+    "numero": 371,
+    "llaveProceso": "11001400302420180014300",
+    "nombre": "martha andrea mora collazos",
+    "idProcesos": [51002530],
+    "category": "LiosJuridicos"
+  }
+}

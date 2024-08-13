@@ -1,0 +1,105 @@
+{
+  "id": 1072642976,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 526
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "13180105",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2019-06-05T05:00:00.000Z"],
+    "id": 526,
+    "llaveProceso": "25175400300120190030400",
+    "mandamientoPago": [],
+    "municipio": "CHIA",
+    "notificacion": {
+      "id": 526,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["9320086222"],
+    "radicado": "2019 - 00304",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2024-10-25T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 526,
+      "fechaOrdenaMedida": "2024-02-10T00:55:04.859Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 526,
+    "telCelular": "3202954313",
+    "telFijo": null,
+    "primerNombre": "CRISTIAN",
+    "segundoNombre": "DAVID",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": "1072642976",
+    "direccion": "CALLE 17 #5-10 CHIA",
+    "email": "cristian20g@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25175400300120190030400",
+  "nombre": "cristian david gutierrez rodriguez",
+  "numero": 526,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 526,
+      "createdAt": "2024-02-10T00:55:04.859Z",
+      "pathname": null,
+      "dueDate": "2019-11-10T05:00:00.000Z",
+      "text": "EL 10/10/2019 EL JUZGADO DIO POR TERMINADO EL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 526,
+      "createdAt": "2024-02-10T00:55:04.859Z",
+      "pathname": null,
+      "dueDate": "2020-06-22T05:00:00.000Z",
+      "text": " EL 22/05/2020 SE HIZO LEVANTAMIENTO MEDIDA CAUTELAR CON CERTIFICADO DE TRADICION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 526,
+      "createdAt": "2024-02-10T00:55:04.859Z",
+      "pathname": null,
+      "dueDate": "2021-06-25T05:00:00.000Z",
+      "text": " EL 25/05/2021 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:04.859Z"
+}

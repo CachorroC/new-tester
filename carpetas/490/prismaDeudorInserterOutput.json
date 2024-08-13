@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 483,
+    "cedula": "80052004",
+    "primerNombre": "diego",
+    "primerApellido": "mateus",
+    "segundoNombre": "armando",
+    "segundoApellido": "espitia",
+    "direccion": "396776067",
+    "email": "TRANSVERSAL 18 C- No 9C-11 SUR MANZANA 5 CASA 134",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 490
+  }
+}

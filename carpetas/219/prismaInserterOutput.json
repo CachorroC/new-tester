@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 219,
+    "numero": 219,
+    "llaveProceso": "11001400307220170107500",
+    "nombre": "blas null laiton patiño",
+    "idProcesos": [50704760],
+    "category": "Terminados"
+  }
+}

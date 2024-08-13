@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307320170133300",
+  "numero": 159,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 98389962,
+    "direccion": "carrera 14 # 11 - 14 sur bloque 10",
+    "email": "allantobar@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3125586008
+    },
+    "primerNombre": "allan",
+    "segundoNombre": "fredy",
+    "primerApellido": "tobar",
+    "segundoApellido": "enciso"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400307320170133300",
+    "capitalAdeudado": 18653826,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [11932772],
+    "radicado": "2017 - 01333",
+    "vencimientoPagare": ["2017-08-16T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 98389962,
+  "idProcesos": null
+}

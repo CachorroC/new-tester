@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "4/07/2026 // 19/07/2026",
+    "obligacion": {
+      "A": 9440003508,
+      "B": 377814040247933
+    },
+    "capitalAdeudado": "$ 85.581.623",
+    "entregaGarantiasAbogado": "21/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 600,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [9440003508, 377814040247933],
+      "radicado": null
+    }
+  ],
+  "numero": 600,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 6791808,
+      "celular": 3142969949
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "ESCOBAR",
+    "segundoApellido": "CASTRO",
+    "cedula": 39754133,
+    "direccion": "Calle 163 No. 54 C 68 Conjunto Residencial Mirador del Parque II Bogotá",
+    "email": "descovbar@hotmail.com"
+  },
+  "cc": 39754133,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "DIANA PATRICIA ESCOBAR CASTRO",
+  "notificacion": null
+}

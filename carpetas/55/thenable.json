@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25430400300120170108700",
+  "numero": 55,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80353430,
+    "direccion": "calle 11 a no. 3-29 urbanizacion el porvenir madrid",
+    "email": "faride1109@yahoo.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3124488945
+    },
+    "primerNombre": "douglas",
+    "primerApellido": "ayure",
+    "segundoApellido": "rios",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-12-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "25430400300120170108700",
+    "capitalAdeudado": 35544456,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "MADRID",
+    "obligacion": ["3830084858//4090832249783283", "AUTOPRESTAMO"],
+    "radicado": "2017 - 01087",
+    "vencimientoPagare": ["2018-03-06T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 20736637,
+    "direccion": "CALLE 11 A No. 3-29 URBANIZACION EL PORVENIR MADRID",
+    "nombre": "ana isabel jurado leon",
+    "telefono": 8252559
+  },
+  "cc": 80353430,
+  "idProcesos": null
+}

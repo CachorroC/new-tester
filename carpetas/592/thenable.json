@@ -1,0 +1,42 @@
+{
+  "llaveProceso": null,
+  "numero": 592,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 79888775,
+    "direccion": "calle 6 sur no. 24 - 180 ap 1203 to 7 conjunto residencial \"la prosperidad - fontana 3 p.h. madrid - cundinamarca",
+    "email": "marcel-leo@hotmail.com dillavivi@hotmail.com",
+    "tel": {
+      "fijo": 4575011,
+      "celular": 3209005114
+    },
+    "primerNombre": "marcel",
+    "segundoNombre": "leonardo",
+    "primerApellido": "machado",
+    "segundoApellido": ["romero", "y", "viviana", "martinez", "arias"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-10-13T00:00:00.000Z",
+    "expediente": null,
+    "capitalAdeudado": 104393034,
+    "etapaProcesal": null,
+    "municipio": "MADRID",
+    "obligacion": [90000179396],
+    "radicado": null,
+    "vencimientoPagare": ["2052-02-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52791903,
+    "direccion": "CALLE 6 SUR No. 24 - 180 AP 1203 TO 7 CONJUNTO RESIDENCIAL LA PROSPERIDAD - FONTANA 3 P.H.",
+    "nombre": "viviana martinez arias",
+    "telefono": "F 4575011 CELULAR 3209005114"
+  },
+  "cc": 79888775,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 476,
+    "cedula": "52380535",
+    "primerNombre": "claudia",
+    "primerApellido": "cortes",
+    "segundoNombre": "janeth",
+    "segundoApellido": "rosas",
+    "direccion": "carrera 88d no 6d-27 torre 6 apto 618",
+    "email": "ccortes3500@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 482
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 79295686,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 545
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 545,
+    "llaveProceso": null,
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 545,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [],
+    "radicado": "SIN NUMERO",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 545,
+      "fechaOrdenaMedida": "2024-02-10T00:55:06.329Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 545,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JAIRO",
+    "segundoNombre": "ALDANA",
+    "primerApellido": "VILLAMIZAR",
+    "segundoApellido": null,
+    "cedula": "79295686",
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "jairo aldana villamizar",
+  "numero": 545,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 545,
+      "createdAt": "2024-02-10T00:55:06.329Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "PROCESO ELECTRONICO NO HUBO NECESIDAD DE DEVOLVER GARANTIAS FISICAS DECRETO 806 DE 2020",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:06.329Z"
+}

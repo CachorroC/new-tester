@@ -1,0 +1,13 @@
+{
+  "category": "Reintegra",
+  "fecha": "2023-01-31T05:00:00.000Z",
+  "idProcesos": [50817380, 81647611],
+  "idRegUltimaAct": 1630836130,
+  "llaveProceso": "11001400302220170120800",
+  "nombre": "INVERSION RIVOLI S.A.S.",
+  "numero": 369,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:17.939Z"
+}

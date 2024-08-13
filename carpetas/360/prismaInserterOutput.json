@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 360,
+    "numero": 360,
+    "llaveProceso": "11001400302320170145200",
+    "nombre": "nohora del pilar vargas,bernal",
+    "idProcesos": [50915500],
+    "category": "Terminados"
+  }
+}

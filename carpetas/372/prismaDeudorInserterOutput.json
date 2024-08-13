@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 369,
+    "cedula": "51953414",
+    "primerNombre": "janeth",
+    "primerApellido": "gordillo",
+    "segundoNombre": "rubiela",
+    "segundoApellido": "pinzon",
+    "direccion": "transversal 49 # 3 - 92 casa 360 zapan 3",
+    "email": "janethrpinzon@gmail.com",
+    "telCelular": "3152482331",
+    "telFijo": null,
+    "carpetaNumero": 372
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 551,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "39472561",
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "6890083869 // 6890084347",
+      "2250084884 // TARJETA DE CRÉDITO AMERICAN EXPRESS No. 0377815043687256"
+    ],
+    "radicado": "2023 - 00612",
+    "vencimientoPagare": [
+      "2026-03-01T00:00:00.000Z",
+      "2026-06-01T00:00:00.000Z",
+      "2025-05-01T00:00:00.000Z",
+      "2026-07-01T00:00:00.000Z"
+    ],
+    "expediente": "1100141890342023098500",
+    "carpetaNumero": 563,
+    "despacho": null
+  }
+}

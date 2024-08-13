@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 173,
+    "numero": 173,
+    "llaveProceso": "11001400301520170116100",
+    "nombre": "diego alexander caycedo ochoa",
+    "idProcesos": [50674600],
+    "category": "Terminados"
+  }
+}

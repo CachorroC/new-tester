@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 140,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "12393343279",
+    "entregaGarantiasAbogado": "2017-08-11T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-10-09T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-08-23T00:00:00.000Z",
+    "municipio": "FUNZA",
+    "obligacion": ["20990186969"],
+    "radicado": "2017 - 00742",
+    "vencimientoPagare": [],
+    "expediente": "25286310300120170074200",
+    "carpetaNumero": 142,
+    "despacho": null
+  }
+}

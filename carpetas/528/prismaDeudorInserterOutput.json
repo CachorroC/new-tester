@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 516,
+    "cedula": "1065564377",
+    "primerNombre": "yoladis",
+    "primerApellido": "blanco",
+    "segundoNombre": "esther",
+    "segundoApellido": "lopez",
+    "direccion": "calle  23 no 12-50 casa 16 int 12 manzana 1 conjunto quintas de zaragoza",
+    "email": "yoladisb@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 528
+  }
+}

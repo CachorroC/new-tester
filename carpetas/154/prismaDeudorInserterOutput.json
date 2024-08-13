@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 152,
+    "cedula": "79840930",
+    "primerNombre": "gabriel",
+    "primerApellido": "mejia",
+    "segundoNombre": "eduardo",
+    "segundoApellido": "ladino",
+    "direccion": "carrera 79 bis a # 73 - 92 sur apto 304 int 3",
+    "email": "gabriel.eml@hotmail.com",
+    "telCelular": "3112945552",
+    "telFijo": "7347505",
+    "carpetaNumero": 154
+  }
+}

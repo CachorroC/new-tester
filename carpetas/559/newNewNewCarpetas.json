@@ -1,0 +1,76 @@
+{
+  "id": 80219425,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 559
+  },
+  "demanda": {
+    "capitalAdeudado": "42598393",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": " 2023-00886",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 559,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["1080103378"],
+    "radicado": "2023 - 00886",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-02T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 559,
+      "fechaOrdenaMedida": "2024-02-03T00:36:31.344Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 559,
+    "telCelular": "3112633806",
+    "telFijo": null,
+    "primerNombre": "EDWIN",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "SALCEDO",
+    "segundoApellido": "PEREZ",
+    "cedula": "80219425",
+    "direccion": "Calle 50 Sur No. 93 D 38 Torre 07 Apartamento 601 Conjunto Residencial Porvenir Reservado Etapa 7; Carrera 89 A No. 45 A – 33 Sur Casa 207 Agrupación de Vivienda La Margarita Etapa 9",
+    "email": "edwsal736@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": " 2023-00886",
+  "nombre": "EDWIN ALEXANDER SALCEDO PEREZ",
+  "numero": 559,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:31.344Z"
+}

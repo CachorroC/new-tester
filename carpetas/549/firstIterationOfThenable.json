@@ -1,0 +1,62 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "departamento": "CUNDINAMARCA",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "SIN NUMERO"
+  },
+  "demandas": [
+    {
+      "idProceso": 549,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [],
+      "capitalAdeudado": 0,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [],
+      "radicado": "SIN NUMERO"
+    }
+  ],
+  "numero": 549,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "BEJARANO",
+    "segundoApellido": "CARREÑO",
+    "cedula": 79405147,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 79405147,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JOSE ANTONIO BEJARANO CARREÑO",
+  "notificacion": null
+}

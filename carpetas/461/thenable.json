@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303220180095900",
+  "numero": 461,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 93288875,
+    "direccion": "callle 147 no 17-60. int 5 apto 402",
+    "email": "joseaflorez@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "antonio",
+    "primerApellido": "florez",
+    "segundoApellido": "oviedo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-07-18T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-07-10T00:00:00.000Z",
+    "expediente": "11001400303220180095900",
+    "capitalAdeudado": 22458995,
+    "etapaProcesal": "1.100140030322018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [6980086687],
+    "radicado": "2018 - 00959",
+    "vencimientoPagare": ["2021-03-17T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 93288875,
+  "idProcesos": null
+}

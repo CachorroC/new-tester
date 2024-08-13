@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304120170114000",
+  "numero": 283,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1010188573,
+    "direccion": "calle 6 d no 88 d 59  apartamento  402",
+    "email": "jansonmalak@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "janson",
+    "segundoNombre": "david",
+    "primerApellido": "carreño",
+    "segundoApellido": "quijano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-01-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-26T00:00:00.000Z",
+    "expediente": "11001400304120170114000",
+    "capitalAdeudado": 2110945100,
+    "etapaProcesal": "LIQUIDACION",
+    "municipio": "BOGOTA",
+    "obligacion": [1860086996],
+    "radicado": "2017 - 01140",
+    "vencimientoPagare": ["2017-07-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1010188573,
+  "idProcesos": null
+}

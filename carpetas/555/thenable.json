@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303220230090400",
+  "numero": 555,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 53130409,
+    "direccion": "cl 55 bis 16 48 apartamento 702 edificio bangkok",
+    "email": "jsquiroga72@hotmail.com",
+    "tel": {
+      "fijo": 3917539,
+      "celular": 3506509064
+    },
+    "primerNombre": "jeimmy",
+    "segundoNombre": "soley",
+    "primerApellido": "quiroga",
+    "segundoApellido": "ramirez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001400303220230090400",
+    "capitalAdeudado": 80906224,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [1920089307],
+    "radicado": "2023 - 00904",
+    "vencimientoPagare": ["2026-03-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53130409,
+  "idProcesos": null
+}

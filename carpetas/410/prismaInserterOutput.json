@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 410,
+    "numero": 410,
+    "llaveProceso": "11001400303520180037000",
+    "nombre": "jenny liliana montoya villamil",
+    "idProcesos": [51103200],
+    "category": "Terminados"
+  }
+}

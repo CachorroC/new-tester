@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:36.281Z",
+  "proceso": {
+    "idProceso": 50687430,
+    "idConexion": 259,
+    "llaveProceso": "11001400301620170087500",
+    "fechaProceso": "2017-09-06T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-05-16T05:00:00.000Z",
+    "despacho": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JORGE ALBERTO MARTINEZ BENDECK ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 18,
+      "tipo": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-18-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

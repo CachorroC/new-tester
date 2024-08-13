@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:45.353Z",
+  "savedDate": "2022-06-30T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1943409350,
+    "llaveProceso": "11001400303420170083600",
+    "consActuacion": 109,
+    "fechaActuacion": "2024-01-11T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "PROCESO INGRESA AL DESPACHO CON PAGO DEL IMPUESTO Y SALDO DEL REMATE Y PAGO DE IMPUESTOS DEL VEHICULO, GASTOS DE RODAMIENTO Y DE PARQUEADERO. ISABEL BOTERO ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-12-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 109,
+    "isUltimaAct": true,
+    "idProceso": 50521480
+  }
+}

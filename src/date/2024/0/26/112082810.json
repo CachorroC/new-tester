@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:23.268Z",
+  "proceso": {
+    "idProceso": 112082810,
+    "idConexion": 262,
+    "llaveProceso": "11001400306920200082300",
+    "fechaProceso": "2020-10-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-04-25T05:00:00.000Z",
+    "despacho": "JUZGADO 069 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: AMANDA LUCIA CAITAN RINCON ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 69,
+      "tipo": "JUZGADO 069 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-69-civil-municipal-de-bogota"
+    }
+  }
+}

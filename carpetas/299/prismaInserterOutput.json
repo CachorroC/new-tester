@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 299,
+    "numero": 299,
+    "llaveProceso": "25754400300320170034600",
+    "nombre": "roberto stivenson acero baron",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

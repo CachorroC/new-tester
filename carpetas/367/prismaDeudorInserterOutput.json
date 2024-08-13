@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 364,
+    "cedula": "79416270",
+    "primerNombre": "andres",
+    "primerApellido": "",
+    "segundoNombre": "antonio",
+    "segundoApellido": "amezquita,paez",
+    "direccion": "calle 130 c bis a no 99-49",
+    "email": "amezquitapaa@gmail.com",
+    "telCelular": "3144899865",
+    "telFijo": "6481255",
+    "carpetaNumero": 367
+  }
+}

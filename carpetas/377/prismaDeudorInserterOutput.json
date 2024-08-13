@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 374,
+    "cedula": "40356325",
+    "primerNombre": "gladis",
+    "primerApellido": "castro",
+    "segundoNombre": "velasquez",
+    "segundoApellido": null,
+    "direccion": "carrera 79d 36 - 74",
+    "email": "sacave22@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 377
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 482,
+    "cedula": "52837807",
+    "primerNombre": "sandra",
+    "primerApellido": "moreno",
+    "segundoNombre": "milena",
+    "segundoApellido": "campuzano",
+    "direccion": null,
+    "email": "CARRERA 69J No 63A- 49",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 488
+  }
+}

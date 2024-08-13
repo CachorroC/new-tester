@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418903220180127100",
+  "numero": 474,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52788376,
+    "direccion": "transversal 83 a no 73-10   almeria",
+    "email": "katiusaka79@gmail.com",
+    "tel": {
+      "fijo": 4383117,
+      "celular": 3144765126
+    },
+    "primerNombre": "nadia",
+    "segundoNombre": "katerine",
+    "primerApellido": "moreno",
+    "segundoApellido": "camacho"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-10-09T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001418903220180127100",
+    "capitalAdeudado": 2311093437,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990125162],
+    "radicado": "2018 - 01271",
+    "vencimientoPagare": ["2030-04-01T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52788376,
+  "idProcesos": null
+}

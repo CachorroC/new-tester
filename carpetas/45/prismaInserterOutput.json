@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 45,
+    "numero": 45,
+    "llaveProceso": "11001400301920170052800",
+    "nombre": "edison null palma cardenal",
+    "idProcesos": [74646350],
+    "category": "Terminados"
+  }
+}

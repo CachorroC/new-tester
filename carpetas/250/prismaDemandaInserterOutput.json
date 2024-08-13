@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 247,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "4643260687",
+    "entregaGarantiasAbogado": "2017-09-04T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-11-16T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-09-14T00:00:00.000Z",
+    "municipio": "SOPO",
+    "obligacion": [
+      "37781325203 /4513088996703762",
+      "5303729275150891 /12642123"
+    ],
+    "radicado": "2017 - 00599",
+    "vencimientoPagare": ["2017-08-01T00:00:00.000Z"],
+    "expediente": "25758418900120170059900",
+    "carpetaNumero": 250,
+    "despacho": null
+  }
+}

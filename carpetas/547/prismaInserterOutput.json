@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 546,
+    "numero": 547,
+    "llaveProceso": "25754400300120210015300",
+    "nombre": "jose edgar achuri gonzalez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

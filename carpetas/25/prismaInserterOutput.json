@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 25,
+    "numero": 25,
+    "llaveProceso": "11001310301120170033500",
+    "nombre": "omar dario zea galvis",
+    "idProcesos": [80553011, 1805257424],
+    "category": "Reintegra"
+  }
+}

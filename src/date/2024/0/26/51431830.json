@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:23.615Z",
+  "proceso": {
+    "idProceso": 51431830,
+    "idConexion": 259,
+    "llaveProceso": "11001400300320180123600",
+    "fechaProceso": "2018-10-02T05:00:00.000Z",
+    "fechaUltimaActuacion": "2021-12-06T05:00:00.000Z",
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: PABLO ELIAS MENDOZA MURILLO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 3,
+      "tipo": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-03-civil-municipal-de-bogota"
+    }
+  }
+}

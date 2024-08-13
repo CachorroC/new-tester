@@ -1,0 +1,52 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "15/08/2017",
+    "obligacion": {
+      "A": 12594582
+    },
+    "capitalAdeudado": 68421268,
+    "entregaGarantiasAbogado": "22/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "VIOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00218",
+    "llaveProceso": "25878418900120170021800",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "29/08/2017",
+    "mandamientoPago": "18/09/2017",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "18/09/2017",
+      "medidaSolicitada": "VEHICULO"
+    }
+  },
+  "demandas": [],
+  "numero": 180,
+  "llaveProceso": "25878418900120170021800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ALCIRA",
+    "segundoNombre": "DELIA",
+    "primerApellido": "SAENZ",
+    "segundoApellido": "GARAVIS",
+    "cedula": 21016631,
+    "direccion": "CALLE 3 # 5 - 31 VIOTA",
+    "email": null
+  },
+  "cc": 21016631,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ALCIRA DELIA SAENZ GARAVIS",
+  "notificacion": null
+}

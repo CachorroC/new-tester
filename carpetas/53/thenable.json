@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400308520170097500",
+  "numero": 53,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53051476,
+    "direccion": "calle 64 no. 85-60 interior 1 lote 19 manzana 36 urbanizacion la isabela  etapa iicalle 64 i no. 86-60",
+    "email": "dimarce1513@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3212307798
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "marcela",
+    "primerApellido": "sanchez",
+    "segundoApellido": "lozano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-21T00:00:00.000Z",
+    "mandamientoPago": "2017-07-31T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400308520170097500",
+    "capitalAdeudado": 9771290324,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": ["320 131802"],
+    "radicado": "2017 - 00975",
+    "vencimientoPagare": ["2025-09-01T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79263455,
+    "direccion": "calle 64 no. 85-60 INTERIOR 1 LOTE 19 MANZANA 36 URBANIZACION LA ISABELA  ETAPA IIcalle 64 I No. 86-60",
+    "nombre": "edgar bustamante angel",
+    "telefono": "2241552//3212307798"
+  },
+  "cc": 53051476,
+  "idProcesos": null
+}

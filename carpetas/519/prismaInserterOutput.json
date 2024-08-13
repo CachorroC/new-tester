@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 518,
+    "numero": 519,
+    "llaveProceso": "11001400307020190055100",
+    "nombre": "leidy catalina losada cabrera",
+    "idProcesos": [112013800],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:24.114Z",
+  "proceso": {
+    "idProceso": 133187160,
+    "idConexion": 259,
+    "llaveProceso": "11001400308120230141400",
+    "fechaProceso": "2023-09-08T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-09-12T05:00:00.000Z",
+    "despacho": "JUZGADO 081 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ALBA YANETH APARICIO SANDOVAL ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 81,
+      "tipo": "JUZGADO 081 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-081-civil-municipal-de-bogota"
+    }
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "id": 41336003,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1938881310,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 7,
+      "fechaActuacion": "2023-11-30T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 30/11/2023 a las 10:36:41.",
+      "fechaInicial": "2023-12-01T05:00:00.000Z",
+      "fechaFinal": "2023-12-01T05:00:00.000Z",
+      "fechaRegistro": "2023-11-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    },
+    {
+      "idRegActuacion": 1938881300,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-11-30T05:00:00.000Z",
+      "actuacion": "Auto niega mandamiento ejecutivo",
+      "anotacion": "NOTIFICA NUEVAMENTE",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    },
+    {
+      "idRegActuacion": 1938727050,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-29T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-29T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    },
+    {
+      "idRegActuacion": 1918057590,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-10-26T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 26/10/2023 a las 10:12:17.",
+      "fechaInicial": "2023-10-27T05:00:00.000Z",
+      "fechaFinal": "2023-10-27T05:00:00.000Z",
+      "fechaRegistro": "2023-10-26T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    },
+    {
+      "idRegActuacion": 1918057580,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-10-26T05:00:00.000Z",
+      "actuacion": "Auto niega mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-10-26T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    },
+    {
+      "idRegActuacion": 1902260070,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-10-06T05:00:00.000Z",
+      "actuacion": "Al despacho por reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-10-06T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    },
+    {
+      "idRegActuacion": 1902260060,
+      "llaveProceso": "11001418907020230039900",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-10-06T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 06/10/2023 a las 23:36:45",
+      "fechaInicial": "2023-10-06T05:00:00.000Z",
+      "fechaFinal": "2023-10-06T05:00:00.000Z",
+      "fechaRegistro": "2023-10-06T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 133932120,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.455Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 585
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "25766202",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-09-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 585,
+    "llaveProceso": "11001418907020230039900\r\n",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 585,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "31035862",
+      "377816195788645 X TC AMERICAN // 4099843107499631 X T.C. VISA"
+    ],
+    "radicado": "2023-399",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-09-15T05:00:00.000Z",
+      "2026-05-22T05:00:00.000Z",
+      "2026-05-07T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 585,
+      "fechaOrdenaMedida": "2024-02-10T00:55:09.415Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 585,
+    "telCelular": "3143644918",
+    "telFijo": "3543562 ",
+    "primerNombre": "MARIA",
+    "segundoNombre": "GEORGINA",
+    "primerApellido": "FORERO",
+    "segundoApellido": "DE",
+    "cedula": "41336003",
+    "direccion": " Calle 152 NO. 12C - 12 TORRE 1 APTO 704 Conjunto ReSIdencial ENTRECEDROS en Bogotá y/o Carrera 19 A NO. 159 -70/84 Interior 4 Apto 503 Conjunto ReSIdencial Sauces del NOrte",
+    "email": "adrifor_co@hotmail.com"
+  },
+  "fecha": "2023-11-30T05:00:00.000Z",
+  "idProcesos": [133932120],
+  "idRegUltimaAct": 1938881310,
+  "llaveProceso": "11001418907020230039900\r\n",
+  "nombre": "maria georgina forero de mendoza",
+  "numero": 585,
+  "procesos": [
+    {
+      "idProceso": 133932120,
+      "idConexion": 259,
+      "llaveProceso": "11001418907020230039900",
+      "fechaProceso": "2023-10-06T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-30T05:00:00.000Z",
+      "despacho": "JUZGADO 070 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MARIA GEORGINA FORERO DE MENDOZA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 70,
+        "tipo": "JUZGADO 070 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "url": "https://www.ramajudicial.gov.cojuzgado-070-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1938881310,
+    "llaveProceso": "11001418907020230039900",
+    "consActuacion": 7,
+    "fechaActuacion": "2023-11-30T05:00:00.000Z",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 30/11/2023 a las 10:36:41.",
+    "fechaInicial": "2023-12-01T05:00:00.000Z",
+    "fechaFinal": "2023-12-01T05:00:00.000Z",
+    "fechaRegistro": "2023-11-30T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 7,
+    "idProceso": 133932120,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "28 DE SEPTIEMBURE SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 6 OCT AL DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 26 OCT RECHAZA DEMANDA X ERROR PAGARE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 27 OCT SE PRESENTA X 2DA VEZ ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 15 NOV AUTO LIBRA MANDAMIENTO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 27 NOV MANDAMIENTO INCOMPLETO PENDIENTE ENVIAR CORRECCION  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 4 DIC 2023 SE ENVIA CORRECION MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 585,
+      "createdAt": "2024-02-10T00:55:09.415Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 7-02-2024 SE ENVIA SOLICITUD OFICIOS A JUZGADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:09.415Z"
+}

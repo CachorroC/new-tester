@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 268,
+    "cedula": "52850427",
+    "primerNombre": "aura",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "geovana",
+    "segundoApellido": "mora",
+    "direccion": null,
+    "email": "CARRERA 16 No  24 - 34 APARTAMENTO 302",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 271
+  }
+}

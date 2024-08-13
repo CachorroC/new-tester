@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 361,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "6016146778",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["144698"],
+    "radicado": "2017 - 01647",
+    "vencimientoPagare": ["8202-10-01T00:00:00.000Z"],
+    "expediente": "11001400307320170164700",
+    "carpetaNumero": 364,
+    "despacho": null
+  }
+}

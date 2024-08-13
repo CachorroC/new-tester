@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900220180036400",
+  "numero": 412,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80896755,
+    "direccion": "carrera 7c- no 02-85 sur",
+    "email": "fabiop0917@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3204063623
+    },
+    "primerNombre": "fabio",
+    "segundoNombre": "nelson",
+    "primerApellido": "perez",
+    "segundoApellido": "cristiano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-26T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-04-16T00:00:00.000Z",
+    "expediente": "25754418900220180036400",
+    "capitalAdeudado": 1986545427,
+    "etapaProcesal": "ADMISION",
+    "municipio": "SOACHA",
+    "obligacion": [20990147276],
+    "radicado": "2018 - 00364",
+    "vencimientoPagare": ["2026-12-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53122368,
+    "direccion": "CALLE 4 No 4J-09 QUINTANARE",
+    "nombre": "martha liliana poloche aguja",
+    "telefono": 3006354505
+  },
+  "cc": 80896755,
+  "idProcesos": null
+}

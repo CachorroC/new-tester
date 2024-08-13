@@ -1,0 +1,73 @@
+{
+  "id": 830105220,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "OSCAR WILLIAM FAJARDO GARCIA",
+    "cedula": "19436512",
+    "direccion": "AUT NORTE No 122 - 56 OFICINA 704 / CALLE 119 No 13-61",
+    "telefono": "F 8028680",
+    "id": 501
+  },
+  "demanda": {
+    "obligacion": ["19353965852// 4549260357738974", "4594260000000000"],
+    "llaveProceso": "11001400305520180131600",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:11:32.353Z",
+      "medidaSolicitada": "PENDIENTE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-09-10T05:00:00.000Z",
+    "etapaProcesal": "11001400305520180131600",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 01316",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2021-06-01T05:00:00.000Z",
+      "2021-10-04T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ASOCIACION",
+    "segundoNombre": "AGROPECUARIA",
+    "primerApellido": "UCEBUL",
+    "segundoApellido": null,
+    "cedula": 830105220,
+    "direccion": "AVENIDA EL DORADO No 68C-61 OFICINA 702",
+    "email": "ucebul@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400305520180131600",
+  "nombre": "ASOCIACION AGROPECUARIA UCEBUL",
+  "numero": 501,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:32.353Z"
+}

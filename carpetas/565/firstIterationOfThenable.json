@@ -1,0 +1,45 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "9/03/2026",
+    "obligacion": {
+      "A": 1010090492
+    },
+    "capitalAdeudado": "$ 24.994.278",
+    "entregaGarantiasAbogado": "26/07/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 01273",
+    "llaveProceso": "11001418902120230128000"
+  },
+  "demandas": [],
+  "numero": 565,
+  "llaveProceso": "11001418902120230128000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 7442510,
+      "celular": 3058819253
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "PALACIO",
+    "segundoApellido": "RIVERA",
+    "cedula": 1061047348,
+    "direccion": "Transversal 96 B No. 20 D - 70 Casa 23 Conjunto Residencial Casas del Portal de Hayuelos",
+    "email": "sammy_1722@hotmail.es"
+  },
+  "cc": 1061047348,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "SANDRA MILENA PALACIO RIVERA",
+  "notificacion": null
+}

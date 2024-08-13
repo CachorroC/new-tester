@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 193,
+    "numero": 193,
+    "llaveProceso": "11001400302420170175000",
+    "nombre": "carmen elizabeth quesada martinez",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

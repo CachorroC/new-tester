@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 451,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "24310470",
+    "entregaGarantiasAbogado": "2018-06-29T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-07-06T00:00:00.000Z",
+    "etapaProcesal": "1.100141037512018e+22",
+    "fechaPresentacion": null,
+    "municipio": "KENNEDY",
+    "obligacion": ["10044000104"],
+    "radicado": "2018 - 01121",
+    "vencimientoPagare": ["2021-01-01T00:00:00.000Z"],
+    "expediente": "11001410375120180112100",
+    "carpetaNumero": 456,
+    "despacho": null
+  }
+}

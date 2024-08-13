@@ -1,0 +1,77 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "10/03/2026 // 25/06/2026 // 4/05/2025// 18/07/2026",
+    "obligacion": {
+      "A": "6890083869 // 6890084347",
+      "B": "2250084884 // TARJETA DE CRÉDITO AMERICAN EXPRESS No. 0377815043687256"
+    },
+    "capitalAdeudado": "$ 39.472.561",
+    "entregaGarantiasAbogado": "26/07/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00612",
+    "llaveProceso": "1100141890342023098500"
+  },
+  "demandas": [
+    {
+      "idProceso": 563,
+      "idConexion": null,
+      "llaveProceso": "1100141890342023098500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z",
+        "2025-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [
+        "6890083869 // 6890084347",
+        "2250084884 // TARJETA DE CRÉDITO AMERICAN EXPRESS No. 0377815043687256"
+      ],
+      "radicado": "2023 - 00612"
+    }
+  ],
+  "numero": 563,
+  "llaveProceso": "1100141890342023098500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MILTON",
+    "segundoNombre": "MARINO",
+    "primerApellido": "LUGO",
+    "segundoApellido": "GOMEZ",
+    "cedula": 7718318,
+    "direccion": "Carrera 57 No. 60 A - 20",
+    "email": "milugo1111@hotmail.com"
+  },
+  "cc": 7718318,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "MILTON MARINO LUGO GOMEZ",
+  "notificacion": null
+}

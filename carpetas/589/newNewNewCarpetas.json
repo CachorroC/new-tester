@@ -1,0 +1,76 @@
+{
+  "id": 1030573651,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 589
+  },
+  "demanda": {
+    "capitalAdeudado": "58421147",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-10-07T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "202300899",
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 589,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["90000218729", "2010089751"],
+    "radicado": "2023 - 899",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2052-11-18T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 589,
+      "fechaOrdenaMedida": "2024-02-03T00:36:37.113Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 589,
+    "telCelular": "3143490829",
+    "telFijo": null,
+    "primerNombre": "YURLEDY",
+    "segundoNombre": "PARRA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": null,
+    "cedula": "1030573651",
+    "direccion": "Carrera 99 D BIS No. 38 - 37 Sur",
+    "email": "yurledyparra2024@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "202300899",
+  "nombre": "YURLEDY PARRA HERNANDEZ",
+  "numero": 589,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:37.114Z"
+}

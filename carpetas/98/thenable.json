@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301120170062300",
+  "numero": 98,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 41672170,
+    "direccion": "carrera 50a # 68 - 39",
+    "email": "carmenzachaparro@outlook.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "del",
+    "primerApellido": "carmen",
+    "segundoApellido": ["chaparro", "lemus"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-29T00:00:00.000Z",
+    "mandamientoPago": "2017-09-08T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "expediente": "11001400301120170062300",
+    "capitalAdeudado": 0,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [190459],
+    "radicado": "2017 - 00623",
+    "vencimientoPagare": ["2030-01-25T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 41672170,
+  "idProcesos": null
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-12-07T05:00:00.000Z",
+  "idProcesos": [50508870],
+  "idRegUltimaAct": 1940857760,
+  "llaveProceso": "11001400300420170057500",
+  "nombre": "SONIA MAZUERA",
+  "numero": 73,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:32.235Z"
+}

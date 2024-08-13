@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 10,
+    "cedula": "52396019",
+    "primerNombre": "marina",
+    "primerApellido": "hernandez",
+    "segundoNombre": "morales",
+    "segundoApellido": null,
+    "direccion": "carrera 109a no. 148-91 bogota",
+    "email": null,
+    "telCelular": "3202705987",
+    "telFijo": null,
+    "carpetaNumero": 10
+  }
+}

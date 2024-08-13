@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 94,
+    "cedula": "1015410386",
+    "primerNombre": "edwin",
+    "primerApellido": "perez",
+    "segundoNombre": "jhobani",
+    "segundoApellido": "pita",
+    "direccion": "carrera 40b # 1 - 61",
+    "email": "edwinperez8302@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 95
+  }
+}

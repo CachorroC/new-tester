@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302520170080700",
+  "numero": 184,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 17650971,
+    "direccion": "carrera 86 # 69 h - 40",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "juan",
+    "segundoNombre": "carlos",
+    "primerApellido": "tovar",
+    "segundoApellido": "toledo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T00:00:00.000Z",
+    "mandamientoPago": "2017-08-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400302520170080700",
+    "capitalAdeudado": 22277206,
+    "etapaProcesal": "DESIGNACIÓN CURADOR AD LITEM",
+    "municipio": "BOGOTA",
+    "obligacion": [8470081213],
+    "radicado": "2017 - 00807",
+    "vencimientoPagare": ["2021-12-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 17650971,
+  "idProcesos": null
+}

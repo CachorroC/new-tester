@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 393,
+    "cedula": "80733467",
+    "primerNombre": "orlando",
+    "primerApellido": "novoa",
+    "segundoNombre": "enrique",
+    "segundoApellido": "barreto",
+    "direccion": "carrera 88 a no  67 - 44",
+    "email": "orlandonovoa9@gmail.com",
+    "telCelular": "3118163887",
+    "telFijo": "7836655",
+    "carpetaNumero": 396
+  }
+}

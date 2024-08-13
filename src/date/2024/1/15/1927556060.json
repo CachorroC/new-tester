@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:10.584Z",
+  "savedDate": 1548651600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1927556060,
+    "llaveProceso": "11001400306920170084500",
+    "consActuacion": 65,
+    "fechaActuacion": "2023-11-07T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "DIG PASA AL DESPACHO // JULIAN B ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-11-03T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 65,
+    "isUltimaAct": true,
+    "idProceso": 50675410
+  }
+}

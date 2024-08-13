@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754400300320170021100",
+  "numero": 31,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79590985,
+    "direccion": "carrera 13 sur no. 49-37 soacha y venida 19 no. 118-95 ofc 411",
+    "email": "jpkafu@gmail.com",
+    "tel": {
+      "fijo": 7793347,
+      "celular": 3014192323
+    },
+    "primerNombre": "jorge",
+    "primerApellido": "perez",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-09T00:00:00.000Z",
+    "mandamientoPago": "2018-01-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-30T00:00:00.000Z",
+    "expediente": "25754400300320170021100",
+    "capitalAdeudado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SOACHA",
+    "obligacion": [530311042614581, 4513077790909121],
+    "radicado": "2017 - 00211",
+    "vencimientoPagare": ["1936-12-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 28550572,
+    "direccion": "CARRERA 13 SUR No. 49-37",
+    "nombre": "blanca senet pineda",
+    "telefono": 3012692815
+  },
+  "cc": 79590985,
+  "idProcesos": null
+}

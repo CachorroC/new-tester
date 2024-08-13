@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300820170106000",
+  "numero": 203,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80380775,
+    "direccion": "calle 92 bis sur # 3 - 61",
+    "email": "fantavillabon@hotmail.com",
+    "tel": {
+      "fijo": 7672705,
+      "celular": 3118264932
+    },
+    "primerNombre": "gonzalo",
+    "primerApellido": "villabon",
+    "segundoApellido": "martinez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-09-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400300820170106000",
+    "capitalAdeudado": 6080404855,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [179104],
+    "radicado": "2017 - 01060",
+    "vencimientoPagare": ["2024-11-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80380775,
+  "idProcesos": null
+}

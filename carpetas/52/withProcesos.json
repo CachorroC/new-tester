@@ -1,0 +1,76 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "HECTOR MANUEL MANJARRES VEGA",
+    "cedula": "11337901",
+    "direccion": "CARRERA 7 No. 25-51 BQ/ TO 9 APTO 104 PARQUE RESIDENCIAL VILLAZO ZIPAQUIRA",
+    "telefono": "3114720151",
+    "id": 52,
+    "carpetaNumero": 52
+  },
+  "demanda": {
+    "vencimientoPagare": "18/01/2031",
+    "obligacion": {
+      "A": "320 160226",
+      "B": "160226//377813713927961"
+    },
+    "capitalAdeudado": "$ 16.302.625",
+    "entregaGarantiasAbogado": "12/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "ZIPAQUIRA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00256",
+    "llaveProceso": "25899400300220170025600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "22/06/2017",
+    "mandamientoPago": "29/06/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 1086,
+        "fechaAporta": "CARRERA 7 No. 25-51 BQ/ TO 9 APTO 104 PARQUE RESIDENCIAL VILLAZO ZIPAQUIRA"
+      },
+      "certimail": "29/06/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 52,
+  "llaveProceso": "25899400300220170025600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3114720151
+    },
+    "primerNombre": "MARTHA",
+    "segundoNombre": "STELLA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "BOLIVAR",
+    "cedula": 35412591,
+    "direccion": "CARRERA 7 No. 25-51 BQ/ TO 9 APTO 104 PARQUE RESIDENCIAL VILLAZO ZIPAQUIRA",
+    "email": null
+  },
+  "cc": 35412591,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARTHA STELLA GOMEZ BOLIVAR",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

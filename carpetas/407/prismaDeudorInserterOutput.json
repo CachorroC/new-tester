@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 404,
+    "cedula": "79328264",
+    "primerNombre": "nestor",
+    "primerApellido": "cristancho",
+    "segundoNombre": "alberto",
+    "segundoApellido": "lopez",
+    "direccion": "carrera 11 no  144 - 22 apartamento 301",
+    "email": "nescri64@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 407
+  }
+}

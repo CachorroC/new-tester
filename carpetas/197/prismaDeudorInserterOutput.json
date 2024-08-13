@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 194,
+    "cedula": "79457880",
+    "primerNombre": "mario",
+    "primerApellido": "pinzon",
+    "segundoNombre": "jean",
+    "segundoApellido": "baron",
+    "direccion": "calle 106 # 8a - 19 casa 698",
+    "email": "mariojean1@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 197
+  }
+}

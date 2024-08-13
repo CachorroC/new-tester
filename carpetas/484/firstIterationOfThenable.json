@@ -1,0 +1,88 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "NELSON MENDEZ VERJAN",
+    "cedula": "14277736",
+    "direccion": "CALLE 68 C No 2-04 SUR ESTE",
+    "telefono": "F 2000631",
+    "id": 484,
+    "carpetaNumero": 484
+  },
+  "demanda": {
+    "vencimientoPagare": "21/11/2032",
+    "obligacion": {
+      "A": 20990157739
+    },
+    "capitalAdeudado": "$ 26.503.795",
+    "entregaGarantiasAbogado": "6/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2019 - 00270",
+    "llaveProceso": "25754418900320190027000",
+    "etapaProcesal": "25754418900320190027000",
+    "fechaPresentacion": "NOTIFICACIÓN",
+    "mandamientoPago": "18/09/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "SI",
+        "resultado": "05/0972019"
+      },
+      "292": {
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "10/0572019",
+      "fisico": "NO",
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "medidaSolicitada": "17/05/2019"
+    }
+  },
+  "demandas": [],
+  "numero": 484,
+  "llaveProceso": "25754418900320190027000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JENNY",
+    "segundoNombre": "",
+    "primerApellido": "ANDREA",
+    "segundoApellido": ["AVILA", "GARZON"],
+    "cedula": 30339083,
+    "direccion": "CARRERA 7A No  2-94 SUR",
+    "email": null
+  },
+  "cc": 30339083,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JENNY  ANDREA AVILA GARZON",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "CORREO"
+  }
+}

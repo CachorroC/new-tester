@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:56.007Z",
+  "proceso": {
+    "idProceso": 19155581,
+    "idConexion": 256,
+    "llaveProceso": "11001400304020180012300",
+    "fechaProceso": "2018-01-25T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-10-05T05:00:00.000Z",
+    "despacho": "JUZGADO 040 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JHON ALFREDO ZORRO MARTINEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 40,
+      "tipo": "JUZGADO 040 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-40-civil-municipal-de-bogota"
+    }
+  }
+}

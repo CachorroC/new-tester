@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25035408900120170010800",
+  "numero": 42,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1072421639,
+    "direccion": "barrio santa ana fc la campiña anapoima",
+    "email": "jdanielmoreno87@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3126139284
+    },
+    "primerNombre": "juan",
+    "segundoNombre": "daniel",
+    "primerApellido": "moreno",
+    "segundoApellido": "cifuentes"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-31T00:00:00.000Z",
+    "mandamientoPago": "2017-07-28T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "expediente": "25035408900120170010800",
+    "capitalAdeudado": 12956286,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "ANAPOIMA",
+    "obligacion": [3840082880],
+    "radicado": "2017 - 00108",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1072421639,
+  "idProcesos": null
+}

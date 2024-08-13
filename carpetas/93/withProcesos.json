@@ -1,0 +1,52 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "6/08/2031",
+    "obligacion": {
+      "A": 166689
+    },
+    "capitalAdeudado": 37074975,
+    "entregaGarantiasAbogado": "28/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CAJICA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00496",
+    "llaveProceso": "25126408900120170049600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "20/06/2017",
+    "mandamientoPago": "5/10/2017",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "5/10/2017",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 93,
+  "llaveProceso": "25126408900120170049600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "VIVIAN",
+    "segundoNombre": "PAOLA",
+    "primerApellido": "BRUGES",
+    "segundoApellido": "MEDINA",
+    "cedula": 1140835529,
+    "direccion": "CALLE 133 # 53 - 365CJ LOMAS DE (BARRANQUILLA)",
+    "email": "vivibruges@hotmail.com"
+  },
+  "cc": 1140835529,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "VIVIAN PAOLA BRUGES MEDINA",
+  "notificacion": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 478,
+    "numero": 478,
+    "llaveProceso": "25799418900120180033500",
+    "nombre": "fabio hernando pastor pastor",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

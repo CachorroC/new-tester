@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 165,
+    "cedula": "79688268",
+    "primerNombre": "jose",
+    "primerApellido": "gonzalez",
+    "segundoNombre": "mauricio",
+    "segundoApellido": "calderon",
+    "direccion": "carrera 83a # 116a - 72 casa 214",
+    "email": "maurgonzal@yahoo.com",
+    "telCelular": "3196564315",
+    "telFijo": "4589855",
+    "carpetaNumero": 167
+  }
+}

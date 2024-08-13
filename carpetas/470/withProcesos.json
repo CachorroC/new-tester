@@ -1,0 +1,81 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "2/4/2032",
+    "telefono": null,
+    "id": 470,
+    "carpetaNumero": 470
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "B": "21.955.632.15"
+    },
+    "capitalAdeudado": "26/07/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00841",
+    "llaveProceso": "25754418900320180084100",
+    "etapaProcesal": "09/08/2018",
+    "fechaPresentacion": "7/09/2018",
+    "mandamientoPago": "X",
+    "notificacion": {
+      "291": {
+        "resultado": "8/10/2018"
+      },
+      "292": {
+        "fechaAporta": 43381
+      },
+      "fisico": "17/09/2018 ENVIO 291"
+    }
+  },
+  "demandas": [],
+  "numero": 470,
+  "llaveProceso": "25754418900320180084100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ELIANA",
+    "segundoNombre": "JANNETH",
+    "primerApellido": "LOZANO",
+    "segundoApellido": "ARTURO",
+    "cedula": 52711938,
+    "direccion": null,
+    "email": "TRANSVERSAL 2A No 74B-62 SUR"
+  },
+  "cc": 52711938,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ELIANA JANNETH LOZANO ARTURO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": null,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

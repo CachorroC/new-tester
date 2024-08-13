@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25754418900320180135200",
+  "numero": 512,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1014200510,
+    "direccion": null,
+    "email": "CALLE 93 No 94 N -16",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "milena",
+    "primerApellido": "morales",
+    "segundoApellido": "garcia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754418900320180135200",
+    "capitalAdeudado": null,
+    "etapaProcesal": "14-12-2018//13-05-2019",
+    "municipio": "SOACHA",
+    "obligacion": ["21.856.062.58"],
+    "radicado": "2018 - 01352",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": "09-07-2033"
+  },
+  "cc": 1014200510,
+  "idProcesos": null
+}

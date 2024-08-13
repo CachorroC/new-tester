@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 436,
+    "cedula": "52064928",
+    "primerNombre": "yaneth",
+    "primerApellido": "prieto",
+    "segundoNombre": "millan",
+    "segundoApellido": null,
+    "direccion": "carrera 5 no 7-40 sur",
+    "email": "janeth2609@hotmail.com",
+    "telCelular": "3102762216",
+    "telFijo": null,
+    "carpetaNumero": 441
+  }
+}

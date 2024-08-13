@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2021-12-06T05:00:00.000Z",
+  "idProcesos": [51431830],
+  "idRegUltimaAct": 1237275320,
+  "llaveProceso": "11001400300320180123600",
+  "nombre": "PABLO ELIAS MENDOZA MURILLO",
+  "numero": 495,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:36.772Z"
+}

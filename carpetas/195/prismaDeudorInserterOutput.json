@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 192,
+    "cedula": "80244664",
+    "primerNombre": "douglas",
+    "primerApellido": "siza",
+    "segundoNombre": "fabian",
+    "segundoApellido": "cortes",
+    "direccion": "carrera 95 bis # 90a - 12",
+    "email": "gufo2299@hotmail.com",
+    "telCelular": "3118280782",
+    "telFijo": "4429545",
+    "carpetaNumero": 195
+  }
+}

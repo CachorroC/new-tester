@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301120170088900",
+  "numero": 157,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19146821,
+    "direccion": null,
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "alberto",
+    "primerApellido": "mendoza",
+    "segundoApellido": "castaño"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400301120170088900",
+    "capitalAdeudado": 0,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [],
+    "radicado": "2017 - 00889",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19146821,
+  "idProcesos": null
+}

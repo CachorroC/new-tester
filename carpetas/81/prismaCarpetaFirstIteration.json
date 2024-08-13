@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2021-12-01T05:00:00.000Z",
+  "idProcesos": [50527610],
+  "idRegUltimaAct": 1236558740,
+  "llaveProceso": "11001400303620170055400",
+  "nombre": "DS&D SOLUCIONES CONSTRUCTIVAS S.A.S.",
+  "numero": 81,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:33.399Z"
+}

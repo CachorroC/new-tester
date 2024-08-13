@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 220,
+    "cedula": "17174720",
+    "primerNombre": "gerardo",
+    "primerApellido": "moncada",
+    "segundoNombre": "antonio",
+    "segundoApellido": "vega",
+    "direccion": "calle 159 # 15 - 45",
+    "email": "gerardomoncada70@hotmail.com",
+    "telCelular": "3153330306",
+    "telFijo": "3349755",
+    "carpetaNumero": 223
+  }
+}

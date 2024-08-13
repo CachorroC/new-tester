@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 278,
+    "numero": 278,
+    "llaveProceso": "11001400303720170139100",
+    "nombre": "luz dary puerta jaramillo",
+    "idProcesos": [112945420],
+    "category": "Bancolombia"
+  }
+}

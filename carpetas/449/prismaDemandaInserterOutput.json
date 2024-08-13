@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 444,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "14170111",
+    "entregaGarantiasAbogado": "2018-06-19T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-06-26T00:00:00.000Z",
+    "etapaProcesal": "1.100140030172018e+22",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["AUIDIOPRESTAMO", "5306968825200490"],
+    "radicado": "2018 - 00705",
+    "vencimientoPagare": [
+      "2020-11-01T00:00:00.000Z",
+      "2020-11-01T00:00:00.000Z"
+    ],
+    "expediente": "11001400301720180070500",
+    "carpetaNumero": 449,
+    "despacho": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": 80244664,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JOHANNA ESMERALDA PULIDO DURAN",
+    "cedula": "52347132",
+    "direccion": "CARRERA 6 # 23 - 70 BLOQUE 29 CASA 34 ",
+    "telefono": "8222969 // 3112842488",
+    "id": 195
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "25303069",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.971Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["1970-01-01T00:00:42.977Z"],
+    "id": 195,
+    "llaveProceso": "1100140030122017099100",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 195,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["138546"],
+    "radicado": "2017 - 0991",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.146Z"],
+    "medidasCautelares": {
+      "id": 195,
+      "fechaOrdenaMedida": "2024-02-10T00:54:37.399Z",
+      "medidaSolicitada": "P/NAL DDA"
+    }
+  },
+  "deudor": {
+    "id": 195,
+    "telCelular": "3118280782",
+    "telFijo": "4429545 ",
+    "primerNombre": "DOUGLAS",
+    "segundoNombre": "FABIAN",
+    "primerApellido": "SIZA",
+    "segundoApellido": "CORTES",
+    "cedula": "80244664",
+    "direccion": "CARRERA 95 BIS # 90A - 12 ",
+    "email": "gufo2299@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "1100140030122017099100",
+  "nombre": "douglas fabian siza cortes",
+  "numero": 195,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 195,
+      "createdAt": "2024-02-10T00:54:37.399Z",
+      "pathname": null,
+      "dueDate": "2019-03-25T05:00:00.000Z",
+      "text": "EL 25/02/2019 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 195,
+      "createdAt": "2024-02-10T00:54:37.399Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 15 DE OCTUBRE DE 2019 SE HIZO LEVANTAMIENTO DE LA MEDIDA CAUTELAR CON CERTIFICADO DE TRADICION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 195,
+      "createdAt": "2024-02-10T00:54:37.399Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 12 DE SEPTIEMBRE DE 2019 SE DEVOLVIERON GARANTIAS A AECSA S.A.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:37.399Z"
+}

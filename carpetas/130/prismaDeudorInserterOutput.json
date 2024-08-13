@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 128,
+    "cedula": "77010352",
+    "primerNombre": "armando",
+    "primerApellido": "rosado",
+    "segundoNombre": "enrique",
+    "segundoApellido": "mestre",
+    "direccion": "calle 116 # 11c - 15 apto 104",
+    "email": "arosadomestre@yahoo.com",
+    "telCelular": "3125855939",
+    "telFijo": "6371679",
+    "carpetaNumero": 130
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 257,
+    "cedula": "11384155",
+    "primerNombre": "hernan",
+    "primerApellido": "pardo",
+    "segundoNombre": "alvarez",
+    "segundoApellido": null,
+    "direccion": "carrera 4 este 4-42  fusagasuga",
+    "email": "heralvarezpa@misena.edu.co",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 260
+  }
+}

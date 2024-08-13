@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 131,
+    "numero": 131,
+    "llaveProceso": "25754418900120170077400",
+    "nombre": "rocio aleida ortiz barreto",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 82,
+    "numero": 82,
+    "llaveProceso": "11001400300320170106500",
+    "nombre": "rafael null gonzalez olejua",
+    "idProcesos": [50527120],
+    "category": "Terminados"
+  }
+}

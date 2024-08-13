@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305920170074700",
+  "numero": 147,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80080669,
+    "direccion": "calle 75 # 89b - 09 apto 104 torre 8",
+    "email": "andreslaiton@hotmail.com",
+    "tel": {
+      "fijo": 6320923,
+      "celular": 3133912606
+    },
+    "primerNombre": "milton",
+    "segundoNombre": "andres",
+    "primerApellido": "laiton",
+    "segundoApellido": "rincon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-15T00:00:00.000Z",
+    "expediente": "11001400305920170074700",
+    "capitalAdeudado": 84049009,
+    "etapaProcesal": "1.100140030592017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [4800902204],
+    "radicado": "2017 - 00747",
+    "vencimientoPagare": ["2021-12-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80080669,
+  "idProcesos": null
+}

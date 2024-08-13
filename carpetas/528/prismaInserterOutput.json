@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 527,
+    "numero": 528,
+    "llaveProceso": "25473400100120190116000",
+    "nombre": "yoladis esther blanco lopez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

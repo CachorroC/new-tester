@@ -1,0 +1,139 @@
+{
+  "id": 52581513,
+  "actuaciones": [
+    {
+      "idRegActuacion": 888114011,
+      "llaveProceso": "11001400302620170087200",
+      "consActuacion": 8282236,
+      "fechaActuacion": "2019-07-30T05:00:00.000Z",
+      "actuacion": "AUTO EMPLAZA",
+      "anotacion": "AUTO LIBRA MANDAMIENTO DE PAGO DE FECHA: 29 DE AGOSTO DE 2017",
+      "fechaInicial": "2019-07-30T05:00:00.000Z",
+      "fechaFinal": "2019-08-22T05:00:00.000Z",
+      "fechaRegistro": "2019-07-30T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 1,
+      "idProceso": 81647161,
+      "isUltimaAct": false,
+      "createdAt": "2024-01-02T02:09:34.575Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JHON EDER CHACON GONZALEZ",
+    "cedula": "1019036435",
+    "direccion": "CALLE 136A # 100A - 07",
+    "telefono": null,
+    "id": 144
+  },
+  "demanda": {
+    "obligacion": ["1980094643"],
+    "llaveProceso": "11001400302620170087200",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-10-11T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "EMPLAZAMIENTO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2019-11-11T05:00:00.000Z",
+      "medidaSolicitada": "29/08/2017"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001400302620170087200",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00872",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-10-26T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3124794983
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "FILOMENA",
+    "primerApellido": "GONZALES",
+    "segundoApellido": "SALAS",
+    "cedula": 52581513,
+    "direccion": "CALLE 136A # 100A - 07",
+    "email": null
+  },
+  "fecha": "2019-07-30T05:00:00.000Z",
+  "idProcesos": [50652400, 81647161],
+  "idRegUltimaAct": 888114011,
+  "llaveProceso": "11001400302620170087200",
+  "nombre": "MARIA FILOMENA GONZALES SALAS",
+  "numero": 144,
+  "procesos": [
+    {
+      "idProceso": 50652400,
+      "idConexion": 259,
+      "llaveProceso": "11001400302620170087200",
+      "fechaProceso": "2017-08-23T05:00:00.000Z",
+      "fechaUltimaActuacion": "2022-02-23T05:00:00.000Z",
+      "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JHON EDER CHACON GONZALEZ | Demandado: MARIA FILOMENA GONZALEZ SALAS ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 26,
+        "tipo": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-26-civil-municipal-de-bogota"
+      }
+    },
+    {
+      "idProceso": 81647161,
+      "idConexion": 320,
+      "llaveProceso": "11001400302620170087200",
+      "fechaProceso": "2019-07-30T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-07-30T05:00:00.000Z",
+      "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: MARIA FILOMENA GONZALEZ SALAS (Emplazado) | Demandado/indiciado/causante: JHON EDER CHACON GONZALEZ (Emplazado) | Defensor Privado: lina julied avila salcedo ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 26,
+        "tipo": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-26-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 888114011,
+    "llaveProceso": "11001400302620170087200",
+    "consActuacion": 8282236,
+    "fechaActuacion": "2019-07-30T05:00:00.000Z",
+    "actuacion": "AUTO EMPLAZA",
+    "anotacion": "AUTO LIBRA MANDAMIENTO DE PAGO DE FECHA: 29 DE AGOSTO DE 2017",
+    "fechaInicial": "2019-07-30T05:00:00.000Z",
+    "fechaFinal": "2019-08-22T05:00:00.000Z",
+    "fechaRegistro": "2019-07-30T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 1,
+    "idProceso": 81647161,
+    "isUltimaAct": false
+  },
+  "updatedAt": "2024-01-02T02:09:33.992Z"
+}

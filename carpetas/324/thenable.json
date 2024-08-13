@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300120170084900",
+  "numero": 324,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80032088,
+    "direccion": "transversal 28 no 22-13 apartamento 304 torre 7 soacha",
+    "email": "majupi170301@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "edwin",
+    "primerApellido": "morales",
+    "segundoApellido": "alfonso"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-01T00:00:00.000Z",
+    "mandamientoPago": "2018-01-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-17T00:00:00.000Z",
+    "expediente": "11001400300120170084900",
+    "capitalAdeudado": 3573257450,
+    "etapaProcesal": "LIQUIDACION",
+    "municipio": "SOACHA",
+    "obligacion": [164578, 1380081489],
+    "radicado": "2017 - 00849",
+    "vencimientoPagare": ["2020-11-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80032088,
+  "idProcesos": null
+}

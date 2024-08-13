@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302620170129300",
+  "numero": 328,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "LiosJuridicos",
+  "deudor": {
+    "cedula": 52907317,
+    "direccion": "calle 74 a  sur no 92 -21 torre 3",
+    "email": "milena125@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "milena",
+    "primerApellido": "barreto",
+    "segundoApellido": "bermudez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-12-18T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-01-11T05:00:00.000Z",
+    "expediente": "11001400302620170129300",
+    "capitalAdeudado": 3361520445,
+    "etapaProcesal": "SIN LEVANTAMIENTO DE MEDIDA CAUTELAR PQQUETE 767 DE 2018",
+    "municipio": "BOGOTA",
+    "obligacion": ["5740084189 /5740084216", "160204-377813372389032"],
+    "radicado": "2017 - 01293",
+    "vencimientoPagare": ["2017-05-06T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52907317,
+  "idProcesos": null
+}

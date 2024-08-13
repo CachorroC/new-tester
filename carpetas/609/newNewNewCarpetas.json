@@ -1,0 +1,79 @@
+{
+  "id": 79405797,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 609
+  },
+  "demanda": {
+    "capitalAdeudado": "46179087",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-27T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": null,
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 609,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["Q 0000000079405797027001", "4670094552"],
+    "radicado": null,
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-08-15T05:00:00.000Z",
+      "2023-07-10T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 609,
+      "fechaOrdenaMedida": "2024-02-03T00:36:40.196Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 609,
+    "telCelular": "3124704850",
+    "telFijo": null,
+    "primerNombre": "ELKIN",
+    "segundoNombre": "CARRILLO",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": null,
+    "cedula": "79405797",
+    "direccion": "Carrera 59 B No. 52B - 17 Sur",
+    "email": "elkincar07@hotmail.com // elkincar66@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "ELKIN CARRILLO MARTINEZ",
+  "numero": 609,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:40.196Z"
+}

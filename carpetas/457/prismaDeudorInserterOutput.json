@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 452,
+    "cedula": "900237555",
+    "primerNombre": "solincon",
+    "primerApellido": "limitada",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "carrera 58 no 15-54 piso 2",
+    "email": "solinconltda@yahoo.es",
+    "telCelular": "3108881287",
+    "telFijo": null,
+    "carpetaNumero": 457
+  }
+}

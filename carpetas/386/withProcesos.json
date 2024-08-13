@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "10/11/2020",
+    "obligacion": {
+      "A": 12722464
+    },
+    "capitalAdeudado": "$ 26.468.936",
+    "entregaGarantiasAbogado": "16/11/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "FACATATIVA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00744",
+    "llaveProceso": "25269400300120170074400",
+    "etapaProcesal": "25269408900120170074400"
+  },
+  "demandas": [],
+  "numero": 386,
+  "llaveProceso": "25269400300120170074400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ALEXANDER",
+    "segundoNombre": "PRADA",
+    "primerApellido": "PALMAR",
+    "segundoApellido": null,
+    "cedula": 1070950842,
+    "direccion": "CARRERA 4 B  SUR No 4 - 30  FACATATIVA",
+    "email": "pradalexander@hotmail.com"
+  },
+  "cc": 1070950842,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ALEXANDER PRADA PALMAR",
+  "notificacion": null
+}

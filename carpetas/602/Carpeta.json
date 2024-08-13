@@ -1,0 +1,100 @@
+{
+  "id": 52928592,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 602
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "100379249",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-22T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 602,
+    "llaveProceso": null,
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 602,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["5710091911", "2490086756"],
+    "radicado": "2023-1219",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-07-03T05:00:00.000Z",
+      "2026-07-11T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 602,
+      "fechaOrdenaMedida": "2024-02-10T00:55:10.793Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 602,
+    "telCelular": "3214096825",
+    "telFijo": "5219881 ",
+    "primerNombre": "IVONNE",
+    "segundoNombre": "MARITZA",
+    "primerApellido": "BARRETO",
+    "segundoApellido": "GUZMAN",
+    "cedula": "52928592",
+    "direccion": "Calle 149 NO. 45 - 42 Torre 2 Apartamento 403 Edificio Gibraltar de Bogotá D.C.",
+    "email": "ivonnemb_16@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "ivonne maritza barreto guzman",
+  "numero": 602,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 602,
+      "createdAt": "2024-02-10T00:55:10.793Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "23 NOV SE RADICA DEMANDA  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 602,
+      "createdAt": "2024-02-10T00:55:10.793Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 15 DIC NO HAN ENVIADO ACTA REPARTO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:10.793Z"
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 318,
+    "numero": 318,
+    "llaveProceso": "11001400307020170116400",
+    "nombre": "sonia null janeth rodriguez",
+    "idProcesos": [18367590],
+    "category": "Terminados"
+  }
+}

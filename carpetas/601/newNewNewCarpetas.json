@@ -1,0 +1,79 @@
+{
+  "id": 79166749,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 601
+  },
+  "demanda": {
+    "capitalAdeudado": "50683098",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-22T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": " 11001400300220230119000",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 601,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["6340091067", "101450659"],
+    "radicado": "2023 - 1190",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-07-04T05:00:00.000Z",
+      "2026-08-18T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 601,
+      "fechaOrdenaMedida": "2024-02-03T00:36:38.935Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 601,
+    "telCelular": "3112027395",
+    "telFijo": null,
+    "primerNombre": "JERONIMO",
+    "segundoNombre": "LEONARDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "CASTAÑEDA",
+    "cedula": "79166749",
+    "direccion": "Carrera 55 No. 151 – 90 Interior 3 Apartamento 203 del Conjunto Residencial Mazuren 11 de la ciudad de Bogotá D.C",
+    "email": "jeronimolgc@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": " 11001400300220230119000",
+  "nombre": "JERONIMO LEONARDO GONZALEZ CASTAÑEDA",
+  "numero": 601,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:38.935Z"
+}

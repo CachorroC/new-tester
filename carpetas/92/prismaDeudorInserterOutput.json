@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 91,
+    "cedula": "52214536",
+    "primerNombre": "magda",
+    "primerApellido": "salinas",
+    "segundoNombre": "milena",
+    "segundoApellido": "rodriguez",
+    "direccion": "carrera 40a # 1h - 06",
+    "email": "magda-mile@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 92
+  }
+}

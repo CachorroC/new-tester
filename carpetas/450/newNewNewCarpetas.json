@@ -1,0 +1,116 @@
+{
+  "id": 53133179,
+  "actuaciones": [
+    {
+      "idRegActuacion": 857051550,
+      "llaveProceso": "11001400307820180064700",
+      "consActuacion": 2,
+      "fechaActuacion": "2019-01-15T05:00:00.000Z",
+      "actuacion": "Constancia secretarial",
+      "anotacion": "SE ENTREGO DESGLOSE  ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2019-01-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 51571520,
+      "isUltimaAct": true,
+      "createdAt": "2024-01-02T02:11:19.773Z"
+    },
+    {
+      "idRegActuacion": 857051540,
+      "llaveProceso": "11001400307820180064700",
+      "consActuacion": 1,
+      "fechaActuacion": "2019-01-15T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 15/01/2019 a las 16:30:35",
+      "fechaInicial": "2019-01-15T05:00:00.000Z",
+      "fechaFinal": "2019-01-15T05:00:00.000Z",
+      "fechaRegistro": "2019-01-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 2,
+      "idProceso": 51571520,
+      "isUltimaAct": false,
+      "createdAt": "2024-01-02T02:11:19.773Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["20990160362"],
+    "llaveProceso": "11001400307820180064700",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 2155020258,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-06-26T05:00:00.000Z"],
+    "mandamientoPago": "2018-04-07T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00647",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2021-01-22T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "KELLY",
+    "segundoNombre": "YOHANNA",
+    "primerApellido": "MURCIA",
+    "segundoApellido": "DUCON",
+    "cedula": 53133179,
+    "direccion": "CALLE 63 SUR No 78 J-38 TORRE 4 APTO 603",
+    "email": "kellyohamd@hotmail.com"
+  },
+  "fecha": "2019-01-15T05:00:00.000Z",
+  "idProcesos": [51571520],
+  "idRegUltimaAct": 857051550,
+  "llaveProceso": "11001400307820180064700",
+  "nombre": "KELLY YOHANNA MURCIA DUCON",
+  "numero": 450,
+  "procesos": [
+    {
+      "idProceso": 51571520,
+      "idConexion": 259,
+      "llaveProceso": "11001400307820180064700",
+      "fechaProceso": "2019-01-15T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-01-15T05:00:00.000Z",
+      "despacho": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: KELLY YOHANNA MURCIA DUCON ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 78,
+        "tipo": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-78-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 857051550,
+    "llaveProceso": "11001400307820180064700",
+    "consActuacion": 2,
+    "fechaActuacion": "2019-01-15T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE ENTREGO DESGLOSE  ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-01-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 2,
+    "idProceso": 51571520,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-01-02T02:11:19.517Z"
+}

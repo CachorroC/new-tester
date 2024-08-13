@@ -1,0 +1,218 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 1872445910,
+      "llaveProceso": "11001418904120230021200",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-09-07T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 07/09/2023 a las 09:58:14.",
+      "fechaInicial": "2023-09-08T05:00:00.000Z",
+      "fechaFinal": "2023-09-08T05:00:00.000Z",
+      "fechaRegistro": "2023-09-07T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132645230,
+      "isUltimaAct": true,
+      "carpetaNumero": 578,
+      "createdAt": "2023-12-10T20:31:48.048Z"
+    },
+    {
+      "idRegActuacion": 1872445900,
+      "llaveProceso": "11001418904120230021200",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-09-07T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-09-07T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132645230,
+      "isUltimaAct": false,
+      "carpetaNumero": 578,
+      "createdAt": "2023-12-10T20:31:48.048Z"
+    },
+    {
+      "idRegActuacion": 1872445890,
+      "llaveProceso": "11001418904120230021200",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-09-07T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 07/09/2023 a las 09:56:59.",
+      "fechaInicial": "2023-09-08T05:00:00.000Z",
+      "fechaFinal": "2023-09-08T05:00:00.000Z",
+      "fechaRegistro": "2023-09-07T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132645230,
+      "isUltimaAct": false,
+      "carpetaNumero": 578,
+      "createdAt": "2023-12-10T20:31:48.048Z"
+    },
+    {
+      "idRegActuacion": 1872445880,
+      "llaveProceso": "11001418904120230021200",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-09-07T05:00:00.000Z",
+      "actuacion": "Auto decreta medida cautelar",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-09-07T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132645230,
+      "isUltimaAct": false,
+      "carpetaNumero": 578,
+      "createdAt": "2023-12-10T20:31:48.048Z"
+    },
+    {
+      "idRegActuacion": 1855375910,
+      "llaveProceso": "11001418904120230021200",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-08-23T05:00:00.000Z",
+      "actuacion": "Al despacho por reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-08-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132645230,
+      "isUltimaAct": false,
+      "carpetaNumero": 578,
+      "createdAt": "2023-12-10T20:31:48.048Z"
+    },
+    {
+      "idRegActuacion": 1855375900,
+      "llaveProceso": "11001418904120230021200",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-08-23T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 23/08/2023 a las 16:51:35",
+      "fechaInicial": "2023-08-23T05:00:00.000Z",
+      "fechaFinal": "2023-08-23T05:00:00.000Z",
+      "fechaRegistro": "2023-08-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132645230,
+      "isUltimaAct": false,
+      "carpetaNumero": 578,
+      "createdAt": "2023-12-10T20:31:48.048Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 41,
+      "tipo": "JUZGADO 041 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-041-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "15/03/2026 // 17/08/2026",
+    "obligacion": {
+      "A": 3320096675,
+      "B": "83942050 X T.C MASTER 5491580158404844 Y AMERICAN 377816059851588"
+    },
+    "capitalAdeudado": "$ 140.332.319",
+    "entregaGarantiasAbogado": "18/08/2021",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "ZIPAQUIRA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00442",
+    "llaveProceso": "11001418904120230021200"
+  },
+  "demandas": [
+    {
+      "idProceso": 132645230,
+      "idConexion": 259,
+      "llaveProceso": "11001418904120230021200",
+      "fechaProceso": "2023-08-23T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-09-07T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: INDIRA MAYERLY FLOREZ CASTRO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "ZIPAQUIRA",
+      "obligacion": [
+        3320096675,
+        "83942050 X T.C MASTER 5491580158404844 Y AMERICAN 377816059851588"
+      ],
+      "radicado": "2023 - 00442"
+    }
+  ],
+  "numero": 578,
+  "llaveProceso": "11001418904120230021200",
+  "fecha": "2023-09-07T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1872445910,
+    "llaveProceso": "11001418904120230021200",
+    "consActuacion": 6,
+    "fechaActuacion": "2023-09-07T00:00:00",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 07/09/2023 a las 09:58:14.",
+    "fechaInicial": "2023-09-08T00:00:00",
+    "fechaFinal": "2023-09-08T00:00:00",
+    "fechaRegistro": "2023-09-07T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 132645230,
+    "isUltimaAct": true
+  },
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3203172020
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "CRISTINA",
+    "primerApellido": "AREVALO",
+    "segundoApellido": "ARBOLEDA",
+    "cedula": 35422519,
+    "direccion": "CL 4 16 10 AP 201 Barrio Algarra III",
+    "email": "dicrisare@gmail.com"
+  },
+  "cc": 35422519,
+  "procesos": [
+    {
+      "idProceso": 132645230,
+      "idConexion": 259,
+      "llaveProceso": "11001418904120230021200",
+      "fechaProceso": "2023-08-23T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-09-07T05:00:00.000Z",
+      "despacho": "JUZGADO 041 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: INDIRA MAYERLY FLOREZ CASTRO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [132645230],
+  "nombre": "DIANA CRISTINA AREVALO ARBOLEDA",
+  "notificacion": null
+}

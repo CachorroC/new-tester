@@ -1,0 +1,105 @@
+{
+  "id": 51890871,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 88
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.906Z"],
+    "id": 88,
+    "llaveProceso": "1100140030820170052800",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 88,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:42.914Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "1369-01-01T00:00:00.000Z",
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12488415"],
+    "radicado": "2017 - 00528",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:43.282Z"],
+    "medidasCautelares": {
+      "id": 88,
+      "fechaOrdenaMedida": "2024-02-10T00:54:28.179Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 88,
+    "telCelular": "3103126814",
+    "telFijo": null,
+    "primerNombre": "IDALY",
+    "segundoNombre": "FERRO",
+    "primerApellido": "CARDONA",
+    "segundoApellido": null,
+    "cedula": "51890871",
+    "direccion": "calle 6 No. 4-07 BOGOTA",
+    "email": "lasmi40@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "1100140030820170052800",
+  "nombre": "idaly ferro cardona",
+  "numero": 88,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 88,
+      "createdAt": "2024-02-10T00:54:28.179Z",
+      "pathname": null,
+      "dueDate": "2017-12-22T05:00:00.000Z",
+      "text": "22/11/2017 APODERAQDA DEL BANCO RETIRO LA DEMANDA DEL JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 88,
+      "createdAt": "2024-02-10T00:54:28.179Z",
+      "pathname": null,
+      "dueDate": "2017-12-23T05:00:00.000Z",
+      "text": " 23/11/2017 SE DEVOLVIERON GARANTIAS A AECSA PRENDA Y PAGARE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 88,
+      "createdAt": "2024-02-10T00:54:28.179Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE RETIRO NI REGISTRARON OFICIOS DE MEDIDAS CAUTELARES EN CONTRA DEL DEUDOR - SIN EMBARGOS ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:28.179Z"
+}

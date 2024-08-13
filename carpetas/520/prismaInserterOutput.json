@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 519,
+    "numero": 520,
+    "llaveProceso": "11001400307320190028700",
+    "nombre": "rafael adolfo paez ortega",
+    "idProcesos": [51718410],
+    "category": "Terminados"
+  }
+}

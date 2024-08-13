@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25126408900120170049600",
+  "numero": 93,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1140835529,
+    "direccion": "calle 133 # 53 - 365cj lomas de (barranquilla)",
+    "email": "vivibruges@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "vivian",
+    "segundoNombre": "paola",
+    "primerApellido": "bruges",
+    "segundoApellido": "medina"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "expediente": "25126408900120170049600",
+    "capitalAdeudado": 3707497505,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "CAJICA",
+    "obligacion": [166689],
+    "radicado": "2017 - 00496",
+    "vencimientoPagare": ["2031-08-06T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1140835529,
+  "idProcesos": null
+}

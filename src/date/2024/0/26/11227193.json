@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:06.115Z",
+  "proceso": {
+    "idProceso": 11227193,
+    "idConexion": 261,
+    "llaveProceso": "11001400305020180012900",
+    "fechaProceso": "2018-02-06T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-07-07T05:00:00.000Z",
+    "despacho": "JUZGADO 050 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YANETH BIBIANA VARGAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 50,
+      "tipo": "JUZGADO 050 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-50-civil-municipal-de-bogota"
+    }
+  }
+}

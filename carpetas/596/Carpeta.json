@@ -1,0 +1,129 @@
+{
+  "id": 51774908,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 596
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "78458975",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-14T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 596,
+    "llaveProceso": null,
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 596,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["90000058700"],
+    "radicado": "HIPOTECARIO",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2049-02-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 596,
+      "fechaOrdenaMedida": "2024-02-10T00:55:10.461Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 596,
+    "telCelular": "3112328013",
+    "telFijo": null,
+    "primerNombre": "ELSA",
+    "segundoNombre": "CONSUELO",
+    "primerApellido": "ROBAYO",
+    "segundoApellido": null,
+    "cedula": "51774908",
+    "direccion": "Calle 151 No. 109 A - 50 Casa 180 // Carrera 102 No. 154 - 30 Torre 6 Apto 201 Conjunto",
+    "email": "consu4908@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "elsa consuelo robayo",
+  "numero": 596,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 596,
+      "createdAt": "2024-02-10T00:55:10.460Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "21 NOV 2023 SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 596,
+      "createdAt": "2024-02-10T00:55:10.460Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 11 DIC 2023 AUTO LIBRA MANBDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 596,
+      "createdAt": "2024-02-10T00:55:10.460Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MANDAMIENTO OK CCR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 596,
+      "createdAt": "2024-02-10T00:55:10.461Z",
+      "pathname": null,
+      "dueDate": "2024-01-18T05:00:00.000Z",
+      "text": "18/12/2023 OFICIO ELABPRADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 596,
+      "createdAt": "2024-02-10T00:55:10.461Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 17 DE ENERO DE 2023 SE ENVIA TERMINACION POR PAGO DE LA MORA POR INSTRUCCION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 596,
+      "createdAt": "2024-02-10T00:55:10.461Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 22 ENERO 2024 AUTO DECRETA TERMINACION PAGO MORA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:10.461Z"
+}

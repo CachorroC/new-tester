@@ -1,0 +1,77 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "BLANCA SENET PINEDA",
+    "cedula": "28550572",
+    "direccion": "CARRERA 13 SUR No. 49-37",
+    "telefono": "3012692815",
+    "id": 31,
+    "carpetaNumero": 31
+  },
+  "demanda": {
+    "vencimientoPagare": "9/12/1936",
+    "obligacion": {
+      "A": 530311042614581,
+      "B": 4513077790909121
+    },
+    "capitalAdeudado": "0377813522815548//209901793015",
+    "entregaGarantiasAbogado": "30/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00211",
+    "llaveProceso": "25754400300320170021100",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "9/06/2017",
+    "mandamientoPago": "25/01/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "090",
+        "resultado": "5/02/2018",
+        "fechaAporta": "APARTAMENTO 201 DE LA TORRE 3 CONJUNTO RESIDENCIA SAUCE ii UBICADO EN LA TRANSVERSAL 40 No. 14-11  SOACHA"
+      },
+      "certimail": "25/01/2018",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 31,
+  "llaveProceso": "25754400300320170021100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 7793347,
+      "celular": 3014192323
+    },
+    "primerNombre": "JORGE",
+    "segundoNombre": null,
+    "primerApellido": "PEREZ",
+    "segundoApellido": null,
+    "cedula": 79590985,
+    "direccion": "CARRERA 13 sur No. 49-37 soacha y venida 19 nO. 118-95 ofc 411",
+    "email": "jpkafu@gmail.com"
+  },
+  "cc": 79590985,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JORGE PEREZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 554,
+    "numero": 555,
+    "llaveProceso": "11001400303220230090400",
+    "nombre": "jeimmy soley quiroga ramirez",
+    "idProcesos": [132048330],
+    "category": "Bancolombia"
+  }
+}

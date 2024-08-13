@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 343,
+    "cedula": "1019101174",
+    "primerNombre": "paula",
+    "primerApellido": "gomez",
+    "segundoNombre": "andrea",
+    "segundoApellido": "lopez",
+    "direccion": "calle 13 b no 72 a - 40 inrerior  2 apartamento 402",
+    "email": "paulisgomez94@gmail.com",
+    "telCelular": "3016393345",
+    "telFijo": "4668308",
+    "carpetaNumero": 346
+  }
+}

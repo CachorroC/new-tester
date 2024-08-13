@@ -1,0 +1,56 @@
+{
+  "id": 20563933,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["127011"],
+    "llaveProceso": "25290400300120170036900",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 0,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-06-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "FUSAGASUGA",
+    "radicado": "2017 - 00369",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-09-03T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8671269,
+      "celular": 3102301734
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "SOCORRO",
+    "primerApellido": "TORRES",
+    "segundoApellido": "DE",
+    "cedula": 20563933,
+    "direccion": "CALLE 17 No 8-41 APTO 101 FUSAGASUGA",
+    "email": "anyelicllau2006@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25290400300120170036900",
+  "nombre": "MARIA SOCORRO TORRES DE GONZALEZ",
+  "numero": 28,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:48.033Z"
+}

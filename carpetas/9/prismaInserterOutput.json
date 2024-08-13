@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 9,
+    "numero": 9,
+    "llaveProceso": "1100140030442017099800",
+    "nombre": "daniela alejandra cardenas rodriguez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

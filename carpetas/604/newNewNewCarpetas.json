@@ -1,0 +1,76 @@
+{
+  "id": 3010366,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 604
+  },
+  "demanda": {
+    "capitalAdeudado": "25852498",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-23T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": null,
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 604,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2210097142"],
+    "radicado": null,
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-07-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 604,
+      "fechaOrdenaMedida": "2024-02-03T00:36:39.298Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 604,
+    "telCelular": "3197613676",
+    "telFijo": null,
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "MONCADA",
+    "segundoApellido": "MORALES",
+    "cedula": "3010366",
+    "direccion": "Carrera 3 B No. 24 A 57 Barrio Camilo Torres Sector 2 de la ciudad de Soacha (Cundinamrca)",
+    "email": "carlosalbertomoncada63@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "CARLOS ALBERTO MONCADA MORALES",
+  "numero": 604,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:39.298Z"
+}

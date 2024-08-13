@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400306620170122100",
+  "numero": 178,
+  "tipoProceso": "PRENDARO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 37861286,
+    "direccion": "diagonal 52# 3 - 24 apto 50",
+    "email": "maryluzocasiones1104.p@hotmail.com",
+    "tel": {
+      "fijo": 7675057,
+      "celular": 3156780088
+    },
+    "primerNombre": "maryluz",
+    "primerApellido": "ocasiones",
+    "segundoApellido": "pinzon",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400306620170122100",
+    "capitalAdeudado": 3924309551,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      4099831431615063,
+      "5303715050478433 // 5306940349167962 // 12641256"
+    ],
+    "radicado": "2017 - 01221",
+    "vencimientoPagare": ["2017-08-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 37861286,
+  "idProcesos": null
+}

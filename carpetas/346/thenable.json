@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307320170154500",
+  "numero": 346,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1019101174,
+    "direccion": "calle 13 b no 72 a - 40 inrerior  2 apartamento 402",
+    "email": "paulisgomez94@gmail.com",
+    "tel": {
+      "fijo": 4668308,
+      "celular": 3016393345
+    },
+    "primerNombre": "paula",
+    "segundoNombre": "andrea",
+    "primerApellido": "gomez",
+    "segundoApellido": "lopez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-22T00:00:00.000Z",
+    "mandamientoPago": "2017-12-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-09T00:00:00.000Z",
+    "expediente": "11001400307320170154500",
+    "capitalAdeudado": 1293861800,
+    "etapaProcesal": "TERMINADO",
+    "municipio": "BOGOTA",
+    "obligacion": [540691617249629400, 1010082331],
+    "radicado": "2017 - 01545",
+    "vencimientoPagare": ["2021-03-17T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1019101174,
+  "idProcesos": null
+}

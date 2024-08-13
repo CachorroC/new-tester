@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:19.550Z",
+  "savedDate": "2019-01-25T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1413328280,
+    "llaveProceso": "11001400306820170130600",
+    "consActuacion": 55,
+    "fechaActuacion": "2022-09-27T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "EXPEDIENTE HIBRIDO-FISICO HASTA EL FOLIO C1- 94, C2- 31 // ANGELICA LUGO- CRISTIAN QUINTO\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-09-27T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 55,
+    "isUltimaAct": true,
+    "idProceso": 50765770
+  }
+}

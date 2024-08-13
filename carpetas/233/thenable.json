@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302820170084900",
+  "numero": 233,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 11313124,
+    "direccion": "calle 145 # 46 - 13 apto 202 int 5",
+    "email": "jotorres@perosnalsoft.com.co",
+    "tel": {
+      "fijo": 3138216,
+      "celular": 3138216786
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "luis",
+    "primerApellido": "torres",
+    "segundoApellido": "tamayo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-01T00:00:00.000Z",
+    "mandamientoPago": "2017-10-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "expediente": "11001400302820170084900",
+    "capitalAdeudado": 30506109,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [4.09983899752975e29, "5303712728390736 // 12141636"],
+    "radicado": "2017 - 00849",
+    "vencimientoPagare": ["2020-08-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11313124,
+  "idProcesos": null
+}

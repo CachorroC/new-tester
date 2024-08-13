@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 549,
+    "numero": 550,
+    "llaveProceso": "25754418900120190091100",
+    "nombre": "miguel angel aguasaco peñuela",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

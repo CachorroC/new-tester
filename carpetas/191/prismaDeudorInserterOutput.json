@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 188,
+    "cedula": "80231798",
+    "primerNombre": "john",
+    "primerApellido": "valencia",
+    "segundoNombre": "alexander",
+    "segundoApellido": "marquez",
+    "direccion": "carrera 32 b # 2 - 64",
+    "email": "jhon.valencia@jvtel.com.co",
+    "telCelular": "3004525014",
+    "telFijo": "2376454",
+    "carpetaNumero": 191
+  }
+}

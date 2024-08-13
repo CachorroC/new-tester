@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304020170119300",
+  "numero": 122,
+  "tipoProceso": "SINGULAR ACUM HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52543321,
+    "direccion": null,
+    "email": "CALLE 1H # 32A - 17",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "paola",
+    "segundoNombre": "andrea",
+    "primerApellido": "fernandez",
+    "segundoApellido": "rincon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-13T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400304020170119300",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "42958",
+    "municipio": "BOGOTA",
+    "obligacion": [4513073601094195, 1577471108],
+    "radicado": "2017 - 01193",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52543321,
+  "idProcesos": null
+}

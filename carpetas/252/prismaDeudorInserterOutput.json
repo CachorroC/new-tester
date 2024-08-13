@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 249,
+    "cedula": "1023863956",
+    "primerNombre": "angel",
+    "primerApellido": "suarez",
+    "segundoNombre": "jovani",
+    "segundoApellido": "gomez",
+    "direccion": "calle 67 c sur 1 b 23 est",
+    "email": "angelsuarez.23@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 252
+  }
+}

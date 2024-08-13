@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:20.184Z",
+  "savedDate": "2022-06-08T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1951820950,
+    "llaveProceso": "11001400307620170101600",
+    "consActuacion": 153,
+    "fechaActuacion": "2024-02-09T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "HOBRODP PASA AL DESPACHO // JULIAN B ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-09T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 153,
+    "isUltimaAct": true,
+    "idProceso": 51499790
+  }
+}

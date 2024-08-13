@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 514,
+    "cedula": "1072642976",
+    "primerNombre": "cristian",
+    "primerApellido": "gutierrez",
+    "segundoNombre": "david",
+    "segundoApellido": "rodriguez",
+    "direccion": "calle 17 #5-10 chia",
+    "email": "cristian20g@hotmail.com",
+    "telCelular": "3202954313",
+    "telFijo": null,
+    "carpetaNumero": 526
+  }
+}

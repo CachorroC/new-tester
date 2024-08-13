@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 578,
+    "cedula": "10051411",
+    "primerNombre": "edwin",
+    "primerApellido": "gallego",
+    "segundoNombre": "jaramillo",
+    "segundoApellido": null,
+    "direccion": "calle 6a.  c no. 82a - 91",
+    "email": "edisoccer_3@hotmail.com",
+    "telCelular": "6012650706",
+    "telFijo": "2650706",
+    "carpetaNumero": 590
+  }
+}

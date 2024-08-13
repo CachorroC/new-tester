@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 58,
+    "cedula": "14273737",
+    "primerNombre": "josé",
+    "primerApellido": "paerez",
+    "segundoNombre": "uriel",
+    "segundoApellido": "perdomo",
+    "direccion": "calle 23 d no.107-32 bogota",
+    "email": "lejopaerez@hotmail.com",
+    "telCelular": "3228293322",
+    "telFijo": "4183276",
+    "carpetaNumero": 58
+  }
+}

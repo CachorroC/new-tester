@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307920170114200",
+  "numero": 201,
+  "tipoProceso": "SINGULAR",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 51733931,
+    "direccion": "calle 127d # 21 - 80 apto 105",
+    "email": "sebantialbeltransprieto@hotmail.com",
+    "tel": {
+      "fijo": 6256456,
+      "celular": 3108711046
+    },
+    "primerNombre": "piedad",
+    "segundoNombre": "maritza",
+    "primerApellido": "olga",
+    "segundoApellido": ["rocio", "prieto", "vargas"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-04T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "11001400307920170114200",
+    "capitalAdeudado": 27602952,
+    "etapaProcesal": "1.100140030792017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [377816483778266, 4513080485378479],
+    "radicado": "2017 - 01142",
+    "vencimientoPagare": [null, null, "2020-06-03T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51733931,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 93,
+    "numero": 93,
+    "llaveProceso": "25126408900120170049600",
+    "nombre": "vivian paola bruges medina",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

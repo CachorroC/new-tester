@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900220170076100",
+  "numero": 175,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 91354321,
+    "direccion": "calle 36 # 1 este - 81 bloque 21 casa 11 soacha",
+    "email": "omarfula@hotmail.com",
+    "tel": {
+      "fijo": 8212461,
+      "celular": 3118866968
+    },
+    "primerNombre": "omar",
+    "segundoNombre": "gustavo",
+    "primerApellido": "fula",
+    "segundoApellido": "avila"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-31T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "expediente": "25754418900220170076100",
+    "capitalAdeudado": 1661855139,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [20990117740],
+    "radicado": "2017 - 00761",
+    "vencimientoPagare": ["2024-04-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53065435,
+    "direccion": "CALLE 36 # 1 - 81 CASA 11 BLOQUE 21",
+    "nombre": "luz helena solano ardila",
+    "telefono": "3118570587 // 7515699"
+  },
+  "cc": 91354321,
+  "idProcesos": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": 79712791,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["3320087751", "3320088190"],
+    "llaveProceso": "25899400300220170013100",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2019-06-11T05:00:00.000Z",
+        "fechaAporta": "2019-07-31T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": "2019-07-03T05:00:00.000Z",
+        "fechaAporta": "2019-07-31T05:00:00.000Z",
+        "resultado": true
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "12/12/2019"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-12-04T05:00:00.000Z",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-09-11T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-11-20T05:00:00.000Z"],
+    "mandamientoPago": "2018-12-04T05:00:00.000Z",
+    "municipio": "ZIPAQUIRA",
+    "radicado": "2018 - 00131",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-08-22T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "EDGAR",
+    "segundoNombre": "JOBANNY",
+    "primerApellido": "MATEUS",
+    "segundoApellido": "CASTILLO",
+    "cedula": 79712791,
+    "direccion": "CALLE 3 C No  13 - 07   ZIPAQUIRA",
+    "email": "giovannymat@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25899400300220170013100",
+  "nombre": "EDGAR JOBANNY MATEUS CASTILLO",
+  "numero": 392,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:02.926Z"
+}

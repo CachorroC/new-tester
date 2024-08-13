@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300220180041500",
+  "numero": 510,
+  "tipoProceso": "SOACHA",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80854028,
+    "direccion": "calle 68 no 81 g-16",
+    "email": "huesos254@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "manuel",
+    "segundoNombre": "arnulfo",
+    "primerApellido": "araque",
+    "segundoApellido": "muñoz"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754400300220180041500",
+    "capitalAdeudado": 4082829900,
+    "etapaProcesal": "2.575440030022019e+22",
+    "municipio": "SOACHA",
+    "obligacion": [20990164067, 6980087352],
+    "radicado": "2018 - 00415",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80854028,
+  "idProcesos": null
+}

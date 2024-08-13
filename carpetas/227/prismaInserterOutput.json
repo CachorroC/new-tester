@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 227,
+    "numero": 227,
+    "llaveProceso": "11001400301520170124900",
+    "nombre": "rosa elena martinez de,duitama",
+    "idProcesos": [50714320],
+    "category": "Terminados"
+  }
+}

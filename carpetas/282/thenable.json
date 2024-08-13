@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301520170139400",
+  "numero": 282,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 19255260,
+    "direccion": "calle 2 c no 62 - 20",
+    "email": "maifren_13@yahoo.es",
+    "tel": {
+      "fijo": 4170527,
+      "celular": 3125024008
+    },
+    "primerNombre": "matias",
+    "segundoNombre": "humberto",
+    "primerApellido": "avila",
+    "segundoApellido": "aguilar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-10T05:00:00.000Z",
+    "mandamientoPago": "2018-02-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-21T00:00:00.000Z",
+    "expediente": "11001400301520170139400",
+    "capitalAdeudado": 66362959,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [174366],
+    "radicado": "2017 - 01394",
+    "vencimientoPagare": ["2024-05-05T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "41759787 // 39710157",
+    "direccion": "DG 3B No. 0-78 ESTE",
+    "nombre": "carmelina aguilar  //  ana lucia aguilar",
+    "telefono": "3204613419 //3107627120"
+  },
+  "cc": 19255260,
+  "idProcesos": null
+}

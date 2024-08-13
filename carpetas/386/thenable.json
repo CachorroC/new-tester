@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25269400300120170074400",
+  "numero": 386,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1070950842,
+    "direccion": "carrera 4 b  sur no 4 - 30  facatativa",
+    "email": "pradalexander@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "alexander",
+    "primerApellido": "prada",
+    "segundoApellido": "palmar",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-11-16T00:00:00.000Z",
+    "expediente": "25269400300120170074400",
+    "capitalAdeudado": 26468936,
+    "etapaProcesal": "2.526940890012017e+22",
+    "municipio": "FACATATIVA",
+    "obligacion": [12722464],
+    "radicado": "2017 - 00744",
+    "vencimientoPagare": ["2020-11-10T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1070950842,
+  "idProcesos": null
+}

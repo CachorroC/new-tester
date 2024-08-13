@@ -1,0 +1,165 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 1901987450,
+      "llaveProceso": "11001418904420230023900",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-10-11T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 11/10/2023 a las 17:06:03.",
+      "fechaInicial": "2023-10-12T05:00:00.000Z",
+      "fechaFinal": "2023-10-12T05:00:00.000Z",
+      "fechaRegistro": "2023-10-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 3,
+      "idProceso": 132964260,
+      "isUltimaAct": true,
+      "carpetaNumero": 580,
+      "createdAt": "2023-12-10T20:31:48.480Z"
+    },
+    {
+      "idRegActuacion": 1901987440,
+      "llaveProceso": "11001418904420230023900",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-10-11T05:00:00.000Z",
+      "actuacion": "Auto inadmite demanda",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-10-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 3,
+      "idProceso": 132964260,
+      "isUltimaAct": false,
+      "carpetaNumero": 580,
+      "createdAt": "2023-12-10T20:31:48.480Z"
+    },
+    {
+      "idRegActuacion": 1866917490,
+      "llaveProceso": "11001418904420230023900",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-09-01T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 01/09/2023 a las 17:04:37",
+      "fechaInicial": "2023-09-01T05:00:00.000Z",
+      "fechaFinal": "2023-09-01T05:00:00.000Z",
+      "fechaRegistro": "2023-09-01T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 3,
+      "idProceso": 132964260,
+      "isUltimaAct": false,
+      "carpetaNumero": 580,
+      "createdAt": "2023-12-10T20:31:48.480Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 44,
+      "tipo": "JUZGADO 044 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-044-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "18/08/2026 // 4/04/2026 // 5/08/2026",
+    "obligacion": {
+      "A": 790100533,
+      "B": "790101375 Y 101380449 X T.C. AMERICAN 0377844056881358"
+    },
+    "capitalAdeudado": "$ 42.647.591",
+    "entregaGarantiasAbogado": "24/08/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 0239",
+    "llaveProceso": "11001418904420230023900"
+  },
+  "demandas": [
+    {
+      "idProceso": 132964260,
+      "idConexion": 259,
+      "llaveProceso": "11001418904420230023900",
+      "fechaProceso": "2023-09-01T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-10-11T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: IGNACIO GALEANO ALVARADO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [
+        790100533,
+        "790101375 Y 101380449 X T.C. AMERICAN 0377844056881358"
+      ],
+      "radicado": "2023 - 0239"
+    }
+  ],
+  "numero": 580,
+  "llaveProceso": "11001418904420230023900",
+  "fecha": "2023-10-11T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1901987450,
+    "llaveProceso": "11001418904420230023900",
+    "consActuacion": 3,
+    "fechaActuacion": "2023-10-11T00:00:00",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 11/10/2023 a las 17:06:03.",
+    "fechaInicial": "2023-10-12T00:00:00",
+    "fechaFinal": "2023-10-12T00:00:00",
+    "fechaRegistro": "2023-10-11T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 3,
+    "idProceso": 132964260,
+    "isUltimaAct": true
+  },
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3103052825
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "IGNACIO",
+    "primerApellido": "GALEANO",
+    "segundoApellido": "ALVARADO",
+    "cedula": 19488050,
+    "direccion": "Transversal 78 No. 40J - 14 Sur",
+    "email": "joseignaciogaleanoa@gmail.com"
+  },
+  "cc": 19488050,
+  "procesos": [
+    {
+      "idProceso": 132964260,
+      "idConexion": 259,
+      "llaveProceso": "11001418904420230023900",
+      "fechaProceso": "2023-09-01T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-10-11T05:00:00.000Z",
+      "despacho": "JUZGADO 044 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: IGNACIO GALEANO ALVARADO ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [132964260],
+  "nombre": "JOSE IGNACIO GALEANO ALVARADO",
+  "notificacion": null
+}

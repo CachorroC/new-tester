@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 384,
+    "cedula": "91263617",
+    "primerNombre": "leonardo",
+    "primerApellido": "sanabria",
+    "segundoNombre": "sanabria",
+    "segundoApellido": null,
+    "direccion": "carrera 85  b no  23 b - 69  interior 7 apartamento  314",
+    "email": "leo.sanabria@live.com.mx",
+    "telCelular": "3118066048",
+    "telFijo": "4251180",
+    "carpetaNumero": 387
+  }
+}

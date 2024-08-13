@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 470,
+    "cedula": "4281808",
+    "primerNombre": "jose",
+    "primerApellido": "candela",
+    "segundoNombre": "librando",
+    "segundoApellido": "munevar",
+    "direccion": "calle 1 a no 13-30  soacha",
+    "email": "eedibrando600@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 475
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 315,
+    "cedula": "51673703",
+    "primerNombre": "sonia",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "janeth",
+    "segundoApellido": null,
+    "direccion": null,
+    "email": "CALLE 52 SUR No 97 C - 20",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 318
+  }
+}

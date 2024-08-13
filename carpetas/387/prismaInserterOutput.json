@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 387,
+    "numero": 387,
+    "llaveProceso": "11001400305020170133600",
+    "nombre": "leonardo null sanabria sanabria",
+    "idProcesos": [106185210],
+    "category": "Reintegra"
+  }
+}

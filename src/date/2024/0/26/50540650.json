@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:17.168Z",
+  "proceso": {
+    "idProceso": 50540650,
+    "idConexion": 259,
+    "llaveProceso": "11001400301020170065301",
+    "fechaProceso": "2017-06-30T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-08-27T05:00:00.000Z",
+    "despacho": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEILA JOHANA MARTINEZ MORA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 10,
+      "tipo": "JUZGADO 010 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-010-civil-municipal-de-bogota"
+    }
+  }
+}

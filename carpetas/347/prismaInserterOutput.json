@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 347,
+    "numero": 347,
+    "llaveProceso": "11001400303920170152500",
+    "nombre": "maria elena zuluaga uribe",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

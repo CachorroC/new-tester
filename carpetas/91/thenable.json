@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400303120180040600",
+  "numero": 91,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79456791,
+    "direccion": "jaime.precco@gmail.com",
+    "email": "F3554893              CEL 3165211980",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jaime",
+    "segundoNombre": "jesus",
+    "primerApellido": "reyes",
+    "segundoApellido": "orozco"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400303120180040600",
+    "capitalAdeudado": null,
+    "etapaProcesal": "2018 - 00406",
+    "municipio": "BOGOTA",
+    "obligacion": ["05-04-2018 15-01-2021", 2500083807],
+    "radicado": "2018 - 00406",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "CALLE 152 No 72 - 50  BOGOTA"
+  },
+  "cc": 79456791,
+  "idProcesos": null
+}

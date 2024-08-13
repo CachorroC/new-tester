@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:32.687Z",
+  "proceso": {
+    "idProceso": 87350810,
+    "idConexion": 259,
+    "llaveProceso": "11001418900820180078500",
+    "fechaProceso": "2021-03-24T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-16T05:00:00.000Z",
+    "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA PACHECO RAMIREZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 5,
+      "tipo": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-05-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

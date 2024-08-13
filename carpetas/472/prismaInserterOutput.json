@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 472,
+    "numero": 472,
+    "llaveProceso": "11001418900920180038900",
+    "nombre": "sergio null espinel correal",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

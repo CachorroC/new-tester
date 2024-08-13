@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 170,
+    "cedula": "52475256",
+    "primerNombre": "adriana",
+    "primerApellido": "pilar",
+    "segundoNombre": "del",
+    "segundoApellido": "alfonso,baquero",
+    "direccion": "carrera 79b # 45 - 19 sur",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 172
+  }
+}

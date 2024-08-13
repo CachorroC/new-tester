@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303420170147100",
+  "numero": 326,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19352146,
+    "direccion": "diagonal 58 no 28 - 72    apartamento 603 interior 6",
+    "email": "elpotegomez@hotmail.com",
+    "tel": {
+      "fijo": 7102329,
+      "celular": 3138267838
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "eliecer",
+    "primerApellido": "gomez",
+    "segundoApellido": "lopez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-02T00:00:00.000Z",
+    "mandamientoPago": "2017-12-04T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-27T00:00:00.000Z",
+    "expediente": "11001400303420170147100",
+    "capitalAdeudado": 1955028860,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [103162],
+    "radicado": "2017 - 01471",
+    "vencimientoPagare": ["2022-11-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19352146,
+  "idProcesos": null
+}

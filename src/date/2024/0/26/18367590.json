@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:45.243Z",
+  "proceso": {
+    "idProceso": 18367590,
+    "idConexion": 260,
+    "llaveProceso": "11001400307020170116400",
+    "fechaProceso": "2017-11-02T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-08-17T05:00:00.000Z",
+    "despacho": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BBVA COLOMBIA S.A. | Demandado: JOAQUIN EMILIO GONZALEZ ALVAREZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 70,
+      "tipo": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-070-civil-municipal-de-bogota"
+    }
+  }
+}

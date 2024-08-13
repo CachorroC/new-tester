@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:06.009Z",
+  "proceso": {
+    "idProceso": 11486153,
+    "idConexion": 261,
+    "llaveProceso": "11001400305120170064400",
+    "fechaProceso": "2017-06-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2017-08-28T05:00:00.000Z",
+    "despacho": "JUZGADO 051 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE ISRAEL MONROY CORDOBA | Demandado: ANA PATRICIA VILLAMIZAR MONTOYA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 51,
+      "tipo": "JUZGADO 051 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-051-civil-municipal-de-bogota"
+    }
+  }
+}

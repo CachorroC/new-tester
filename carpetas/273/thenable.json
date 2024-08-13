@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420180102900",
+  "numero": 273,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Insolvencia",
+  "deudor": {
+    "cedula": 1024479389,
+    "direccion": "calle 67 no 17 c-63 sur",
+    "email": "sonymarce20@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sonia",
+    "segundoNombre": "marcela",
+    "primerApellido": "molina",
+    "segundoApellido": "quimbayo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-05-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306420180102900",
+    "capitalAdeudado": 65355736,
+    "etapaProcesal": "1.100140030642018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [156791],
+    "radicado": "2018 - 01029",
+    "vencimientoPagare": ["2022-05-10T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1024479389,
+  "idProcesos": null
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-06T05:00:00.000Z",
+  "idProcesos": [66898433],
+  "idRegUltimaAct": 895745473,
+  "llaveProceso": "11001400305220190110300",
+  "nombre": "GONZALO CONTRERAS POVEDA",
+  "numero": 529,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:41.273Z"
+}

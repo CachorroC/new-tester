@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 532,
+    "numero": 533,
+    "llaveProceso": "2575440030042018000600",
+    "nombre": "jairo alfonso pardo jaimes",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

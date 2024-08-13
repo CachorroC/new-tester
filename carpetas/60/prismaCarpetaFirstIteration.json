@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-17T05:00:00.000Z",
+  "idProcesos": [50584210],
+  "idRegUltimaAct": 958134120,
+  "llaveProceso": "11001400302020170090100",
+  "nombre": "LADY JOHANNA BAYONA GARCÍA",
+  "numero": 60,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:30.204Z"
+}

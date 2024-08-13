@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301520170124900",
+  "numero": 227,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 23550435,
+    "direccion": "carrera 50 # 2a - 4 apto 101",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "rosa",
+    "segundoNombre": "elena",
+    "primerApellido": "martinez",
+    "segundoApellido": ["de", "duitama"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-04T00:00:00.000Z",
+    "expediente": "11001400301520170124900",
+    "capitalAdeudado": 18546821,
+    "etapaProcesal": "1.100140030152017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12499205],
+    "radicado": "2017 - 01249",
+    "vencimientoPagare": ["2020-08-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 23550435,
+  "idProcesos": null
+}

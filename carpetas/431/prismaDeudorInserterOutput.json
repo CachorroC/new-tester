@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 426,
+    "cedula": "1014181498",
+    "primerNombre": "duvy",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "mariela",
+    "segundoApellido": "rocha",
+    "direccion": null,
+    "email": "CARRERA 75 No 64 A- 22",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 431
+  }
+}

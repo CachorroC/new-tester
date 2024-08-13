@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 10,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "15946341",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "municipio": "SUBA",
+    "obligacion": ["2405037"],
+    "radicado": "2017 - 00909",
+    "vencimientoPagare": ["2020-04-01T00:00:00.000Z"],
+    "expediente": "11001418900320170090900",
+    "carpetaNumero": 10,
+    "despacho": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 579,
+    "cedula": "1110450902",
+    "primerNombre": "mayra",
+    "primerApellido": "valbuena",
+    "segundoNombre": "alejandra",
+    "segundoApellido": "barrero",
+    "direccion": "calle 139 7 c - 80 apartamento 307 edificio andaluz",
+    "email": "alejavalbar@hotmail.com",
+    "telCelular": "3105821483",
+    "telFijo": null,
+    "carpetaNumero": 591
+  }
+}

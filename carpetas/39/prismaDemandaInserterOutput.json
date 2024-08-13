@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 39,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "23090872",
+    "entregaGarantiasAbogado": "2017-06-07T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-07-11T00:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2017-06-13T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "1030083498-10322560611//377815447801594",
+      "4513074699689599//5303710402241209"
+    ],
+    "radicado": "2017 - 00903",
+    "vencimientoPagare": [],
+    "expediente": "11001400306520170090300",
+    "carpetaNumero": 39,
+    "despacho": null
+  }
+}

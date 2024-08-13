@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306820180047600",
+  "numero": 426,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19395095,
+    "direccion": "carrera 151 c no 109a-50",
+    "email": "hernando.22.95@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "felix",
+    "segundoNombre": "",
+    "primerApellido": "hernando",
+    "segundoApellido": ["montenegro", "garcia"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-08T00:00:00.000Z",
+    "mandamientoPago": "2018-05-17T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-26T00:00:00.000Z",
+    "expediente": "11001400306820180047600",
+    "capitalAdeudado": 1309817652,
+    "etapaProcesal": "SUSPENDIDO",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO", "3,78E+32"],
+    "radicado": "2018 - 00476",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19395095,
+  "idProcesos": null
+}

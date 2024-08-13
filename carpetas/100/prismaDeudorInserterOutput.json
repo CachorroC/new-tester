@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 99,
+    "cedula": "80430881",
+    "primerNombre": "jhon",
+    "primerApellido": "rubio",
+    "segundoNombre": "jairo",
+    "segundoApellido": "ortiz",
+    "direccion": "calle 8 # 1 - 92e madrid",
+    "email": "jojaro07@hotmail.com",
+    "telCelular": "3143190799",
+    "telFijo": null,
+    "carpetaNumero": 100
+  }
+}

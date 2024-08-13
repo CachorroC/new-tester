@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 337,
+    "cedula": "79573945",
+    "primerNombre": "william",
+    "primerApellido": "rojas",
+    "segundoNombre": "cortes",
+    "segundoApellido": null,
+    "direccion": "carrera 19  no 56 a  sur - 72",
+    "email": "cubrimage@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 340
+  }
+}

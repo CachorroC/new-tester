@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 13,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "23326974",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2007-06-02T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-05-31T00:00:00.000Z",
+    "municipio": "VIANI",
+    "obligacion": ["3720087139"],
+    "radicado": "2017 - 00020",
+    "vencimientoPagare": ["2018-07-01T00:00:00.000Z"],
+    "expediente": "25867418900120170002000",
+    "carpetaNumero": 13,
+    "despacho": null
+  }
+}

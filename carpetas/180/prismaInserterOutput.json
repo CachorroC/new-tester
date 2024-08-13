@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 180,
+    "numero": 180,
+    "llaveProceso": "25878418900120170021800",
+    "nombre": "alcira delia saenz garavis",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

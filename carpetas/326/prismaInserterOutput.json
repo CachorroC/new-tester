@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 326,
+    "numero": 326,
+    "llaveProceso": "11001400303420170147100",
+    "nombre": "jorge eliecer gomez lopez",
+    "idProcesos": [50834080],
+    "category": "Terminados"
+  }
+}

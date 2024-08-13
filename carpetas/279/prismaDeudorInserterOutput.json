@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 276,
+    "cedula": "1069745324",
+    "primerNombre": "andres",
+    "primerApellido": "gutierrez",
+    "segundoNombre": "felipe",
+    "segundoApellido": "trujillo",
+    "direccion": "calle 14a sur # 11m - 18 casa 22",
+    "email": null,
+    "telCelular": "3115964170",
+    "telFijo": null,
+    "carpetaNumero": 279
+  }
+}

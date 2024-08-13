@@ -1,0 +1,56 @@
+{
+  "id": 52396019,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["2405037"],
+    "llaveProceso": "11001418900320170090900",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2017-05-24T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SUBA",
+    "radicado": "2017 - 00909",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-04-26T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3202705987
+    },
+    "primerNombre": "MARINA",
+    "segundoNombre": "MORALES",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": null,
+    "cedula": 52396019,
+    "direccion": "CARRERA 109A No. 148-91 BOGOTA",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418900320170090900",
+  "nombre": "MARINA MORALES HERNANDEZ",
+  "numero": 10,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:42.879Z"
+}

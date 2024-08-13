@@ -1,0 +1,76 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "EDGAR BUSTAMANTE ANGEL",
+    "cedula": "79263455",
+    "direccion": "calle 64 no. 85-60 INTERIOR 1 LOTE 19 MANZANA 36 URBANIZACION LA ISABELA  ETAPA IIcalle 64 I No. 86-60",
+    "telefono": "2241552//3212307798",
+    "id": 53,
+    "carpetaNumero": 53
+  },
+  "demanda": {
+    "vencimientoPagare": "1/09/2025",
+    "obligacion": {
+      "A": "320 131802"
+    },
+    "capitalAdeudado": 97712903,
+    "entregaGarantiasAbogado": "12/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00975",
+    "llaveProceso": "11001400308520170097500",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "21/06/2017",
+    "mandamientoPago": "31/07/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 4625,
+        "resultado": "16/08/2017",
+        "fechaAporta": "calle 64 no. 85-60 INTERIOR 1 LOTE 19 MANZANA 36 URBANIZACION LA ISABELA  ETAPA IIcalle 64 I No. 86-60"
+      },
+      "certimail": "31/07/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 53,
+  "llaveProceso": "11001400308520170097500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3212307798
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARCELA",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "LOZANO",
+    "cedula": 53051476,
+    "direccion": "calle 64 No. 85-60 INTERIOR 1 LOTE 19 MANZANA 36 URBANIZACION LA ISABELA  ETAPA IIcalle 64 I No. 86-60",
+    "email": "dimarce1513@hotmail.com"
+  },
+  "cc": 53051476,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "DIANA MARCELA SANCHEZ LOZANO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

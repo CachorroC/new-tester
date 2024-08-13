@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-17T05:00:00.000Z",
+  "idProcesos": [64641230],
+  "idRegUltimaAct": 958263380,
+  "llaveProceso": "11001400305320180094500",
+  "nombre": "CESAR ARMANDO VANEGAS",
+  "numero": 459,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:32.458Z"
+}

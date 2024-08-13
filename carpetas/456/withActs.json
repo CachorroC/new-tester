@@ -1,0 +1,127 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 751,
+      "tipo": "JUZGADO 751 CIVIL MUNICIPAL DE PEQUEÑAS CAUSAS DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-751-civil-municipal-de-pequeñas-causas-de-bogotá-"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "29/01/2021",
+    "obligacion": {
+      "A": 10044000104
+    },
+    "capitalAdeudado": "$ 24.310.470",
+    "entregaGarantiasAbogado": "29/06/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "KENNEDY",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 01121",
+    "llaveProceso": "11001410375120180112100",
+    "etapaProcesal": "11001410375120180112100",
+    "fechaPresentacion": "PENDIENTE CURADOR AD LITEM",
+    "mandamientoPago": "6/07/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "SI",
+        "resultado": "9/10/2018"
+      },
+      "292": {
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "13/09/2018",
+      "fisico": "NO",
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "09/10/2018",
+      "medidaSolicitada": "25/09/2018"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 95877041,
+      "idConexion": 320,
+      "llaveProceso": "11001410375120180112100",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": "2018-09-10T05:00:00.000Z",
+        "medidaSolicitada": "25/09/2018"
+      },
+      "vencimientoPagare": ["2021-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": "2018-06-07T05:00:00.000Z",
+      "etapaProcesal": "11001410375120180112100",
+      "fechaPresentacion": [],
+      "municipio": "KENNEDY",
+      "obligacion": [10044000104],
+      "radicado": "2018 - 01121"
+    }
+  ],
+  "numero": 456,
+  "llaveProceso": "11001410375120180112100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ANA",
+    "segundoNombre": "LUCIA",
+    "primerApellido": "YAÑEZ",
+    "segundoApellido": ["VARGAS", "(FALLECIDA)"],
+    "cedula": 26407097,
+    "direccion": "CALLE  57B BIS No 99B-64 SUR BOSA SANTA FE",
+    "email": null
+  },
+  "cc": 26407097,
+  "procesos": [
+    {
+      "idProceso": 95877041,
+      "idConexion": 320,
+      "llaveProceso": "11001410375120180112100",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 751 CIVIL MUNICIPAL DE PEQUEÑAS CAUSAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [95877041],
+  "nombre": "ANA LUCIA YAÑEZ VARGAS (FALLECIDA)",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "CORREO"
+  }
+}

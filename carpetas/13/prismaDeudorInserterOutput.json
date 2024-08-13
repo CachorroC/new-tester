@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 13,
+    "cedula": "447028",
+    "primerNombre": "pascual",
+    "primerApellido": "enciso",
+    "segundoNombre": "ortega",
+    "segundoApellido": null,
+    "direccion": "finca el hospicio viani",
+    "email": null,
+    "telCelular": "3106890300",
+    "telFijo": null,
+    "carpetaNumero": 13
+  }
+}

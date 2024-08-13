@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 559,
+    "numero": 560,
+    "llaveProceso": "08001418901820230073500",
+    "nombre": "hansel null martinez barros",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

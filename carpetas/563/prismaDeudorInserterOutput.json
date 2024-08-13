@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 551,
+    "cedula": "7718318",
+    "primerNombre": "milton",
+    "primerApellido": "lugo",
+    "segundoNombre": "marino",
+    "segundoApellido": "gomez",
+    "direccion": "carrera 57 no. 60 a - 20",
+    "email": "milugo1111@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 563
+  }
+}

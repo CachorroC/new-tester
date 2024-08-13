@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400302820170051200",
+  "numero": 57,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 39556705,
+    "direccion": "avda 80 no. 60-95  rio interior 3 apto 11",
+    "email": "ceciliaaponte@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3102279518
+    },
+    "primerNombre": "carmen",
+    "segundoNombre": "cecilia",
+    "primerApellido": "aponte",
+    "segundoApellido": "zambrano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-15T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400302820170051200",
+    "capitalAdeudado": 28250394,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "710084822//377813215734547",
+      "4513072329336110//5303713387599294"
+    ],
+    "radicado": "2017 - 00512",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39556705,
+  "idProcesos": null
+}

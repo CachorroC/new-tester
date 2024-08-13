@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:34.297Z",
+  "proceso": {
+    "idProceso": 106185210,
+    "idConexion": 259,
+    "llaveProceso": "11001400305020170133600",
+    "fechaProceso": "2017-11-21T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-23T05:00:00.000Z",
+    "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEONARDO SANABRIA SANABRA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 14,
+      "tipo": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-14-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

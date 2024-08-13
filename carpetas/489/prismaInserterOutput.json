@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 489,
+    "numero": 489,
+    "llaveProceso": "25754418900320180100800",
+    "nombre": "orlando null silva calderon",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

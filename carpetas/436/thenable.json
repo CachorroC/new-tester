@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306320180075600",
+  "numero": 436,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79145374,
+    "direccion": "transversal 2a no 67-71",
+    "email": "jcbaquerob@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "juan",
+    "segundoNombre": "camilo",
+    "primerApellido": "baquero",
+    "segundoApellido": "buttner"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-31T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-05-23T00:00:00.000Z",
+    "expediente": "11001400306320180075600",
+    "capitalAdeudado": 3856958181,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [5491585909873, "AUDIOPRESTAMO"],
+    "radicado": "2018 - 00756",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79145374,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 537,
+    "cedula": "79405147",
+    "primerNombre": "jose",
+    "primerApellido": "bejarano",
+    "segundoNombre": "antonio",
+    "segundoApellido": "carreño",
+    "direccion": null,
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 549
+  }
+}

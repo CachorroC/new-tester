@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:34.797Z",
+  "savedDate": "2023-11-03T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1953971910,
+    "llaveProceso": "11001400301620230122200",
+    "consActuacion": 8,
+    "fechaActuacion": "2024-02-19T05:00:00.000Z",
+    "actuacion": "Traslado Art. 110 C.G.P.",
+    "anotacion": "recurso mandamiento",
+    "fechaInicial": "2024-02-21T05:00:00.000Z",
+    "fechaFinal": "2024-02-23T05:00:00.000Z",
+    "fechaRegistro": "2024-02-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "isUltimaAct": true,
+    "idProceso": 134585460
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 464,
+    "cedula": "46667409",
+    "primerNombre": "luz",
+    "primerApellido": "valderrama",
+    "segundoNombre": "myriam",
+    "segundoApellido": "tuta",
+    "direccion": "calle 43 no 80f-20",
+    "email": null,
+    "telCelular": "3123178629",
+    "telFijo": "8117033",
+    "carpetaNumero": 469
+  }
+}

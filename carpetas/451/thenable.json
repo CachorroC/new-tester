@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305620180071100",
+  "numero": 451,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1032389993,
+    "direccion": "calle4 48b sur no 72 m-21",
+    "email": "jeisongc18@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3209393337
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "jeisson",
+    "primerApellido": "galindo",
+    "segundoApellido": "carrillo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-07-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-28T00:00:00.000Z",
+    "expediente": "11001400305620180071100",
+    "capitalAdeudado": 10691310,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [377813280714347, 4513070073578510],
+    "radicado": "2018 - 00711",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1032389993,
+  "idProcesos": null
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900320170090900",
+  "numero": 10,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52396019,
+    "direccion": "carrera 109a no. 148-91 bogota",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3202705987
+    },
+    "primerNombre": "marina",
+    "primerApellido": "morales",
+    "segundoApellido": "hernandez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "11001418900320170090900",
+    "capitalAdeudado": 15946341,
+    "etapaProcesal": "ADMISION",
+    "municipio": "SUBA",
+    "obligacion": [2405037],
+    "radicado": "2017 - 00909",
+    "vencimientoPagare": ["2020-04-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52396019,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 89,
+    "cedula": "1032432802",
+    "primerNombre": "luis",
+    "primerApellido": "orduz",
+    "segundoNombre": "esneider",
+    "segundoApellido": "farfan",
+    "direccion": "carrera 95 # 138 - 58",
+    "email": "orduzcrit2@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 90
+  }
+}

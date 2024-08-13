@@ -1,0 +1,131 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 2,
+      "tipo": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-002-promiscuo-municipal-de-cajicá-"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "16/01/2021",
+    "obligacion": {
+      "A": 12730779
+    },
+    "capitalAdeudado": "$ 21.049.112",
+    "entregaGarantiasAbogado": "19/01/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CAJICA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2018 - 00048",
+    "llaveProceso": "25126408900220180004800",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "1/02/2018",
+    "mandamientoPago": "26/02/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "8/05/2018",
+        "resultado": "ABIERTO",
+        "fechaAporta": "8/05/2018"
+      },
+      "292": {
+        "fechaRecibido": "16/07/2018",
+        "fechaAporta": "3/05/2018",
+        "resultado": "NEGATIVO"
+      },
+      "certimail": "NO",
+      "fisico": "SI",
+      "tipo": "EMPLAZAMIENTO",
+      "autoNotificado": "5/0572019"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "26/02/2018",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 86157021,
+      "idConexion": 320,
+      "llaveProceso": "25126408900220180004800",
+      "fechaProceso": "2018-02-02T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: JUAN CAMILO CHINGATE PENAGOS (Emplazado) | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": "EMBARGO DE VEHICULO"
+      },
+      "vencimientoPagare": ["2021-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "EJECUCIÓN",
+      "fechaPresentacion": ["2018-02-01T05:00:00.000Z"],
+      "municipio": "CAJICA",
+      "obligacion": [12730779],
+      "radicado": "2018 - 00048"
+    }
+  ],
+  "numero": 427,
+  "llaveProceso": "25126408900220180004800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JUAN",
+    "segundoNombre": "CAMILO",
+    "primerApellido": "CHINGATE",
+    "segundoApellido": "PENAGOS",
+    "cedula": 1069738339,
+    "direccion": "VEREDA LA 22 KILOMETRO 30 (CAJICA) // VEREDA SUBIA NORTE. PARTE BAJA. FINCA EL RINCON LOTE 2 (GRANADA- CUND): VEREDA SUBIA NORTE PARTE BAJA FINCA EL RINCON LOTE 2 (GRANADA - CUND)",
+    "email": null
+  },
+  "cc": 1069738339,
+  "procesos": [
+    {
+      "idProceso": 86157021,
+      "idConexion": 320,
+      "llaveProceso": "25126408900220180004800",
+      "fechaProceso": "2018-02-02T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 002 PROMISCUO MUNICIPAL DE CAJICÁ ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: JUAN CAMILO CHINGATE PENAGOS (Emplazado) | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [86157021],
+  "nombre": "JUAN CAMILO CHINGATE PENAGOS",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-05-08T05:00:00.000Z",
+        "fechaAporta": "2018-05-08T05:00:00.000Z",
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2018-07-16T05:00:00.000Z",
+        "fechaAporta": "2018-05-03T05:00:00.000Z",
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "5/0572019"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 52431512,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12519120", "12549733"],
+    "llaveProceso": "25473400300120170077700",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2017-10-27T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "PERSONAL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "19/09/2017"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "25473400300120170077700",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "MOSQUERA",
+    "radicado": "2017 - 00777",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-08-15T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARTHA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "MORALES",
+    "segundoApellido": "SARMIENTO",
+    "cedula": 52431512,
+    "direccion": "CARRERA 10 # 5 - 62 TORRE 7 APTO 127",
+    "email": "gerencia@logimontacargas.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25473400300120170077700",
+  "nombre": "MARTHA PATRICIA MORALES SARMIENTO",
+  "numero": 156,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:37.628Z"
+}

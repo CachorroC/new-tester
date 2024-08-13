@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-08-04T05:00:00.000Z",
+  "idProcesos": [51701110],
+  "idRegUltimaAct": 1356980890,
+  "llaveProceso": "11001400308220170125600",
+  "nombre": "FERNANDO RINCON RODRIGUEZ",
+  "numero": 305,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:31:08.301Z"
+}

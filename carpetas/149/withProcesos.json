@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "29/08/2042",
+    "obligacion": {
+      "A": 155176
+    },
+    "capitalAdeudado": 51748331.77,
+    "entregaGarantiasAbogado": "18/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00256",
+    "llaveProceso": "25754400300220170025600",
+    "fechaPresentacion": "22/08/2017"
+  },
+  "demandas": [],
+  "numero": 149,
+  "llaveProceso": "25754400300220170025600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 7867106,
+      "celular": 3138172167
+    },
+    "primerNombre": "MAGDA",
+    "segundoNombre": "TATIANA",
+    "primerApellido": "TORRES",
+    "segundoApellido": "GONZALEZ",
+    "cedula": 23181779,
+    "direccion": "CENTRO COMERCIAL SURICENTRO LOCAL 6 -97 (MONTERIA) 77 CARRERA 4 ESTE # 38 - 56 ESTAPA H4 CASA 62",
+    "email": "tatianamag12@hotmail.com"
+  },
+  "cc": 23181779,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MAGDA TATIANA TORRES GONZALEZ",
+  "notificacion": null
+}

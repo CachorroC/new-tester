@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 261,
+    "numero": 261,
+    "llaveProceso": "11001400308220170111600",
+    "nombre": "daniel alberto ibañez delgado",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

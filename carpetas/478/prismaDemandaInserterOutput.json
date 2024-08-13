@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 472,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1614735900",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "2018-11-09T00:00:00.000Z",
+    "municipio": "TENJO",
+    "obligacion": ["3450084783 / 3450084855", "AUDIOPRESTAMO"],
+    "radicado": "2018 - 00335",
+    "vencimientoPagare": ["2019-12-01T00:00:00.000Z"],
+    "expediente": "25799418900120180033500",
+    "carpetaNumero": 478,
+    "despacho": null
+  }
+}

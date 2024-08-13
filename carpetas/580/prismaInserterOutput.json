@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 579,
+    "numero": 580,
+    "llaveProceso": "11001418904420230023900",
+    "nombre": "jose ignacio galeano alvarado",
+    "idProcesos": [132964260],
+    "category": "Bancolombia"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 544,
+    "numero": 545,
+    "llaveProceso": null,
+    "nombre": "jairo null aldana villamizar",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

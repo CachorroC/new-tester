@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-31T17:00:16.913Z",
+  "savedDate": 1706245200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1949256670,
+    "llaveProceso": "11001400302020170077600",
+    "consActuacion": 104,
+    "fechaActuacion": "2024-01-31T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 904-2024, No. Reloj Radicador: 17947, Entidad o Señor(a): BANCO  W SA - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Memorial, Observaciones: ASUNTO: Respuesta Oficio No. OOECM - 1223DG - 4223",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-31T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 104,
+    "isUltimaAct": true,
+    "idProceso": 50511250
+  }
+}

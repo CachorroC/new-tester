@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 508,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "1387197656",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "1.100141890552019e+22",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["5470086745"],
+    "radicado": "2019 - 00287",
+    "vencimientoPagare": ["2023-09-01T00:00:00.000Z"],
+    "expediente": "11001400307320190028700",
+    "carpetaNumero": 520,
+    "despacho": null
+  }
+}

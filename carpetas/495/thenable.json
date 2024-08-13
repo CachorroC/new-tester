@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400300320180123600",
+  "numero": 495,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 17099495,
+    "direccion": "calle 29 no 23-46  torre 1 apto 701",
+    "email": "pablomendoza44@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "pablo",
+    "segundoNombre": "elias",
+    "primerApellido": "mendoza",
+    "segundoApellido": "murillo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400300320180123600",
+    "capitalAdeudado": 29229159,
+    "etapaProcesal": "1.100140030032018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO", 377814420105917],
+    "radicado": "2018 - 01236",
+    "vencimientoPagare": [
+      "2021-05-08T05:00:00.000Z",
+      "2018-07-05T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 17099495,
+  "idProcesos": null
+}

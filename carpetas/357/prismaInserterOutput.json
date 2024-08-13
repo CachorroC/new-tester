@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 357,
+    "numero": 357,
+    "llaveProceso": "11001400305520170137800",
+    "nombre": "diana sayuri rodriguez garcia",
+    "idProcesos": [17054094],
+    "category": "Terminados"
+  }
+}

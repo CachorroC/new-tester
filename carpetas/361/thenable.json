@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301720170133600",
+  "numero": 361,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 53064513,
+    "direccion": "carrera 68 d no 40-53 sur torre 6 apartamento 1006",
+    "email": "ncuestas@mccain.com.co",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "natalia",
+    "primerApellido": "cuestas",
+    "segundoApellido": "mondragon",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-17T00:00:00.000Z",
+    "mandamientoPago": "2017-11-23T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-26T00:00:00.000Z",
+    "expediente": "11001400301720170133600",
+    "capitalAdeudado": 32318533,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": ["SO79522009", 5491570044098801],
+    "radicado": "2017 - 01336",
+    "vencimientoPagare": ["2021-03-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53064513,
+  "idProcesos": null
+}

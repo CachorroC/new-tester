@@ -1,0 +1,54 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "44166",
+    "telefono": null,
+    "id": 301,
+    "carpetaNumero": 301
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "A": 169241,
+      "B": "24.721.567.58"
+    },
+    "capitalAdeudado": "$ 43.021",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "GUASCA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00022",
+    "llaveProceso": "25322418900120180002200",
+    "etapaProcesal": 43026
+  },
+  "demandas": [],
+  "numero": 301,
+  "llaveProceso": "25322418900120180002200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "BLANCA",
+    "segundoNombre": "YOLANDA",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": 35220385,
+    "direccion": null,
+    "email": "CALLE 1 A - No 6-68 PORTAL  GUASCA"
+  },
+  "cc": 35220385,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "BLANCA YOLANDA ACOSTA RODRIGUEZ",
+  "notificacion": null
+}

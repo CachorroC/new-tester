@@ -1,0 +1,124 @@
+{
+  "id": 79166749,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 601
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "50683098",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-22T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 601,
+    "llaveProceso": " 11001400300220230119000",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 601,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["6340091067", "101450659"],
+    "radicado": "2023-1190",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-07-04T05:00:00.000Z",
+      "2026-08-18T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 601,
+      "fechaOrdenaMedida": "2024-02-10T00:55:10.766Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 601,
+    "telCelular": "3112027395",
+    "telFijo": null,
+    "primerNombre": "JERONIMO",
+    "segundoNombre": "LEONARDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "CASTAÑEDA",
+    "cedula": "79166749",
+    "direccion": "Carrera 55 NO. 151 – 90 Interior 3 Apartamento 203 del Conjunto ReSIdencial Mazuren 11 de la ciudad de Bogotá D.C",
+    "email": "jeronimolgc@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": " 11001400300220230119000",
+  "nombre": "jeronimo leonardo gonzalez castañeda",
+  "numero": 601,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 601,
+      "createdAt": "2024-02-10T00:55:10.766Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "23 NOV SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 601,
+      "createdAt": "2024-02-10T00:55:10.766Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 1 DIC 2023 AUTO LIBRA MANDAMIENTO DE PAGO Y MEDIDA CAUTELAR",
+      "content": []
+    },
+    {
+      "carpetaNumero": 601,
+      "createdAt": "2024-02-10T00:55:10.766Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MANDAMIENTO OK  CCR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 601,
+      "createdAt": "2024-02-10T00:55:10.766Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 18 ENERO OFICIOS ELABORADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 601,
+      "createdAt": "2024-02-10T00:55:10.766Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MEMORIAL PEDIR OFICIOS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:10.767Z"
+}

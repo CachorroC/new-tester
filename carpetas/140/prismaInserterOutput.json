@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 140,
+    "numero": 140,
+    "llaveProceso": "11001400307720170056800",
+    "nombre": "jhon faber forigua garcia",
+    "idProcesos": [50921080],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 39,
+    "numero": 39,
+    "llaveProceso": "11001400306520170090300",
+    "nombre": "jorge alonso trujillo gómez",
+    "idProcesos": [70519480],
+    "category": "Terminados"
+  }
+}

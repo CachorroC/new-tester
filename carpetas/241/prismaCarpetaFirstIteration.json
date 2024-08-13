@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2019-10-18T05:00:00.000Z",
+  "idProcesos": [50725030],
+  "idRegUltimaAct": 863844990,
+  "llaveProceso": "11001400302320170104400",
+  "nombre": "PUBLI MAGIC S..A.S.",
+  "numero": 241,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:58.718Z"
+}

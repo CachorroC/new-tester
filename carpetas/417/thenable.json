@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400307120170125000",
+  "numero": 417,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 19275068,
+    "direccion": "calle 71 a no 70 b-11",
+    "email": "oscarmultibog@hotmail.com",
+    "tel": {
+      "fijo": 2511959,
+      "celular": 3105638608
+    },
+    "primerNombre": "oscar",
+    "segundoNombre": "humberto",
+    "primerApellido": "gomez",
+    "segundoApellido": "chuchin"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-12T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307120170125000",
+    "capitalAdeudado": 40942872,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [5740084511, 6390082501],
+    "radicado": "2017 - 01250",
+    "vencimientoPagare": [
+      "2021-02-09T05:00:00.000Z",
+      "2021-03-01T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19275068,
+  "idProcesos": null
+}

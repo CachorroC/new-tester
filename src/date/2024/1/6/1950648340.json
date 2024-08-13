@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-06T17:00:11.363Z",
+  "savedDate": 1706590800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1950648340,
+    "llaveProceso": "11001400307720170056800",
+    "consActuacion": 89,
+    "fechaActuacion": "2024-02-06T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 1148-2024, No. Reloj Radicador: 20536, Entidad o Señor(a): NELSON HURTADO PENAGOS - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Otras",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 89,
+    "isUltimaAct": true,
+    "idProceso": 50921080
+  }
+}

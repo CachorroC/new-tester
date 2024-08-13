@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 451,
+    "cedula": "26407097",
+    "primerNombre": "ana",
+    "primerApellido": "yañez",
+    "segundoNombre": "lucia",
+    "segundoApellido": "vargas,(fallecida)",
+    "direccion": "calle  57b bis no 99b-64 sur bosa santa fe",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 456
+  }
+}

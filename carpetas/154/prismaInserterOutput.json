@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 154,
+    "numero": 154,
+    "llaveProceso": "11001400303620170084100",
+    "nombre": "gabriel eduardo mejia ladino",
+    "idProcesos": [50688820],
+    "category": "Terminados"
+  }
+}

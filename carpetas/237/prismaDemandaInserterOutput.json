@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 234,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "9027695142",
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "municipio": "TENJO",
+    "obligacion": ["151792"],
+    "radicado": "2017 - 00247",
+    "vencimientoPagare": ["2017-05-01T00:00:00.000Z"],
+    "expediente": "25799418900120170024700",
+    "carpetaNumero": 237,
+    "despacho": null
+  }
+}

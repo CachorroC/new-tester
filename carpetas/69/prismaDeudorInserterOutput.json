@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 69,
+    "cedula": "53008703",
+    "primerNombre": "derly",
+    "primerApellido": "castro",
+    "segundoNombre": "catherine",
+    "segundoApellido": "izquierdo",
+    "direccion": "carrera 5 no. 30 - 77",
+    "email": null,
+    "telCelular": null,
+    "telFijo": "7507842",
+    "carpetaNumero": 69
+  }
+}

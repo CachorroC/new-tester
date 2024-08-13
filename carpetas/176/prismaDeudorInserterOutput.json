@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 174,
+    "cedula": "79787268",
+    "primerNombre": "jhon",
+    "primerApellido": "murillo",
+    "segundoNombre": "fredy",
+    "segundoApellido": "daza",
+    "direccion": "calle 26 # 103 - 09",
+    "email": "ingedibutec@gmail.com",
+    "telCelular": "3182221747",
+    "telFijo": "7562457",
+    "carpetaNumero": 176
+  }
+}

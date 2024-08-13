@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 358,
+    "cedula": "53064513",
+    "primerNombre": "natalia",
+    "primerApellido": "mondragon",
+    "segundoNombre": "cuestas",
+    "segundoApellido": null,
+    "direccion": "carrera 68 d no 40-53 sur torre 6 apartamento 1006",
+    "email": "ncuestas@mccain.com.co",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 361
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 547,
+    "cedula": "80219425",
+    "primerNombre": "edwin",
+    "primerApellido": "salcedo",
+    "segundoNombre": "alexander",
+    "segundoApellido": "perez",
+    "direccion": "calle 50 sur no. 93 d 38 torre 07 apartamento 601 conjunto residencial porvenir reservado etapa 7; carrera 89 a no. 45 a – 33 sur casa 207 agrupación de vivienda la margarita etapa 9",
+    "email": "edwsal736@gmail.com",
+    "telCelular": "3112633806",
+    "telFijo": null,
+    "carpetaNumero": 559
+  }
+}

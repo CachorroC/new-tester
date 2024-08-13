@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418901020170011500",
+  "numero": 181,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1033783222,
+    "direccion": "calle 69j # 20b - 52",
+    "email": "leoguegar@hotmail.com",
+    "tel": {
+      "fijo": 7177769,
+      "celular": 3103048137
+    },
+    "primerNombre": "leonardo",
+    "segundoNombre": "alirio",
+    "primerApellido": "garcia",
+    "segundoApellido": "guerrero"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001418901020170011500",
+    "capitalAdeudado": 2534003669,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12569604],
+    "radicado": "2017 - 00115",
+    "vencimientoPagare": ["2017-08-16T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1033783222,
+  "idProcesos": null
+}

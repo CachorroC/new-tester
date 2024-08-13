@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 476,
+    "numero": 476,
+    "llaveProceso": "11001418901220180064200",
+    "nombre": "arnulfo null pastes daza",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

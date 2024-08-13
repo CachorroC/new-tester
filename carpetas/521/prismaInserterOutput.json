@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 520,
+    "numero": 521,
+    "llaveProceso": "11001418901220190023500",
+    "nombre": "maria aquilina rodriguez lancheros",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

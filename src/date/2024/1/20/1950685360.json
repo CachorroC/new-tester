@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:33.640Z",
+  "savedDate": "2023-10-25T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1950685360,
+    "llaveProceso": "11001400301520230098000",
+    "consActuacion": 8,
+    "fechaActuacion": "2024-02-06T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "SOLICITA OFICIOS",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "isUltimaAct": true,
+    "idProceso": 134307840
+  }
+}

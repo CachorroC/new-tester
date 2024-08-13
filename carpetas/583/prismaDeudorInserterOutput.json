@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 571,
+    "cedula": "46668139",
+    "primerNombre": "alba",
+    "primerApellido": "aparicio",
+    "segundoNombre": "yaneth",
+    "segundoApellido": "sandoval",
+    "direccion": "carrera 53 c no. 4 c 63",
+    "email": "yaneth_apar@hotmail.com",
+    "telCelular": "3124781732",
+    "telFijo": "3031161",
+    "carpetaNumero": 583
+  }
+}

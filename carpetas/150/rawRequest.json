@@ -1,0 +1,5 @@
+{
+  "Message": "Not Found",
+  "StatusCode": 404,
+  "url": "https://consultaprocesos.ramajudicial.gov.co:448/api/v2/Procesos/Consulta/NumeroRadicacion?numero=2575440030012017024900&SoloActivos=false&pagina=1"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:12.521Z",
+  "proceso": {
+    "idProceso": 50989890,
+    "idConexion": 259,
+    "llaveProceso": "11001400305920180009000",
+    "fechaProceso": "2018-02-06T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-03-25T05:00:00.000Z",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MARIA MARIN DE OROZCO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 7,
+      "tipo": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-07-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

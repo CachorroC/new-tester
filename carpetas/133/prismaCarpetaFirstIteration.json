@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-11-24T05:00:00.000Z",
+  "idProcesos": [50651910],
+  "idRegUltimaAct": 999344760,
+  "llaveProceso": "11001400301220170095000",
+  "nombre": "CARLOS GIOVANNY RONDON GARCIA",
+  "numero": 133,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:42.142Z"
+}

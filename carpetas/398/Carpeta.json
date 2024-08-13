@@ -1,0 +1,105 @@
+{
+  "id": 52465659,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 398
+  },
+  "demanda": {
+    "liquidacion": "10082018",
+    "avaluo": "1000",
+    "capitalAdeudado": "78",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2018-02-07T05:00:00.000Z"],
+    "id": 398,
+    "llaveProceso": "25754400300120180006400",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 398,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["171882"],
+    "radicado": "2018 - 00064",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2044-01-29T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 398,
+      "fechaOrdenaMedida": "2024-02-10T00:54:56.221Z",
+      "medidaSolicitada": "PERSONAL"
+    }
+  },
+  "deudor": {
+    "id": 398,
+    "telCelular": "3214771295",
+    "telFijo": null,
+    "primerNombre": "LILIANA",
+    "segundoNombre": "ANDREA",
+    "primerApellido": "ERAZO",
+    "segundoApellido": "LOPEZ",
+    "cedula": "52465659",
+    "direccion": "CARRERA 87 BIS No 50 SUR-75 PISO 2",
+    "email": "liancridana@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754400300120180006400",
+  "nombre": "liliana andrea erazo lopez",
+  "numero": 398,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 398,
+      "createdAt": "2024-02-10T00:54:56.221Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 9 DE OCTUBRE DE 2018 SE TERMINO EL PROCESO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 398,
+      "createdAt": "2024-02-10T00:54:56.221Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 16 DE NOVIEMBRE DE 2018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 398,
+      "createdAt": "2024-02-10T00:54:56.221Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 18 DE DICIEMBRE DE 2018 SE LEVANTARON MEDIDAS CAUTELARES ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:56.222Z"
+}

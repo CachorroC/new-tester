@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 218,
+    "numero": 218,
+    "llaveProceso": "11001400300220170084000",
+    "nombre": "elio null alvarado hernandez",
+    "idProcesos": [50699960],
+    "category": "Terminados"
+  }
+}

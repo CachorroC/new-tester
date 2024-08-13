@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 123,
+    "numero": 123,
+    "llaveProceso": "11001400306920170075400",
+    "nombre": "gustavo null santamaria mosquera",
+    "idProcesos": [50632410],
+    "category": "Terminados"
+  }
+}

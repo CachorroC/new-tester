@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 215,
+    "numero": 215,
+    "llaveProceso": "11001400300820170127300",
+    "nombre": "luz dary hurtado rios",
+    "idProcesos": [50776700, 81589821],
+    "category": "Terminados"
+  }
+}

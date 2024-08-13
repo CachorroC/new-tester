@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306320180016800",
+  "numero": 62,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80722943,
+    "direccion": "diagonal 60 sur no. 28-i 72 interior 3 apto 204",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3138253554
+    },
+    "primerNombre": "luis",
+    "segundoNombre": "eduardo",
+    "primerApellido": "carranza",
+    "segundoApellido": "bustos"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-21T00:00:00.000Z",
+    "mandamientoPago": "2018-03-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400306320180016800",
+    "capitalAdeudado": 1544537143,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": ["320 093516"],
+    "radicado": "2017 - 00537",
+    "vencimientoPagare": ["2022-01-31T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53011591,
+    "direccion": "DIAGONAL 60 SUR NO. 28-I 72 INTERIOR 3 APTO 204",
+    "nombre": "yurani vergara nagles",
+    "telefono": "7340105//304410804"
+  },
+  "cc": 80722943,
+  "idProcesos": null
+}

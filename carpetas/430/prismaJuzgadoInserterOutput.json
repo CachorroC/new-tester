@@ -1,0 +1,16 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 1,
+      "tipo": "JUZGADO 001  DE PEQUEÑAS CAUSAS Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-001--de-pequeñas-causas-y-competencia-múltiple-de-bogotá-"
+    },
+    {
+      "id": 1,
+      "tipo": "JUZGADO 001  MUNICIPAL DE PEQUEÑAS CAUSAS LABORALES DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-001--municipal-de-pequeñas-causas-laborales-de-bogotá-"
+    }
+  ]
+}

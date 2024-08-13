@@ -1,0 +1,13 @@
+{
+  "category": "Bancolombia",
+  "fecha": "2023-10-30T05:00:00.000Z",
+  "idProcesos": [112628300],
+  "idRegUltimaAct": 1921423940,
+  "llaveProceso": "11001400306820200102100",
+  "nombre": "DIMOIN COLOMBIA S.A.S.",
+  "numero": 532,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:41.765Z"
+}

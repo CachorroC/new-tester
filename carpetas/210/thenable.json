@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400302120180016300",
+  "numero": 210,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 343334,
+    "direccion": "carrera 50 # 113 - 09",
+    "email": null,
+    "tel": {
+      "fijo": 4658342,
+      "celular": 3015004499
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "antonio",
+    "primerApellido": "castillo",
+    "segundoApellido": "cortes"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2018-03-05T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400302120180016300",
+    "capitalAdeudado": 10555422,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": [377813597718262, "4513070908078111 // 5303714709873201"],
+    "radicado": "2018 - 00163",
+    "vencimientoPagare": [
+      "2020-05-01T05:00:00.000Z",
+      "2020-05-01T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 343334,
+  "idProcesos": null
+}

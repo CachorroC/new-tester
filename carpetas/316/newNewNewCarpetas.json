@@ -1,0 +1,79 @@
+{
+  "id": 8799171,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 316
+  },
+  "demanda": {
+    "capitalAdeudado": "44944657",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-10-26T05:00:16.000Z",
+    "etapaProcesal": "EJECUCION",
+    "fechaPresentacion": ["2017-11-01T05:00:16.000Z"],
+    "llaveProceso": "2017-0323",
+    "mandamientoPago": "2017-11-24T05:00:16.000Z",
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 316,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2018-02-15T05:00:16.000Z",
+          "fechaAporta": "2018-02-15T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "2018-02-22T05:00:16.000Z"
+    },
+    "obligacion": [
+      "180049   53037120066499008",
+      "3778133433049336 /4513075801129044"
+    ],
+    "radicado": "2017 - 00323",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2030-01-05T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 316,
+      "fechaOrdenaMedida": "2017-11-24T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "deudor": {
+    "id": 316,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MANUEL",
+    "segundoNombre": "ENRIQUE",
+    "primerApellido": "ARTEAGA",
+    "segundoApellido": "OROZCO",
+    "cedula": "8799171",
+    "direccion": "CARRERA 18 B No 4 C -  20  SOACHA",
+    "email": "saliradelante2012@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2017-0323",
+  "nombre": "MANUEL ENRIQUE ARTEAGA OROZCO",
+  "numero": 316,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:27.688Z"
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 435,
+    "numero": 435,
+    "llaveProceso": "11001400301620180057300",
+    "nombre": "maribel null revelo quiroga",
+    "idProcesos": [51205750],
+    "category": "Terminados"
+  }
+}

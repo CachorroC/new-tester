@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 123,
+    "cedula": "74338870",
+    "primerNombre": "milciades",
+    "primerApellido": "casteblanco",
+    "segundoNombre": "galindo",
+    "segundoApellido": null,
+    "direccion": "carrera 18 # 12 - 72",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 125
+  }
+}

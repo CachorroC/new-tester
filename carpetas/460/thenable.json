@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306620190040900",
+  "numero": 460,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79424825,
+    "direccion": "52205842",
+    "email": "DIAGONAL 31 No 24-63 SUR",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "abdolonio",
+    "primerApellido": "guerrero",
+    "segundoApellido": "hernandez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306620190040900",
+    "capitalAdeudado": null,
+    "etapaProcesal": "43294",
+    "municipio": "BOGOTA",
+    "obligacion": ["16.399.509.25"],
+    "radicado": "2019 - 00409",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "CLAUDIA JASMIN GOMEZ GUERRERO",
+    "direccion": 43168,
+    "nombre": 2028628,
+    "telefono": "DIAGONAL 31 No 24-63  SUR"
+  },
+  "cc": 79424825,
+  "idProcesos": null
+}

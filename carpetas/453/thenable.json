@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25286400300120180084100",
+  "numero": 453,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79892208,
+    "direccion": "carrera 7 a no 5-22 manzana a casa 3a",
+    "email": "ricardomelorr77@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ricardo",
+    "primerApellido": "rueda",
+    "segundoApellido": "melo",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-07-03T00:00:00.000Z",
+    "mandamientoPago": "2018-10-23T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-26T00:00:00.000Z",
+    "expediente": "25286400300120180084100",
+    "capitalAdeudado": 1108010768,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "FUNZA",
+    "obligacion": [5303728778961290],
+    "radicado": "2018 - 00841",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79892208,
+  "idProcesos": null
+}

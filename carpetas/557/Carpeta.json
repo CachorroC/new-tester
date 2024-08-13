@@ -1,0 +1,288 @@
+{
+  "id": 71685758,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1941737090,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 7,
+      "fechaActuacion": "2023-12-01T05:00:00.000Z",
+      "actuacion": "Oficio Elaborado",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-12-01T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    },
+    {
+      "idRegActuacion": 1937617870,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 24/11/2023 a las 18:53:35.",
+      "fechaInicial": "2023-11-27T05:00:00.000Z",
+      "fechaFinal": "2023-11-27T05:00:00.000Z",
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    },
+    {
+      "idRegActuacion": 1937617860,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Auto decreta medida cautelar",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    },
+    {
+      "idRegActuacion": 1937617850,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 24/11/2023 a las 18:44:59.",
+      "fechaInicial": "2023-11-27T05:00:00.000Z",
+      "fechaFinal": "2023-11-27T05:00:00.000Z",
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    },
+    {
+      "idRegActuacion": 1937617840,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    },
+    {
+      "idRegActuacion": 1844973770,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-08-11T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-08-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    },
+    {
+      "idRegActuacion": 1844913080,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-08-02T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 02/08/2023 a las 09:24:37",
+      "fechaInicial": "2023-08-02T05:00:00.000Z",
+      "fechaFinal": "2023-08-02T05:00:00.000Z",
+      "fechaRegistro": "2023-08-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:07.144Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 557
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "49329779",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 557,
+    "llaveProceso": "11001400301720230078200",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 557,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "840093593",
+      "PAGARE SIN NUMERO T. AMERICAN EXPRESS 0377844069636757"
+    ],
+    "radicado": "2023 - 00782",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-07-18T05:00:00.000Z",
+      "2026-03-04T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 557,
+      "fechaOrdenaMedida": "2024-02-10T00:55:07.078Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 557,
+    "telCelular": "3002985587",
+    "telFijo": "6485655 ",
+    "primerNombre": "CARLOS",
+    "segundoNombre": "HERNEY",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "",
+    "cedula": "71685758",
+    "direccion": "KR 32 A 1 19 BARRIO SANTA MATILDE",
+    "email": "cahequi8097@gmail.com  fundaoyuki@gmail.com"
+  },
+  "fecha": "2023-12-01T05:00:00.000Z",
+  "idProcesos": [132372990],
+  "idRegUltimaAct": 1941737090,
+  "llaveProceso": "11001400301720230078200",
+  "nombre": "carlos herney quintero ",
+  "numero": 557,
+  "procesos": [
+    {
+      "idProceso": 132372990,
+      "idConexion": 259,
+      "llaveProceso": "11001400301720230078200",
+      "fechaProceso": "2023-08-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-12-01T05:00:00.000Z",
+      "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CARLOS HERNEY QUINTERO R. ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 17,
+        "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1941737090,
+    "llaveProceso": "11001400301720230078200",
+    "consActuacion": 7,
+    "fechaActuacion": "2023-12-01T05:00:00.000Z",
+    "actuacion": "Oficio Elaborado",
+    "anotacion": null,
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-12-01T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 7,
+    "idProceso": 132372990,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 557,
+      "createdAt": "2024-02-10T00:55:07.078Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "31 JULIO RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 557,
+      "createdAt": "2024-02-10T00:55:07.078Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 11 AGOSOTO INGRESA AL DESPACHO  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 557,
+      "createdAt": "2024-02-10T00:55:07.078Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 24 NOV 2023 AUTO LIBRA MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 557,
+      "createdAt": "2024-02-10T00:55:07.078Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "MANDAMIENTO OK ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 557,
+      "createdAt": "2024-02-10T00:55:07.078Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 1-12-2023 LLEGAN OFICIOS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 557,
+      "createdAt": "2024-02-10T00:55:07.078Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE PUDO RADICAR OFICIOS, DIRECCION FUNDACION NO EXISTE ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:07.079Z"
+}

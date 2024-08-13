@@ -1,0 +1,39 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2019 - 00911",
+    "llaveProceso": "25754418900120190091100"
+  },
+  "demandas": [],
+  "numero": 550,
+  "llaveProceso": "25754418900120190091100",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ANGEL",
+    "primerApellido": "AGUASACO",
+    "segundoApellido": "PEÑUELA",
+    "cedula": 1022336662,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 1022336662,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MIGUEL ANGEL AGUASACO PEÑUELA",
+  "notificacion": null
+}

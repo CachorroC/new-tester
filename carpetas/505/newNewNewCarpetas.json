@@ -1,0 +1,70 @@
+{
+  "id": 80156570,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": [
+      "377813291831031 // 377815026183364",
+      "4099830041795208 /53037110111724925"
+    ],
+    "llaveProceso": "11001418902520180246200",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2024-01-02T02:11:33.108Z",
+      "medidaSolicitada": "18/02/2019"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001410375120180246200",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "KENNEDY",
+    "radicado": "2018 - 02462",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2021-06-04T05:00:00.000Z",
+      "2021-06-04T05:00:00.000Z"
+    ]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "WILLIAM",
+    "segundoNombre": "",
+    "primerApellido": "GIOVANNY",
+    "segundoApellido": "GARZON",
+    "cedula": 80156570,
+    "direccion": "CALLE 53 SUR No 82-38 CASA LADRILLO",
+    "email": "organizacionapply@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418902520180246200",
+  "nombre": "WILLIAM  GIOVANNY GARZON LOPEZ",
+  "numero": 505,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:33.108Z"
+}

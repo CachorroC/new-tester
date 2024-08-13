@@ -1,0 +1,64 @@
+{
+  "id": 7601476,
+  "actuaciones": [],
+  "category": "Insolvencia",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["186718", "3778153354915637 / 4513079095670572"],
+    "llaveProceso": "1100140030202100050100",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-04-03T05:00:00.000Z",
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-05-30T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "FISICA"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-01-06T05:00:00.000Z",
+      "medidaSolicitada": "9/10/2017"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "11001400306320180065000",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00650",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2020-05-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3018759,
+      "celular": 3118027001
+    },
+    "primerNombre": "JULIO",
+    "segundoNombre": "RENE",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "ARGOTE",
+    "cedula": 7601476,
+    "direccion": "CARRERA 90 C No 6A - 31   - CASA 148",
+    "email": "jsanchezargote@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "1100140030202100050100",
+  "nombre": "JULIO RENE SANCHEZ ARGOTE",
+  "numero": 265,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:14.526Z"
+}

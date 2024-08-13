@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 23,
+    "numero": 23,
+    "llaveProceso": "25307400300120170033700",
+    "nombre": "eder alexis herrera saenz",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

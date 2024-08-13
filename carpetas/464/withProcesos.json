@@ -1,0 +1,61 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "3632557",
+    "cedula": "MARIA ELIZABETH GAVIRIA OSPINA",
+    "direccion": "45689",
+    "telefono": "TRANSVERSAL 48 No 3-75 MANZAN 5 CASA 44",
+    "id": 464,
+    "carpetaNumero": 464
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "B": "19.080.628.51"
+    },
+    "capitalAdeudado": "$ 43.293",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00664",
+    "llaveProceso": "25754418900220180066400",
+    "fechaPresentacion": "22/08/2018 EN CORRECCION",
+    "mandamientoPago": "FALLA",
+    "notificacion": {
+      "certimail": "X"
+    }
+  },
+  "demandas": [],
+  "numero": 464,
+  "llaveProceso": "25754418900220180066400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "RICARDO",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "CELIS",
+    "segundoApellido": "ANGEL",
+    "cedula": 51944991,
+    "direccion": "51944991",
+    "email": "TRANSVERSAL 4B No 3-75   CASA 44"
+  },
+  "cc": 51944991,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "RICARDO ARMANDO CELIS ANGEL",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

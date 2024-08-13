@@ -1,0 +1,53 @@
+{
+  "id": 80546020,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MONICA MAYELI  CRISTANCHO  BALLEN",
+    "cedula": "21022941",
+    "direccion": "CALLE 5 No 1 A-12",
+    "telefono": "8513122/3132518401",
+    "id": 498
+  },
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "5306960218152465"],
+    "llaveProceso": "25899400300320180042900",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1949127899,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "25899400300320180042900",
+    "fechaPresentacion": [],
+    "mandamientoPago": "2018-08-10T05:00:00.000Z",
+    "municipio": "ZIPAQUIRA",
+    "radicado": "2018 - 00429",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2031-05-23T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JOSE",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "BECERRA",
+    "segundoApellido": "BARRERA",
+    "cedula": 80546020,
+    "direccion": "CARRERA 7 No 4-11  CENTRO",
+    "email": "kristal6020@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25899400300320180042900",
+  "nombre": "JOSE ALEXANDER BECERRA BARRERA",
+  "numero": 498,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:31.470Z"
+}

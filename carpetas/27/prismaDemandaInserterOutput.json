@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 27,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "96608106",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-05-31T00:00:00.000Z",
+    "etapaProcesal": "2.532031890012017e+22",
+    "fechaPresentacion": null,
+    "municipio": "GUADUAS",
+    "obligacion": ["7910080321"],
+    "radicado": "2017 - 00195",
+    "vencimientoPagare": ["2017-04-01T00:00:00.000Z"],
+    "expediente": "25320310300120170019500",
+    "carpetaNumero": 27,
+    "despacho": null
+  }
+}

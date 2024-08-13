@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 239,
+    "numero": 239,
+    "llaveProceso": "11001400304520170116400",
+    "nombre": "nidia jacqueline riveros araque",
+    "idProcesos": [9877803],
+    "category": "Terminados"
+  }
+}

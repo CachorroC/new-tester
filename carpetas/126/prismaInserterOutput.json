@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 126,
+    "numero": 126,
+    "llaveProceso": "25754418900320170076200",
+    "nombre": "yonny arturo pinzon pulido",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

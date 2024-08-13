@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 435,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1467002370",
+    "entregaGarantiasAbogado": "2018-05-29T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "2018-05-31T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["1330085524"],
+    "radicado": "2018 - 00223",
+    "vencimientoPagare": [],
+    "expediente": "11001408900820180022300",
+    "carpetaNumero": 440,
+    "despacho": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 161,
+    "cedula": "71557211",
+    "primerNombre": "carlos",
+    "primerApellido": "rueda",
+    "segundoNombre": "arturo",
+    "segundoApellido": "alzate",
+    "direccion": "calle 7 # 5 - 29 torre 8 apto 303",
+    "email": "ruedacarlos47@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 163
+  }
+}

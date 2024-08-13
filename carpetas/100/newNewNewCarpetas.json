@@ -1,0 +1,61 @@
+{
+  "id": 80430881,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["377814000000000", "12484407"],
+    "llaveProceso": "25430418900120170068400",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2017-09-28T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-06-29T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "MADRID",
+    "radicado": "2017 - 00684",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-06-13T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3143190799
+    },
+    "primerNombre": "JHON",
+    "segundoNombre": "JAIRO",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "ORTIZ",
+    "cedula": 80430881,
+    "direccion": "CALLE 8 # 1 - 92E MADRID",
+    "email": "jojaro07@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25430418900120170068400",
+  "nombre": "JHON JAIRO RUBIO ORTIZ",
+  "numero": 100,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:15.752Z"
+}

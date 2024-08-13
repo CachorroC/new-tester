@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 468,
+    "numero": 468,
+    "llaveProceso": "11001408900420180038400",
+    "nombre": "carlos eduardo naranjo piñeros",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

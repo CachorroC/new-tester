@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 421,
+    "cedula": "52498444",
+    "primerNombre": "sandra",
+    "primerApellido": "lopez",
+    "segundoNombre": "raquel",
+    "segundoApellido": "de,mesa,oses",
+    "direccion": "carrera 29 no 40 a-53  apto 604",
+    "email": "sandralopezdemesa@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 425
+  }
+}

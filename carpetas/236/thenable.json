@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308520170136200",
+  "numero": 236,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 3165933,
+    "direccion": "carrera 81 f 71f 56",
+    "email": "rigoberto-moreno20@hotmail.com",
+    "tel": {
+      "fijo": 7191321,
+      "celular": 3123836799
+    },
+    "primerNombre": "rigoberto",
+    "primerApellido": "moreno",
+    "segundoApellido": "olaya",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-18T00:00:00.000Z",
+    "mandamientoPago": "2017-09-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "11001400308520170136200",
+    "capitalAdeudado": 3168807543,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [159497],
+    "radicado": "2017 - 01362",
+    "vencimientoPagare": ["2032-12-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 3165933,
+  "idProcesos": null
+}

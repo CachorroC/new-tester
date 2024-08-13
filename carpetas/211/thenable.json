@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25473400300120180010500",
+  "numero": 211,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 17652071,
+    "direccion": "carrera 4a # 11 - 44 funza",
+    "email": "marimar832010@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "saul",
+    "primerApellido": "barbosa",
+    "segundoApellido": "ramirez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-24T00:00:00.000Z",
+    "expediente": "25473400300120180010500",
+    "capitalAdeudado": 36520799,
+    "etapaProcesal": "2.528640030012018e+22",
+    "municipio": "MOSQUERA",
+    "obligacion": [166601],
+    "radicado": "2018 - 00105",
+    "vencimientoPagare": ["2028-08-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52901502,
+    "direccion": "CARRERA 4 # 11 - 44 // CL 64 D No. 69-22",
+    "nombre": "maria nubia martinez cely",
+    "telefono": 7555569
+  },
+  "cc": 17652071,
+  "idProcesos": null
+}

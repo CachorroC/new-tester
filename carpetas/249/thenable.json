@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400301620170087500",
+  "numero": 249,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 19069228,
+    "direccion": "carrera 15 # 188 - 39",
+    "email": "jorgemar24@gmail.com",
+    "tel": {
+      "fijo": 6701643,
+      "celular": 3134749213
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "alberto",
+    "primerApellido": "martinez",
+    "segundoApellido": "bendek"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "mandamientoPago": "2017-09-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-23T00:00:00.000Z",
+    "expediente": "11001400301620170087500",
+    "capitalAdeudado": 44933312,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      377813517259835,
+      "377814405234039 // 45130727777594186 // 5491572487025564 // AUDIOPRESTAMO"
+    ],
+    "radicado": "2017 - 00875",
+    "vencimientoPagare": [null, null, "2020-05-05T05:00:00.000Z", null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19069228,
+  "idProcesos": null
+}

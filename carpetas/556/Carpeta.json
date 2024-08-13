@@ -1,0 +1,149 @@
+{
+  "id": 1022335014,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 556
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "149444779",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 556,
+    "llaveProceso": "25430400300120230112700",
+    "mandamientoPago": [],
+    "municipio": "MADRID",
+    "notificacion": {
+      "id": 556,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["3830095699 // 3830095700", "3830095701"],
+    "radicado": "2023 - 01127",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-03-09T05:00:00.000Z",
+      "2026-03-09T05:00:00.000Z",
+      "2026-04-09T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 556,
+      "fechaOrdenaMedida": "2024-02-10T00:55:07.031Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 556,
+    "telCelular": "3023193548",
+    "telFijo": null,
+    "primerNombre": "CIRO",
+    "segundoNombre": "ERQUILIAN",
+    "primerApellido": "ONOFRE",
+    "segundoApellido": null,
+    "cedula": "1022335014",
+    "direccion": " Carrera 13 # 4-20 Madrid (Cundinamarca)",
+    "email": "ciro.oNOfe1105@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25430400300120230112700",
+  "nombre": "ciro erquilian onofre",
+  "numero": 556,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "1 AGOSTO 2023 SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " A AUTOS 3 OCT NO HAY NADA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 10 NOV 2023 SE ENVIA IMPULSO PROCESAL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "/ 22 NOV LIBRA MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MANDAMIENTO OK ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 28-11-2023 SE RADICAN OFICIOS EN TRANSITO MADRID ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 29-11-2023 NOTIFICACION PERSONAL ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 556,
+      "createdAt": "2024-02-10T00:55:07.031Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 31-11-2023 ENVIO OFICIOS DE SECRETARIA DE MADRID A SECRETARIA BOGOTA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:07.031Z"
+}

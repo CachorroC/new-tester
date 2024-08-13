@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:34.499Z",
+  "proceso": {
+    "idProceso": 112657130,
+    "idConexion": 262,
+    "llaveProceso": "11001400306620170122100",
+    "fechaProceso": "2017-08-29T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-02-12T05:00:00.000Z",
+    "despacho": "JUZGADO 066 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: MARYLUZ OCASIONES PINZON ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 66,
+      "tipo": "JUZGADO 066 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-066-civil-municipal-de-bogota"
+    }
+  }
+}

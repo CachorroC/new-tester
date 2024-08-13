@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 14,
+    "cedula": "52441656",
+    "primerNombre": "elsa",
+    "primerApellido": "sosa",
+    "segundoNombre": "milena",
+    "segundoApellido": ",romero",
+    "direccion": "transversal 6 b  no 12 a - 18   sibate",
+    "email": "elmisosro1@hotmailcom",
+    "telCelular": "3133743400",
+    "telFijo": "5295780",
+    "carpetaNumero": 14
+  }
+}

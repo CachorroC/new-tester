@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 518,
+    "cedula": "35455606",
+    "primerNombre": "maria",
+    "primerApellido": "reyes",
+    "segundoNombre": "clara",
+    "segundoApellido": "reyes",
+    "direccion": "calle 175 no 70-40",
+    "email": "mariaclarareyes@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 530
+  }
+}

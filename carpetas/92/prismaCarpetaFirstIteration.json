@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-09-05T05:00:00.000Z",
+  "idProcesos": [50525440],
+  "idRegUltimaAct": 1387234240,
+  "llaveProceso": "11001400301320170084100",
+  "nombre": "MAGDA MILENA SALINAS RODRIGUEZ",
+  "numero": 92,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:35.208Z"
+}

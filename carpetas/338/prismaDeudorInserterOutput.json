@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 335,
+    "cedula": "20427976",
+    "primerNombre": "blanca",
+    "primerApellido": "moyano",
+    "segundoNombre": "melba",
+    "segundoApellido": "beltran",
+    "direccion": "carrera 3 no 9 - 02 /08  caparrapi (cundinamarca)",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 338
+  }
+}

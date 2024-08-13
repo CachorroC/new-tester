@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 389,
+    "numero": 389,
+    "llaveProceso": "11001400307020180012100",
+    "nombre": "miguel angel granados gutierrez",
+    "idProcesos": [18370510],
+    "category": "Terminados"
+  }
+}

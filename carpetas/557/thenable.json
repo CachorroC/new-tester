@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400301720230078200",
+  "numero": 557,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 71685758,
+    "direccion": "kr 32 a 1 19 barrio santa matilde",
+    "email": "cahequi8097@gmail.com fundaoyuki@gmail.com",
+    "tel": {
+      "fijo": 6485655,
+      "celular": 3002985587
+    },
+    "primerNombre": "carlos",
+    "primerApellido": "herney",
+    "segundoApellido": "quintero",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001400301720230078200",
+    "capitalAdeudado": 49329779,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      840093593,
+      "PAGARE SIN NUMERO T. AMERICAN EXPRESS 0377844069636757"
+    ],
+    "radicado": "2023 - 00782",
+    "vencimientoPagare": [null, null, "2026-04-03T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 71685758,
+  "idProcesos": null
+}

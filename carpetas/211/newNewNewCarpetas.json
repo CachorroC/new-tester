@@ -1,0 +1,70 @@
+{
+  "id": 17652071,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MARIA NUBIA MARTINEZ CELY",
+    "cedula": "52901502",
+    "direccion": "CARRERA 4 # 11 - 44 // CL 64 D No. 69-22",
+    "telefono": "7555569",
+    "id": 211
+  },
+  "demanda": {
+    "obligacion": ["166601"],
+    "llaveProceso": "25473400300120180010500",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2018-08-10T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "PERSONAL SAUL BARBOSA RAMIREZ"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2018-10-08T05:00:00.000Z",
+      "medidaSolicitada": "29/10/2018"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "25286400300120180010500",
+    "fechaPresentacion": [],
+    "mandamientoPago": "2017-06-09T05:00:00.000Z",
+    "municipio": "MOSQUERA",
+    "radicado": "2018 - 00105",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2028-08-02T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SAUL",
+    "segundoNombre": "BARBOSA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": null,
+    "cedula": 17652071,
+    "direccion": "CARRERA 4A # 11 - 44 FUNZA",
+    "email": "marimar832010@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25473400300120180010500",
+  "nombre": "SAUL BARBOSA RAMIREZ",
+  "numero": 211,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:54.977Z"
+}

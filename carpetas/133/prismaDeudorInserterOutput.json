@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 131,
+    "cedula": "80820336",
+    "primerNombre": "carlos",
+    "primerApellido": "rondon",
+    "segundoNombre": "giovanny",
+    "segundoApellido": "garcia",
+    "direccion": "calle 89a bis b 113 - 23",
+    "email": "carlosrondon2008@hotmail.com",
+    "telCelular": "3125757941",
+    "telFijo": "4316891",
+    "carpetaNumero": 133
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 356,
+    "numero": 356,
+    "llaveProceso": "11001400302420170170800",
+    "nombre": "sonia ximena rodriguez sanchez",
+    "idProcesos": [50905230],
+    "category": "Terminados"
+  }
+}

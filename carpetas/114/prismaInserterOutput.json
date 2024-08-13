@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 114,
+    "numero": 114,
+    "llaveProceso": "25754418900220170075200",
+    "nombre": "jose antonio caicedo ruiz",
+    "idProcesos": [86396721],
+    "category": "Terminados"
+  }
+}

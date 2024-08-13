@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:04.900Z",
+  "proceso": {
+    "idProceso": 10138483,
+    "idConexion": 261,
+    "llaveProceso": "11001400304620180010700",
+    "fechaProceso": "2018-01-25T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-10-30T05:00:00.000Z",
+    "despacho": "JUZGADO 046 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FABIAN CASTRILLON GUTIERREZ | Demandado: GLADIS VELASQUEZ CASTRO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 46,
+      "tipo": "JUZGADO 046 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-46-civil-municipal-de-bogota"
+    }
+  }
+}

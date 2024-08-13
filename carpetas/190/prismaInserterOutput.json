@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 190,
+    "numero": 190,
+    "llaveProceso": "25286400300120170078100",
+    "nombre": "victor eduardo  mora,espinosa",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

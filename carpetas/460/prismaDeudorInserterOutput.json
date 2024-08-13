@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 455,
+    "cedula": "79424825",
+    "primerNombre": "jorge",
+    "primerApellido": "guerrero",
+    "segundoNombre": "abdolonio",
+    "segundoApellido": "hernandez",
+    "direccion": "52205842",
+    "email": "DIAGONAL 31 No 24-63 SUR",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 460
+  }
+}

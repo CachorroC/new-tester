@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301620170136700",
+  "numero": 321,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52391771,
+    "direccion": "transversal 78 b no 6 b - 20 apartamento 101",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "adela",
+    "primerApellido": "barajas",
+    "segundoApellido": "moreno",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-11-02T00:00:00.000Z",
+    "expediente": "11001400301620170136700",
+    "capitalAdeudado": 1386798000,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [2150091479],
+    "radicado": "2017 - 01367",
+    "vencimientoPagare": ["2018-09-21T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52391771,
+  "idProcesos": null
+}

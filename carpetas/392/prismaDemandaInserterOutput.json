@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 389,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "38847950",
+    "entregaGarantiasAbogado": "2017-11-09T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2018-04-12T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-11-20T00:00:00.000Z",
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["3320087751", "3320088190"],
+    "radicado": "2018 - 00131",
+    "vencimientoPagare": ["2020-08-01T00:00:00.000Z"],
+    "expediente": "25899400300220170013100",
+    "carpetaNumero": 392,
+    "despacho": null
+  }
+}

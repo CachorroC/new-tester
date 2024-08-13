@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308120180051400",
+  "numero": 530,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 35455606,
+    "direccion": "calle 175 no 70-40",
+    "email": "mariaclarareyes@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "clara",
+    "primerApellido": "reyes",
+    "segundoApellido": "reyes"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-25T00:00:00.000Z",
+    "mandamientoPago": "2018-04-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-21T00:00:00.000Z",
+    "expediente": "11001400308120180051400",
+    "capitalAdeudado": 14409411,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [4.0998833882814e30, 5.30372988731428e29],
+    "radicado": "2018 - 00514",
+    "vencimientoPagare": ["2020-10-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 35455606,
+  "idProcesos": null
+}

@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "25754408900220180011300",
+  "numero": 475,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 4281808,
+    "direccion": "calle 1 a no 13-30  soacha",
+    "email": "eedibrando600@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "librando",
+    "primerApellido": "candela",
+    "segundoApellido": "munevar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-02-22T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754408900220180011300",
+    "capitalAdeudado": 39146947,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "SOACHA",
+    "obligacion": [1000090987],
+    "radicado": "2018 - 00113",
+    "vencimientoPagare": [
+      "2001-03-08T05:00:00.000Z",
+      "2019-01-01T00:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 4281808,
+  "idProcesos": null
+}

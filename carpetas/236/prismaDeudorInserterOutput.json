@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 233,
+    "cedula": "3165933",
+    "primerNombre": "rigoberto",
+    "primerApellido": "olaya",
+    "segundoNombre": "moreno",
+    "segundoApellido": null,
+    "direccion": "carrera 81 f 71f 56",
+    "email": "rigoberto-moreno20@hotmail.com",
+    "telCelular": "3123836799",
+    "telFijo": "7191321",
+    "carpetaNumero": 236
+  }
+}

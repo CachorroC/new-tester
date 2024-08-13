@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:00.999Z",
+  "proceso": {
+    "idProceso": 9342243,
+    "idConexion": 261,
+    "llaveProceso": "11001400304320180047400",
+    "fechaProceso": "2018-05-03T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-01-14T05:00:00.000Z",
+    "despacho": "JUZGADO 043 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: INGRID CATHERINE TAPIAS RICO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 43,
+      "tipo": "JUZGADO 043 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-43-civil-municipal-de-bogota"
+    }
+  }
+}

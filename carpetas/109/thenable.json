@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302420180011900",
+  "numero": 109,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1018428090,
+    "direccion": "carrera 3 d # 32a - 69 sur",
+    "email": "oscar.agudelo@crcom.gov.co",
+    "tel": {
+      "fijo": null,
+      "celular": 3045449490
+    },
+    "primerNombre": "oscar",
+    "segundoNombre": "ivan",
+    "primerApellido": "agudelo",
+    "segundoApellido": "mora"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T00:00:00.000Z",
+    "mandamientoPago": "2018-04-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400302420180011900",
+    "capitalAdeudado": 2166056220,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12491571],
+    "radicado": "2018 - 00119",
+    "vencimientoPagare": ["2017-07-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1018428090,
+  "idProcesos": null
+}

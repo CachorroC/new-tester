@@ -1,0 +1,105 @@
+{
+  "id": 80257279,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LUZ MERY SALCEDO ESPINOSA",
+    "cedula": "10336884340",
+    "direccion": "TRANSVERSAL 4B No 3-75 CASA 87",
+    "telefono": "7308097",
+    "id": 489
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "23041704",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-20T05:00:00.000Z"],
+    "id": 489,
+    "llaveProceso": "25754418900320180100800",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 489,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990126542"],
+    "radicado": "2018 - 01008",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2025-02-19T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 489,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.619Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 489,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "ORLANDO",
+    "segundoNombre": "SILVA",
+    "primerApellido": "CALDERON",
+    "segundoApellido": null,
+    "cedula": "80257279",
+    "direccion": "CALLE 72 G- SUR No 35-13 SUR",
+    "email": "jjanzola@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900320180100800",
+  "nombre": "orlando silva calderon",
+  "numero": 489,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 489,
+      "createdAt": "2024-02-10T00:55:02.619Z",
+      "pathname": null,
+      "dueDate": "2019-10-27T05:00:00.000Z",
+      "text": "EL 27/09/2019 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 489,
+      "createdAt": "2024-02-10T00:55:02.619Z",
+      "pathname": null,
+      "dueDate": "2020-01-26T05:00:00.000Z",
+      "text": "EL 26/12/2019 SE HIZO LEVANTAMIENTO DE EMBARGO DEL INMUEBLE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 489,
+      "createdAt": "2024-02-10T00:55:02.619Z",
+      "pathname": null,
+      "dueDate": "2020-01-11T05:00:00.000Z",
+      "text": "EL 11/12/2019 SE DEVOLVIO DESGLOSE CON GARANTIAS A AECSA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.619Z"
+}

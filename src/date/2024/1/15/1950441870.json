@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:10.412Z",
+  "savedDate": 1599627600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1950441870,
+    "llaveProceso": "11001400300820170113400",
+    "consActuacion": 83,
+    "fechaActuacion": "2024-02-05T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 1129-2024, No. Reloj Radicador: 15619, Entidad o Señor(a): SECRETARÍA DISTRITAL DE GOBIERNO BOSA NOTIFICACIONES.BOSA@GOBIERNOBOGOTA.GOV.CO - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Memorial, Observaciones: DEVOLUCIÓN  DESPACHO COMISORIO NO DCOECM-0723DG-126",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-05T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 83,
+    "isUltimaAct": true,
+    "idProceso": 50716620
+  }
+}

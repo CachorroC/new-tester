@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 12,
+    "numero": 12,
+    "llaveProceso": "25269400300220180015800",
+    "nombre": "oscar manuel triviño garcia",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

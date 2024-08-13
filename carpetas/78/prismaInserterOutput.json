@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 78,
+    "numero": 78,
+    "llaveProceso": "11001400306420170123100",
+    "nombre": "jaime edison santos martin",
+    "idProcesos": [17942390],
+    "category": "Terminados"
+  }
+}

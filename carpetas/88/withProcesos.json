@@ -1,0 +1,89 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "1/07/2018",
+    "obligacion": {
+      "A": 12488415
+    },
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00528",
+    "llaveProceso": "1100140030820170052800",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "20/06/2017",
+    "mandamientoPago": "28/06/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 1369,
+        "fechaAporta": "AUTOMOVIL MARCA HYNDAI LINEA ACCENT GL MODELO 2016 COLOR BLANCO CRISTAL"
+      },
+      "certimail": "28/06/2017",
+      "fisico": "VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 88,
+      "idConexion": null,
+      "llaveProceso": "1100140030820170052800",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2018-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 0,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-06-20T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [12488415],
+      "radicado": "2017 - 00528"
+    }
+  ],
+  "numero": 88,
+  "llaveProceso": "1100140030820170052800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3103126814
+    },
+    "primerNombre": "IDALY",
+    "segundoNombre": "FERRO",
+    "primerApellido": "CARDONA",
+    "segundoApellido": null,
+    "cedula": 51890871,
+    "direccion": "calle 6 No. 4-07 BOGOTA",
+    "email": "lasmi40@hotmail.com"
+  },
+  "cc": 51890871,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "IDALY FERRO CARDONA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

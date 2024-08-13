@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 445,
+    "numero": 445,
+    "llaveProceso": "25754400300120180057200",
+    "nombre": "juan carlos garzon bejarano",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:35.452Z",
+  "proceso": {
+    "idProceso": 52160520,
+    "idConexion": 259,
+    "llaveProceso": "11001400308220180096400",
+    "fechaProceso": "2019-02-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-03-24T05:00:00.000Z",
+    "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE RAMON ESTRADA CASTILLO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 14,
+      "tipo": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-14-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

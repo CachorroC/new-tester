@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 95,
+    "numero": 95,
+    "llaveProceso": "11001400302820170057500",
+    "nombre": "edwin jhobani perez pita",
+    "idProcesos": [50541540],
+    "category": "Terminados"
+  }
+}

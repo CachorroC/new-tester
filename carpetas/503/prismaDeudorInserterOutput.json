@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 495,
+    "cedula": "3096755",
+    "primerNombre": "juan",
+    "primerApellido": "leon",
+    "segundoNombre": "carlos",
+    "segundoApellido": "montenegro",
+    "direccion": "diagonal 2 no 6 a-29",
+    "email": "jclm152@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 503
+  }
+}

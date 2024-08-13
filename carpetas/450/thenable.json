@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307820180064700",
+  "numero": 450,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53133179,
+    "direccion": "calle 63 sur no 78 j-38 torre 4 apto 603",
+    "email": "kellyohamd@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "kelly",
+    "segundoNombre": "yohanna",
+    "primerApellido": "murcia",
+    "segundoApellido": "ducon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-06-26T00:00:00.000Z",
+    "mandamientoPago": "2018-04-07T05:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-19T00:00:00.000Z",
+    "expediente": "11001400307820180064700",
+    "capitalAdeudado": 2155020258,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990160362],
+    "radicado": "2018 - 00647",
+    "vencimientoPagare": ["2021-01-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53133179,
+  "idProcesos": null
+}

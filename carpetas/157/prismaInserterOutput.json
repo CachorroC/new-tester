@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 157,
+    "numero": 157,
+    "llaveProceso": "11001400301120170088900",
+    "nombre": "luis alberto mendoza castaño",
+    "idProcesos": [50668030],
+    "category": "Terminados"
+  }
+}

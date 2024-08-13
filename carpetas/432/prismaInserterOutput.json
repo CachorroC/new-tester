@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 432,
+    "numero": 432,
+    "llaveProceso": "11001400308120180058300",
+    "nombre": "lilia yanira diaz caro",
+    "idProcesos": [51914550, 81863401],
+    "category": "Terminados"
+  }
+}

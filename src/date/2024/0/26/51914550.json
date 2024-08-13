@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:10.678Z",
+  "proceso": {
+    "idProceso": 51914550,
+    "idConexion": 259,
+    "llaveProceso": "11001400308120180058300",
+    "fechaProceso": "2019-05-16T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-03T05:00:00.000Z",
+    "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LILIA YANIRA DIAZ CARO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 12,
+      "tipo": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-12-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

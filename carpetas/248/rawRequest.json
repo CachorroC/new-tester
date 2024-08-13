@@ -1,0 +1,5 @@
+{
+  "Message": "OK",
+  "StatusCode": 200,
+  "url": "https://consultaprocesos.ramajudicial.gov.co:448/api/v2/Procesos/Consulta/NumeroRadicacion?numero=11001400305920170087100&SoloActivos=false&pagina=1"
+}

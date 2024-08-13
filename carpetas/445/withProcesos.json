@@ -1,0 +1,83 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "3/07/2028",
+    "obligacion": {
+      "A": 20990165615
+    },
+    "capitalAdeudado": "$ 29.143.861",
+    "entregaGarantiasAbogado": "14/06/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00572",
+    "llaveProceso": "25754400300120180057200",
+    "etapaProcesal": "25754418900120180057200",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "19/06/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "SI",
+        "resultado": "28/07/2018"
+      },
+      "292": {
+        "fechaRecibido": "29/11/2018",
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "18/07/2018",
+      "fisico": "NO",
+      "autoNotificado": "CORREO"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "30/01/2019",
+      "medidaSolicitada": "26/07/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 445,
+  "llaveProceso": "25754400300120180057200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3654986,
+      "celular": 3212282328
+    },
+    "primerNombre": "JUAN",
+    "segundoNombre": "CARLOS",
+    "primerApellido": "GARZON",
+    "segundoApellido": "BEJARANO",
+    "cedula": 79978846,
+    "direccion": "CARRERA 10BIS B ESTE No 63-44 SUR",
+    "email": "juangarzon21@hotmail.com"
+  },
+  "cc": 79978846,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JUAN CARLOS GARZON BEJARANO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2018-11-29T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "CORREO"
+  }
+}

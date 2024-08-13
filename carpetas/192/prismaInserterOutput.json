@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 192,
+    "numero": 192,
+    "llaveProceso": "1100140030732017015300",
+    "nombre": "diana patricia sanchez salcedo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

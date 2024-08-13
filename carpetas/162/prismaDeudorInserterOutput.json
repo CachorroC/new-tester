@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 160,
+    "cedula": "900432476",
+    "primerNombre": "manhattan",
+    "primerApellido": "s.a.s",
+    "segundoNombre": "dotaciones",
+    "segundoApellido": null,
+    "direccion": null,
+    "email": "7514006",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 162
+  }
+}

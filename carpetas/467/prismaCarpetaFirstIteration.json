@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-06-29T05:00:00.000Z",
+  "idProcesos": [51345660],
+  "idRegUltimaAct": 1323386340,
+  "llaveProceso": "11001400301720180083200",
+  "nombre": "MANUEL SANTIAGO CORREAL ZUÑIGA",
+  "numero": 467,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:33.671Z"
+}

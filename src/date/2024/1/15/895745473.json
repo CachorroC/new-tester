@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:17.869Z",
+  "savedDate": 1574744400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 895745473,
+    "llaveProceso": "11001400305220190110300",
+    "consActuacion": 12,
+    "fechaActuacion": "2020-02-06T05:00:00.000Z",
+    "actuacion": "Retiro de demanada",
+    "anotacion": "renuncia a terminos y retira apoderada demandante ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-02-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 12,
+    "isUltimaAct": true,
+    "idProceso": 66898433
+  }
+}

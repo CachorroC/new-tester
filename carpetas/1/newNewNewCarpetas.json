@@ -1,0 +1,54 @@
+{
+  "id": 39581581,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["2273 320145954"],
+    "llaveProceso": "2530740030012017025000",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43059"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-05-30T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "GIRARDOT",
+    "radicado": "2017 - 00250",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2026-11-28T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ALEXANDRA",
+    "segundoNombre": "MILENA",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "AGUILAR",
+    "cedula": 39581581,
+    "direccion": "MZ 7 CS 6 UB HDA/ GIRARDOT",
+    "email": "34|"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "2530740030012017025000",
+  "nombre": "ALEXANDRA MILENA JIMENEZ AGUILAR",
+  "numero": 1,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:40.595Z"
+}

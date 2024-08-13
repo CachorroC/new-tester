@@ -1,0 +1,54 @@
+{
+  "id": 79834592,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "4513075306389036 // 5303715369427808"],
+    "llaveProceso": "25754418900320170076200",
+    "notificacion": {
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "24/08/2017"
+    },
+    "capitalAdeudado": 14675091,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-08T05:00:00.000Z",
+    "etapaProcesal": "25754418900320170076200",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00762",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8211035,
+      "celular": 3138725407
+    },
+    "primerNombre": "YONNY",
+    "segundoNombre": "ARTURO",
+    "primerApellido": "PINZON",
+    "segundoApellido": "PULIDO",
+    "cedula": 79834592,
+    "direccion": "CALLE 34 # 2- 07 TORRE 23 APTO 101",
+    "email": "japp161@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900320170076200",
+  "nombre": "YONNY ARTURO PINZON PULIDO",
+  "numero": 126,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:27.305Z"
+}

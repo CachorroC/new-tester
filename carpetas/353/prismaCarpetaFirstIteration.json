@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-03-15T05:00:00.000Z",
+  "idProcesos": [50873850],
+  "idRegUltimaAct": 1263708100,
+  "llaveProceso": "11001400307320170156300",
+  "nombre": "RICARDO ARIAS GUZMAN",
+  "numero": 353,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:15.390Z"
+}

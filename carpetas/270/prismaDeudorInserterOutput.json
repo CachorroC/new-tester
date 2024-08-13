@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 267,
+    "cedula": "1018423770",
+    "primerNombre": "wilmer",
+    "primerApellido": "quiñones",
+    "segundoNombre": "andres",
+    "segundoApellido": "hernandez",
+    "direccion": "calle 37 b no 68 i - 23 sur",
+    "email": "andresxaw@gmail.com",
+    "telCelular": "3107727822",
+    "telFijo": "4566333",
+    "carpetaNumero": 270
+  }
+}

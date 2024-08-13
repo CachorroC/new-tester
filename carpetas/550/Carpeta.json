@@ -1,0 +1,97 @@
+{
+  "id": 1022336662,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 550
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 550,
+    "llaveProceso": "25754418900120190091100",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 550,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [],
+    "radicado": "2019 - 00911",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 550,
+      "fechaOrdenaMedida": "2024-02-10T00:55:06.558Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 550,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ANGEL",
+    "primerApellido": "AGUASACO",
+    "segundoApellido": "PEÑUELA",
+    "cedula": "1022336662",
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900120190091100",
+  "nombre": "miguel angel aguasaco peñuela",
+  "numero": 550,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 550,
+      "createdAt": "2024-02-10T00:55:06.558Z",
+      "pathname": null,
+      "dueDate": "2020-04-02T05:00:00.000Z",
+      "text": "EL 2/03/2020 SE DEVUELVE DESGLOSE CON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 550,
+      "createdAt": "2024-02-10T00:55:06.558Z",
+      "pathname": null,
+      "dueDate": "2020-03-10T05:00:00.000Z",
+      "text": " EL 10/02/2020 LA APODERADA DE LA ACTORA RETIRO LA DEMANDA DEL JUZGADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:06.559Z"
+}

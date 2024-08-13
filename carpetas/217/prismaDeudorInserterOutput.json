@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 214,
+    "cedula": "52328942",
+    "primerNombre": "diana",
+    "primerApellido": "naranjo",
+    "segundoNombre": "vanessa",
+    "segundoApellido": "hernandez",
+    "direccion": "calle 58 # 45 - 86",
+    "email": "casas_castillo@hotmail.com",
+    "telCelular": "3108096132",
+    "telFijo": "2256952",
+    "carpetaNumero": 217
+  }
+}

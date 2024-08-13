@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:55.588Z",
+  "proceso": {
+    "idProceso": 50918350,
+    "idConexion": 259,
+    "llaveProceso": "11001400302020170155600",
+    "fechaProceso": "2017-12-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-18T05:00:00.000Z",
+    "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LILIAN ANDREA HERNANDEZ SUAREZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 6,
+      "tipo": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-06-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

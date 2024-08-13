@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 569,
+    "cedula": "52760611",
+    "primerNombre": "angelica",
+    "primerApellido": "gutierrez",
+    "segundoNombre": "godoy",
+    "segundoApellido": "y,edison,andres,tuta,forero",
+    "direccion": "carrera 145 144 c 72 torre 7 apartamento 904 conjunto residencial almenara p.h  de la ciudad de bogotá",
+    "email": "angelicagodoygutierrez@gmail.com",
+    "telCelular": "3116509661",
+    "telFijo": null,
+    "carpetaNumero": 581
+  }
+}

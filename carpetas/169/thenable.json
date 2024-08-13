@@ -1,0 +1,40 @@
+{
+  "llaveProceso": "11001400300320170126400",
+  "numero": 169,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 23553904,
+    "direccion": "carrera 67 no. 65-22 sur torre 15 apto 559",
+    "email": "dorancy1@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "rita",
+    "segundoNombre": "blanco",
+    "primerApellido": "de",
+    "segundoApellido": "gomez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-21T00:00:00.000Z",
+    "mandamientoPago": "2017-08-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400300320170126400",
+    "capitalAdeudado": 13144437,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12498762, "audioprestamo"],
+    "radicado": "2017 - 01264",
+    "vencimientoPagare": ["2020-03-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 46453644,
+    "nombre": "nidia dorancy gomez blanco"
+  },
+  "cc": 23553904,
+  "idProcesos": null
+}

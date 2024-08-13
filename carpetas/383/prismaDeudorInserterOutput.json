@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 380,
+    "cedula": "65706810",
+    "primerNombre": "nohora",
+    "primerApellido": "barrero",
+    "segundoNombre": "esperanza",
+    "segundoApellido": "rodriguez",
+    "direccion": "calle 12 # 2c - 55 senderos de funza // calle 50 sur # 93d - 38",
+    "email": "nonbaro@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 383
+  }
+}

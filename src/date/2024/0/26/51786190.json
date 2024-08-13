@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:21.028Z",
+  "proceso": {
+    "idProceso": 51786190,
+    "idConexion": 259,
+    "llaveProceso": "11001418901420190019000",
+    "fechaProceso": "2019-03-26T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-09-23T05:00:00.000Z",
+    "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ALVARO LUIS ASPRILLA LUCUMI ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 14,
+      "tipo": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-014-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "LUISA FERNANDA SALAZAR PATARROYO",
+    "cedula": "1018430139",
+    "direccion": "CARRERA 38 No 14-93 BLOQUE  1 CASA 301 SOACHA",
+    "telefono": "6680643",
+    "id": 242,
+    "carpetaNumero": 242
+  },
+  "demanda": {
+    "vencimientoPagare": "20/04/2023",
+    "obligacion": {
+      "A": 20990182990
+    },
+    "capitalAdeudado": "21.740.168.69",
+    "entregaGarantiasAbogado": "11/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00903",
+    "llaveProceso": "25754418900220180036300",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "19/09/2017",
+    "mandamientoPago": "6/10/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 1339,
+        "resultado": "13/10/2017"
+      },
+      "certimail": "6/10/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 242,
+  "llaveProceso": "25754418900220180036300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 4805457,
+      "celular": 3223968514
+    },
+    "primerNombre": "JOHN",
+    "segundoNombre": "HADER",
+    "primerApellido": "OTALVARO",
+    "segundoApellido": ["", "ROMO"],
+    "cedula": 79793904,
+    "direccion": "CALLE 183 No11 -55 BLOQUE 9 APARTAMENTO 102",
+    "email": "johnhader70@hotmail.com"
+  },
+  "cc": 79793904,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JOHN HADER OTALVARO  ROMO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

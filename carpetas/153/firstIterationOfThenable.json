@@ -1,0 +1,59 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 179883
+    },
+    "capitalAdeudado": 20221005.96,
+    "entregaGarantiasAbogado": "24/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00714",
+    "llaveProceso": "25754418900220170071400",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "28/08/2017",
+    "mandamientoPago": "4/04/2018",
+    "notificacion": {
+      "tipo": 43194,
+      "autoNotificado": "INMUEBLE"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "00/04/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 153,
+  "llaveProceso": "25754418900220170071400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 5168872,
+      "celular": 3214064280
+    },
+    "primerNombre": "MARBELL",
+    "segundoNombre": "ROCIO",
+    "primerApellido": "DOMINGUEZ",
+    "segundoApellido": "ALVAREZ",
+    "cedula": 52230614,
+    "direccion": "CARRERA 15B # 6 - 32 TORRE 8 APTO 202",
+    "email": "rocio4332@hotmail.com"
+  },
+  "cc": 52230614,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MARBELL ROCIO DOMINGUEZ ALVAREZ",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "INMUEBLE"
+  }
+}

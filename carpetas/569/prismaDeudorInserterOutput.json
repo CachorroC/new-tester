@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 557,
+    "cedula": "52514115",
+    "primerNombre": "diana",
+    "primerApellido": "silvara",
+    "segundoNombre": "patricia",
+    "segundoApellido": "rodriguez",
+    "direccion": "tv 96 b 20 d 70 casa 3",
+    "email": "dsilvarar28@gmail.com",
+    "telCelular": "3203477527",
+    "telFijo": null,
+    "carpetaNumero": 569
+  }
+}

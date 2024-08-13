@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 398,
+    "cedula": "52357813",
+    "primerNombre": "sandra",
+    "primerApellido": "",
+    "segundoNombre": "patricia",
+    "segundoApellido": "ojeda,rodriguez",
+    "direccion": "calle 50 sur no 87 d- 81",
+    "email": "dandraojeda_5@hotmail.com",
+    "telCelular": "3112572775",
+    "telFijo": "7232225",
+    "carpetaNumero": 401
+  }
+}

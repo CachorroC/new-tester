@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 438,
+    "cedula": "80424051",
+    "primerNombre": "diego",
+    "primerApellido": "benitez",
+    "segundoNombre": "fernando",
+    "segundoApellido": "alvarado",
+    "direccion": "carrera 10 no 12-32 apto 230 torre 8",
+    "email": "dieben71@gmail.com",
+    "telCelular": "3502092709",
+    "telFijo": null,
+    "carpetaNumero": 443
+  }
+}

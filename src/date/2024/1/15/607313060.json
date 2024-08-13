@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:07.756Z",
+  "savedDate": 1503464400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 607313060,
+    "llaveProceso": "11001400300920170081300",
+    "consActuacion": 36,
+    "fechaActuacion": "2018-11-30T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "PAQUETE 1108",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-11-30T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 36,
+    "isUltimaAct": true,
+    "idProceso": 50653560
+  }
+}

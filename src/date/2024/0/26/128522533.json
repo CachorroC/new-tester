@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:40.138Z",
+  "proceso": {
+    "idProceso": 128522533,
+    "idConexion": 261,
+    "llaveProceso": "11001400303820230113800",
+    "fechaProceso": "2023-11-30T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-22T05:00:00.000Z",
+    "despacho": "JUZGADO 038 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: MADAY SABAD CAMACHO BUITRAGO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 38,
+      "tipo": "JUZGADO 038 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-038-civil-municipal-de-bogota"
+    }
+  }
+}

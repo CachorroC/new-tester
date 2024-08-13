@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303020170175600",
+  "numero": 336,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79860814,
+    "direccion": "calle 63 no   26 - 10",
+    "email": "catirimorales79@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "alfredo",
+    "primerApellido": "cardozo",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-20T00:00:00.000Z",
+    "mandamientoPago": "2017-11-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-14T00:00:00.000Z",
+    "expediente": "11001400303020170175600",
+    "capitalAdeudado": 1829550100,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [530092248],
+    "radicado": "2017 - 01756",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79860814,
+  "idProcesos": null
+}

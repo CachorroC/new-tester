@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306320170129000",
+  "numero": 420,
+  "tipoProceso": "HMM PISO 1",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 52773230,
+    "direccion": "calle 42 no 78 h - 38 sur",
+    "email": "N / A",
+    "tel": {
+      "fijo": 3085025,
+      "celular": 3107706773
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "patricia",
+    "primerApellido": "barreto",
+    "segundoApellido": "osma"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-12-12T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-01-12T05:00:00.000Z",
+    "expediente": "11001400306320170129000",
+    "capitalAdeudado": 10382732,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": ["377813451010780 / 4513070410107739", 5.30371016595875e29],
+    "radicado": "1.100140030632017e+22",
+    "vencimientoPagare": ["2020-08-07T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52773230,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 513,
+    "numero": 513,
+    "llaveProceso": "11001400304420190016500",
+    "nombre": "erik ricardo pinto rodriguez",
+    "idProcesos": [65707550],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 186,
+    "numero": 186,
+    "llaveProceso": "25175408900220170041200",
+    "nombre": "cely margoth rojas velandia",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

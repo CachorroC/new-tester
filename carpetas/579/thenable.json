@@ -1,0 +1,36 @@
+{
+  "llaveProceso": null,
+  "numero": 579,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1024481233,
+    "direccion": "calle 114 no. 6 a 92",
+    "email": "suenopandapijamas@gmail.com",
+    "tel": {
+      "fijo": 8027134,
+      "celular": 3108012331
+    },
+    "primerNombre": "andrea",
+    "segundoNombre": "carolina",
+    "primerApellido": "diaz",
+    "segundoApellido": "barreto"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2021-08-18T00:00:00.000Z",
+    "expediente": null,
+    "capitalAdeudado": 20488522,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [9440087467, "40733834 X T.C. VISA 4513080401547652"],
+    "radicado": null,
+    "vencimientoPagare": [null, null, "2026-07-03T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1024481233,
+  "idProcesos": null
+}

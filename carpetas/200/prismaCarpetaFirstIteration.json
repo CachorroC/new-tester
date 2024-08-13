@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-03-02T05:00:00.000Z",
+  "idProcesos": [50681670],
+  "idRegUltimaAct": 1260723850,
+  "llaveProceso": "11001400301220170101200",
+  "nombre": "ALEXANDER ROJAS CASTAÑEDA",
+  "numero": 200,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:51.858Z"
+}

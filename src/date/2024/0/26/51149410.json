@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:37.361Z",
+  "proceso": {
+    "idProceso": 51149410,
+    "idConexion": 259,
+    "llaveProceso": "11001400300420180047500",
+    "fechaProceso": "2018-04-26T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-17T05:00:00.000Z",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ADOLFO LEON DAZA FERNANDEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 7,
+      "tipo": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-07-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

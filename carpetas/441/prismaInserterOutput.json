@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 441,
+    "numero": 441,
+    "llaveProceso": "25899408900120180060900",
+    "nombre": "yaneth null millan prieto",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

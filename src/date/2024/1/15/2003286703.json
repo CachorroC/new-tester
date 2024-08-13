@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:10.211Z",
+  "savedDate": 1529557200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 2003286703,
+    "llaveProceso": "11001400305220170090600",
+    "consActuacion": 49,
+    "fechaActuacion": "2024-02-14T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Mmeorial Impulso Cesión",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-14T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 49,
+    "isUltimaAct": true,
+    "idProceso": 11720143
+  }
+}

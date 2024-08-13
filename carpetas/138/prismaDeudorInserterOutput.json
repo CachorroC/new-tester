@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 136,
+    "cedula": "52323645",
+    "primerNombre": "flor",
+    "primerApellido": "barrantes",
+    "segundoNombre": "yamile",
+    "segundoApellido": "caro",
+    "direccion": "carrera 19 # 22c - 75",
+    "email": "ybarrantes@gmail.com",
+    "telCelular": "3103446498",
+    "telFijo": "5471164",
+    "carpetaNumero": 138
+  }
+}

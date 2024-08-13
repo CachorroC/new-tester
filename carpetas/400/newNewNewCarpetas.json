@@ -1,0 +1,54 @@
+{
+  "id": 79652256,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["6590084682"],
+    "llaveProceso": "25307400300220180007500",
+    "notificacion": {
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "24/08/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 17247376,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2018-02-09T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "GIRARDOT",
+    "radicado": "2018 - 00075",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2020-12-21T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "OSCAR",
+    "segundoNombre": "GUILLERMO",
+    "primerApellido": "LOZANO",
+    "segundoApellido": "GONZALEZ",
+    "cedula": 79652256,
+    "direccion": "XARRERA 2 No 10-30B CENTENARIO - GIRARDOT",
+    "email": "ocaelmejor@yahoo.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25307400300220180007500",
+  "nombre": "OSCAR GUILLERMO LOZANO GONZALEZ",
+  "numero": 400,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:04.927Z"
+}

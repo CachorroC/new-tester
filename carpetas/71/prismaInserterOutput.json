@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 71,
+    "numero": 71,
+    "llaveProceso": "11001400304720170106500",
+    "nombre": "betty stephani torres rojas",
+    "idProcesos": [10404913],
+    "category": "Terminados"
+  }
+}

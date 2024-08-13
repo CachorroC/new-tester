@@ -1,0 +1,62 @@
+{
+  "id": 80742720,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "ADRIANA MIREYA AGUILAR",
+    "cedula": "52742707",
+    "direccion": "TRANSVERSAL 16 A-BIS- No 46-32 SUR",
+    "telefono": "3166997083",
+    "id": 471
+  },
+  "demanda": {
+    "obligacion": ["20990097950"],
+    "llaveProceso": "1100140030152018007100",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 1255541618,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-08-09T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00712",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2022-06-15T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7608072,
+      "celular": 3166997083
+    },
+    "primerNombre": "ADRIANA",
+    "segundoNombre": "MIREYA",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": null,
+    "cedula": 80742720,
+    "direccion": "CARRERA 13 BIS No 47 SUR- 32",
+    "email": "nanaleo24@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "1100140030152018007100",
+  "nombre": "ADRIANA MIREYA AGUILAR",
+  "numero": 471,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:26.284Z"
+}

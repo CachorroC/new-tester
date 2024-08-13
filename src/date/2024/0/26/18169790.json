@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:54.376Z",
+  "proceso": {
+    "idProceso": 18169790,
+    "idConexion": 260,
+    "llaveProceso": "11001400306520170178600",
+    "fechaProceso": "2017-12-13T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-01-14T05:00:00.000Z",
+    "despacho": "JUZGADO 065 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: TITULARIZADORA COLOMBIANA S.A. HITOS | Demandado: JOSE DAVID PEÑA SAAVEDRA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 65,
+      "tipo": "JUZGADO 065 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-65-civil-municipal-de-bogota"
+    }
+  }
+}

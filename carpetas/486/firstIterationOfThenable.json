@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 2330066914
+    },
+    "capitalAdeudado": "12.827.556.00",
+    "entregaGarantiasAbogado": "10/08/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00210",
+    "llaveProceso": "11001418900520180021000",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "18/09/2018"
+  },
+  "demandas": [],
+  "numero": 486,
+  "llaveProceso": "11001418900520180021000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "PATRICIA",
+    "primerApellido": "LONDOÑO",
+    "segundoApellido": "MURCIA",
+    "cedula": 40776578,
+    "direccion": "CARRERA 26B No 28-30  SUR INT 2",
+    "email": "salonmur@hotmail.com"
+  },
+  "cc": 40776578,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "SANDRA PATRICIA LONDOÑO MURCIA",
+  "notificacion": null
+}

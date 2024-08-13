@@ -1,0 +1,56 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "14/01/2026",
+    "obligacion": {
+      "A": 2099010000000
+    },
+    "capitalAdeudado": "16.225.494.45",
+    "entregaGarantiasAbogado": "13/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 01022",
+    "llaveProceso": "25754418900320180102200",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "26/09/2018",
+    "mandamientoPago": "25/10/2018",
+    "notificacion": {
+      "certimail": "FALLA"
+    }
+  },
+  "demandas": [],
+  "numero": 494,
+  "llaveProceso": "25754418900320180102200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3214747968
+    },
+    "primerNombre": "LUISA",
+    "segundoNombre": "ENELLY",
+    "primerApellido": "GUGU",
+    "segundoApellido": "VITOPIA",
+    "cedula": 1022332681,
+    "direccion": "CARRERA 51F- No 37 A-26 SUR",
+    "email": "vitopia1022@hotmail.com"
+  },
+  "cc": 1022332681,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "LUISA ENELLY GUGU VITOPIA",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

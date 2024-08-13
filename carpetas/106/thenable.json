@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305920170048300",
+  "numero": 106,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 501492,
+    "direccion": "calle 134 no. 58-58",
+    "email": "danielher84@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "daniel",
+    "primerApellido": "hernandez",
+    "segundoApellido": "gonzalez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-16T00:00:00.000Z",
+    "mandamientoPago": "2017-07-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400305920170048300",
+    "capitalAdeudado": 16497281,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [12515504],
+    "radicado": "2017 - 00483",
+    "vencimientoPagare": ["2018-08-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 501492,
+  "idProcesos": null
+}

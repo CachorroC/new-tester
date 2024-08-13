@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400306720170126900",
+  "numero": 188,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1019029250,
+    "direccion": null,
+    "email": "CARRERA 86 # 77A - 28",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "diego",
+    "segundoNombre": "armando",
+    "primerApellido": "arevalo",
+    "segundoApellido": "velandia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-02-12T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306720170126900",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "42967",
+    "municipio": "BOGOTA",
+    "obligacion": [5303710467974930, 3166069017],
+    "radicado": "2017 - 01269",
+    "vencimientoPagare": ["+170638-01-01T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 47099
+  },
+  "cc": 1019029250,
+  "idProcesos": null
+}

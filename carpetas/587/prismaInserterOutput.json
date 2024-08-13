@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 586,
+    "numero": 587,
+    "llaveProceso": null,
+    "nombre": "edgar mauricio vera rodriguez",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 546,
+    "cedula": "52531016",
+    "primerNombre": "claudia",
+    "primerApellido": "arias",
+    "segundoNombre": "marcela",
+    "segundoApellido": "lópez",
+    "direccion": "calle 18 n 86 55 etapa 1 torre 5 apartamento 403 conjunto residencial parque de ostente",
+    "email": "marcearias@yahoo.com",
+    "telCelular": "3106736494",
+    "telFijo": null,
+    "carpetaNumero": 558
+  }
+}

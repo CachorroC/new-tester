@@ -1,0 +1,76 @@
+{
+  "id": 79888775,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": "VIVIANA MARTINEZ ARIAS",
+    "cedula": "52791903",
+    "direccion": "CALLE 6 SUR No. 24 - 180 AP 1203 TO 7 CONJUNTO RESIDENCIAL LA PROSPERIDAD - FONTANA 3 P.H.",
+    "telefono": "F 4575011 CELULAR 3209005114",
+    "id": 592
+  },
+  "demanda": {
+    "capitalAdeudado": "104393034",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-10-13T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": null,
+    "mandamientoPago": null,
+    "municipio": "MADRID",
+    "notificacion": {
+      "id": 592,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["90000179396"],
+    "radicado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2052-02-21T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 592,
+      "fechaOrdenaMedida": "2024-02-03T00:36:37.559Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 592,
+    "telCelular": "3209005114",
+    "telFijo": "4575011 ",
+    "primerNombre": "MARCEL",
+    "segundoNombre": "LEONARDO",
+    "primerApellido": "MACHADO",
+    "segundoApellido": "ROMERO",
+    "cedula": "79888775",
+    "direccion": "CALLE 6 SUR No. 24 - 180 AP 1203 TO 7 CONJUNTO RESIDENCIAL \"LA PROSPERIDAD - FONTANA 3 P.H. MADRID - CUNDINAMARCA",
+    "email": "marcel-leo@hotmail.com     dillavivi@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "MARCEL LEONARDO MACHADO ROMERO Y VIVIANA MARTINEZ ARIAS",
+  "numero": 592,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:37.559Z"
+}

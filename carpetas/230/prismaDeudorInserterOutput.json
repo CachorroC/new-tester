@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 227,
+    "cedula": "1014185483",
+    "primerNombre": "fredy",
+    "primerApellido": "muñoz",
+    "segundoNombre": "alexander",
+    "segundoApellido": "castañeda",
+    "direccion": "calle 95 # 71 - 45 torre 8 apto 1604",
+    "email": "alexander.arquitecto@gmail.com",
+    "telCelular": "3057528084",
+    "telFijo": "8137713",
+    "carpetaNumero": 230
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 272,
+    "numero": 272,
+    "llaveProceso": "11001400300620170076300",
+    "nombre": "luis fernando gutierrez rodriguez",
+    "idProcesos": [50760770],
+    "category": "Terminados"
+  }
+}

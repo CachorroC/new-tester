@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 556,
+    "numero": 557,
+    "llaveProceso": "11001400301720230078200",
+    "nombre": "carlos null herney quintero",
+    "idProcesos": [132372990],
+    "category": "Bancolombia"
+  }
+}

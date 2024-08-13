@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420170162300",
+  "numero": 396,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 80733467,
+    "direccion": "carrera 88 a no  67 - 44",
+    "email": "orlandonovoa9@gmail.com",
+    "tel": {
+      "fijo": 7836655,
+      "celular": 3118163887
+    },
+    "primerNombre": "orlando",
+    "segundoNombre": "enrique",
+    "primerApellido": "novoa",
+    "segundoApellido": "barreto"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-21T00:00:00.000Z",
+    "mandamientoPago": "2017-09-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-15T00:00:00.000Z",
+    "expediente": "11001400306420170162300",
+    "capitalAdeudado": 24000000,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [10000090724],
+    "radicado": "2017 - 01623",
+    "vencimientoPagare": ["2019-06-08T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80733467,
+  "idProcesos": null
+}

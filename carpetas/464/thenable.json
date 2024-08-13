@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900220180066400",
+  "numero": 464,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51944991,
+    "direccion": "51944991",
+    "email": "TRANSVERSAL 4B No 3-75   CASA 44",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ricardo",
+    "segundoNombre": "armando",
+    "primerApellido": "celis",
+    "segundoApellido": "angel"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25754418900220180066400",
+    "capitalAdeudado": 43,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": ["19.080.628.51"],
+    "radicado": "2018 - 00664",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "MARIA ELIZABETH GAVIRIA OSPINA",
+    "direccion": 45689,
+    "nombre": 3632557,
+    "telefono": "TRANSVERSAL 48 No 3-75 MANZAN 5 CASA 44"
+  },
+  "cc": 51944991,
+  "idProcesos": null
+}

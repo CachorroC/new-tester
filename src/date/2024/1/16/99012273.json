@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:12.095Z",
+  "savedDate": 1505883600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 99012273,
+    "llaveProceso": "11001400303820170095700",
+    "consActuacion": 8,
+    "fechaActuacion": "2017-11-07T05:00:00.000Z",
+    "actuacion": "Retiro demanda",
+    "anotacion": null,
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2017-11-08T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "isUltimaAct": true,
+    "idProceso": 9083003
+  }
+}

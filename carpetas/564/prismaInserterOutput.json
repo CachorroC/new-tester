@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 563,
+    "numero": 564,
+    "llaveProceso": "11001418903220230061200",
+    "nombre": "jorge alex abadia carrillo",
+    "idProcesos": [132020490],
+    "category": "Bancolombia"
+  }
+}

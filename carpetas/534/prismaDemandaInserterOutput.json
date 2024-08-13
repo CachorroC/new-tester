@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 522,
+    "departamento": "CNDINAMARCA",
+    "capitalAdeudado": "33000833",
+    "entregaGarantiasAbogado": "2020-09-05T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": null,
+    "municipio": "ZIPAQUIRA",
+    "obligacion": ["377814085773793", "4.51307044512064e+29"],
+    "radicado": "2020 - 00289",
+    "vencimientoPagare": [],
+    "expediente": "2589940010020200028900",
+    "carpetaNumero": 534,
+    "despacho": null
+  }
+}

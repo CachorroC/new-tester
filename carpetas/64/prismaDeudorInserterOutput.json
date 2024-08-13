@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 64,
+    "cedula": "79891952",
+    "primerNombre": "rafael",
+    "primerApellido": "cadena",
+    "segundoNombre": "ernesto",
+    "segundoApellido": "parga",
+    "direccion": "carrera 13 a no. 150-25 int 3 apto 203",
+    "email": "rafael.cadena@signsas.com",
+    "telCelular": "3157900006",
+    "telFijo": "3157900",
+    "carpetaNumero": 64
+  }
+}

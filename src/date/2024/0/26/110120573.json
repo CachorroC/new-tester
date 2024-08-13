@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:30.056Z",
+  "proceso": {
+    "idProceso": 110120573,
+    "idConexion": 261,
+    "llaveProceso": "11001400304520170106300",
+    "fechaProceso": "2017-08-31T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-03-07T05:00:00.000Z",
+    "despacho": "JUZGADO 045 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FLOR ESPERANZA GUTIERREZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 45,
+      "tipo": "JUZGADO 045 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-45-civil-municipal-de-bogota"
+    }
+  }
+}

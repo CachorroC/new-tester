@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306520170178600",
+  "numero": 359,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79357895,
+    "direccion": "carrera 123 no 13 - 85 casa 364",
+    "email": null,
+    "tel": {
+      "fijo": 1665335,
+      "celular": 3165335586
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "david",
+    "primerApellido": "peña",
+    "segundoApellido": "saavedra"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-12T05:00:00.000Z",
+    "mandamientoPago": "2018-02-02T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306520170178600",
+    "capitalAdeudado": 872532175,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [71141],
+    "radicado": "2017 - 01786",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79357895,
+  "idProcesos": null
+}

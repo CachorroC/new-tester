@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 93,
+    "cedula": "1030527169",
+    "primerNombre": "aida",
+    "primerApellido": "grijalba",
+    "segundoNombre": "yurani",
+    "segundoApellido": "martinez",
+    "direccion": "carrera 70c # 1a - 86 sur",
+    "email": "o",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 94
+  }
+}

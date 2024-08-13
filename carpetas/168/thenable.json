@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301920170087200",
+  "numero": 168,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 21046826,
+    "direccion": "carrera 7 # 71 - 24",
+    "email": "sergio830@hotmail.com",
+    "tel": {
+      "fijo": 6861327,
+      "celular": 3164673352
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "stella",
+    "primerApellido": "hernandez",
+    "segundoApellido": "beltran"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-17T00:00:00.000Z",
+    "expediente": "11001400301920170087200",
+    "capitalAdeudado": 1814179196,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [116942],
+    "radicado": "2017 - 00872",
+    "vencimientoPagare": ["2024-03-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 53067291,
+    "direccion": "CARRERA 102B # 140A - 45 SEGUNDO PISO",
+    "nombre": "cindy mabel alvarado hernandez",
+    "telefono": 8033725
+  },
+  "cc": 21046826,
+  "idProcesos": null
+}

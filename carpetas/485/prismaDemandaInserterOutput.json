@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 479,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1649204134",
+    "entregaGarantiasAbogado": "2018-03-09T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRETAMO / 377815771894801", "4513074250577090"],
+    "radicado": "2018 - 00761",
+    "vencimientoPagare": [],
+    "expediente": "11001418900820180076100",
+    "carpetaNumero": 485,
+    "despacho": null
+  }
+}

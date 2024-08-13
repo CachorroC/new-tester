@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 127,
+    "cedula": "41709257",
+    "primerNombre": "elena",
+    "primerApellido": "quiñones",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "calle 150a # 101 - 20 torre 3 apto 802",
+    "email": "ele41709257@hotmail.com",
+    "telCelular": "3184581490",
+    "telFijo": "6928962",
+    "carpetaNumero": 129
+  }
+}

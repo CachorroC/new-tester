@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 164,
+    "cedula": "52432989",
+    "primerNombre": "dora",
+    "primerApellido": "peña",
+    "segundoNombre": "aide",
+    "segundoApellido": "peña",
+    "direccion": "calle 70c # 111d - 06",
+    "email": "aide116455@hotmail.com",
+    "telCelular": "3142403097",
+    "telFijo": "4006426",
+    "carpetaNumero": 166
+  }
+}

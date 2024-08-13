@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 107,
+    "numero": 107,
+    "llaveProceso": "11001400305720170079000",
+    "nombre": "hanyelo efrain martinez turriago",
+    "idProcesos": [17604554],
+    "category": "Terminados"
+  }
+}

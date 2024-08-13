@@ -1,0 +1,47 @@
+{
+  "id": 79335809,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["169486"],
+    "llaveProceso": "25286310300120170095600",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 120292568,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-08-31T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "MOSQUERA",
+    "radicado": "2017 - 00956",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2033-10-31T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3153808,
+      "celular": 3153808376
+    },
+    "primerNombre": "RICARDO",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "BELTRAN",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": 79335809,
+    "direccion": "CALLE 23 # 5 - 23 CASA 4 INT 10",
+    "email": "norina@reservalaboral.com.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25286310300120170095600",
+  "nombre": "RICARDO ALBERTO BELTRAN HERNANDEZ",
+  "numero": 161,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:38.832Z"
+}

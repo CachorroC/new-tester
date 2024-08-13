@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 142,
+    "cedula": "52581513",
+    "primerNombre": "maria",
+    "primerApellido": "gonzales",
+    "segundoNombre": "filomena",
+    "segundoApellido": "salas",
+    "direccion": "calle 136a # 100a - 07",
+    "email": null,
+    "telCelular": "3124794983",
+    "telFijo": null,
+    "carpetaNumero": 144
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25175408900320170047700",
+  "numero": 254,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 52344904,
+    "direccion": "carrera 9a 14f - 28c - unidad 22 chia",
+    "email": "yohairapadro@gmail.com",
+    "tel": {
+      "fijo": 8615372,
+      "celular": 3103291690
+    },
+    "primerNombre": "yohaira",
+    "primerApellido": "prado",
+    "segundoApellido": "valoyes",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-08T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-28T00:00:00.000Z",
+    "expediente": "25175408900320170047700",
+    "capitalAdeudado": 12993948,
+    "etapaProcesal": null,
+    "municipio": "CHIA",
+    "obligacion": [9460081795, 5303727444531025],
+    "radicado": "2017 - 00477",
+    "vencimientoPagare": ["2018-05-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52344904,
+  "idProcesos": null
+}

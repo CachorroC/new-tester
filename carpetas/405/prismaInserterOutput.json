@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 405,
+    "numero": 405,
+    "llaveProceso": "11001400302120180023600",
+    "nombre": "arturo null lince gomez",
+    "idProcesos": [51029180],
+    "category": "Bancolombia"
+  }
+}

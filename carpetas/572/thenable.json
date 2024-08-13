@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "2547340030012023012900",
+  "numero": 572,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 9527771,
+    "direccion": "cl 134 16 50 ap 104 edificio verona barrio contador bogotá",
+    "email": "jaimequinterom1@hotmail.com",
+    "tel": {
+      "fijo": 6154763,
+      "celular": 3102997350
+    },
+    "primerNombre": "jaime",
+    "segundoNombre": "enrique",
+    "primerApellido": "quintero",
+    "segundoApellido": "mendoza"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-04T00:00:00.000Z",
+    "expediente": "2547340030012023012900",
+    "capitalAdeudado": 91487785,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [1910090586, 94351552],
+    "radicado": "2023 - 00746",
+    "vencimientoPagare": [null, null, "2026-03-08T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 9527771,
+  "idProcesos": null
+}

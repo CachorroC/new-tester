@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304720170149100",
+  "numero": 136,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79463388,
+    "direccion": "calle 46 sur # 81g - 15",
+    "email": "jorgeernesto@hotmail.com",
+    "tel": {
+      "fijo": 2990898,
+      "celular": 3125225701
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "ernesto",
+    "primerApellido": "roa",
+    "segundoApellido": "manrique"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-23T00:00:00.000Z",
+    "mandamientoPago": "2018-11-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-16T00:00:00.000Z",
+    "expediente": "11001400304720170149100",
+    "capitalAdeudado": 41735442,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [132651],
+    "radicado": "2017 - 01491",
+    "vencimientoPagare": ["2025-10-04T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79463388,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 39,
+    "cedula": "79982488",
+    "primerNombre": "jorge",
+    "primerApellido": "trujillo",
+    "segundoNombre": "alonso",
+    "segundoApellido": "gómez",
+    "direccion": "calle 120 no. 11 b-66 bogota",
+    "email": "trujete@hotmail.com",
+    "telCelular": "3012746201",
+    "telFijo": "7053290",
+    "carpetaNumero": 39
+  }
+}

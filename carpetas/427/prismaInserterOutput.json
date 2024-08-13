@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 427,
+    "numero": 427,
+    "llaveProceso": "25126408900220180004800",
+    "nombre": "juan camilo chingate penagos",
+    "idProcesos": [86157021],
+    "category": "Reintegra"
+  }
+}

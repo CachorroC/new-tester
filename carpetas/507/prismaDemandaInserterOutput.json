@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 498,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": "2.584341030012018e+22",
+    "fechaPresentacion": null,
+    "municipio": "UBATE",
+    "obligacion": ["3380087493", "21.876.28100"],
+    "radicado": "2018 - 00499",
+    "vencimientoPagare": ["2015-01-01T00:00:00.000Z"],
+    "expediente": "258434003001201E+22",
+    "carpetaNumero": 507,
+    "despacho": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1969111020,
+  "llaveProceso": "11001400302720240027200",
+  "consActuacion": 6,
+  "fechaActuacion": "2024-04-18T05:00:00.000Z",
+  "actuacion": "Entrega de oficios",
+  "anotacion": "ENTREGA OFICIO 770 APODERADA CECILIA RAMIREZ",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-04-18T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 6,
+  "isUltimaAct": true,
+  "idProceso": 153359430
+}

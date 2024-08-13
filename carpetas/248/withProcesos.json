@@ -1,0 +1,259 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 817031830,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 7,
+      "fechaActuacion": "2017-11-22T05:00:00.000Z",
+      "actuacion": "Retiro demanda admitida - Art.88",
+      "anotacion": "RETIRADA ART. 92 C.G.P., POR LA sTA.ADRIANA PATRICIA TRIANA SUAREZ, AUTORIZADA POR LA APODERADA DEMANDANTE",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-11-22T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": true,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    },
+    {
+      "idRegActuacion": 817031820,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 6,
+      "fechaActuacion": "2017-11-22T05:00:00.000Z",
+      "actuacion": "Salida del proceso",
+      "anotacion": "RETIRADA ART. 92 C.G.P., POR LA sTA.ADRIANA PATRICIA TRIANA SUAREZ, AUTORIZADA POR LA APODERADA DEMANDANTE",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-11-22T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": false,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    },
+    {
+      "idRegActuacion": 817031810,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 5,
+      "fechaActuacion": "2017-10-24T05:00:00.000Z",
+      "actuacion": "Oficio Elaborado",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-10-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": false,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    },
+    {
+      "idRegActuacion": 817031800,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 4,
+      "fechaActuacion": "2017-10-04T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 04/10/2017 a las 11:35:27.",
+      "fechaInicial": "2017-10-05T05:00:00.000Z",
+      "fechaFinal": "2017-10-05T05:00:00.000Z",
+      "fechaRegistro": "2017-10-04T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": false,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    },
+    {
+      "idRegActuacion": 817031790,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 3,
+      "fechaActuacion": "2017-10-04T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-10-04T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": false,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    },
+    {
+      "idRegActuacion": 817031780,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 2,
+      "fechaActuacion": "2017-09-19T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-09-19T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": false,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    },
+    {
+      "idRegActuacion": 817031770,
+      "llaveProceso": "11001400305920170087100",
+      "consActuacion": 1,
+      "fechaActuacion": "2017-09-19T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 19/09/2017 a las 16:40:50",
+      "fechaInicial": "2017-09-19T05:00:00.000Z",
+      "fechaFinal": "2017-09-19T05:00:00.000Z",
+      "fechaRegistro": "2017-09-19T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 50715970,
+      "isUltimaAct": false,
+      "carpetaNumero": 248,
+      "createdAt": "2023-12-10T20:30:59.765Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 59,
+      "tipo": "JUZGADO 059 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-59-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": {
+    "nombre": "FELIPE ANDRES CARRANZA BLANCO",
+    "cedula": "1013592416",
+    "direccion": "CALLE 31 C SUR No 14A33",
+    "telefono": "4786479 /3142987388",
+    "id": 248,
+    "carpetaNumero": 248
+  },
+  "demanda": {
+    "vencimientoPagare": "22/04/2017",
+    "obligacion": {
+      "A": 130619
+    },
+    "capitalAdeudado": "49.971.067.69",
+    "entregaGarantiasAbogado": "7/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00871",
+    "llaveProceso": "11001400305920170087100",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "14/09/2017",
+    "mandamientoPago": "4/10/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 4071,
+        "resultado": "20/10/2017"
+      },
+      "certimail": "04/10/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 50715970,
+      "idConexion": 259,
+      "llaveProceso": "11001400305920170087100",
+      "fechaProceso": "2017-09-19T05:00:00.000Z",
+      "fechaUltimaActuacion": "2017-11-22T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: HENRY CARRANZA ALBA | Demandado: FELIPE ANDRES CARRANZA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2017-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 4997106769,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-07-09T05:00:00.000Z",
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": "2017-04-10T05:00:00.000Z",
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-09-14T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [130619],
+      "radicado": "2017 - 00871"
+    }
+  ],
+  "numero": 248,
+  "llaveProceso": "11001400305920170087100",
+  "fecha": "2017-11-22T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 817031830,
+    "llaveProceso": "11001400305920170087100",
+    "consActuacion": 7,
+    "fechaActuacion": "2017-11-22T00:00:00",
+    "actuacion": "Retiro demanda admitida - Art.88",
+    "anotacion": "RETIRADA ART. 92 C.G.P., POR LA sTA.ADRIANA PATRICIA TRIANA SUAREZ, AUTORIZADA POR LA APODERADA DEMANDANTE",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2017-11-22T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 7,
+    "idProceso": 50715970,
+    "isUltimaAct": true
+  },
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3193196261
+    },
+    "primerNombre": "HENRY",
+    "segundoNombre": "CARRANZA",
+    "primerApellido": "ALBA",
+    "segundoApellido": null,
+    "cedula": 19475788,
+    "direccion": "CALLE 31 SUR No 12-33",
+    "email": "hemacarblan@hotmail.com"
+  },
+  "cc": 19475788,
+  "procesos": [
+    {
+      "idProceso": 50715970,
+      "idConexion": 259,
+      "llaveProceso": "11001400305920170087100",
+      "fechaProceso": "2017-09-19T05:00:00.000Z",
+      "fechaUltimaActuacion": "2017-11-22T05:00:00.000Z",
+      "despacho": "JUZGADO 059 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: HENRY CARRANZA ALBA | Demandado: FELIPE ANDRES CARRANZA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [50715970],
+  "nombre": "HENRY CARRANZA ALBA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

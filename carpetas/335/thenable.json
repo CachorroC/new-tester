@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301120180011800",
+  "numero": 335,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1030601547,
+    "direccion": "carrera 72  no 57 b -85 sur interior 8 apartamento 2",
+    "email": "cam.g.4@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "cristian",
+    "segundoNombre": "camilo",
+    "primerApellido": "garcia",
+    "segundoApellido": "escobar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-02-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-10T00:00:00.000Z",
+    "expediente": "11001400301120180011800",
+    "capitalAdeudado": 1346476514,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [4020082793, 4513070099197613],
+    "radicado": "2018 - 00118",
+    "vencimientoPagare": ["2020-11-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1030601547,
+  "idProcesos": null
+}

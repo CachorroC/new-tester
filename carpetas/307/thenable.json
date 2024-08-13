@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303620170112500",
+  "numero": 307,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79309509,
+    "direccion": "transversal 70 g no 63-52 sur apto 27 torre 2",
+    "email": "cac.marketing@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "arturo",
+    "primerApellido": "castaño",
+    "segundoApellido": "aldana"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-24T00:00:00.000Z",
+    "mandamientoPago": "2017-11-02T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-20T00:00:00.000Z",
+    "expediente": "11001400303620170112500",
+    "capitalAdeudado": 7069304783,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [190522, 4594250022871300],
+    "radicado": "2017 - 01125",
+    "vencimientoPagare": ["2031-01-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79309509,
+  "idProcesos": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": 348774,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 547
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "1000",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 547,
+    "llaveProceso": "25754400300120210015300",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 547,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [],
+    "radicado": "2021 - 00153",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 547,
+      "fechaOrdenaMedida": "2024-02-10T00:55:06.435Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 547,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JOSE",
+    "segundoNombre": "EDGAR",
+    "primerApellido": "ACHURI",
+    "segundoApellido": "GONZALEZ",
+    "cedula": "348774",
+    "direccion": null,
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754400300120210015300",
+  "nombre": "jose edgar achuri gonzalez",
+  "numero": 547,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 547,
+      "createdAt": "2024-02-10T00:55:06.435Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "NO SE DEVOLVIERON GARANTIAS POR SER PROCESO ELECTRONICO DECRETO 806 DE 2020 ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 547,
+      "createdAt": "2024-02-10T00:55:06.435Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO EXISTE AUTO DE TERMINACION DEL PROCESO POR CUANTO SE INADMITIO LA DEMANDA ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:06.435Z"
+}

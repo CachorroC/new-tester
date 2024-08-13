@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 230,
+    "numero": 230,
+    "llaveProceso": "11001400305220170090600",
+    "nombre": "fredy alexander muñoz castañeda",
+    "idProcesos": [11720143],
+    "category": "Terminados"
+  }
+}

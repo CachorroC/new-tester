@@ -1,0 +1,47 @@
+{
+  "id": 52788376,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["20990125162"],
+    "llaveProceso": "11001418903220180127100",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 2311093437,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-10T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 01271",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2030-01-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 4383117,
+      "celular": 3144765126
+    },
+    "primerNombre": "NADIA",
+    "segundoNombre": "KATERINE",
+    "primerApellido": "MORENO",
+    "segundoApellido": "CAMACHO",
+    "cedula": 52788376,
+    "direccion": "TRANSVERSAL 83 A No 73-10   ALMERIA",
+    "email": "katiusaka79@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001418903220180127100",
+  "nombre": "NADIA KATERINE MORENO CAMACHO",
+  "numero": 474,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:26.658Z"
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300220170025600",
+  "numero": 149,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 23181779,
+    "direccion": "centro comercial suricentro local 6 -97 (monteria) 77 carrera 4 este # 38 - 56 estapa h4 casa 62",
+    "email": "tatianamag12@hotmail.com",
+    "tel": {
+      "fijo": 7867106,
+      "celular": 3138172167
+    },
+    "primerNombre": "magda",
+    "segundoNombre": "tatiana",
+    "primerApellido": "torres",
+    "segundoApellido": "gonzalez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-22T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-18T00:00:00.000Z",
+    "expediente": "25754400300220170025600",
+    "capitalAdeudado": 5174833177,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [155176],
+    "radicado": "2017 - 00256",
+    "vencimientoPagare": ["2042-08-29T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 23181779,
+  "idProcesos": null
+}

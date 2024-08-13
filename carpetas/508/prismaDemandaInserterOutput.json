@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 499,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "29416113",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2018-07-12T00:00:00.000Z",
+    "municipio": "LA CALERA",
+    "obligacion": ["2490084469"],
+    "radicado": "2018 - 00371",
+    "vencimientoPagare": ["2026-03-01T00:00:00.000Z"],
+    "expediente": "25377408900120180037100",
+    "carpetaNumero": 508,
+    "despacho": null
+  }
+}

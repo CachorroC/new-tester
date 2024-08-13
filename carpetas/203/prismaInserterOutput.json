@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 203,
+    "numero": 203,
+    "llaveProceso": "11001400300820170106000",
+    "nombre": "gonzalo null villabon martinez",
+    "idProcesos": [50684220],
+    "category": "Terminados"
+  }
+}

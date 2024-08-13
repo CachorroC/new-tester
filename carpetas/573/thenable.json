@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305520230074600",
+  "numero": 573,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 52327261,
+    "direccion": "cr 104 no 13d 77 cs 241 conjunto residencial sabanagrande 1",
+    "email": "galvis-almanza@hotmail.com",
+    "tel": {
+      "fijo": 4152969,
+      "celular": 3203369576
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "patricia",
+    "primerApellido": "galvis",
+    "segundoApellido": "almanza"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-04T00:00:00.000Z",
+    "expediente": "11001400305520230074600",
+    "capitalAdeudado": 55099216,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [4020084965, 100260717],
+    "radicado": "2023 - 001310",
+    "vencimientoPagare": [null, null, "2026-04-08T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52327261,
+  "idProcesos": null
+}

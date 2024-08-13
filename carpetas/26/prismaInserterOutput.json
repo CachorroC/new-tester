@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 26,
+    "numero": 26,
+    "llaveProceso": "11001400306520170082700",
+    "nombre": "yudy null rodriguez null",
+    "idProcesos": [18161830],
+    "category": "Terminados"
+  }
+}

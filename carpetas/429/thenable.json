@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306520180061200",
+  "numero": 429,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 10260455,
+    "direccion": "diagonal 82 bis sur no 5 a-50 este",
+    "email": "arcangel0605@hotmail.com",
+    "tel": {
+      "fijo": 7644527,
+      "celular": 3157637045
+    },
+    "primerNombre": "arcangel",
+    "primerApellido": "hernandez",
+    "segundoApellido": "rodriguez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "+020184-08-05T05:00:00.000Z",
+    "mandamientoPago": "2018-05-18T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-26T00:00:00.000Z",
+    "expediente": "11001400306520180061200",
+    "capitalAdeudado": 1405472106,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [4594250085795500],
+    "radicado": "2018 - 00612",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 10260455,
+  "idProcesos": null
+}

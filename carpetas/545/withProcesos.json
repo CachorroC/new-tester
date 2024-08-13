@@ -1,0 +1,62 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "llaveProceso": "SinEspecificar",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "SIN NUMERO"
+  },
+  "demandas": [
+    {
+      "idProceso": 545,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [],
+      "capitalAdeudado": 0,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [],
+      "radicado": "SIN NUMERO"
+    }
+  ],
+  "numero": 545,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JAIRO",
+    "segundoNombre": "ALDANA",
+    "primerApellido": "VILLAMIZAR",
+    "segundoApellido": null,
+    "cedula": 79295686,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 79295686,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JAIRO ALDANA VILLAMIZAR",
+  "notificacion": null
+}

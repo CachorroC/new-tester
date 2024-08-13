@@ -1,0 +1,55 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "LEONARDO AUGUSTO CAMACHO GONZALEZ",
+    "cedula": "19360879",
+    "direccion": "CALLE 4 A No 1-46 CASA 43",
+    "telefono": "8830921 / 3202785286",
+    "id": 478,
+    "carpetaNumero": 478
+  },
+  "demanda": {
+    "vencimientoPagare": "13/12/2019",
+    "obligacion": {
+      "A": "3450084783 / 3450084855",
+      "B": "AUDIOPRESTAMO"
+    },
+    "capitalAdeudado": "16.147.359.00",
+    "entregaGarantiasAbogado": "31/08/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "TENJO",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00335",
+    "llaveProceso": "25799418900120180033500",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "11/09/2018"
+  },
+  "demandas": [],
+  "numero": 478,
+  "llaveProceso": "25799418900120180033500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 8646896,
+      "celular": 3202340560
+    },
+    "primerNombre": "FABIO",
+    "segundoNombre": "HERNANDO",
+    "primerApellido": "PASTOR",
+    "segundoApellido": "PASTOR",
+    "cedula": 3199064,
+    "direccion": "CARRERA 4  No  1F-52  TENJO",
+    "email": "juristenjo@hotmail.com"
+  },
+  "cc": 3199064,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "FABIO HERNANDO PASTOR PASTOR",
+  "notificacion": null
+}

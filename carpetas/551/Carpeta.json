@@ -1,0 +1,169 @@
+{
+  "id": 1075211773,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 551
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "28018855",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-06-20T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 551,
+    "llaveProceso": "202300763",
+    "mandamientoPago": [],
+    "municipio": "FUSAGASUGA",
+    "notificacion": {
+      "id": 551,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2640096179"],
+    "radicado": "2023 - 00371",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2028-03-08T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 551,
+      "fechaOrdenaMedida": "2024-02-10T00:55:06.581Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 551,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "PEDRO",
+    "segundoNombre": "JONATHAN",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "GOMEZ",
+    "cedula": "1075211773",
+    "direccion": "KR 1 2 41 Fusagasugá",
+    "email": "jonathansoldier@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "202300763",
+  "nombre": "pedro jonathan ramirez gomez",
+  "numero": 551,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": "2023-07-21T05:00:00.000Z",
+      "text": "EL 21/06/2023 SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": "2023-07-22T05:00:00.000Z",
+      "text": " AUTO 22/06/2023 INGRESA A DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 30 AGOSTO INADMITE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 7 SEPT 2023 SUBSANACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " APENAS ADMITAN DEMANDA CAMBIAR MEDIDAS CAUTELARES SE FUERON MAL EN DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 27 SEPT 2023 LIBRA MANDAMIENTO DE PAGO Y MC ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "  OK MANDAMIENTO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 12 OCTUBRE SE ENVIA SOLICITUD NUEVAS MEDIDAS CAUTELARES  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 30 NOV 2023 SE ENVIA NOTI A DEUDOR SIN RADICACIONN DE OFICIOS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "/13 DIC 2023 SE RADICA MEMORIAL CON NOTIFICACION POSITIVA ANTE JUZGADO",
+      "content": []
+    },
+    {
+      "carpetaNumero": 551,
+      "createdAt": "2024-02-10T00:55:06.581Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " OJO ESTAR PENDIENTE OFICIOS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:06.581Z"
+}

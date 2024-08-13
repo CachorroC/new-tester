@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 307,
+    "cedula": "79388145",
+    "primerNombre": "libardo",
+    "primerApellido": "gonzalez",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "triviño",
+    "direccion": "carrera 72 a- no 9 - 44",
+    "email": "li_bcar@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 310
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "tester",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "ts-node src/models/newJudicial.ts > output",
+    "actuaciones": "ts-node src/actuaciones.ts > outputActuaciones",
+    "procesos": "ts-node src/procesos.ts > outputProcesos",
+    "build": "prisma generate && quicktype -s schema ./prisma/json-schema/json-schema.json -o src/types/schema.ts --no-enums --alphabetize-properties --prefer-unions --converters all-objects --no-runtime-typecheck"
+  },
+  "dependencies": {
+    "@koa/router": "^12.0.1",
+    "@material/material-color-utilities": "^0.2.7",
+    "@prisma/client": "5.13.0",
+    "@stylistic/eslint-plugin": "^1.6.3",
+    "@types/koa": "^2.15.0",
+    "@types/koa__router": "^12.0.4",
+    "@types/node": "^20.11.25",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "core-js": "^3.36.0",
+    "dotenv": "^16.4.5",
+    "eslint": "^8.57.0",
+    "express": "^4.18.3",
+    "koa": "^2.15.0",
+    "koa-body": "^6.0.1",
+    "mongodb": "^6.4.0",
+    "prisma-json-schema-generator": "^5.1.1",
+    "quicktype-core": "^23.0.106",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "5.4.0-dev.20231210",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "prisma": "^5.13.0"
+  }
+}

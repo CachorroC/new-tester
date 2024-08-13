@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 537,
+    "numero": 538,
+    "llaveProceso": "11001400302720180057700",
+    "nombre": "gloria giraldo de rovida",
+    "idProcesos": [51206070],
+    "category": "Terminados"
+  }
+}

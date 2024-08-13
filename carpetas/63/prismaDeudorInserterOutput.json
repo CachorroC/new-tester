@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 63,
+    "cedula": "1022943195",
+    "primerNombre": "diana",
+    "primerApellido": "ipuz",
+    "segundoNombre": "marcela",
+    "segundoApellido": "suarez",
+    "direccion": "calle 72b bis no 5a 22 sur",
+    "email": "marcelaipuzsuarez@hotmail.com",
+    "telCelular": null,
+    "telFijo": "7493169",
+    "carpetaNumero": 63
+  }
+}

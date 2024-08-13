@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:31.690Z",
+  "proceso": {
+    "idProceso": 77695680,
+    "idConexion": 259,
+    "llaveProceso": "11001400308520160031900",
+    "fechaProceso": "2020-06-24T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-10-27T05:00:00.000Z",
+    "despacho": "JUZGADO 085 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCO PICHINCHA | Demandado: JOSE ALFREDO RIAÑO MALDONADO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 85,
+      "tipo": "JUZGADO 085 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-085-civil-municipal-de-bogotá-"
+    }
+  }
+}

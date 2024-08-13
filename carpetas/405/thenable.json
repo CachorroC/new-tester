@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302120180023600",
+  "numero": 405,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 79396995,
+    "direccion": "calle 12 a no 71 b - 60",
+    "email": "arthurlingo64@hotmail.com",
+    "tel": {
+      "fijo": 4244358,
+      "celular": 3108844560
+    },
+    "primerNombre": "arturo",
+    "primerApellido": "lince",
+    "segundoApellido": "gomez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-02-22T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400302120180023600",
+    "capitalAdeudado": 22592583,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [87823],
+    "radicado": "2018 - 00236",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79396995,
+  "idProcesos": null
+}

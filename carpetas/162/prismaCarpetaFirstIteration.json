@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-03-24T05:00:00.000Z",
+  "idProcesos": [52159350],
+  "idRegUltimaAct": 1689013170,
+  "llaveProceso": "11001400304120170094600",
+  "nombre": "MANHATTAN DOTACIONES S.A.S",
+  "numero": 162,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:46.331Z"
+}

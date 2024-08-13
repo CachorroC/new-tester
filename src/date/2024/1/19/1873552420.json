@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T03:45:45.702Z",
+  "savedDate": "2003-09-07T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1873552420,
+    "llaveProceso": "11001400300620170030200",
+    "consActuacion": 89,
+    "fechaActuacion": "2023-09-07T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 9433-2023, No. Reloj Radicador: 13012, Entidad o Señor(a): CARMEN RAMIREZ - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Otro, Observaciones: SOLICITA EMBARGO",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-09-07T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 89,
+    "isUltimaAct": true,
+    "idProceso": 50521190
+  }
+}

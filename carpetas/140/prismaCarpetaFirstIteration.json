@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-09-01T05:00:00.000Z",
+  "idProcesos": [50921080],
+  "idRegUltimaAct": 1866523220,
+  "llaveProceso": "11001400307720170056800",
+  "nombre": "JHON FABER FORIGUA GARCIA",
+  "numero": 140,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:30:43.295Z"
+}

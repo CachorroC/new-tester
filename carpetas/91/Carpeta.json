@@ -1,0 +1,139 @@
+{
+  "id": 79456791,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": "CALLE 152 No 72 - 50  BOGOTA",
+    "direccion": null,
+    "telefono": null,
+    "id": 91
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "5.4915804350772565303719778865608e+31",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T04:48:40.182Z",
+    "etapaProcesal": "2018 - 00406",
+    "fechaPresentacion": [],
+    "id": 91,
+    "llaveProceso": "11001400303120180040600",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 91,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["05/04/2018 15/01/2021", "2500083807"],
+    "radicado": "2018 - 00406",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 91,
+      "fechaOrdenaMedida": "2024-02-10T00:54:28.416Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 91,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JAIME",
+    "segundoNombre": "JESUS",
+    "primerApellido": "REYES",
+    "segundoApellido": "OROZCO",
+    "cedula": "79456791",
+    "direccion": "jaime.precco@gmail.com",
+    "email": "F3554893              CEL 3165211980"
+  },
+  "fecha": null,
+  "idProcesos": [51092120],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400303120180040600",
+  "nombre": "jaime jesus reyes orozco",
+  "numero": 91,
+  "procesos": [
+    {
+      "idProceso": 51092120,
+      "idConexion": 259,
+      "llaveProceso": "11001400303120180040600",
+      "fechaProceso": "2018-04-03T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-10-19T05:00:00.000Z",
+      "despacho": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JAIME JESUS REYES OROZCO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 14,
+        "tipo": "JUZGADO 014 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-14-de-ejecucion-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 91,
+      "createdAt": "2024-02-10T00:54:28.416Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "VERIFICAR RESPUESTA DE MOVILIDAD CHIA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 91,
+      "createdAt": "2024-02-10T00:54:28.416Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " ABRIL 2022 RTA EMBARGO POSITIVO SECRETARIA CHIA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 91,
+      "createdAt": "2024-02-10T00:54:28.416Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 24 ENERO 2023 SE SOLICITA CAPTURA DE VEHICULO ANTE JUZGADO. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 91,
+      "createdAt": "2024-02-10T00:54:28.416Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 24 FEB 2023 SE ENVIA CORREO A REINTEGRA SOLICITANDO TERMINACION DADO QUE CLIENTE YA PAGO.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 91,
+      "createdAt": "2024-02-10T00:54:28.416Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "22 JUNIO 2023 TERMINA POR PAGO TOTAL.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:28.416Z"
+}

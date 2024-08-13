@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-09-18T05:00:00.000Z",
+  "idProcesos": [50848760],
+  "idRegUltimaAct": 1878629140,
+  "llaveProceso": "11001400301220170136900",
+  "nombre": "JOSE DANIEL ESCOBAR PATIÑO",
+  "numero": 327,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:11.185Z"
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 165,
+    "numero": 165,
+    "llaveProceso": "11001400307620170063500",
+    "nombre": "fredy null meneses null",
+    "idProcesos": [51497380],
+    "category": "Reintegra"
+  }
+}

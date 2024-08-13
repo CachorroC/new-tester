@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 397,
+    "numero": 397,
+    "llaveProceso": "25473400300120180010600",
+    "nombre": "jose de jesus tapias,estevez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

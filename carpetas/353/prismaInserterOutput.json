@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 353,
+    "numero": 353,
+    "llaveProceso": "11001400307320170156300",
+    "nombre": "ricardo null arias guzman",
+    "idProcesos": [50873850],
+    "category": "Terminados"
+  }
+}

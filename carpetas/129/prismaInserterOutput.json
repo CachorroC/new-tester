@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 129,
+    "numero": 129,
+    "llaveProceso": "11001400304320170106400",
+    "nombre": "elena null quiñones null",
+    "idProcesos": [9333743],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:21.999Z",
+  "savedDate": "2019-04-01T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1742239800,
+    "llaveProceso": "11001400302120170153200",
+    "consActuacion": 77,
+    "fechaActuacion": "2023-05-15T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA EL PRESENTE ASUNTO EN EL AREA ESTADOS // CRISTIAN QUINTO     LETRA\r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-05-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 77,
+    "isUltimaAct": true,
+    "idProceso": 50769660
+  }
+}

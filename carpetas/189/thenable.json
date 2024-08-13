@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25817418900120170049400",
+  "numero": 189,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 4547635,
+    "direccion": "calle 10 # 8 - 07 tocancipa",
+    "email": "wilderj11@yahoo.com",
+    "tel": {
+      "fijo": 3213559,
+      "celular": 3142125039
+    },
+    "primerNombre": "wilder",
+    "segundoNombre": "de",
+    "primerApellido": "jesus",
+    "segundoApellido": ["roman", "grisales"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "25817418900120170049400",
+    "capitalAdeudado": 7196668593,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "TOCANCIPA",
+    "obligacion": [175217, 5303718084430842],
+    "radicado": "2017 - 00494",
+    "vencimientoPagare": ["2034-09-06T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 4547635,
+  "idProcesos": null
+}

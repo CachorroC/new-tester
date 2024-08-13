@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:02.122Z",
+  "proceso": {
+    "idProceso": 19217890,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820180047600",
+    "fechaProceso": "2018-05-08T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-06-02T05:00:00.000Z",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: FELIX HERNANDO MONTENEGRO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 68,
+      "tipo": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-068-civil-municipal-de-bogota"
+    }
+  }
+}

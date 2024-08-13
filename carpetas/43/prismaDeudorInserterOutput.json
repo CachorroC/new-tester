@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 43,
+    "cedula": "11188351",
+    "primerNombre": "jose",
+    "primerApellido": "vargas",
+    "segundoNombre": "freddy",
+    "segundoApellido": "ruiz",
+    "direccion": "carrera 80 no. 67-41 calle 66 no. 113-c- 45 apto 404 interior 4 sevilla real conjunto residencial",
+    "email": null,
+    "telCelular": "3124041113",
+    "telFijo": null,
+    "carpetaNumero": 43
+  }
+}

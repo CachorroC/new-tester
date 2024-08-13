@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:35.274Z",
+  "proceso": {
+    "idProceso": 138297000,
+    "idConexion": 259,
+    "llaveProceso": "11001400302920230115900",
+    "fechaProceso": "2023-12-01T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-12-01T05:00:00.000Z",
+    "despacho": "JUZGADO 029 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: AECSA S.A | Demandado: RODOLFO RAMIREZ CUBIDES ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 29,
+      "tipo": "JUZGADO 029 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-29-civil-municipal-de-bogota"
+    }
+  }
+}

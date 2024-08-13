@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 111,
+    "numero": 111,
+    "llaveProceso": "11001400305420170071200",
+    "nombre": "karen viviana castaño coronado",
+    "idProcesos": [12251233],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 52031089,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["165609"],
+    "llaveProceso": "25754400300220180003100",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": "2018-05-21T05:00:00.000Z",
+        "resultado": false
+      },
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "363"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 4226961,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-05-12T05:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-12-12T05:00:00.000Z"],
+    "mandamientoPago": "2018-08-03T05:00:00.000Z",
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00031",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2036-07-03T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7553091,
+      "celular": 3007553091
+    },
+    "primerNombre": "YANETH",
+    "segundoNombre": "HERNANDEZ",
+    "primerApellido": "SUAREZ",
+    "segundoApellido": null,
+    "cedula": 52031089,
+    "direccion": "CARRERA 80 J No 73-27",
+    "email": "HERNANDEZ_YANETH@HOTMAIL.COM"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754400300220180003100",
+  "nombre": "YANETH HERNANDEZ SUAREZ",
+  "numero": 362,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:51.834Z"
+}

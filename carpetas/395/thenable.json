@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308420180009000",
+  "numero": 395,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 2869326,
+    "direccion": "carrera 59 a no 136- 25 apartamento 302 bogota",
+    "email": "jbermeo01@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jorge",
+    "primerApellido": "bermeo",
+    "segundoApellido": "rojas",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-02T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400308420180009000",
+    "capitalAdeudado": 1397455400,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [60144000242],
+    "radicado": "2018 - 00090",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 2869326,
+  "idProcesos": null
+}

@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:05.785Z",
+  "savedDate": "2018-09-03T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1254127910,
+    "llaveProceso": "11001400303320170089200",
+    "consActuacion": 83,
+    "fechaActuacion": "2022-02-08T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "Se hace envio digital el/los oficio(s) N° OOECM-0122AA-3828, OOECM-0122AA-3827 ordenados por auto de fecha 15 de diciembre de 2021 en 2 folio(s) anexo(s).a la entidad y el interesado//proceso pasa a terminados//Leidy P",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-02-08T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 83,
+    "isUltimaAct": true,
+    "idProceso": 50514570
+  }
+}

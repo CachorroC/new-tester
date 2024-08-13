@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 413,
+    "cedula": "79512506",
+    "primerNombre": "jose",
+    "primerApellido": "montealegre",
+    "segundoNombre": "antonio",
+    "segundoApellido": "hernandez",
+    "direccion": "calle 24 no 24 - 16  sur",
+    "email": "yulypgarcia.montplas@gmail.com",
+    "telCelular": "3134664560",
+    "telFijo": "2724305",
+    "carpetaNumero": 416
+  }
+}

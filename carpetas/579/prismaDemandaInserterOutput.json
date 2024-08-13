@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 567,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "20488522",
+    "entregaGarantiasAbogado": "2021-08-18T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["9440087467", "40733834 X T.C. VISA 4513080401547652"],
+    "radicado": null,
+    "vencimientoPagare": [
+      "2026-03-01T00:00:00.000Z",
+      "2026-03-01T00:00:00.000Z"
+    ],
+    "expediente": null,
+    "carpetaNumero": 579,
+    "despacho": null
+  }
+}

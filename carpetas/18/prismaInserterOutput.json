@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 18,
+    "numero": 18,
+    "llaveProceso": "25175400300320170026900",
+    "nombre": "luis enrique acosta chavarria",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

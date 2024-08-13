@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 124,
+    "cedula": "79834592",
+    "primerNombre": "yonny",
+    "primerApellido": "pinzon",
+    "segundoNombre": "arturo",
+    "segundoApellido": "pulido",
+    "direccion": "calle 34 # 2- 07 torre 23 apto 101",
+    "email": "japp161@hotmail.com",
+    "telCelular": "3138725407",
+    "telFijo": "8211035",
+    "carpetaNumero": 126
+  }
+}

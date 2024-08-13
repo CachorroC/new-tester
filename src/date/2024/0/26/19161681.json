@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:11.725Z",
+  "proceso": {
+    "idProceso": 19161681,
+    "idConexion": 256,
+    "llaveProceso": "11001400304020180089600",
+    "fechaProceso": "2018-06-22T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-07T05:00:00.000Z",
+    "despacho": "JUZGADO 040 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: PABLO CESAR SOACHA MORALES ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 40,
+      "tipo": "JUZGADO 040 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-40-civil-municipal-de-bogota"
+    }
+  }
+}

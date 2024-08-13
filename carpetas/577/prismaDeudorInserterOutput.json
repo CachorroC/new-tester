@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 565,
+    "cedula": "1068973010",
+    "primerNombre": "indira",
+    "primerApellido": "florez",
+    "segundoNombre": "mayerly",
+    "segundoApellido": "castro",
+    "direccion": "cl 26 a sur 12 l 21 piso 3o. barrio san josé sur",
+    "email": "mayeflor21@hotmail.com",
+    "telCelular": "3506837545",
+    "telFijo": "4074724",
+    "carpetaNumero": 577
+  }
+}

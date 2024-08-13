@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 153,
+    "numero": 153,
+    "llaveProceso": "25754418900220170071400",
+    "nombre": "marbell rocio dominguez alvarez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

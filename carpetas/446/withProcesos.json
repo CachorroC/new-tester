@@ -1,0 +1,68 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "45523",
+    "telefono": null,
+    "id": 446,
+    "carpetaNumero": 446
+  },
+  "demanda": {
+    "vencimientoPagare": "###############################################################################################################################################################################################################################################################",
+    "obligacion": {
+      "B": "16.392.987.23"
+    },
+    "capitalAdeudado": "$ 43.265",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00573",
+    "llaveProceso": "25899418900120180057300",
+    "notificacion": {
+      "291": {
+        "resultado": "17/09/2018"
+      }
+    }
+  },
+  "demandas": [],
+  "numero": 446,
+  "llaveProceso": "25899418900120180057300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "RICARDO",
+    "segundoNombre": null,
+    "primerApellido": "CUSPOCA",
+    "segundoApellido": null,
+    "cedula": 79725365,
+    "direccion": null,
+    "email": "CALLE 36 No 69-56 SUR. B CARVAJAL"
+  },
+  "cc": 79725365,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "RICARDO CUSPOCA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

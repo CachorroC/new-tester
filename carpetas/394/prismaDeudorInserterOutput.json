@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 391,
+    "cedula": "79424813",
+    "primerNombre": "omar",
+    "primerApellido": "quiroga",
+    "segundoNombre": "hernando",
+    "segundoApellido": "torres",
+    "direccion": "carrera 16 no 7 - 32  bogota",
+    "email": "servicioscyga@hotmail.com",
+    "telCelular": "3153113742",
+    "telFijo": "5605872",
+    "carpetaNumero": 394
+  }
+}

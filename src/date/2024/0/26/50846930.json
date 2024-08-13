@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:53.333Z",
+  "proceso": {
+    "idProceso": 50846930,
+    "idConexion": 259,
+    "llaveProceso": "11001400302620170129300",
+    "fechaProceso": "2017-11-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-10-02T05:00:00.000Z",
+    "despacho": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA MILENA BARRETO BERMUDEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 26,
+      "tipo": "JUZGADO 026 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-26-civil-municipal-de-bogota"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:16.503Z",
+  "savedDate": "2021-09-24T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1947690560,
+    "llaveProceso": "11001400302820170084900",
+    "consActuacion": 81,
+    "fechaActuacion": "2024-01-25T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE AGREGA MEMORIAL AL GESTOR PARA LO PERTINENTE // ESTEFANIA LOPEZ  HIBRIDO  ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-25T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 81,
+    "isUltimaAct": true,
+    "idProceso": 50685700
+  }
+}

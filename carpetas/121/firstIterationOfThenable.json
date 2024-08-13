@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "26/12/2029",
+    "obligacion": {
+      "A": "451305630938242.",
+      "B": "20990179915 // AUDIOPRESTAMO"
+    },
+    "capitalAdeudado": "$ 55.929.373",
+    "entregaGarantiasAbogado": "4/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MADRID",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00273",
+    "llaveProceso": "25430400300120180027300",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "11/08/2017",
+    "mandamientoPago": "16/05/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 43244
+      },
+      "tipo": "FISICA"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "16/05/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 121,
+  "llaveProceso": "25430400300120180027300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JAIME",
+    "segundoNombre": "ORLANDO",
+    "primerApellido": "LUGO",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": 19453362,
+    "direccion": "CARRERA 22 A # 8D - 08 SUR",
+    "email": "orlandolugo.r@gmail.com"
+  },
+  "cc": 19453362,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JAIME ORLANDO LUGO RODRIGUEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

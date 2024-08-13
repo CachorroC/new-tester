@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305420170071200",
+  "numero": 111,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1020743892,
+    "direccion": "calle 141 # 7b - 50 apto 501",
+    "email": "karenvivicastano@gmail.com",
+    "tel": {
+      "fijo": 2131545,
+      "celular": 3014347540
+    },
+    "primerNombre": "karen",
+    "segundoNombre": "viviana",
+    "primerApellido": "castaño",
+    "segundoApellido": "coronado"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400305420170071200",
+    "capitalAdeudado": 12433690,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [12156526],
+    "radicado": "2017 - 00712",
+    "vencimientoPagare": ["2017-07-26T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1020743892,
+  "idProcesos": null
+}

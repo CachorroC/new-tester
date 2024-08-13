@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302420180014300",
+  "numero": 371,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "LiosJuridicos",
+  "deudor": {
+    "cedula": 39765816,
+    "direccion": "calle 50 sur 93 d- 38 apto 401 torre 6",
+    "email": "andreato1a@hotmaul.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "martha",
+    "segundoNombre": "andrea",
+    "primerApellido": "mora",
+    "segundoApellido": "collazos"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-01-16T00:00:00.000Z",
+    "expediente": "11001400302420180014300",
+    "capitalAdeudado": 10775194,
+    "etapaProcesal": "SIN LEVANTAMIENTO DE MEDIDA CAUTELAR NO HA SIDO ARCHIVADO POR EL JUZGADO",
+    "municipio": "BOGOTA",
+    "obligacion": [117171, 377813401553319],
+    "radicado": "2018 - 00143",
+    "vencimientoPagare": ["2024-03-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39765816,
+  "idProcesos": null
+}

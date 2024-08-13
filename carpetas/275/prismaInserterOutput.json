@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 275,
+    "numero": 275,
+    "llaveProceso": "25754408900320170096900",
+    "nombre": "hortencia null garzon null",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

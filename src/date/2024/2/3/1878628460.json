@@ -1,0 +1,20 @@
+{
+  "today": "2024-03-04T02:45:02.057Z",
+  "savedDate": "2017-10-23T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1878628460,
+    "llaveProceso": "11001400301220170088200",
+    "consActuacion": 47,
+    "fechaActuacion": "2023-09-19T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "ARCHIVADO CAJA 36 DE 2021",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-09-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 47,
+    "isUltimaAct": true,
+    "idProceso": 50631800
+  }
+}

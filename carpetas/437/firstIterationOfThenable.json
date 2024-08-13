@@ -1,0 +1,85 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "23/05/2021 // 15/11/2020",
+    "obligacion": {
+      "A": "AUDIOPRESTAMO",
+      "B": 4513070000000000
+    },
+    "capitalAdeudado": "$ 22.725.078",
+    "entregaGarantiasAbogado": "29/05/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00212",
+    "llaveProceso": "11001400371520180021200",
+    "etapaProcesal": "11001418901520180021200",
+    "fechaPresentacion": "EJECUCIÓN",
+    "mandamientoPago": "31/05/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "SI",
+        "resultado": "27/06/2018",
+        "fechaAporta": 43293
+      },
+      "292": {
+        "fechaRecibido": "16/07/2018",
+        "fechaAporta": "POSITIVO"
+      },
+      "certimail": "20/06/2018",
+      "fisico": "NO",
+      "autoNotificado": "PERSONAL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "10/10/2018",
+      "medidaSolicitada": "20/06/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 437,
+  "llaveProceso": "11001400371520180021200",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JAVIER",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "ZIPA",
+    "segundoApellido": "SALAMANCA",
+    "cedula": 80162319,
+    "direccion": "CARRERA 79A No 13-10",
+    "email": "javierzipa83@hotmail.com"
+  },
+  "cc": 80162319,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JAVIER ANTONIO ZIPA SALAMANCA",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2018-07-16T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": "PERSONAL"
+  }
+}

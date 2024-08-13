@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2022-12-16T05:00:00.000Z",
+  "idProcesos": [50739310],
+  "idRegUltimaAct": 1570060170,
+  "llaveProceso": "11001400302020170121900",
+  "nombre": "JULIAN DE JESUS ISAZA AGUIRRE",
+  "numero": 266,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "updatedAt": "2023-12-10T20:31:02.604Z"
+}

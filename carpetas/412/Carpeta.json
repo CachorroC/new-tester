@@ -1,0 +1,97 @@
+{
+  "id": 80896755,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "MARTHA LILIANA POLOCHE AGUJA",
+    "cedula": "53122368",
+    "direccion": "CALLE 4 No 4J-09 QUINTANARE",
+    "telefono": "3006354505",
+    "id": 412
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "454",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.206Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.216Z"],
+    "id": 412,
+    "llaveProceso": "25754418900220180036400",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 412,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990147276"],
+    "radicado": "2018 - 00364",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:46.384Z"],
+    "medidasCautelares": {
+      "id": 412,
+      "fechaOrdenaMedida": "2024-02-10T00:54:57.466Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 412,
+    "telCelular": "3204063623",
+    "telFijo": null,
+    "primerNombre": "FABIO",
+    "segundoNombre": "NELSON",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "CRISTIANO",
+    "cedula": "80896755",
+    "direccion": "CARRERA 7C- No 02-85 SUR",
+    "email": "fabiop0917@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900220180036400",
+  "nombre": "fabio nelson perez cristiano",
+  "numero": 412,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 412,
+      "createdAt": "2024-02-10T00:54:57.466Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 28 DE JULIO DE 2.018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 412,
+      "createdAt": "2024-02-10T00:54:57.466Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE REGISTRARON MEDIDAS CAUTELARES DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:57.466Z"
+}

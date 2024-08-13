@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-09-01T05:00:00.000Z",
+  "idProcesos": [50704760],
+  "idRegUltimaAct": 988943630,
+  "llaveProceso": "11001400307220170107500",
+  "nombre": "BLAS LAITON PATIÑO",
+  "numero": 219,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:54.939Z"
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420170115300",
+  "numero": 130,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 77010352,
+    "direccion": "calle 116 # 11c - 15 apto 104",
+    "email": "arosadomestre@yahoo.com",
+    "tel": {
+      "fijo": 6371679,
+      "celular": 3125855939
+    },
+    "primerNombre": "armando",
+    "segundoNombre": "enrique",
+    "primerApellido": "rosado",
+    "segundoApellido": "mestre"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-18T00:00:00.000Z",
+    "mandamientoPago": "2017-08-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-15T00:00:00.000Z",
+    "expediente": "11001400306420170115300",
+    "capitalAdeudado": null,
+    "etapaProcesal": "LIQUIDACION",
+    "municipio": "BOGOTA",
+    "obligacion": [377815132099546],
+    "radicado": "2017 - 01153",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 77010352,
+  "idProcesos": null
+}

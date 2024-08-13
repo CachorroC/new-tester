@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301820170152200",
+  "numero": 289,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 12229243,
+    "direccion": "avenida 1 de mayo no 29-06",
+    "email": "serdiajo@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "ahinsonjober",
+    "primerApellido": "toro",
+    "segundoApellido": "vargas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-14T00:00:00.000Z",
+    "mandamientoPago": "2017-09-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-11T00:00:00.000Z",
+    "expediente": "11001400301820170152200",
+    "capitalAdeudado": 14645611,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [5.30694043274047e29],
+    "radicado": "2017 - 01522",
+    "vencimientoPagare": ["2020-03-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 12229243,
+  "idProcesos": null
+}

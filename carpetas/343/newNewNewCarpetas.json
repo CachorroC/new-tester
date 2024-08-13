@@ -1,0 +1,54 @@
+{
+  "id": 80803306,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["23110089362 / 2044038", "8291213 / 3131312135"],
+    "llaveProceso": "11001400303920170151700",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43225"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 1276795600,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-01-09T05:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-11-17T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01517",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-07-07T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 5470813,
+      "celular": 3188426582
+    },
+    "primerNombre": "EDUARDO",
+    "segundoNombre": "ALFONSO",
+    "primerApellido": "RICO",
+    "segundoApellido": "JIMENEZ",
+    "cedula": 80803306,
+    "direccion": "CALLE 22 L  No 123 A - 35",
+    "email": "magia.orfen@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400303920170151700",
+  "nombre": "EDUARDO ALFONSO RICO JIMENEZ",
+  "numero": 343,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:43.439Z"
+}

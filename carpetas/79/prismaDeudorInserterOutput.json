@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 78,
+    "cedula": "38289111",
+    "primerNombre": "cristina",
+    "primerApellido": "castillo",
+    "segundoNombre": "castaño",
+    "segundoApellido": null,
+    "direccion": "diagonal 2 # 64a - 65 int 1 apto 401",
+    "email": "ccctina0218@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 79
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308120180058300",
+  "numero": 432,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52757086,
+    "direccion": "carrera 5 n bis no 49-31 sur",
+    "email": "yannisf25@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "lilia",
+    "segundoNombre": "yanira",
+    "primerApellido": "diaz",
+    "segundoApellido": "caro"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-05-09T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-27T00:00:00.000Z",
+    "expediente": "11001400308120180058300",
+    "capitalAdeudado": 30053475,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [530091199, 377813482999910],
+    "radicado": "2018 - 00583",
+    "vencimientoPagare": ["2023-04-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52757086,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 152,
+    "numero": 152,
+    "llaveProceso": "110014007320170113600",
+    "nombre": "nicolas null osorio rodriguez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

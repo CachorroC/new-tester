@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 106,
+    "numero": 106,
+    "llaveProceso": "11001400305920170048300",
+    "nombre": "daniel null hernandez gonzalez",
+    "idProcesos": [50514310],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3116420,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["24.057.365"],
+    "llaveProceso": "25899400300120180022200",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43251"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "5/01/1903"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "ZIPAQUIRA",
+    "radicado": "2018 - 00222",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JORGE",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "BELTRAN",
+    "segundoApellido": "PAEZ",
+    "cedula": 3116420,
+    "direccion": null,
+    "email": "CALLE 3 No 17-36"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25899400300120180022200",
+  "nombre": "JORGE ALBERTO BELTRAN PAEZ",
+  "numero": 433,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:15.220Z"
+}

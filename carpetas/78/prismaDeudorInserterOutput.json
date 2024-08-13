@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 77,
+    "cedula": "7711481",
+    "primerNombre": "jaime",
+    "primerApellido": "santos",
+    "segundoNombre": "edison",
+    "segundoApellido": "martin",
+    "direccion": "calle 44d # 45 - 45 apto 904 int 7u",
+    "email": "santosjaime07@yahoo.es",
+    "telCelular": "3158939957",
+    "telFijo": null,
+    "carpetaNumero": 78
+  }
+}

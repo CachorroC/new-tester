@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 294,
+    "cedula": "6006685",
+    "primerNombre": "miguel",
+    "primerApellido": "martinez",
+    "segundoNombre": "angel",
+    "segundoApellido": "huertas",
+    "direccion": "calle 5 a no 6 - 23 umbita",
+    "email": null,
+    "telCelular": "3123077900",
+    "telFijo": null,
+    "carpetaNumero": 297
+  }
+}

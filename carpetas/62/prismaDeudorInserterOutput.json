@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 62,
+    "cedula": "80722943",
+    "primerNombre": "luis",
+    "primerApellido": "carranza",
+    "segundoNombre": "eduardo",
+    "segundoApellido": "bustos",
+    "direccion": "diagonal 60 sur no. 28-i 72 interior 3 apto 204",
+    "email": null,
+    "telCelular": "3138253554",
+    "telFijo": null,
+    "carpetaNumero": 62
+  }
+}

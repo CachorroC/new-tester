@@ -1,0 +1,46 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "6/03/2026 //4/07/2026",
+    "obligacion": {
+      "A": 4770111750,
+      "B": "PAGARÉ SIN NÚMERO T. MASTER CARD 5303720229555616 // T. VISA 4513070377907980"
+    },
+    "capitalAdeudado": "$ 40.696.764",
+    "entregaGarantiasAbogado": "26/07/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BARRANQUILLA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00735",
+    "llaveProceso": "08001418901820230073500"
+  },
+  "demandas": [],
+  "numero": 560,
+  "llaveProceso": "08001418901820230073500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 3930210,
+      "celular": 3043463859
+    },
+    "primerNombre": "HANSEL",
+    "segundoNombre": "MARTINEZ",
+    "primerApellido": "BARROS",
+    "segundoApellido": null,
+    "cedula": 1129565798,
+    "direccion": "CR 51 43 04 Barrio Abajo Barranquilla // Carrera 71 No. 88A - 31 Barranquilla // Calle 42 A No. 46 - 04 Barrio El Parque en Soledad (Atlantico)",
+    "email": "inghanselmartinez@hotmail.com"
+  },
+  "cc": 1129565798,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "HANSEL MARTINEZ BARROS",
+  "notificacion": null
+}

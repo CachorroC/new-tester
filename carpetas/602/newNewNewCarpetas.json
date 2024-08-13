@@ -1,0 +1,79 @@
+{
+  "id": 52928592,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 602
+  },
+  "demanda": {
+    "capitalAdeudado": "100379249",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-11-22T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": null,
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 602,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["5710091911", "2490086756"],
+    "radicado": "2023 - 1219",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-07-03T05:00:00.000Z",
+      "2026-07-11T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 602,
+      "fechaOrdenaMedida": "2024-02-03T00:36:39.103Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 602,
+    "telCelular": "3214096825",
+    "telFijo": "5219881 ",
+    "primerNombre": "IVONNE",
+    "segundoNombre": "MARITZA",
+    "primerApellido": "BARRETO",
+    "segundoApellido": "GUZMAN",
+    "cedula": "52928592",
+    "direccion": "Calle 149 No. 45 - 42 Torre 2 Apartamento 403 Edificio Gibraltar de Bogotá D.C.",
+    "email": "ivonnemb_16@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "undefined",
+  "nombre": "IVONNE MARITZA BARRETO GUZMAN",
+  "numero": 602,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:39.104Z"
+}

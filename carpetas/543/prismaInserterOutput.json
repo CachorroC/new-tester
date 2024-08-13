@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 542,
+    "numero": 543,
+    "llaveProceso": "11001418901220180095100",
+    "nombre": "rosalia charry  sarmiento",
+    "idProcesos": [64673240],
+    "category": "Reintegra"
+  }
+}

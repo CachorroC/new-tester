@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 573,
+    "cedula": "41336003",
+    "primerNombre": "maria",
+    "primerApellido": "forero",
+    "segundoNombre": "georgina",
+    "segundoApellido": "de,mendoza",
+    "direccion": "calle 152 no. 12c - 12 torre 1 apto 704 conjunto residencial entrecedros en bogotá y/o carrera 19 a no. 159 -70-84 interior 4 apto 503 conjunto residencial sauces del norte",
+    "email": "adrifor_co@hotmail.com",
+    "telCelular": "3143644918",
+    "telFijo": "3543562",
+    "carpetaNumero": 585
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 466,
+    "numero": 466,
+    "llaveProceso": "11001400305220180011700",
+    "nombre": "darley julied paez higuera",
+    "idProcesos": [50990370],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 407,
+    "numero": 407,
+    "llaveProceso": "11001400307820170116400",
+    "nombre": "nestor alberto cristancho lopez",
+    "idProcesos": [51465700],
+    "category": "Reintegra"
+  }
+}

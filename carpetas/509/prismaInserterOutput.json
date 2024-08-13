@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 509,
+    "numero": 509,
+    "llaveProceso": "25214400300120180100200",
+    "nombre": "diana carolina prado fiquitiva",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": 53132436,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 571
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "24843938",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-08-04T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 571,
+    "llaveProceso": "2023-01289",
+    "mandamientoPago": [],
+    "municipio": "MOSQUERA",
+    "notificacion": {
+      "id": 571,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["1380089168"],
+    "radicado": "2023 - 01289",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 571,
+      "fechaOrdenaMedida": "2024-02-10T00:55:08.322Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 571,
+    "telCelular": "3126172174",
+    "telFijo": "5751066 ",
+    "primerNombre": "ERLI",
+    "segundoNombre": "YANETH",
+    "primerApellido": "OYUELA",
+    "segundoApellido": "MARTINEZ",
+    "cedula": "53132436",
+    "direccion": "Carrera 10 NO. 5 - 62 Bloque Torre 1 Apartamento 202 Conjunto ReSIdencial Belverde I del municipio de Mosquera",
+    "email": "capryeyom@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-01289",
+  "nombre": "erli yaneth oyuela martinez",
+  "numero": 571,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "8 AGOSTO 2023 RADICA  DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 25 DE SEPT 2023 LIBRA MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " MANDAMINETO OK. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 11 OCT CCR SE ACERCA X OFICIOS, QUEDO MAL LA PLACA",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 11 OCT 2023 SE ENVIA SOLICITUD CORRECCION AUTO NUMERO PLACA  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 30 NOV 2023 SE ENVIA NOTIFICACION A DEUDOR ANTES DE RADICACIONN DE OFICIOS",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "  ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 571,
+      "createdAt": "2024-02-10T00:55:08.322Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " OJO ESTAR PENDIENTE OFICIOS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:08.322Z"
+}

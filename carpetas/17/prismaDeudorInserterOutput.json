@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 17,
+    "cedula": "52953923",
+    "primerNombre": "yedsy",
+    "primerApellido": "rojas",
+    "segundoNombre": "carolay",
+    "segundoApellido": "gamboa",
+    "direccion": "calle 17 no. 24 c-17 sur bogota",
+    "email": "importex1112@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 17
+  }
+}

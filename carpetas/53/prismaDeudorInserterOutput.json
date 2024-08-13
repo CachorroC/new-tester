@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 53,
+    "cedula": "53051476",
+    "primerNombre": "diana",
+    "primerApellido": "sanchez",
+    "segundoNombre": "marcela",
+    "segundoApellido": "lozano",
+    "direccion": "calle 64 no. 85-60 interior 1 lote 19 manzana 36 urbanizacion la isabela  etapa iicalle 64 i no. 86-60",
+    "email": "dimarce1513@hotmail.com",
+    "telCelular": "3212307798",
+    "telFijo": null,
+    "carpetaNumero": 53
+  }
+}

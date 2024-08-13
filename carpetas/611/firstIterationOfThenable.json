@@ -1,0 +1,61 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "entregaGarantiasAbogado": "27/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "llaveProceso": "SinEspecificar",
+    "municipio": "BOGOTA"
+  },
+  "demandas": [
+    {
+      "idProceso": 611,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [],
+      "capitalAdeudado": 0,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [],
+      "radicado": null
+    }
+  ],
+  "numero": 611,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ADRIANA",
+    "segundoNombre": "LORENA",
+    "primerApellido": "FERNANDEZ",
+    "segundoApellido": "SIERRA",
+    "cedula": 123456789,
+    "direccion": null,
+    "email": null
+  },
+  "cc": 123456789,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "ADRIANA LORENA FERNANDEZ SIERRA",
+  "notificacion": null
+}

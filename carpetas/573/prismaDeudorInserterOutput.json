@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 561,
+    "cedula": "52327261",
+    "primerNombre": "sandra",
+    "primerApellido": "galvis",
+    "segundoNombre": "patricia",
+    "segundoApellido": "almanza",
+    "direccion": "cr 104 no 13d 77 cs 241 conjunto residencial sabanagrande 1",
+    "email": "galvis-almanza@hotmail.com",
+    "telCelular": "3203369576",
+    "telFijo": "4152969",
+    "carpetaNumero": 573
+  }
+}

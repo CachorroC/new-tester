@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 551,
+    "numero": 552,
+    "llaveProceso": "11001400300420230062200",
+    "nombre": "oscar mauricio gomez mendoza",
+    "idProcesos": [130946630],
+    "category": "Bancolombia"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 236,
+    "cedula": "53131901",
+    "primerNombre": "nidia",
+    "primerApellido": "riveros",
+    "segundoNombre": "jacqueline",
+    "segundoApellido": "araque",
+    "direccion": "carrera 88c  63 sur 67 torre 5 apartamento 1",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 239
+  }
+}

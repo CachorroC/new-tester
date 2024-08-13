@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 220,
+    "numero": 220,
+    "llaveProceso": "11001400304020170150900",
+    "nombre": "maria eugenia salcedo pineda",
+    "idProcesos": [50771340],
+    "category": "Terminados"
+  }
+}

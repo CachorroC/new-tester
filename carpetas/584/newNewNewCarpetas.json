@@ -1,0 +1,76 @@
+{
+  "id": 53177851,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 584
+  },
+  "demanda": {
+    "capitalAdeudado": "43869730",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-09-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "11001418901520230153100",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 584,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["149899724"],
+    "radicado": "2023 - 1531",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-05-07T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 584,
+      "fechaOrdenaMedida": "2024-02-03T00:36:36.232Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 584,
+    "telCelular": "3045793470",
+    "telFijo": "6056125 ",
+    "primerNombre": "MARIA",
+    "segundoNombre": "CAMILA",
+    "primerApellido": "MORALES",
+    "segundoApellido": "RAMIREZ",
+    "cedula": "53177851",
+    "direccion": "Carrera 55 No. 152 - 35 Interior 4 Apto 603 Conjunto Residencial Mazuren 15 de Bogotá y/o en Condominio Residencial Portobari vía Tiquiza Fagua ubicado en el municipio de Chía (Cundinamarca)",
+    "email": "moralesmariacamila@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418901520230153100",
+  "nombre": "MARIA CAMILA MORALES RAMIREZ",
+  "numero": 584,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:36.232Z"
+}

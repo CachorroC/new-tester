@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300620170030200",
+  "numero": 47,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 52129551,
+    "direccion": "calle 61 j no. 17d - 55 sur",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3229150048
+    },
+    "primerNombre": "ana",
+    "segundoNombre": "rita",
+    "primerApellido": "guzman",
+    "segundoApellido": "gomez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-20T00:00:00.000Z",
+    "mandamientoPago": "2017-07-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400300620170030200",
+    "capitalAdeudado": 21530598,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": ["377816034633036//45130802058774831", 53003720132046710],
+    "radicado": "2017-00302",
+    "vencimientoPagare": ["2019-09-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52129551,
+  "idProcesos": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3034074,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["5303730000000000", "5303720000000000"],
+    "llaveProceso": "25299418900120170002400",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-05-07T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-07-05T05:00:00.000Z"],
+    "mandamientoPago": "2017-05-07T05:00:00.000Z",
+    "municipio": "GAMA",
+    "radicado": "2017 - 00024",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3102354541
+    },
+    "primerNombre": "WILSON",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MORA",
+    "cedula": 3034074,
+    "direccion": "Urbanización la Pola Manzana C casa 31 Gama",
+    "email": "jechos243@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25299418900120170002400",
+  "nombre": "WILSON ARMANDO RODRIGUEZ MORA",
+  "numero": 24,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:46.847Z"
+}

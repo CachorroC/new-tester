@@ -1,0 +1,47 @@
+{
+  "id": 11337530,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["377814085773793", "4513070445120640"],
+    "llaveProceso": "2589940010020200028900",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": null,
+    "departamento": "CNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2020-05-09T05:00:00.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "ZIPAQUIRA",
+    "radicado": "2020 - 00289",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3115159670
+    },
+    "primerNombre": "PEDRO",
+    "segundoNombre": "JULIO",
+    "primerApellido": "TRIVIÑO",
+    "segundoApellido": "VALBUENA",
+    "cedula": 11337530,
+    "direccion": "VEREDA SAN JORGE ZIPAQUIRA",
+    "email": "maribelbonita86@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "2589940010020200028900",
+  "nombre": "PEDRO JULIO TRIVIÑO VALBUENA",
+  "numero": 534,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:40.462Z"
+}

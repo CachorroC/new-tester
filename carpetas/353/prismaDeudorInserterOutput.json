@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 350,
+    "cedula": "19297891",
+    "primerNombre": "ricardo",
+    "primerApellido": "guzman",
+    "segundoNombre": "arias",
+    "segundoApellido": null,
+    "direccion": "calle 1 h  no 29 - 73",
+    "email": "ricardoagi1955@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 353
+  }
+}

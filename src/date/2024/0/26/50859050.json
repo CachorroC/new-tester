@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:07.687Z",
+  "proceso": {
+    "idProceso": 50859050,
+    "idConexion": 259,
+    "llaveProceso": "11001400300420170126600",
+    "fechaProceso": "2017-11-21T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-02-04T05:00:00.000Z",
+    "despacho": "JUZGADO 009 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: GILBERTO JAIME BETANCOURT ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 9,
+      "tipo": "JUZGADO 009 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-09-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

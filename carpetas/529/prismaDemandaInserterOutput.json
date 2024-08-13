@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 517,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "3542453922",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["20990171776", "AUDIOPRESTAMO"],
+    "radicado": "2019 - 01103",
+    "vencimientoPagare": ["2034-01-01T00:00:00.000Z"],
+    "expediente": "11001400305220190110300",
+    "carpetaNumero": 529,
+    "despacho": null
+  }
+}

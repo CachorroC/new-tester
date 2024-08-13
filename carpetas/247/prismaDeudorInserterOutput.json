@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 244,
+    "cedula": "179290",
+    "primerNombre": "dionisio",
+    "primerApellido": "novoa",
+    "segundoNombre": "lancheros",
+    "segundoApellido": null,
+    "direccion": "calle 5 no  0-19 anapoima",
+    "email": "dlancheros92@hotmail.com",
+    "telCelular": "3115221604",
+    "telFijo": null,
+    "carpetaNumero": 247
+  }
+}

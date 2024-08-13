@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 345,
+    "cedula": "41688661",
+    "primerNombre": "ana",
+    "primerApellido": "corredor",
+    "segundoNombre": "beatriz",
+    "segundoApellido": "rivera",
+    "direccion": "carrera 8 no 190 - 22 hoy carrera 31 no. 190-04",
+    "email": "anabeatrizcorredor@yahoo.es",
+    "telCelular": "3106630177",
+    "telFijo": "5101587",
+    "carpetaNumero": 348
+  }
+}

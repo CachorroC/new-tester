@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 3,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "33175721",
+    "entregaGarantiasAbogado": "2017-09-18T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2018-02-02T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2018-09-28T00:00:00.000Z",
+    "municipio": "CAJICA",
+    "obligacion": ["12204943"],
+    "radicado": "2017 - 00715",
+    "vencimientoPagare": ["2017-09-01T00:00:00.000Z"],
+    "expediente": "25126408900220170071500",
+    "carpetaNumero": 3,
+    "despacho": null
+  }
+}

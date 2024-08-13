@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400301120180018100",
+  "numero": 378,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 11346521,
+    "direccion": null,
+    "email": "DIAGINAL 51A 59 A - 17 APARTAMENTO 1",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "nelson",
+    "segundoNombre": "yesith",
+    "primerApellido": "moreno",
+    "segundoApellido": "leon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400301120180018100",
+    "capitalAdeudado": null,
+    "etapaProcesal": "11346521",
+    "municipio": "BOGOTA",
+    "obligacion": [1527016248],
+    "radicado": "2018 - 00181",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11346521,
+  "idProcesos": null
+}

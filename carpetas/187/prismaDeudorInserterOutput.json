@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 184,
+    "cedula": "39624423",
+    "primerNombre": "yazmin",
+    "primerApellido": "pinzon",
+    "segundoNombre": "alvarado",
+    "segundoApellido": null,
+    "direccion": "carrera 6 # 16a - 84 fusagasuga",
+    "email": null,
+    "telCelular": "3138851725",
+    "telFijo": "8717658",
+    "carpetaNumero": 187
+  }
+}

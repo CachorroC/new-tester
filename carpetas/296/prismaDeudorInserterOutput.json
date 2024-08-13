@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 293,
+    "cedula": "86074992",
+    "primerNombre": "didier",
+    "primerApellido": "prada",
+    "segundoNombre": "harvey",
+    "segundoApellido": "aguirre",
+    "direccion": "diagonal 40 g sur-  no 72 j - 35 interior 2a",
+    "email": "diharveypra@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 296
+  }
+}

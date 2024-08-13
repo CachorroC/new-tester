@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 504,
+    "cedula": "79245905",
+    "primerNombre": "alvaro",
+    "primerApellido": "asprilla",
+    "segundoNombre": "luis",
+    "segundoApellido": "lucumi",
+    "direccion": "calle 116 a- 70g-48 apto 204",
+    "email": "asplucal@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 516
+  }
+}

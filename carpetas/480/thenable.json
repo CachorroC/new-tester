@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25307400300320210053900",
+  "numero": 480,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 39575032,
+    "direccion": "carrera 14 no 22-10  apartamento  202 girardot",
+    "email": "adriana.0806@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3152573448
+    },
+    "primerNombre": "adriana",
+    "primerApellido": "vanegas",
+    "segundoApellido": "peña",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25307400300320210053900",
+    "capitalAdeudado": 17217066,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "GIRARDOT",
+    "obligacion": ["AUDIOPRESTAMO", 5.30696068711907e29],
+    "radicado": "2021 - 00539",
+    "vencimientoPagare": [null, null, "2021-06-04T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39575032,
+  "idProcesos": null
+}

@@ -1,0 +1,130 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 2,
+      "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-02-civil-municipal-de-soacha"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "15/08/2020",
+    "obligacion": {
+      "A": 12725973
+    },
+    "capitalAdeudado": "$ 27.819.415",
+    "entregaGarantiasAbogado": "22/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00265",
+    "llaveProceso": "25754400300220170026500",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "28/08/2017",
+    "mandamientoPago": "12/09/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "28/08/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "28/08/2018"
+      },
+      "292": {
+        "fechaAporta": "7/09/2018",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "CORREO",
+      "autoNotificado": "7/09/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "12/09/2017",
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 86374941,
+      "idConexion": 320,
+      "llaveProceso": "25754400300220170026500",
+      "fechaProceso": "2017-08-31T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: JEOVANY  ROJAS CRUZ | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": "2017-12-09T05:00:00.000Z",
+        "medidaSolicitada": "EMBARGO DE VEHICULO"
+      },
+      "vencimientoPagare": ["2020-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": "2017-12-09T05:00:00.000Z",
+      "etapaProcesal": "EJECUCIÓN",
+      "fechaPresentacion": ["2017-08-28T05:00:00.000Z"],
+      "municipio": "SOACHA",
+      "obligacion": [12725973],
+      "radicado": "2017 - 00265"
+    }
+  ],
+  "numero": 208,
+  "llaveProceso": "25754400300220170026500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JEOVANY",
+    "segundoNombre": "ROJAS",
+    "primerApellido": "CRUZ",
+    "segundoApellido": null,
+    "cedula": 80357801,
+    "direccion": "CALLE 34 # 1A - 40 CASA 247",
+    "email": "jeovanyrojas@outlook.com"
+  },
+  "cc": 80357801,
+  "procesos": [
+    {
+      "idProceso": 86374941,
+      "idConexion": 320,
+      "llaveProceso": "25754400300220170026500",
+      "fechaProceso": "2017-08-31T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE SOACHA ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: JEOVANY  ROJAS CRUZ | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [86374941],
+  "nombre": "JEOVANY ROJAS CRUZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-08-28T05:00:00.000Z",
+        "fechaAporta": "2018-08-28T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-09-07T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": "7/09/2018"
+  }
+}

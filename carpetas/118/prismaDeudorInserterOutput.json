@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 117,
+    "cedula": "19308014",
+    "primerNombre": "jaime",
+    "primerApellido": "peña",
+    "segundoNombre": "orlando",
+    "segundoApellido": "rojas",
+    "direccion": "transversal 119 # 151a - 51 torre 11 apto 602",
+    "email": "plangeluchis@gmail.com",
+    "telCelular": "3103358755",
+    "telFijo": null,
+    "carpetaNumero": 118
+  }
+}

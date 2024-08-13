@@ -1,0 +1,64 @@
+{
+  "id": 79719969,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["3880083739", "377813000000000"],
+    "llaveProceso": "11001408900420180038400",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "292": {
+        "fechaRecibido": "2019-02-25T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "3/0972018"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-03-08T05:00:00.000Z",
+    "etapaProcesal": "11001418900420180038400",
+    "fechaPresentacion": [],
+    "mandamientoPago": "2018-09-08T05:00:00.000Z",
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00384",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-06-08T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 2400591,
+      "celular": 3102438242
+    },
+    "primerNombre": "CARLOS",
+    "segundoNombre": "EDUARDO",
+    "primerApellido": "NARANJO",
+    "segundoApellido": "PIÑEROS",
+    "cedula": 79719969,
+    "direccion": "CALLE 63 BIS No 69 a-29",
+    "email": "cenp11@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001408900420180038400",
+  "nombre": "CARLOS EDUARDO NARANJO PIÑEROS",
+  "numero": 468,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:25.670Z"
+}

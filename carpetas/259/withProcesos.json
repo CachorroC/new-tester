@@ -1,0 +1,52 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "23/04/2017",
+    "obligacion": {
+      "A": 153884
+    },
+    "capitalAdeudado": "79.266.368.98",
+    "entregaGarantiasAbogado": "13/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01256",
+    "llaveProceso": "11001400303920170125600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "21/09/2017",
+    "mandamientoPago": "1/11/2017",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "1/11/2017",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 259,
+  "llaveProceso": "11001400303920170125600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "LUZ",
+    "segundoNombre": "NELLY",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "LARA",
+    "cedula": 52770471,
+    "direccion": "CARRERA 87 F - No 26-74 SUR",
+    "email": "nelly_ruiz1980@hotmail.com"
+  },
+  "cc": 52770471,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "LUZ NELLY RUIZ LARA",
+  "notificacion": null
+}

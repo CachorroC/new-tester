@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:04.982Z",
+  "savedDate": 1602133200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1105321494,
+    "llaveProceso": "11001400302720140070300",
+    "consActuacion": 169,
+    "fechaActuacion": "2023-05-10T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 3427-2023, Entidad o Señor(a): SEBASTIAN HERNANDEZ - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Otras, Observaciones: SOLICITUD DESPACHO COMISORIO//De: MATEO TORRES <dependiente.bogota283@outlook.com> Enviado: lunes, 8 de mayo de 2023 11001400302720140070300 MICS J3 2F",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-05-10T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 169,
+    "isUltimaAct": true,
+    "idProceso": 29071084
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 52616509,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "GILBERANIO SUAREZ RODRIGUEZ",
+    "cedula": "74181815",
+    "direccion": "CALLE 4 # 26 - 38",
+    "telefono": "8471503",
+    "id": 224
+  },
+  "demanda": {
+    "obligacion": ["4600"],
+    "llaveProceso": "25386400300120170040700",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 36182458,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "LA MESA",
+    "radicado": "2017 - 00407",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2023-04-30T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3114881698
+    },
+    "primerNombre": "MARIA",
+    "segundoNombre": "ROSA",
+    "primerApellido": "ZARATE",
+    "segundoApellido": "CORTES",
+    "cedula": 52616509,
+    "direccion": "CALLE 5 # 21 - 76",
+    "email": "mariarosacortes2233@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25386400300120170040700",
+  "nombre": "MARIA ROSA ZARATE CORTES",
+  "numero": 224,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:00.588Z"
+}

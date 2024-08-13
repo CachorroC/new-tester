@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "numero": 213,
+    "llaveProceso": "110014003088220170148800",
+    "nombre": "myriam consuelo rios fonseca",
+    "idProcesos": [],
+    "category": "Terminados",
+    "tipoProceso": "HIPOTECARIO",
+    "fecha": null,
+    "revisado": false,
+    "updatedAt": "2023-11-29T08:37:16.423Z",
+    "terminado": true,
+    "idRegUltimaAct": null
+  }
+}

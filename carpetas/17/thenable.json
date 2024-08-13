@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754418900220170048000",
+  "numero": 17,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52953923,
+    "direccion": "calle 17 no. 24 c-17 sur bogota",
+    "email": "importex1112@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yedsy",
+    "segundoNombre": "carolay",
+    "primerApellido": "rojas",
+    "segundoApellido": "gamboa"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "mandamientoPago": "2017-08-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "25754418900220170048000",
+    "capitalAdeudado": 13684674,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SOACHA",
+    "obligacion": ["2273 320131950"],
+    "radicado": "2017 - 00480",
+    "vencimientoPagare": ["2025-09-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52953923,
+  "idProcesos": null
+}

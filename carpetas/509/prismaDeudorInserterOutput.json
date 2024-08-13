@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 500,
+    "cedula": "20401209",
+    "primerNombre": "diana",
+    "primerApellido": "prado",
+    "segundoNombre": "carolina",
+    "segundoApellido": "fiquitiva",
+    "direccion": "calle 7 no 5-31",
+    "email": "todostienenzero@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 509
+  }
+}

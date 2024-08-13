@@ -1,0 +1,79 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 15537944,
+      "B": 42874
+    },
+    "departamento": "CUNDINAMARCA",
+    "municipio": "FUSAGASUGA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00437",
+    "llaveProceso": "25290400300120170043700",
+    "etapaProcesal": 42886,
+    "fechaPresentacion": "25/07/2017",
+    "mandamientoPago": "25/07/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 42948
+      },
+      "292": {
+        "resultado": 43250
+      },
+      "certimail": "BANCOS",
+      "fisico": 4257,
+      "tipo": "CERTIMAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "25/07/2017",
+      "medidaSolicitada": "BANCOS"
+    }
+  },
+  "demandas": [],
+  "numero": 21,
+  "llaveProceso": "25290400300120170043700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "RAMIRO",
+    "segundoNombre": "CRISTANCHO",
+    "primerApellido": "CONTRERAS",
+    "segundoApellido": null,
+    "cedula": 11309242,
+    "direccion": "CALLE 522 -68 fusagasuga",
+    "email": "edware960720@hotmail.com"
+  },
+  "cc": 11309242,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "RAMIRO CRISTANCHO CONTRERAS",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

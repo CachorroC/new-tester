@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 232,
+    "numero": 232,
+    "llaveProceso": "11001400304820170087900",
+    "nombre": "sandra milena cubillos linares",
+    "idProcesos": [10684603],
+    "category": "Terminados"
+  }
+}

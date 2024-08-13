@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 487,
+    "cedula": "1022332681",
+    "primerNombre": "luisa",
+    "primerApellido": "gugu",
+    "segundoNombre": "enelly",
+    "segundoApellido": "vitopia",
+    "direccion": "carrera 51f- no 37 a-26 sur",
+    "email": "vitopia1022@hotmail.com",
+    "telCelular": "3214747968",
+    "telFijo": null,
+    "carpetaNumero": 494
+  }
+}

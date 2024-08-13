@@ -1,0 +1,97 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 10,
+      "tipo": "JUZGADO 010 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-010-de-pequeñas-causas--y-competencia-múltiple-de-bogotá-"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "16/08/2017",
+    "obligacion": {
+      "A": 12569604
+    },
+    "capitalAdeudado": 25340036,
+    "entregaGarantiasAbogado": "22/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00115",
+    "llaveProceso": "11001418901020170011500",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "28/08/2017",
+    "mandamientoPago": "5/10/2017",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "5/10/2017",
+      "medidaSolicitada": "VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 82132851,
+      "idConexion": 320,
+      "llaveProceso": "11001418901020170011500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": "2017-05-10T05:00:00.000Z",
+        "medidaSolicitada": "VEHICULO"
+      },
+      "vencimientoPagare": ["2017-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 25340036,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": "2017-05-10T05:00:00.000Z",
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-08-28T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [12569604],
+      "radicado": "2017 - 00115"
+    }
+  ],
+  "numero": 181,
+  "llaveProceso": "11001418901020170011500",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 7177769,
+      "celular": 3103048137
+    },
+    "primerNombre": "LEONARDO",
+    "segundoNombre": "ALIRIO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GUERRERO",
+    "cedula": 1033783222,
+    "direccion": "CALLE 69J # 20B - 52",
+    "email": "leoguegar@hotmail.com"
+  },
+  "cc": 1033783222,
+  "procesos": [
+    {
+      "idProceso": 82132851,
+      "idConexion": 320,
+      "llaveProceso": "11001418901020170011500",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 010 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [82132851],
+  "nombre": "LEONARDO ALIRIO GARCIA GUERRERO",
+  "notificacion": null
+}

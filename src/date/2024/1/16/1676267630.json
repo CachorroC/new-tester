@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:19.226Z",
+  "savedDate": 1558069200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1676267630,
+    "llaveProceso": "11001400308120180051400",
+    "consActuacion": 34,
+    "fechaActuacion": "2023-03-14T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA EXPEDIENTE DIGITAL DEL DESPACHO EN EL AREA DE ESTADOS // PROCESO PASA A LETRA// LAURA ROMERO LINARES //  SE DEJA CONSTACIA QUE EL AUTO A NOTIFICAR ES DE FECHA 06 DE MARZO DE 2023 PARA NOTIFICAR EL 10 DE MARZO DE 2023 Y NO COMO ESTA EN AUTO DIGITAL // ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-03-14T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 34,
+    "isUltimaAct": true,
+    "idProceso": 51918470
+  }
+}

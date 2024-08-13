@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 61,
+    "cedula": "80197126",
+    "primerNombre": "juan",
+    "primerApellido": "rubio",
+    "segundoNombre": "pablo",
+    "segundoApellido": "esguerra",
+    "direccion": "calle 165 no. 74 c-07 casa 1",
+    "email": "arqrasjuan1989@htmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 61
+  }
+}

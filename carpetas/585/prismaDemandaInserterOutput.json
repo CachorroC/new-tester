@@ -1,0 +1,28 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 573,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "25766202",
+    "entregaGarantiasAbogado": "2023-09-26T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "31035862",
+      "377816195788645 X TC AMERICAN // 4099843107499631 X T.C. VISA"
+    ],
+    "radicado": "2023-399",
+    "vencimientoPagare": [
+      "2026-09-01T00:00:00.000Z",
+      "2026-05-01T00:00:00.000Z",
+      "2026-05-01T00:00:00.000Z"
+    ],
+    "expediente": "11001418907020230039900",
+    "carpetaNumero": 585,
+    "despacho": null
+  }
+}

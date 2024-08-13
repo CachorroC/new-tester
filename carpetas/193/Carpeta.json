@@ -1,0 +1,137 @@
+{
+  "id": 52465691,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 193
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "24590710",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-08-16T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-08-23T05:00:16.000Z"],
+    "id": 193,
+    "llaveProceso": "11001400302420170175000",
+    "mandamientoPago": ["2018-02-15T05:00:00.000Z"],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 193,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "obligacion": ["12750180"],
+    "radicado": "2017 - 01750",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2020-08-09T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 193,
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE VEHICULO"
+    }
+  },
+  "deudor": {
+    "id": 193,
+    "telCelular": "3204792977",
+    "telFijo": "7829236 ",
+    "primerNombre": "CARMEN",
+    "segundoNombre": "ELIZABETH",
+    "primerApellido": "QUESADA",
+    "segundoApellido": "MARTINEZ",
+    "cedula": "52465691",
+    "direccion": "CARRERA 80 # 70A - 09",
+    "email": "equesada01@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400302420170175000",
+  "nombre": "carmen elizabeth quesada martinez",
+  "numero": 193,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "HIBRIDO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": "2023-03-20T05:00:00.000Z",
+      "text": "20/02/2023 SE ENVIA MEMORIAL SOLICITANDO DESPACHO COMISORIO SECUESTRO DEL AUTOMOTOR PARA GUASCA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": "2023-03-24T05:00:00.000Z",
+      "text": " 24/02/2023 PROCESO INGRESA AL DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 11 JULIO 2023 SE REENVIA MEMORIAL SOLICITANDO SECUESTRO EN GUASCA Y NO TENER EN CUENTA CAUCION.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 12 DE JULIO SE ENVIA NUEVAMNTE SOLICITUD SECUESTRO GUASCA SIN TENER EN CUENYTA CAUCION.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 27 SEPT 2023 REINTEGRA RADICA CESION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 193,
+      "createdAt": "2024-02-10T00:54:37.293Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 17 OCTUBRE 2023 SE ENVIA MEMORIAL NO ACPTANDO CAUCION",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:37.293Z"
+}

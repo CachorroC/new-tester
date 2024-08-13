@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 130,
+    "numero": 130,
+    "llaveProceso": "11001400306420170115300",
+    "nombre": "armando enrique rosado mestre",
+    "idProcesos": [50648690],
+    "category": "Terminados"
+  }
+}

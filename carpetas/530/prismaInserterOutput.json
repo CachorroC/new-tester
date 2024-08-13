@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 529,
+    "numero": 530,
+    "llaveProceso": "11001400308120180051400",
+    "nombre": "maria clara reyes reyes",
+    "idProcesos": [51918470],
+    "category": "Reintegra"
+  }
+}

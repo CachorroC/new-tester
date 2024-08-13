@@ -1,0 +1,71 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "3/07/2026 // 11/07/2026",
+    "obligacion": {
+      "A": 5710091911,
+      "B": 2490086756
+    },
+    "capitalAdeudado": "$ 100.379.249",
+    "entregaGarantiasAbogado": "22/11/2023",
+    "llaveProceso": "SinEspecificar",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 602,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [5710091911, 2490086756],
+      "radicado": null
+    }
+  ],
+  "numero": 602,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 5219881,
+      "celular": 3214096825
+    },
+    "primerNombre": "IVONNE",
+    "segundoNombre": "MARITZA",
+    "primerApellido": "BARRETO",
+    "segundoApellido": "GUZMAN",
+    "cedula": 52928592,
+    "direccion": "Calle 149 No. 45 - 42 Torre 2 Apartamento 403 Edificio Gibraltar de Bogotá D.C.",
+    "email": "ivonnemb_16@hotmail.com"
+  },
+  "cc": 52928592,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "IVONNE MARITZA BARRETO GUZMAN",
+  "notificacion": null
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 12,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1000",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "etapaProcesal": "APELACION",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "municipio": "FACATATIVA",
+    "obligacion": ["2273320140425"],
+    "radicado": "2017 - 00488/ 2018 - 00158",
+    "vencimientoPagare": ["2026-07-01T00:00:00.000Z"],
+    "expediente": "25269400300220180015800",
+    "carpetaNumero": 12,
+    "despacho": null
+  }
+}

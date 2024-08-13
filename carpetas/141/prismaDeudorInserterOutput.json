@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 139,
+    "cedula": "79412583",
+    "primerNombre": "edgar",
+    "primerApellido": "hernandez",
+    "segundoNombre": "david",
+    "segundoApellido": "rincon",
+    "direccion": "carrea 54 # 18 - 30 sur apto 201",
+    "email": "edgardavid302@hotmail.com",
+    "telCelular": "3003932311",
+    "telFijo": "4137430",
+    "carpetaNumero": 141
+  }
+}

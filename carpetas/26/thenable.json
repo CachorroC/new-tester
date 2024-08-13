@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306520170082700",
+  "numero": 26,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52744376,
+    "direccion": "calle 67 no.86a-49 bogota",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": 3183517022
+    },
+    "primerNombre": "yudy",
+    "primerApellido": "rodriguez",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-30T00:00:00.000Z",
+    "mandamientoPago": "2017-07-11T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-19T00:00:00.000Z",
+    "expediente": "11001400306520170082700",
+    "capitalAdeudado": 17307303,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990116310],
+    "radicado": "2017 - 00827",
+    "vencimientoPagare": ["2024-03-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79504113,
+    "direccion": "CALLE 67 No.86 A-49 BOGOTA",
+    "nombre": "pedro antonio torres riaño",
+    "telefono": 2232710
+  },
+  "cc": 52744376,
+  "idProcesos": null
+}

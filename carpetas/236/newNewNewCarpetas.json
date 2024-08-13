@@ -1,0 +1,56 @@
+{
+  "id": 3165933,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["159497"],
+    "llaveProceso": "11001400308520170136200",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 3168807543,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-06-09T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-18T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 01362",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2032-12-21T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 7191321,
+      "celular": 3123836799
+    },
+    "primerNombre": "RIGOBERTO",
+    "segundoNombre": "MORENO",
+    "primerApellido": "OLAYA",
+    "segundoApellido": null,
+    "cedula": 3165933,
+    "direccion": "CARRERA 81 F 71F 56",
+    "email": "rigoberto-moreno20@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308520170136200",
+  "nombre": "RIGOBERTO MORENO OLAYA",
+  "numero": 236,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:06.223Z"
+}

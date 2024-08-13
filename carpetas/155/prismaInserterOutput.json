@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 155,
+    "numero": 155,
+    "llaveProceso": "11001400308320170071700",
+    "nombre": "carlos arturo rueda alzate",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

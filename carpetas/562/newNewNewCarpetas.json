@@ -1,0 +1,82 @@
+{
+  "id": 17139148,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": " ",
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 562
+  },
+  "demanda": {
+    "capitalAdeudado": "25252953",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "2023-00985",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 562,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "9960086465",
+      "TARJETA DE CREDITO MASTER CARD 5303720132348190"
+    ],
+    "radicado": "2023 - 00985",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-05-10T05:00:00.000Z",
+      "2026-03-06T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 562,
+      "fechaOrdenaMedida": "2024-02-03T00:36:31.376Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 562,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MARIO",
+    "segundoNombre": "HERNAN",
+    "primerApellido": "SALAMANCA",
+    "segundoApellido": "PATIÑO",
+    "cedula": "17139148",
+    "direccion": "Carrera 80 No. 8 - 11 Torre 3 Interior 5 Apartamento 519 Torres de Santa Barbara Conjunto Residencial",
+    "email": "ajasalama@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-00985",
+  "nombre": "MARIO HERNAN SALAMANCA PATIÑO",
+  "numero": 562,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:31.377Z"
+}

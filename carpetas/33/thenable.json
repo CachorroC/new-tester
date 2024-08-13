@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400308220170064900",
+  "numero": 33,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 28936365,
+    "direccion": "calle 401 sur 72 l -40 cristales  bogota",
+    "email": "snaluistol@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3118113651
+    },
+    "primerNombre": "nini",
+    "segundoNombre": "johana",
+    "primerApellido": "cortes",
+    "segundoApellido": "monroy"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-09T00:00:00.000Z",
+    "mandamientoPago": "2017-06-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-30T00:00:00.000Z",
+    "expediente": "11001400308220170064900",
+    "capitalAdeudado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [377813824603022, 4513078713738027],
+    "radicado": "2017 - 00649",
+    "vencimientoPagare": ["2020-03-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 28936365,
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "nombre": "nini cortes",
+    "telefono": 3134775602
+  },
+  "cc": 28936365,
+  "idProcesos": null
+}

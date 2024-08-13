@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 147,
+    "cedula": "23181779",
+    "primerNombre": "magda",
+    "primerApellido": "torres",
+    "segundoNombre": "tatiana",
+    "segundoApellido": "gonzalez",
+    "direccion": "centro comercial suricentro local 6 -97 (monteria) 77 carrera 4 este # 38 - 56 estapa h4 casa 62",
+    "email": "tatianamag12@hotmail.com",
+    "telCelular": "3138172167",
+    "telFijo": "7867106",
+    "carpetaNumero": 149
+  }
+}

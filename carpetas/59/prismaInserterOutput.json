@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 59,
+    "numero": 59,
+    "llaveProceso": "11001400302520170106400",
+    "nombre": "nancy rodriguez  gomez",
+    "idProcesos": [50738440],
+    "category": "Terminados"
+  }
+}

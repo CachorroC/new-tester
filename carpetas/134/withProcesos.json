@@ -1,0 +1,54 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "CLEMENCIA PARADA AMAYA",
+    "cedula": "23473890",
+    "direccion": "CALLE 31 # 3A 28",
+    "telefono": "3138687321",
+    "id": 134,
+    "carpetaNumero": 134
+  },
+  "demanda": {
+    "vencimientoPagare": "28/08/2028",
+    "obligacion": {
+      "A": 167364,
+      "B": "377813624212172."
+    },
+    "capitalAdeudado": "$ 54.428.394",
+    "entregaGarantiasAbogado": "16/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MADRID",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01083",
+    "llaveProceso": "25430400300120170108300",
+    "fechaPresentacion": "24/08/2017"
+  },
+  "demandas": [],
+  "numero": 134,
+  "llaveProceso": "25430400300120170108300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 8284768,
+      "celular": 3105519200
+    },
+    "primerNombre": "FREDY",
+    "segundoNombre": "ALEXANDER",
+    "primerApellido": "BUENO",
+    "segundoApellido": "PARADA",
+    "cedula": 80722626,
+    "direccion": "CARRERA 2 # 1 - 04 BLOQUE 8 APTO 101",
+    "email": "fredy8221@hotmail.com"
+  },
+  "cc": 80722626,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "FREDY ALEXANDER BUENO PARADA",
+  "notificacion": null
+}

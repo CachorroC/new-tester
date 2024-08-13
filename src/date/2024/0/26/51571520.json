@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:12.369Z",
+  "proceso": {
+    "idProceso": 51571520,
+    "idConexion": 259,
+    "llaveProceso": "11001400307820180064700",
+    "fechaProceso": "2019-01-15T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-01-15T05:00:00.000Z",
+    "despacho": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: KELLY YOHANNA MURCIA DUCON ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 78,
+      "tipo": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-78-civil-municipal-de-bogota"
+    }
+  }
+}

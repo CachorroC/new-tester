@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 315,
+    "numero": 315,
+    "llaveProceso": "25754400300320170036400",
+    "nombre": "bladimir null gutierrez cifuentes",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

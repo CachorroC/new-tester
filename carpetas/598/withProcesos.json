@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "9/03/2026",
+    "llaveProceso": "SinEspecificar",
+    "obligacion": {
+      "A": 6980091120
+    },
+    "capitalAdeudado": "$ 73.348.449",
+    "entregaGarantiasAbogado": "14/11/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR"
+  },
+  "demandas": [
+    {
+      "idProceso": 598,
+      "idConexion": null,
+      "llaveProceso": "SinEspecificar",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [6980091120],
+      "radicado": null
+    }
+  ],
+  "numero": 598,
+  "llaveProceso": "SinEspecificar",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3028155148
+    },
+    "primerNombre": "RODOLFO",
+    "segundoNombre": "RAMIREZ",
+    "primerApellido": "CUBIDES",
+    "segundoApellido": null,
+    "cedula": 80216942,
+    "direccion": "Avenida Calle 63 No. 80-46 Casa Bogotá D.C.",
+    "email": "carteraisanet@gmail.com"
+  },
+  "cc": 80216942,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "RODOLFO RAMIREZ CUBIDES",
+  "notificacion": null
+}

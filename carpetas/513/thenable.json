@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400304420190016500",
+  "numero": 513,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80865782,
+    "direccion": null,
+    "email": "CALLE 64 C No 105 D- 36 PISO 3",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "erik",
+    "segundoNombre": "ricardo",
+    "primerApellido": "pinto",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400304420190016500",
+    "capitalAdeudado": null,
+    "etapaProcesal": "01-02-2019",
+    "municipio": "BOGOTA",
+    "obligacion": ["40.290.738"],
+    "radicado": "2019 - 00165",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": "19-01-2022"
+  },
+  "cc": 80865782,
+  "idProcesos": null
+}

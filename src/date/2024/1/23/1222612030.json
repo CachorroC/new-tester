@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:15.040Z",
+  "savedDate": "2019-05-23T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1222612030,
+    "llaveProceso": "11001400308520170128700",
+    "consActuacion": 29,
+    "fechaActuacion": "2021-09-10T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "EL PROCESO BAJA DEL DESPACHO/JOHN/CUADERNOS 2",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2021-09-10T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 29,
+    "isUltimaAct": true,
+    "idProceso": 51937670
+  }
+}

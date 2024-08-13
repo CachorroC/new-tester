@@ -1,0 +1,27 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 556,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "20815025",
+    "entregaGarantiasAbogado": "2023-08-02T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "5670094881",
+      "PAGARÉ SIN NÚMERO REF 100221151 TARJETA DE CRÉDITO MASTER CARD No. 5303730462170320"
+    ],
+    "radicado": "2023 - 01627",
+    "vencimientoPagare": [
+      "2028-02-01T00:00:00.000Z",
+      "2026-06-01T00:00:00.000Z"
+    ],
+    "expediente": "11001400307520230128400",
+    "carpetaNumero": 568,
+    "despacho": null
+  }
+}

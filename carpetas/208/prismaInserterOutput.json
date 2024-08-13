@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 208,
+    "numero": 208,
+    "llaveProceso": "25754400300220170026500",
+    "nombre": "jeovany null rojas cruz",
+    "idProcesos": [86374941],
+    "category": "Reintegra"
+  }
+}

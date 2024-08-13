@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 4,
+    "numero": 4,
+    "llaveProceso": "11001400305320170072000",
+    "nombre": "dipson eusebio sanchez castiblanco",
+    "idProcesos": [11997693],
+    "category": "Terminados"
+  }
+}

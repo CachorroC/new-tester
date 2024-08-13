@@ -1,0 +1,105 @@
+{
+  "id": 1018423770,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 270
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "15921423",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-10-05T05:00:00.000Z"],
+    "id": 270,
+    "llaveProceso": "11001408903420170113900",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 270,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12327160"],
+    "radicado": "2017 - 01139",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-09-21T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 270,
+      "fechaOrdenaMedida": "2024-02-10T00:54:44.422Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 270,
+    "telCelular": "3107727822",
+    "telFijo": "4566333 ",
+    "primerNombre": "WILMER",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "QUIÑONES",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": "1018423770",
+    "direccion": "CALLE 37 B No 68 I - 23 SUR",
+    "email": "andresxaw@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001408903420170113900",
+  "nombre": "wilmer andres quiñones hernandez",
+  "numero": 270,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 270,
+      "createdAt": "2024-02-10T00:54:44.422Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 18 DE JUNIO DE 2018 SE TERMINO EL PROCESO POR PAGO CUOTAS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 270,
+      "createdAt": "2024-02-10T00:54:44.422Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 24 DE AGOSTO DE 2018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 270,
+      "createdAt": "2024-02-10T00:54:44.422Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 12 DE DICIEMBRE DE 2021 SE VERIFICO EN EL RUNT Y EL TITULAR YA LO VENDIO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:44.423Z"
+}

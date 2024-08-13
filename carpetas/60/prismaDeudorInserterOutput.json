@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 60,
+    "cedula": "1032373332",
+    "primerNombre": "lady",
+    "primerApellido": "bayona",
+    "segundoNombre": "johanna",
+    "segundoApellido": "garcía",
+    "direccion": null,
+    "email": "CRA 77 A No. 63f-47 piso 2",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 60
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 308,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1076199162",
+    "entregaGarantiasAbogado": "2017-10-24T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": "2017-11-02T00:00:00.000Z",
+    "etapaProcesal": "LIQUIDACION",
+    "fechaPresentacion": "2017-10-31T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO", "00377815346213420"],
+    "radicado": "2017 - 00184",
+    "vencimientoPagare": ["2017-07-01T00:00:00.000Z"],
+    "expediente": "11001400370820170018400",
+    "carpetaNumero": 311,
+    "despacho": null
+  }
+}

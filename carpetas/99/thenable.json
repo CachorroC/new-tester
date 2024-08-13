@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "1100141037512017111000",
+  "numero": 99,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79996551,
+    "direccion": "transversal 78a # 71a - 71 sur",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yoni",
+    "segundoNombre": "alexander",
+    "primerApellido": "restrepo",
+    "segundoApellido": "peñuela"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-08T05:00:00.000Z",
+    "mandamientoPago": "2018-01-24T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "expediente": "1100141037512017111000",
+    "capitalAdeudado": 1621592808,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "KENNEDY",
+    "obligacion": [5306934855078754, 12378896],
+    "radicado": "2017 - 01110",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79996551,
+  "idProcesos": null
+}

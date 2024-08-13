@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 456,
+    "cedula": "93288875",
+    "primerNombre": "jose",
+    "primerApellido": "florez",
+    "segundoNombre": "antonio",
+    "segundoApellido": "oviedo",
+    "direccion": "callle 147 no 17-60. int 5 apto 402",
+    "email": "joseaflorez@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 461
+  }
+}

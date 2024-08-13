@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 255,
+    "cedula": "51740544",
+    "primerNombre": "sol",
+    "primerApellido": "buitrago",
+    "segundoNombre": "judith",
+    "segundoApellido": "duque",
+    "direccion": "carrera 121 # 128b - 52 bloque 8 casa 34",
+    "email": "dirfinanciera.sol@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 258
+  }
+}

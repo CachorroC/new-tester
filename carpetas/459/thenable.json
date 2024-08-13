@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305320180094500",
+  "numero": 459,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79857627,
+    "direccion": "calle 131  no 109-13",
+    "email": "cesarvanegas1425@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3108121876
+    },
+    "primerNombre": "cesar",
+    "primerApellido": "armando",
+    "segundoApellido": "vanegas",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-07-23T00:00:00.000Z",
+    "mandamientoPago": "2018-08-23T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-07-16T00:00:00.000Z",
+    "expediente": "11001400305320180094500",
+    "capitalAdeudado": 3249244300,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [5470085449],
+    "radicado": "2018 - 00945",
+    "vencimientoPagare": ["2024-06-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79857627,
+  "idProcesos": null
+}

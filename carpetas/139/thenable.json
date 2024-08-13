@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400306120170079300",
+  "numero": 139,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 20896387,
+    "direccion": "carrera 32 # 18 - 31 sur",
+    "email": "jose_agudelo@juancarpas.edu.com",
+    "tel": {
+      "fijo": 7502262,
+      "celular": 3204955563
+    },
+    "primerNombre": "ana",
+    "segundoNombre": "emilce",
+    "primerApellido": "rojas",
+    "segundoApellido": "sarmiento"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-23T00:00:00.000Z",
+    "mandamientoPago": "2017-09-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-15T00:00:00.000Z",
+    "expediente": "11001400306120170079300",
+    "capitalAdeudado": 91986323,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [146579],
+    "radicado": "2017 - 00793",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "18153551 DNI",
+    "direccion": "CARRERA 32 # 18 - 31 SUR",
+    "nombre": "jose maria villacampa ainsa",
+    "telefono": 3204955563
+  },
+  "cc": 20896387,
+  "idProcesos": null
+}

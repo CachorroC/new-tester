@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 14,
+    "numero": 14,
+    "llaveProceso": "25740418900120170028400",
+    "nombre": "elsa milena sosa ,romero",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

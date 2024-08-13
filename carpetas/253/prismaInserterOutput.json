@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 253,
+    "numero": 253,
+    "llaveProceso": "11001400302520170099800",
+    "nombre": "jorge eduardo acosta corredor",
+    "idProcesos": [50708840],
+    "category": "Terminados"
+  }
+}

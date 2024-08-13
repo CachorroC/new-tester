@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 587,
+    "numero": 588,
+    "llaveProceso": null,
+    "nombre": "karen alexandra castañeda guerrero",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

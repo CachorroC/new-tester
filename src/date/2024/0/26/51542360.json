@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:20.645Z",
+  "proceso": {
+    "idProceso": 51542360,
+    "idConexion": 259,
+    "llaveProceso": "11001400307820170076200",
+    "fechaProceso": "2018-12-12T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-07-02T05:00:00.000Z",
+    "despacho": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JAIRO ALBERTO CARRILLO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 78,
+      "tipo": "JUZGADO 078 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-78-civil-municipal-de-bogota"
+    }
+  }
+}

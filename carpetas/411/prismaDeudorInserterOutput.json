@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 408,
+    "cedula": "1032362698",
+    "primerNombre": "natali",
+    "primerApellido": "rubio",
+    "segundoNombre": "vasquez",
+    "segundoApellido": null,
+    "direccion": "diagonal 24 no 42-95 - hortensia",
+    "email": "natis2596@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 411
+  }
+}

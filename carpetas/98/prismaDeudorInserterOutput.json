@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 97,
+    "cedula": "41672170",
+    "primerNombre": "maria",
+    "primerApellido": "carmen",
+    "segundoNombre": "del",
+    "segundoApellido": "chaparro,lemus",
+    "direccion": "carrera 50a # 68 - 39",
+    "email": "carmenzachaparro@outlook.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 98
+  }
+}

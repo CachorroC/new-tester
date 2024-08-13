@@ -1,0 +1,90 @@
+{
+  "id": 79840930,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "ELDORA ANDREA TRIANA SILVA",
+    "cedula": "53114743",
+    "direccion": "DIAGONAL 73A SUR # 78 - 40 CASA 11",
+    "telefono": "3143903",
+    "id": 154
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "29366625",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-08-23T05:00:16.000Z",
+    "etapaProcesal": "11001400303620170084100",
+    "fechaPresentacion": [
+      "2018-07-11T05:00:00.000Z",
+      "2018-09-05T05:00:00.000Z",
+      "2022-08-30T05:00:00.000Z"
+    ],
+    "id": 154,
+    "llaveProceso": "2017 - 00841",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 154,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "5670083032 ",
+      "377813199287708 // 4513075700372455 // 123470"
+    ],
+    "radicado": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2018-02-21T05:00:00.000Z",
+      "2024-10-26T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 154,
+      "fechaOrdenaMedida": "2024-02-10T00:54:34.044Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 154,
+    "telCelular": "3112945552",
+    "telFijo": "7347505 ",
+    "primerNombre": "GABRIEL",
+    "segundoNombre": "EDUARDO",
+    "primerApellido": "MEJIA",
+    "segundoApellido": "LADINO",
+    "cedula": "79840930",
+    "direccion": "CARRERA 79 BIS A # 73 - 92 SUR APTO 304 INT 3 ",
+    "email": "gabriel.eml@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2017 - 00841",
+  "nombre": "gabriel eduardo mejia ladino ",
+  "numero": 154,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [],
+  "updatedAt": "2024-02-10T00:54:34.044Z"
+}

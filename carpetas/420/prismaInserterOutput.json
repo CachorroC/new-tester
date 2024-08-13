@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 420,
+    "numero": 420,
+    "llaveProceso": "11001400306320170129000",
+    "nombre": "diana patricia barreto osma",
+    "idProcesos": [65701460],
+    "category": "Reintegra"
+  }
+}

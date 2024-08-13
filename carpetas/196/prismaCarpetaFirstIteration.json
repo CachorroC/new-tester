@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2023-06-05T05:00:00.000Z",
+  "idProcesos": [28907104],
+  "idRegUltimaAct": 1109487534,
+  "llaveProceso": "11001310302120170047100",
+  "nombre": "JAIRO TIBATA",
+  "numero": 196,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:51.334Z"
+}

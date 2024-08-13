@@ -1,0 +1,97 @@
+{
+  "id": 39809183,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 479
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "12821536",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-09-06T05:00:00.000Z"],
+    "id": 479,
+    "llaveProceso": "25785418900120180017100",
+    "mandamientoPago": [],
+    "municipio": "TABIO",
+    "notificacion": {
+      "id": 479,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["4594250481433800", "5303720342826530"],
+    "radicado": "2018 - 00171",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 479,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.117Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 479,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "TANIA",
+    "segundoNombre": "CONSUELO",
+    "primerApellido": "BOTIA",
+    "segundoApellido": "CORREA",
+    "cedula": "39809183",
+    "direccion": "CALLE 8 No 0-105  TABIO",
+    "email": "tani_botia@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25785418900120180017100",
+  "nombre": "tania consuelo botia correa",
+  "numero": 479,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 479,
+      "createdAt": "2024-02-10T00:55:02.117Z",
+      "pathname": null,
+      "dueDate": "2020-02-21T05:00:00.000Z",
+      "text": "EL 21/01/2020 EL JUZGADO DECRETA LA TERMINACION DEL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 479,
+      "createdAt": "2024-02-10T00:55:02.117Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " GARANTIAS Y LEVANTAMIENTO DE MEDIDAS CAUTELARES EN FAVOR Y A CARGO DE LA PARTE DEMANDANTE ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.117Z"
+}

@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1966018060,
+  "llaveProceso": "11001400305620180022100",
+  "consActuacion": 87,
+  "fechaActuacion": "2024-04-08T05:00:00.000Z",
+  "actuacion": "Oficio Elaborado",
+  "anotacion": "OF ELABORADO // OOECM-0424DG-4224 Y OOECM-0424DG-4225// DANIELA G ",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-04-08T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 87,
+  "isUltimaAct": true,
+  "idProceso": 51042800
+}

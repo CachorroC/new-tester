@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 549,
+    "cedula": "52278914",
+    "primerNombre": "luz",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "janneth",
+    "segundoApellido": "moreno",
+    "direccion": "carrera 87 no. 48 – 50 sur casa 26 conjunto residencial alameda de san josé ii",
+    "email": "lurodrig@corona.com.co jrodriguez2805@hotmail.com",
+    "telCelular": "3153208374",
+    "telFijo": "7848056",
+    "carpetaNumero": 561
+  }
+}

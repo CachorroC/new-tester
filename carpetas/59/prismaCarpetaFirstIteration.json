@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2017-10-06T05:00:00.000Z",
+  "idProcesos": [50738440],
+  "idRegUltimaAct": 707304090,
+  "llaveProceso": "11001400302520170106400",
+  "nombre": "NANCY RODRIGUEZ  GOMEZ",
+  "numero": 59,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:30.060Z"
+}

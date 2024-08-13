@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:06.164Z",
+  "proceso": {
+    "idProceso": 50466490,
+    "idConexion": 259,
+    "llaveProceso": "11001400302220170048300",
+    "fechaProceso": "2017-05-25T05:00:00.000Z",
+    "fechaUltimaActuacion": "2017-10-13T05:00:00.000Z",
+    "despacho": "JUZGADO 022 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDRES  MAURICIO  FERNANDEZ  DE SOTO  DOMINGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 22,
+      "tipo": "JUZGADO 022 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-22-civil-municipal-de-bogota"
+    }
+  }
+}

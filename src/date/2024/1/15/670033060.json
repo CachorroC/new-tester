@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:04.266Z",
+  "savedDate": 1501045200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 670033060,
+    "llaveProceso": "11001400301920170070200",
+    "consActuacion": 13,
+    "fechaActuacion": "2018-03-15T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "ARCHIVADO CAJA 559 DE MARZO DE 2018.",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-03-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 13,
+    "isUltimaAct": true,
+    "idProceso": 50593320
+  }
+}

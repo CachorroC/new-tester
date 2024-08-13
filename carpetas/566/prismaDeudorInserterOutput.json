@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 554,
+    "cedula": "1013622120",
+    "primerNombre": "johan",
+    "primerApellido": "quiroga",
+    "segundoNombre": "andres",
+    "segundoApellido": "galeano",
+    "direccion": "carrera 46 a no. 22 c - 36 sur // avenida 92 no. 15 - 40",
+    "email": "johanesquiroga@gmail.com",
+    "telCelular": "3203203196",
+    "telFijo": "7156426",
+    "carpetaNumero": 566
+  }
+}

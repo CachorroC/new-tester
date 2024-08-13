@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 286,
+    "cedula": "12229243",
+    "primerNombre": "jose",
+    "primerApellido": "toro",
+    "segundoNombre": "ahinsonjober",
+    "segundoApellido": "vargas",
+    "direccion": "avenida 1 de mayo no 29-06",
+    "email": "serdiajo@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 289
+  }
+}

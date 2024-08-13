@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25817418900120170035100",
+  "numero": 80,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79882688,
+    "direccion": "calle 11 # 4 - 39 tocancipa",
+    "email": "joranpo@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "andres",
+    "primerApellido": "porras",
+    "segundoApellido": "vargas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "25817418900120170035100",
+    "capitalAdeudado": 16208319,
+    "etapaProcesal": "2.581740890012017e+22",
+    "municipio": "TOCANCIPA",
+    "obligacion": [377816861734105],
+    "radicado": "2017 - 00351",
+    "vencimientoPagare": ["2019-09-01T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79882688,
+  "idProcesos": null
+}

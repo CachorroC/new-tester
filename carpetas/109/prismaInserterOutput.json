@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 109,
+    "numero": 109,
+    "llaveProceso": "11001400302420180011900",
+    "nombre": "oscar ivan agudelo mora",
+    "idProcesos": [50990990],
+    "category": "Terminados"
+  }
+}

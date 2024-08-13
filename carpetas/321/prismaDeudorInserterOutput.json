@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 318,
+    "cedula": "52391771",
+    "primerNombre": "adela",
+    "primerApellido": "moreno",
+    "segundoNombre": "barajas",
+    "segundoApellido": null,
+    "direccion": "transversal 78 b no 6 b - 20 apartamento 101",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 321
+  }
+}

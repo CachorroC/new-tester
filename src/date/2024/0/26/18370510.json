@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:07.970Z",
+  "proceso": {
+    "idProceso": 18370510,
+    "idConexion": 260,
+    "llaveProceso": "11001400307020180012100",
+    "fechaProceso": "2018-02-07T05:00:00.000Z",
+    "fechaUltimaActuacion": "2020-02-05T05:00:00.000Z",
+    "despacho": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MIGUEL ANGEL GRANADOS GUTIERREZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 70,
+      "tipo": "JUZGADO 070 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-070-civil-municipal-de-bogota"
+    }
+  }
+}

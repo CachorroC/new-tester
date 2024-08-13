@@ -1,0 +1,78 @@
+{
+  "id": 28936365,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "NINI CORTES",
+    "cedula": "28936365",
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "telefono": "3134775602",
+    "id": 33
+  },
+  "demanda": {
+    "obligacion": ["377813824603022", "4513078713738027"],
+    "llaveProceso": "11001400308220170064900",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": null
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-06-09T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00649",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2020-03-03T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3118113651
+    },
+    "primerNombre": "NINI",
+    "segundoNombre": "JOHANA",
+    "primerApellido": "CORTES",
+    "segundoApellido": "MONROY",
+    "cedula": 28936365,
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "email": "snaluistol@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [81869251],
+  "llaveProceso": "11001400308220170064900",
+  "nombre": "NINI JOHANA CORTES MONROY",
+  "numero": 33,
+  "procesos": [
+    {
+      "idProceso": 81869251,
+      "idConexion": 320,
+      "llaveProceso": "11001400308220170064900",
+      "fechaProceso": "2017-06-09T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 082 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 82,
+        "tipo": "JUZGADO 082 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-082-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:49.368Z"
+}

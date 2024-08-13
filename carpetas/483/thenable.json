@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418903220180137000",
+  "numero": 483,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19459237,
+    "direccion": "calle 71 a no 69a-11 apto  301",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "wilson",
+    "segundoNombre": "ricardo",
+    "primerApellido": "escobar",
+    "segundoApellido": "escobar"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "expediente": "11001418903220180137000",
+    "capitalAdeudado": 1413462300,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BARRIOS UNIDOS",
+    "obligacion": [5860083295],
+    "radicado": "2018 - 01370",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19459237,
+  "idProcesos": null
+}

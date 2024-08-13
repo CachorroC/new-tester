@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 461,
+    "numero": 461,
+    "llaveProceso": "11001400303220180095900",
+    "nombre": "jose antonio florez oviedo",
+    "idProcesos": [51318660],
+    "category": "Terminados"
+  }
+}

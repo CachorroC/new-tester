@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 580,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "104393034",
+    "entregaGarantiasAbogado": "2023-10-13T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "MADRID",
+    "obligacion": ["90000179396"],
+    "radicado": null,
+    "vencimientoPagare": ["2052-02-01T00:00:00.000Z"],
+    "expediente": null,
+    "carpetaNumero": 592,
+    "despacho": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 232,
+    "cedula": "79853115",
+    "primerNombre": "fanor",
+    "primerApellido": "agudelo",
+    "segundoNombre": "diaz",
+    "segundoApellido": null,
+    "direccion": "diagonal 56 bis 84 a 10 sur tr 1",
+    "email": "fanor.diaz@gmail.com",
+    "telCelular": "3212406193",
+    "telFijo": "8060271",
+    "carpetaNumero": 235
+  }
+}

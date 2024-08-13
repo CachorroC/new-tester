@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-05T05:00:00.000Z",
+  "idProcesos": [18370510],
+  "idRegUltimaAct": 953242350,
+  "llaveProceso": "11001400307020180012100",
+  "nombre": "MIGUEL ANGEL GRANADOS GUTIERREZ",
+  "numero": 389,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:21.463Z"
+}

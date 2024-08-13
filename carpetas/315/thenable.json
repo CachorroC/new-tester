@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300320170036400",
+  "numero": 315,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80203869,
+    "direccion": "calle 34 a sur no 13 - 46  soacha",
+    "email": "bladimir0612@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "bladimir",
+    "primerApellido": "gutierrez",
+    "segundoApellido": "cifuentes",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-01T00:00:00.000Z",
+    "mandamientoPago": "2018-02-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-28T00:00:00.000Z",
+    "expediente": "25754400300320170036400",
+    "capitalAdeudado": 4723030994,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "SOACHA",
+    "obligacion": [170453],
+    "radicado": "2017 - 00364",
+    "vencimientoPagare": ["2033-12-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80203869,
+  "idProcesos": null
+}

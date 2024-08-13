@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-03-06T05:00:00.000Z",
+  "idProcesos": [10408413],
+  "idRegUltimaAct": 901625993,
+  "llaveProceso": "11001400304720170149100",
+  "nombre": "JORGE ERNESTO ROA MANRIQUE",
+  "numero": 136,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:42.679Z"
+}

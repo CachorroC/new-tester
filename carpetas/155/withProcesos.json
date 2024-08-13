@@ -1,0 +1,60 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "SULLMAN JANETH SABOGAL JIMENEZ",
+    "cedula": "53063756",
+    "direccion": "CL 7 5 29 TR 8 AP 303",
+    "telefono": "6197842 // 3112563218",
+    "id": 155,
+    "carpetaNumero": 155
+  },
+  "demanda": {
+    "vencimientoPagare": "29/11/2028",
+    "obligacion": {
+      "A": 4513082821740149,
+      "B": 20990170294
+    },
+    "capitalAdeudado": 40423614,
+    "entregaGarantiasAbogado": "4/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00717",
+    "llaveProceso": "11001400308320170071700",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "11/08/2017",
+    "mandamientoPago": "4/09/2017",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "4/09/2017",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 155,
+  "llaveProceso": "11001400308320170071700",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ARTURO",
+    "primerApellido": "RUEDA",
+    "segundoApellido": "ALZATE",
+    "cedula": 71557211,
+    "direccion": "CALLE 7 # 5 - 29 TORRE 8 APTO 303",
+    "email": "ruedacarlos47@gmail.com"
+  },
+  "cc": 71557211,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "CARLOS ARTURO RUEDA ALZATE",
+  "notificacion": null
+}

@@ -1,0 +1,11 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 3,
+      "tipo": "JUZGADO 003 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ - LOCALIDAD SUBA",
+      "url": "https://www.ramajudicial.gov.cojuzgado-003-de-pequeñas-causas--y-competencia-múltiple-de-bogotá---localidad-suba"
+    }
+  ]
+}

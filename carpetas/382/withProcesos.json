@@ -1,0 +1,70 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "8/09/2019",
+    "obligacion": {
+      "A": 3720086711
+    },
+    "capitalAdeudado": 11224313,
+    "entregaGarantiasAbogado": "11/01/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SAN JUAN DE RIOSECO",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00004",
+    "llaveProceso": "25662408900120180000400",
+    "fechaPresentacion": "NOTIFICACION",
+    "mandamientoPago": "25/01/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "X"
+      },
+      "certimail": "22/02/2018",
+      "tipo": 43378,
+      "autoNotificado": "FISICO"
+    },
+    "medidasCautelares": {
+      "medidaSolicitada": "22/02/2018"
+    }
+  },
+  "demandas": [],
+  "numero": 382,
+  "llaveProceso": "25662408900120180000400",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3107518479
+    },
+    "primerNombre": "CARLOS",
+    "segundoNombre": "ALBERTO",
+    "primerApellido": "LANCHEROS",
+    "segundoApellido": "BARRAGAN",
+    "cedula": 80403235,
+    "direccion": "CARRERA 4 NO 5 - 02 SAN JUAN DE RIO SECO",
+    "email": null
+  },
+  "cc": 80403235,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "CARLOS ALBERTO LANCHEROS BARRAGAN",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": "FISICO"
+  }
+}

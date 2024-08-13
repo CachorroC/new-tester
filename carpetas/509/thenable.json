@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25214400300120180100200",
+  "numero": 509,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 20401209,
+    "direccion": "calle 7 no 5-31",
+    "email": "todostienenzero@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "carolina",
+    "primerApellido": "prado",
+    "segundoApellido": "fiquitiva"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "25214400300120180100200",
+    "capitalAdeudado": 1658559500,
+    "etapaProcesal": null,
+    "municipio": "COTA",
+    "obligacion": [8270082134],
+    "radicado": "2018 - 01002",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 20401209,
+  "idProcesos": null
+}

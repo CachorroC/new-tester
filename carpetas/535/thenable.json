@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306920200082300",
+  "numero": 535,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51918944,
+    "direccion": "calle 55 sur 24c-28 apto 502",
+    "email": "amandagaitan@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "amanda",
+    "segundoNombre": "lucia",
+    "primerApellido": "gaitan",
+    "segundoApellido": "rincón"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2020-09-25T00:00:00.000Z",
+    "expediente": "11001400306920200082300",
+    "capitalAdeudado": 13583148,
+    "etapaProcesal": "1.10014003069202e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [370091753, 3700700231],
+    "radicado": "2020 - 00823",
+    "vencimientoPagare": ["2021-01-23T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 51918944,
+  "idProcesos": null
+}

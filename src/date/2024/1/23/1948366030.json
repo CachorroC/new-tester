@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:25.461Z",
+  "savedDate": "2023-08-04T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1948366030,
+    "llaveProceso": "11001418901820230131100",
+    "consActuacion": 11,
+    "fechaActuacion": "2024-01-26T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": null,
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-26T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 11,
+    "isUltimaAct": true,
+    "idProceso": 132102980
+  }
+}

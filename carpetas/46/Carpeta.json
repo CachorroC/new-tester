@@ -1,0 +1,158 @@
+{
+  "id": 11251297,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 46
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "12537973",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-05-19T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-05-30T05:00:16.000Z"],
+    "id": 46,
+    "llaveProceso": "25183400300120170010600",
+    "mandamientoPago": ["2017-06-21T05:00:16.000Z"],
+    "municipio": "CHOCONTA",
+    "notificacion": {
+      "id": 46,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2019-07-18T05:00:16.000Z",
+          "fechaAporta": "2019-07-29T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": "2019-08-01T05:00:16.000Z",
+          "resultado": true
+        }
+      ],
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "2019-08-02T05:00:16.000Z"
+    },
+    "obligacion": ["53037139326557900", "4099839496308260"],
+    "radicado": "2017-00106",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": [
+      "2020-04-18T05:00:00.000Z",
+      "2020-05-04T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 46,
+      "fechaOrdenaMedida": "2017-06-21T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO VEHICULO"
+    }
+  },
+  "deudor": {
+    "id": 46,
+    "telCelular": "3166182970",
+    "telFijo": null,
+    "primerNombre": "ALVARO",
+    "segundoNombre": "RODRIGUEZ",
+    "primerApellido": "ALONSO",
+    "segundoApellido": null,
+    "cedula": "11251297",
+    "direccion": "Carrera 2B No.14-04 BARRIO VILLA ALEJANDRA CHOCONTA",
+    "email": "alvaro.r@live.com"
+  },
+  "fecha": null,
+  "idProcesos": [86212261],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25183400300120170010600",
+  "nombre": "alvaro rodriguez alonso",
+  "numero": 46,
+  "procesos": [
+    {
+      "idProceso": 86212261,
+      "idConexion": 320,
+      "llaveProceso": "25183400300120170010600",
+      "fechaProceso": "2017-05-30T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE CHOCONTÁ ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: ALVARO  RODRIGUEZ ALONSO | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 1,
+        "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE CHOCONTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-001-civil-municipal-de-choconta"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": "2022-11-29T05:00:00.000Z",
+      "text": "29/10/2022 AUTORIZA ALLANAMIENTO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "JUZGADO ENVIA OFICIO A ESTACION DE POLICIA CHOCONTA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 6 DIC 2022 SIN INFORMACION DE POLICIA PARA ALLANAMIENTO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 27 ENERO 2023 SE SOLICITA LIQUIDACION DE CREDITO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "9 FEB SE APORTA LIQUIDACION  CREDITO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "POSIBLE FECHA DE DILIGENCIA JUNIO DE 2023 ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 46,
+      "createdAt": "2024-02-10T00:54:24.165Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 18 JULIO 2018 PASAR A MIRAR FECHA ALLANAMIENTO POLICIA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:24.166Z"
+}

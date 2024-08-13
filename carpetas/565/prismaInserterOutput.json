@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 564,
+    "numero": 565,
+    "llaveProceso": "11001418902120230128000",
+    "nombre": "sandra milena palacio rivera",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

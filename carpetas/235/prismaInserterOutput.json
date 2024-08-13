@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 235,
+    "numero": 235,
+    "llaveProceso": "11001400300820170113400",
+    "nombre": "fanor null diaz agudelo",
+    "idProcesos": [50716620],
+    "category": "Bancolombia"
+  }
+}

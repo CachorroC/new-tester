@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302220170048300",
+  "numero": 20,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 94482258,
+    "direccion": "carrera 72 r no. 37-90 sur",
+    "email": "sotocolombiano@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "andres",
+    "segundoNombre": "mauricio",
+    "primerApellido": "fernandez",
+    "segundoApellido": ["de", "soto", "dominguez"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "mandamientoPago": "2017-06-09T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "expediente": "11001400302220170048300",
+    "capitalAdeudado": 58957417,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [2551197],
+    "radicado": "2017 - 00483",
+    "vencimientoPagare": ["2020-04-25T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 94482258,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 440,
+    "cedula": "79978846",
+    "primerNombre": "juan",
+    "primerApellido": "garzon",
+    "segundoNombre": "carlos",
+    "segundoApellido": "bejarano",
+    "direccion": "carrera 10bis b este no 63-44 sur",
+    "email": "juangarzon21@hotmail.com",
+    "telCelular": "3212282328",
+    "telFijo": "3654986",
+    "carpetaNumero": 445
+  }
+}

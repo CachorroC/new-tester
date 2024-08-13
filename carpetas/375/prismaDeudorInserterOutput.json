@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 372,
+    "cedula": "74845495",
+    "primerNombre": "jhon",
+    "primerApellido": "zorro",
+    "segundoNombre": "alfredo",
+    "segundoApellido": "martinez",
+    "direccion": "calle 59a sur 45d - 15",
+    "email": "alfredozorromart@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 375
+  }
+}

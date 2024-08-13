@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:29.145Z",
+  "proceso": {
+    "idProceso": 50681670,
+    "idConexion": 259,
+    "llaveProceso": "11001400301220170101200",
+    "fechaProceso": "2017-09-05T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-03-02T05:00:00.000Z",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ALEXANDER ROJAS CASTAÑEDA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 13,
+      "tipo": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-13-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

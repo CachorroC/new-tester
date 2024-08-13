@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 320,
+    "numero": 320,
+    "llaveProceso": "11001400305620170131200",
+    "nombre": "maria camila macias padilla",
+    "idProcesos": [50916090],
+    "category": "Terminados"
+  }
+}

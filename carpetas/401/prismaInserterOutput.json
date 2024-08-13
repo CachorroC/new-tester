@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 401,
+    "numero": 401,
+    "llaveProceso": "11001400302520180023700",
+    "nombre": "sandra patricia  ojeda,rodriguez",
+    "idProcesos": [51025410],
+    "category": "Terminados"
+  }
+}

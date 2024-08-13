@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 300,
+    "cedula": "1118532643",
+    "primerNombre": "rafael",
+    "primerApellido": "camacho",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "velandia",
+    "direccion": "carrera 16 no 66 a 16",
+    "email": "willintong950@gmail.com  rafaelalfonsocamachovelandia@gmail.com",
+    "telCelular": "3202777672",
+    "telFijo": "7170610",
+    "carpetaNumero": 303
+  }
+}

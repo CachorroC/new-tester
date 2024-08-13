@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303520170129700",
+  "numero": 194,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52790965,
+    "direccion": "calle 20c # 106 - 27 apto 202 int 13",
+    "email": "fabiola_19805@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3107976282
+    },
+    "primerNombre": "fabiola",
+    "primerApellido": "martinez",
+    "segundoApellido": "rueda",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-31T00:00:00.000Z",
+    "mandamientoPago": "2017-09-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-28T00:00:00.000Z",
+    "expediente": "11001400303520170129700",
+    "capitalAdeudado": 4731735197,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [12601534],
+    "radicado": "2017 - 01297",
+    "vencimientoPagare": ["2017-08-23T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52790965,
+  "idProcesos": null
+}

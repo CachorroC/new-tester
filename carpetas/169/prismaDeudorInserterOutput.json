@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 167,
+    "cedula": "23553904",
+    "primerNombre": "rita",
+    "primerApellido": "de",
+    "segundoNombre": "blanco",
+    "segundoApellido": "gomez",
+    "direccion": "carrera 67 no. 65-22 sur torre 15 apto 559",
+    "email": "dorancy1@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 169
+  }
+}

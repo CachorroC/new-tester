@@ -1,0 +1,54 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "LEIDY FERNANDA SANCHEZ GAMBA",
+    "cedula": "1022357168",
+    "direccion": "TRANSVERSAL 54 # 18 - 30 SUR INTERIOR 3 APTO 201",
+    "telefono": "5103158",
+    "id": 141,
+    "carpetaNumero": 141
+  },
+  "demanda": {
+    "vencimientoPagare": "24/09/2017",
+    "obligacion": {
+      "A": 156285
+    },
+    "capitalAdeudado": 28130302.27,
+    "entregaGarantiasAbogado": "15/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01100",
+    "llaveProceso": "11001400303920170110000",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "22/08/2017"
+  },
+  "demandas": [],
+  "numero": 141,
+  "llaveProceso": "11001400303920170110000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 4137430,
+      "celular": 3003932311
+    },
+    "primerNombre": "EDGAR",
+    "segundoNombre": "DAVID",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "RINCON",
+    "cedula": 79412583,
+    "direccion": "CARREA 54 # 18 - 30 SUR APTO 201",
+    "email": "edgardavid302@hotmail.com"
+  },
+  "cc": 79412583,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "EDGAR DAVID HERNANDEZ RINCON",
+  "notificacion": null
+}

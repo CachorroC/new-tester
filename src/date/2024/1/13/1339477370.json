@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:13.539Z",
+  "savedDate": 1555909200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1339477370,
+    "llaveProceso": "11001400300820170105800",
+    "consActuacion": 89,
+    "fechaActuacion": "2022-07-21T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA DEL DESPACHO EXPEDIENTE PARA EL AREA DE ESTADOS // LAURA ROMERO // CUADERNOS 2",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-07-21T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 89,
+    "isUltimaAct": true,
+    "idProceso": 112758450
+  }
+}

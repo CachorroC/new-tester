@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 359,
+    "cedula": "52031089",
+    "primerNombre": "yaneth",
+    "primerApellido": "suarez",
+    "segundoNombre": "hernandez",
+    "segundoApellido": null,
+    "direccion": "carrera 80 j no 73-27",
+    "email": "HERNANDEZ_YANETH@HOTMAIL.COM",
+    "telCelular": "3007553091",
+    "telFijo": "7553091",
+    "carpetaNumero": 362
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "15/11/2021",
+    "obligacion": {
+      "A": 1680097436,
+      "B": 148653
+    },
+    "capitalAdeudado": "$ 56.987.693",
+    "entregaGarantiasAbogado": "14/11/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2018 - 00060",
+    "llaveProceso": "2575440030042018000600",
+    "etapaProcesal": "EJECUCION"
+  },
+  "demandas": [
+    {
+      "idProceso": 533,
+      "idConexion": null,
+      "llaveProceso": "2575440030042018000600",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2021-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "EJECUCION",
+      "fechaPresentacion": [],
+      "municipio": "SOACHA",
+      "obligacion": [1680097436, 148653],
+      "radicado": "2018 - 00060"
+    }
+  ],
+  "numero": 533,
+  "llaveProceso": "2575440030042018000600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JAIRO",
+    "segundoNombre": "ALFONSO",
+    "primerApellido": "PARDO",
+    "segundoApellido": "JAIMES",
+    "cedula": 79522009,
+    "direccion": "DIAGONAL 28 No 33-27  TORRE 7 APART 203  SOACHA",
+    "email": "jairopardo8-11-70@hotmail.com"
+  },
+  "cc": 79522009,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "JAIRO ALFONSO PARDO JAIMES",
+  "notificacion": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 73,
+    "numero": 73,
+    "llaveProceso": "11001400300420170057500",
+    "nombre": "sonia null mazuera null",
+    "idProcesos": [50508870],
+    "category": "Terminados"
+  }
+}

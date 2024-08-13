@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418903220230061200",
+  "numero": 564,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 79399032,
+    "direccion": "transversal 77 n 7a -16 int 9 // carrera 69 no. 31 - 68",
+    "email": "abadiajorgesa@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3125642401
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "alex",
+    "primerApellido": "abadia",
+    "segundoApellido": "carrillo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001418903220230061200",
+    "capitalAdeudado": 29090298,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [9460085166],
+    "radicado": "2023 - 01280",
+    "vencimientoPagare": ["2026-03-08T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79399032,
+  "idProcesos": null
+}

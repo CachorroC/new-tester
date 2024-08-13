@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 529,
+    "departamento": "ANTIOQUIA",
+    "capitalAdeudado": "39855851",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "2018-10-09T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO", "5.49158043629196e+29"],
+    "radicado": "2018 - 00964",
+    "vencimientoPagare": [
+      "2021-04-01T00:00:00.000Z",
+      "2021-05-01T00:00:00.000Z"
+    ],
+    "expediente": "11001400308220180096400",
+    "carpetaNumero": 541,
+    "despacho": null
+  }
+}

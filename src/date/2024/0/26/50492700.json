@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:08.749Z",
+  "proceso": {
+    "idProceso": 50492700,
+    "idConexion": 259,
+    "llaveProceso": "11001400303020170095100",
+    "fechaProceso": "2017-06-08T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-09-17T05:00:00.000Z",
+    "despacho": "JUZGADO 030 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCO DAVIVIENDA S.A. | Demandado: LUIS ALEJANDRO GOMEZ RUIZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 30,
+      "tipo": "JUZGADO 030 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-30-civil-municipal-de-bogota"
+    }
+  }
+}

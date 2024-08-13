@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 37,
+    "numero": 37,
+    "llaveProceso": "25740418900120170021700",
+    "nombre": "luis alberto alfonso giraldo",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

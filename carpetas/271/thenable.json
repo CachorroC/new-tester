@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400405420170099000",
+  "numero": 271,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52850427,
+    "direccion": null,
+    "email": "CARRERA 16 No  24 - 34 APARTAMENTO 302",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "aura",
+    "segundoNombre": "geovana",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "mora"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400405420170099000",
+    "capitalAdeudado": null,
+    "etapaProcesal": "05-10-2017",
+    "municipio": "BOGOTA",
+    "obligacion": ["39.495.993.87"],
+    "radicado": "2017 - 00990",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": "22-09-2017"
+  },
+  "cc": 52850427,
+  "idProcesos": null
+}

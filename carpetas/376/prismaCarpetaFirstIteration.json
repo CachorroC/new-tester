@@ -1,0 +1,13 @@
+{
+  "category": "LiosJuridicos",
+  "fecha": "2023-08-11T05:00:00.000Z",
+  "idProcesos": [51500810],
+  "idRegUltimaAct": 1842023050,
+  "llaveProceso": "11001400307620180005200",
+  "nombre": "ROBERTO RICO RUIZ",
+  "numero": 376,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:19.169Z"
+}

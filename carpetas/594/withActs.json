@@ -1,0 +1,193 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 1928574010,
+      "llaveProceso": "11001400303420230106500",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-09T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 09/11/2023 a las 14:53:02.",
+      "fechaInicial": "2023-11-10T05:00:00.000Z",
+      "fechaFinal": "2023-11-10T05:00:00.000Z",
+      "fechaRegistro": "2023-11-09T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 134565110,
+      "isUltimaAct": true,
+      "carpetaNumero": 594,
+      "createdAt": "2023-12-10T20:31:50.360Z"
+    },
+    {
+      "idRegActuacion": 1928574000,
+      "llaveProceso": "11001400303420230106500",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-09T05:00:00.000Z",
+      "actuacion": "Auto resuelve retiro demanda",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-09T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 134565110,
+      "isUltimaAct": false,
+      "carpetaNumero": 594,
+      "createdAt": "2023-12-10T20:31:50.360Z"
+    },
+    {
+      "idRegActuacion": 1934776140,
+      "llaveProceso": "11001400303420230106500",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-07T05:00:00.000Z",
+      "actuacion": "Recepción memorial",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-08T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 134565110,
+      "isUltimaAct": false,
+      "carpetaNumero": 594,
+      "createdAt": "2023-12-10T20:31:50.360Z"
+    },
+    {
+      "idRegActuacion": 1926315320,
+      "llaveProceso": "11001400303420230106500",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-11-02T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 134565110,
+      "isUltimaAct": false,
+      "carpetaNumero": 594,
+      "createdAt": "2023-12-10T20:31:50.360Z"
+    },
+    {
+      "idRegActuacion": 1926315310,
+      "llaveProceso": "11001400303420230106500",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-11-02T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 02/11/2023 a las 14:19:26",
+      "fechaInicial": "2023-11-02T05:00:00.000Z",
+      "fechaFinal": "2023-11-02T05:00:00.000Z",
+      "fechaRegistro": "2023-11-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 134565110,
+      "isUltimaAct": false,
+      "carpetaNumero": 594,
+      "createdAt": "2023-12-10T20:31:50.360Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 34,
+      "tipo": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-34-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "4/06/2026",
+    "obligacion": {
+      "A": 2250087454
+    },
+    "capitalAdeudado": "$ 65.371.302",
+    "entregaGarantiasAbogado": "20/10/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "radicado": "2023-1065",
+    "llaveProceso": "11001400303420230106500",
+    "etapaProcesal": "11001400303420230106500"
+  },
+  "demandas": [
+    {
+      "idProceso": 134565110,
+      "idConexion": 259,
+      "llaveProceso": "11001400303420230106500",
+      "fechaProceso": "2023-11-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-09T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA MAGNOLIA CAMPOS ROBLES ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2026-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": "11001400303420230106500",
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [2250087454],
+      "radicado": "2023-1065"
+    }
+  ],
+  "numero": 594,
+  "llaveProceso": "11001400303420230106500",
+  "fecha": "2023-11-09T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1928574010,
+    "llaveProceso": "11001400303420230106500",
+    "consActuacion": 5,
+    "fechaActuacion": "2023-11-09T00:00:00",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 09/11/2023 a las 14:53:02.",
+    "fechaInicial": "2023-11-10T00:00:00",
+    "fechaFinal": "2023-11-10T00:00:00",
+    "fechaRegistro": "2023-11-09T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 5,
+    "idProceso": 134565110,
+    "isUltimaAct": true
+  },
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 4206527,
+      "celular": 3007465888
+    },
+    "primerNombre": "SANDRA",
+    "segundoNombre": "MAGNOLIA",
+    "primerApellido": "CAMPOS",
+    "segundoApellido": "ROBLES",
+    "cedula": 63359557,
+    "direccion": "Calle 6 C No. 82 A-25 Interior 1 Apartamento 703 Conjunto Residencial Zapan de Castilla P.H.. de la ciudad de Bogotá.",
+    "email": "sandracollection1@gmail.com"
+  },
+  "cc": 63359557,
+  "procesos": [
+    {
+      "idProceso": 134565110,
+      "idConexion": 259,
+      "llaveProceso": "11001400303420230106500",
+      "fechaProceso": "2023-11-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-09T05:00:00.000Z",
+      "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA MAGNOLIA CAMPOS ROBLES ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [134565110],
+  "nombre": "SANDRA MAGNOLIA CAMPOS ROBLES",
+  "notificacion": null
+}

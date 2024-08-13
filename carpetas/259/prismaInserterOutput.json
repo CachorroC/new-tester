@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 259,
+    "numero": 259,
+    "llaveProceso": "11001400303920170125600",
+    "nombre": "luz nelly ruiz lara",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

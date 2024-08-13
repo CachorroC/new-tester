@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:59.465Z",
+  "proceso": {
+    "idProceso": 17948440,
+    "idConexion": 260,
+    "llaveProceso": "11001400306420180021800",
+    "fechaProceso": "2018-02-21T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-04-24T05:00:00.000Z",
+    "despacho": "JUZGADO 064 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: BLANCA CECILIA ARDILA HUERTAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 64,
+      "tipo": "JUZGADO 064 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-064-civil-municipal-de-bogota"
+    }
+  }
+}

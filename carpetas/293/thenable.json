@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304820170097400",
+  "numero": 293,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1032383389,
+    "direccion": "calle 64 sur  no 85 b - 40  apartamento  104",
+    "email": "ars.09@hotmail.com",
+    "tel": {
+      "fijo": 4725511,
+      "celular": 3118526428
+    },
+    "primerNombre": "anderson",
+    "primerApellido": "revelo",
+    "segundoApellido": "santos",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-06T00:00:00.000Z",
+    "mandamientoPago": "2017-11-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-19T00:00:00.000Z",
+    "expediente": "11001400304820170097400",
+    "capitalAdeudado": 12249598,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": ["320088443  / 377813441863587", 4513070212799642],
+    "radicado": "2017 - 00974",
+    "vencimientoPagare": ["2020-03-05T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1032383389,
+  "idProcesos": null
+}

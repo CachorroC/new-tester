@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "numero": 565,
+    "llaveProceso": "11001418902120230128000",
+    "nombre": "sandra milena palacio rivera",
+    "idProcesos": [],
+    "category": "Bancolombia",
+    "tipoProceso": "SINGULAR",
+    "fecha": null,
+    "revisado": false,
+    "updatedAt": "2023-11-29T08:38:26.924Z",
+    "terminado": false,
+    "idRegUltimaAct": null
+  }
+}

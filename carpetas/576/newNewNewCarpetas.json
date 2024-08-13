@@ -1,0 +1,232 @@
+{
+  "id": 1020754305,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1943926140,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 7,
+      "fechaActuacion": "2024-01-11T05:00:00.000Z",
+      "actuacion": "Oficio Elaborado",
+      "anotacion": "OFS. 1651, 2652 Y 2653 (EMBARGO) SE ENVÍA A LA ENTIDAD COMPETENTE CON COPIA APODERADA DTE. ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2024-01-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    },
+    {
+      "idRegActuacion": 1937123950,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-11-23T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 23/11/2023 a las 15:54:08.",
+      "fechaInicial": "2023-11-24T05:00:00.000Z",
+      "fechaFinal": "2023-11-24T05:00:00.000Z",
+      "fechaRegistro": "2023-11-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    },
+    {
+      "idRegActuacion": 1937123940,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-23T05:00:00.000Z",
+      "actuacion": "Auto decreta medida cautelar",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    },
+    {
+      "idRegActuacion": 1937123930,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-23T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 23/11/2023 a las 15:53:58.",
+      "fechaInicial": "2023-11-24T05:00:00.000Z",
+      "fechaFinal": "2023-11-24T05:00:00.000Z",
+      "fechaRegistro": "2023-11-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    },
+    {
+      "idRegActuacion": 1937123920,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-23T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-23T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    },
+    {
+      "idRegActuacion": 1932794930,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-11-07T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-08T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    },
+    {
+      "idRegActuacion": 1926960840,
+      "llaveProceso": "11001400301620230122200",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-11-03T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 03/11/2023 a las 07:53:47",
+      "fechaInicial": "2023-11-03T05:00:00.000Z",
+      "fechaFinal": "2023-11-03T05:00:00.000Z",
+      "fechaRegistro": "2023-11-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 7,
+      "idProceso": 134585460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-03T00:36:34.781Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 576
+  },
+  "demanda": {
+    "capitalAdeudado": "94472793",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-08-17T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "11001400301620230122200",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 576,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["4610082832", "Q 0000001020754305027001"],
+    "radicado": "2023 - 00843",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-04-02T05:00:00.000Z",
+      "2026-04-23T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 576,
+      "fechaOrdenaMedida": "2024-02-03T00:36:34.631Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 576,
+    "telCelular": "3188015288",
+    "telFijo": null,
+    "primerNombre": "JUAN",
+    "segundoNombre": "CAMILO",
+    "primerApellido": "VELASQUEZ",
+    "segundoApellido": "PEREIRA",
+    "cedula": "1020754305",
+    "direccion": "Carrera 15 No. 127 - 32 Apartamento 105 Portaldel Country",
+    "email": "jcamilovp@gmail.com"
+  },
+  "fecha": "2024-01-11T05:00:00.000Z",
+  "idProcesos": [134585460],
+  "idRegUltimaAct": 1943926140,
+  "llaveProceso": "11001400301620230122200",
+  "nombre": "JUAN CAMILO VELASQUEZ PEREIRA",
+  "numero": 576,
+  "procesos": [
+    {
+      "idProceso": 134585460,
+      "idConexion": 259,
+      "llaveProceso": "11001400301620230122200",
+      "fechaProceso": "2023-11-03T05:00:00.000Z",
+      "fechaUltimaActuacion": "2024-01-11T05:00:00.000Z",
+      "despacho": "JUZGADO 016 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JUAN CAMILO VELASQUEZ PEREIRA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 16,
+        "tipo": "JUZGADO 016 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-016-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1943926140,
+    "llaveProceso": "11001400301620230122200",
+    "consActuacion": 7,
+    "fechaActuacion": "2024-01-11T05:00:00.000Z",
+    "actuacion": "Oficio Elaborado",
+    "anotacion": "OFS. 1651, 2652 Y 2653 (EMBARGO) SE ENVÍA A LA ENTIDAD COMPETENTE CON COPIA APODERADA DTE. ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-11T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 7,
+    "idProceso": 134585460,
+    "isUltimaAct": true
+  },
+  "updatedAt": "2024-02-03T00:36:34.631Z"
+}

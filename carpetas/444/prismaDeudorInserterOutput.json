@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 439,
+    "cedula": "79562532",
+    "primerNombre": "pablo",
+    "primerApellido": "soacha",
+    "segundoNombre": "cesar",
+    "segundoApellido": "morales",
+    "direccion": null,
+    "email": "CALLE 34 No 34C- 38 SUR",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 444
+  }
+}

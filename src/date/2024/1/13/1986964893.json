@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:22.203Z",
+  "savedDate": 1696914000000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1986964893,
+    "llaveProceso": "11001400303720230099100",
+    "consActuacion": 9,
+    "fechaActuacion": "2024-02-08T05:00:00.000Z",
+    "actuacion": "Auto requiere",
+    "anotacion": "A LA PARTE DEMANDANTE. ESTADO ELECTRÒNICO No. 007 DEL AÑO 2024",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-08T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 9,
+    "isUltimaAct": true,
+    "idProceso": 128037283
+  }
+}

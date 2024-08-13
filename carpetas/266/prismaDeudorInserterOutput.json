@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 263,
+    "cedula": "71192974",
+    "primerNombre": "julian",
+    "primerApellido": "jesus",
+    "segundoNombre": "de",
+    "segundoApellido": "isaza,aguirre",
+    "direccion": "carrera 24 h no 23 a - 08 sur",
+    "email": "mayaconfecciones1@gmail.com",
+    "telCelular": "3138085772",
+    "telFijo": null,
+    "carpetaNumero": 266
+  }
+}

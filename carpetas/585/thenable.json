@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001418907020230039900",
+  "numero": 585,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 41336003,
+    "direccion": "calle 152 no. 12c - 12 torre 1 apto 704 conjunto residencial entrecedros en bogotá y/o carrera 19 a no. 159 -70-84 interior 4 apto 503 conjunto residencial sauces del norte",
+    "email": "adrifor_co@hotmail.com",
+    "tel": {
+      "fijo": 3543562,
+      "celular": 3143644918
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "georgina",
+    "primerApellido": "forero",
+    "segundoApellido": ["de", "mendoza"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-09-26T00:00:00.000Z",
+    "expediente": "11001418907020230039900",
+    "capitalAdeudado": 25766202,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [
+      31035862,
+      "377816195788645 X TC AMERICAN // 4099843107499631 X T.C. VISA"
+    ],
+    "radicado": "2023-399",
+    "vencimientoPagare": [null, null, null, "2026-07-05T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 41336003,
+  "idProcesos": null
+}

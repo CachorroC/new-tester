@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:27.438Z",
+  "proceso": {
+    "idProceso": 50679230,
+    "idConexion": 259,
+    "llaveProceso": "11001400303520170129700",
+    "fechaProceso": "2017-09-04T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-03-08T05:00:00.000Z",
+    "despacho": "JUZGADO 035 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FABIOLA MARTINEZ RUEDA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 35,
+      "tipo": "JUZGADO 035 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-35-civil-municipal-de-bogota"
+    }
+  }
+}

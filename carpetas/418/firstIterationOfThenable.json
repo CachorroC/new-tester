@@ -1,0 +1,51 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "obligacion": {
+      "A": 377817000000000,
+      "B": 451388000000000
+    },
+    "capitalAdeudado": "23.159.598",
+    "entregaGarantiasAbogado": "12/04/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "FACATATIVA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00246",
+    "llaveProceso": "25269400300120180024600",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "19//04/2018",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "7/05/2018",
+      "medidaSolicitada": "INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 418,
+  "llaveProceso": "25269400300120180024600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "AURA",
+    "segundoNombre": "LETICIA",
+    "primerApellido": "GAMEZ",
+    "segundoApellido": "ROJAS",
+    "cedula": 35521020,
+    "direccion": "CALLE 11B- No 10-21",
+    "email": "aurag2599@hotmail.com"
+  },
+  "cc": 35521020,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "AURA LETICIA GAMEZ ROJAS",
+  "notificacion": null
+}

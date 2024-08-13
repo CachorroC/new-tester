@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 178,
+    "numero": 178,
+    "llaveProceso": "11001400306620170122100",
+    "nombre": "maryluz null ocasiones pinzon",
+    "idProcesos": [112657130],
+    "category": "Terminados"
+  }
+}

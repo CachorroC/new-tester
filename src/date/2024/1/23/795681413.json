@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:14.809Z",
+  "savedDate": "2017-09-05T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 795681413,
+    "llaveProceso": "11001400304520170108600",
+    "consActuacion": 18,
+    "fechaActuacion": "2019-08-15T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "P 598",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-08-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 18,
+    "isUltimaAct": true,
+    "idProceso": 9877173
+  }
+}

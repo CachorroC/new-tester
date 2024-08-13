@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400300520170125500",
+  "numero": 216,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51833717,
+    "direccion": null,
+    "email": "CARRERA 123 # 131 - 32",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "blanca",
+    "segundoNombre": "janeth",
+    "primerApellido": "pinzon",
+    "segundoApellido": "suarez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-23T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400300520170125500",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "42982",
+    "municipio": "BOGOTA",
+    "obligacion": [1340111261],
+    "radicado": "2017 - 01255",
+    "vencimientoPagare": ["+096859-01-01T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 44697
+  },
+  "cc": 51833717,
+  "idProcesos": null
+}

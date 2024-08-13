@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2017-11-07T05:00:00.000Z",
+  "idProcesos": [9083003],
+  "idRegUltimaAct": 99012273,
+  "llaveProceso": "11001400303820170095700",
+  "nombre": "JAVIER ORLANDO GOMEZ DIAZ",
+  "numero": 245,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:59.372Z"
+}

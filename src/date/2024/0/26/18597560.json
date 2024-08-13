@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:10.334Z",
+  "proceso": {
+    "idProceso": 18597560,
+    "idConexion": 260,
+    "llaveProceso": "11001400307120180093600",
+    "fechaProceso": "2018-09-14T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-08-14T05:00:00.000Z",
+    "despacho": "JUZGADO 071 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CLAUDIA JANETH CORTES ROSAS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 71,
+      "tipo": "JUZGADO 071 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-071-civil-municipal-de-bogota"
+    }
+  }
+}

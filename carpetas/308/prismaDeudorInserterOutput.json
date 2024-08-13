@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 305,
+    "cedula": "80271269",
+    "primerNombre": "oscar",
+    "primerApellido": "serrano",
+    "segundoNombre": "ernesto",
+    "segundoApellido": "velasco",
+    "direccion": "carrera 76 no 57 z-46 sur interior 3 apartamento 6",
+    "email": "osfacer@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 308
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 197,
+    "numero": 197,
+    "llaveProceso": "11001400304520170108600",
+    "nombre": "mario jean pinzon baron",
+    "idProcesos": [9877173],
+    "category": "Terminados"
+  }
+}

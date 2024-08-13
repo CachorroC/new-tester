@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:32.305Z",
+  "proceso": {
+    "idProceso": 50517060,
+    "idConexion": 259,
+    "llaveProceso": "11001400304220170076000",
+    "fechaProceso": "2017-06-20T05:00:00.000Z",
+    "fechaUltimaActuacion": "2024-01-23T05:00:00.000Z",
+    "despacho": "JUZGADO 010 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE URIEL PAEREZ PERDOMO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 10,
+      "tipo": "JUZGADO 010 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-10-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

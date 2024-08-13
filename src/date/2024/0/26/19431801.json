@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:03.072Z",
+  "proceso": {
+    "idProceso": 19431801,
+    "idConexion": 256,
+    "llaveProceso": "11001400304120180007500",
+    "fechaProceso": "2018-01-25T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-04-06T05:00:00.000Z",
+    "despacho": "JUZGADO 041 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: NIELCEN MARISOL MARIN MELO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 41,
+      "tipo": "JUZGADO 041 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-041-civil-municipal-de-bogota"
+    }
+  }
+}

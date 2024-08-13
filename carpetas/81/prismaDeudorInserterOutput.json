@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 80,
+    "cedula": "900789612",
+    "primerNombre": "ds&d",
+    "primerApellido": "constructivas",
+    "segundoNombre": "soluciones",
+    "segundoApellido": "s.a.s.",
+    "direccion": "carrera 7 # 171a - 14 la calera",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 81
+  }
+}

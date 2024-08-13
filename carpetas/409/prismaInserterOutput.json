@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 409,
+    "numero": 409,
+    "llaveProceso": "11001400305620180022100",
+    "nombre": "creas null consultores s.a.s",
+    "idProcesos": [51042800],
+    "category": "Bancolombia"
+  }
+}

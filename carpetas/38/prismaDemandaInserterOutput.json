@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 38,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "16006640",
+    "entregaGarantiasAbogado": "2017-06-06T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": "2017-06-15T00:00:00.000Z",
+    "municipio": "TABIO",
+    "obligacion": ["AUDIOPRESTAMO", "34328697321//377815467278467"],
+    "radicado": "2017 - 00102",
+    "vencimientoPagare": ["2020-03-01T00:00:00.000Z"],
+    "expediente": "25785418900120170010200",
+    "carpetaNumero": 38,
+    "despacho": null
+  }
+}

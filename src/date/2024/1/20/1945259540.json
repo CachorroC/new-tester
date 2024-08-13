@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:31.961Z",
+  "savedDate": "2019-12-11T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1945259540,
+    "llaveProceso": "11001418901220180064400",
+    "consActuacion": 46,
+    "fechaActuacion": "2024-01-22T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "PROCESO  HIBRIDO  , ENTRA AL DESPACHO PARA LO PERTINENTE// SONIA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-17T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 46,
+    "isUltimaAct": true,
+    "idProceso": 71079290
+  }
+}

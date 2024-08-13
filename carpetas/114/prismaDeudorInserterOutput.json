@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 113,
+    "cedula": "79209455",
+    "primerNombre": "jose",
+    "primerApellido": "caicedo",
+    "segundoNombre": "antonio",
+    "segundoApellido": "ruiz",
+    "direccion": "calle 11 # 52a - 14 soacha",
+    "email": "antoniocaicedo1972@gmail.com",
+    "telCelular": "3128067314",
+    "telFijo": "3213173",
+    "carpetaNumero": 114
+  }
+}

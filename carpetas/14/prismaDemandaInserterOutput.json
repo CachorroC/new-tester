@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 14,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "15987259",
+    "entregaGarantiasAbogado": "2017-09-19T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-09-27T00:00:00.000Z",
+    "municipio": "SIBATE",
+    "obligacion": ["4517"],
+    "radicado": "2017 - 00284",
+    "vencimientoPagare": ["2023-03-01T00:00:00.000Z"],
+    "expediente": "25740418900120170028400",
+    "carpetaNumero": 14,
+    "despacho": null
+  }
+}

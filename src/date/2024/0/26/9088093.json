@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:07.828Z",
+  "proceso": {
+    "idProceso": 9088093,
+    "idConexion": 261,
+    "llaveProceso": "11001400303820180014900",
+    "fechaProceso": "2018-02-07T05:00:00.000Z",
+    "fechaUltimaActuacion": "2021-05-27T05:00:00.000Z",
+    "despacho": "JUZGADO 038 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MIGUEL ALEJANDRO GARCIA RODRIGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 38,
+      "tipo": "JUZGADO 038 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-038-civil-municipal-de-bogota"
+    }
+  }
+}

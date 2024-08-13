@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2018-09-06T05:00:00.000Z",
+  "idProcesos": [51277500],
+  "idRegUltimaAct": 582442800,
+  "llaveProceso": "11001400300520180071100",
+  "nombre": "CARLOS ANTONIO PACHECO TORRES",
+  "numero": 447,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:31:30.085Z"
+}

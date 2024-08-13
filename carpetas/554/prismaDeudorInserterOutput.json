@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 542,
+    "cedula": "51976656",
+    "primerNombre": "sandra",
+    "primerApellido": "alvarez",
+    "segundoNombre": "patricia",
+    "segundoApellido": "rodriguez",
+    "direccion": "carrera 102 no. 69 - 81 casa 5 conjunto residencial montes de tierra grata",
+    "email": "sandris73@hotmail.com",
+    "telCelular": "3157352910",
+    "telFijo": "2297973",
+    "carpetaNumero": 554
+  }
+}

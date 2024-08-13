@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:31.346Z",
+  "proceso": {
+    "idProceso": 51918100,
+    "idConexion": 259,
+    "llaveProceso": "11001400308120180011100",
+    "fechaProceso": "2019-05-17T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-05-02T05:00:00.000Z",
+    "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JHON ALEXANDER ALARCON GALVIS ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 5,
+      "tipo": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-05-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400302020170147700",
+  "numero": 416,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79512506,
+    "direccion": "calle 24 no 24 - 16  sur",
+    "email": "yulypgarcia.montplas@gmail.com",
+    "tel": {
+      "fijo": 2724305,
+      "celular": 3134664560
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "antonio",
+    "primerApellido": "montealegre",
+    "segundoApellido": "hernandez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-11-24T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-14T00:00:00.000Z",
+    "expediente": "11001400302020170147700",
+    "capitalAdeudado": 51606071,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2330087192, 2330087423],
+    "radicado": "2017 - 01477",
+    "vencimientoPagare": ["2020-02-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52730300,
+    "direccion": "CALLE 24 No 24-26 SUR",
+    "nombre": "yuli marcela peña garcia",
+    "telefono": "CEL 3103018266"
+  },
+  "cc": 79512506,
+  "idProcesos": null
+}

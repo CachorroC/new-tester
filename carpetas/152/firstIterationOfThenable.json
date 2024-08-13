@@ -1,0 +1,78 @@
+{
+  "actuaciones": null,
+  "juzgados": null,
+  "codeudor": {
+    "nombre": "JENNY BRIGITTE BALLEN MESA",
+    "cedula": "1069729949",
+    "direccion": "CARRERA 42 # 22 - 11  // CARRERA 11 BIS # 154A - 30 APTO 1007 TORRE 2",
+    "telefono": "8113984",
+    "id": 152,
+    "carpetaNumero": 152
+  },
+  "demanda": {
+    "vencimientoPagare": "5/02/2035",
+    "obligacion": {
+      "A": 180950
+    },
+    "capitalAdeudado": "$ 76.394.840",
+    "entregaGarantiasAbogado": "23/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01136",
+    "llaveProceso": "110014007320170113600",
+    "etapaProcesal": "11001400307320170113600",
+    "fechaPresentacion": "DESDE EL 25/03/2022 APARECE OFICIO CORREGIDO SIN TRAMITAR Y PASA A LA LETRA",
+    "mandamientoPago": "5/09/2018"
+  },
+  "demandas": [
+    {
+      "idProceso": 152,
+      "idConexion": null,
+      "llaveProceso": "110014007320170113600",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": null,
+      "esPrivado": null,
+      "cantFilas": null,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2035-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": "2018-05-09T05:00:00.000Z",
+      "etapaProcesal": "11001400307320170113600",
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [180950],
+      "radicado": "2017 - 01136"
+    }
+  ],
+  "numero": 152,
+  "llaveProceso": "110014007320170113600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 3142566,
+      "celular": 3142566974
+    },
+    "primerNombre": "NICOLAS",
+    "segundoNombre": "OSORIO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": null,
+    "cedula": 1032431042,
+    "direccion": "CARRERA 111 BIS # 154A - 30 TORRE 2 APTO 1007",
+    "email": "nicolas.osorio@finamerica.com.co"
+  },
+  "cc": 1032431042,
+  "procesos": null,
+  "idProcesos": [],
+  "nombre": "NICOLAS OSORIO RODRIGUEZ",
+  "notificacion": null
+}

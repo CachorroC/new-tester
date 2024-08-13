@@ -1,0 +1,76 @@
+{
+  "id": 900212673,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": "YENY ESPERANZA ARIAS MENDIETA",
+    "cedula": "52771090",
+    "direccion": "CARRERA 3 # 29A - 02 LOCAL 1057",
+    "telefono": "5753416",
+    "id": 120
+  },
+  "demanda": {
+    "capitalAdeudado": "13906249",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-08-04T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-08-11T05:00:16.000Z"],
+    "llaveProceso": "201700755",
+    "mandamientoPago": "2017-09-08T05:00:16.000Z",
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 120,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2017-12-12T05:00:16.000Z",
+          "fechaAporta": "2017-12-12T05:00:16.000Z",
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": "2017-12-12T05:00:16.000Z",
+          "resultado": true
+        }
+      ],
+      "certimail": true,
+      "fisico": false,
+      "autoNotificado": "2018-02-09T05:00:16.000Z"
+    },
+    "obligacion": ["6240082776"],
+    "radicado": "2017 - 00755",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2021-04-12T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 120,
+      "fechaOrdenaMedida": "2017-09-08T05:00:16.000Z",
+      "medidaSolicitada": "EMBARGO INMUEBLE DE LA CODEUDORA"
+    }
+  },
+  "deudor": {
+    "id": 120,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JENCELL",
+    "segundoNombre": null,
+    "primerApellido": "E.U.",
+    "segundoApellido": null,
+    "cedula": "900212673",
+    "direccion": "CARRERA 3 # 29A - 02 ",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "201700755",
+  "nombre": "JENCELL E.U.",
+  "numero": 120,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:24.917Z"
+}

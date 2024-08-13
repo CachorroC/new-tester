@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 62,
+    "numero": 62,
+    "llaveProceso": "11001400306320180016800",
+    "nombre": "luis eduardo carranza bustos",
+    "idProcesos": [51018210],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300920170136100",
+  "numero": 366,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53094561,
+    "direccion": "carrera 87 k no 70-44 sur",
+    "email": "yurisita_05@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yuri",
+    "segundoNombre": "andrea",
+    "primerApellido": "gonzalez",
+    "segundoApellido": "torres"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-11-12T05:00:00.000Z",
+    "expediente": "11001400300920170136100",
+    "capitalAdeudado": 19041643,
+    "etapaProcesal": "1.100140030092017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [134032],
+    "radicado": "2017 - 01361",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53094561,
+  "idProcesos": null
+}

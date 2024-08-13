@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 10,
+    "numero": 10,
+    "llaveProceso": "11001418900320170090900",
+    "nombre": "marina null morales hernandez",
+    "idProcesos": [82112341],
+    "category": "Terminados"
+  }
+}

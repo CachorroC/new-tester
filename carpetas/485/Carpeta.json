@@ -1,0 +1,105 @@
+{
+  "id": 52115085,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 485
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "16492041",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-03-09T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-09-18T05:00:00.000Z"],
+    "id": 485,
+    "llaveProceso": "11001418900820180076100",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 485,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["AUDIOPRETAMO / 377815771894801", "4513074250577090"],
+    "radicado": "2018 - 00761",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 485,
+      "fechaOrdenaMedida": "2024-02-10T00:55:02.394Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 485,
+    "telCelular": "3002667595",
+    "telFijo": "3468511 ",
+    "primerNombre": "DIANA",
+    "segundoNombre": "MARGARITA",
+    "primerApellido": "BUSTOS",
+    "segundoApellido": "BALLEN",
+    "cedula": "52115085",
+    "direccion": "CALLE 75 A No 110C-17",
+    "email": "margobus2003@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001418900820180076100",
+  "nombre": "diana margarita bustos ballen",
+  "numero": 485,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 485,
+      "createdAt": "2024-02-10T00:55:02.394Z",
+      "pathname": null,
+      "dueDate": "2020-03-07T05:00:00.000Z",
+      "text": "EL 7/02/2020 EL JUZGADO DA POR TERMINADO EL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 485,
+      "createdAt": "2024-02-10T00:55:02.394Z",
+      "pathname": null,
+      "dueDate": "2020-10-17T05:00:00.000Z",
+      "text": " EL 17/09/2020 SE DEVUELVE DESGLOSE DE GARANTIAS A AECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 485,
+      "createdAt": "2024-02-10T00:55:02.394Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " NO SE DECRETARON MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:02.394Z"
+}

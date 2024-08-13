@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 18,
+    "cedula": "79205977",
+    "primerNombre": "luis",
+    "primerApellido": "acosta",
+    "segundoNombre": "enrique",
+    "segundoApellido": "chavarria",
+    "direccion": "cra 4 no. 5-51 chía",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 18
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 900237555,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "OSCAR JAVIER PARDO MORENO // ALUEN DAVID RONCANCIO",
+    "cedula": "12198722   // 79858717",
+    "direccion": "CARRERA 70 A No 4-544 APTO 201",
+    "telefono": "45840580  //7495406",
+    "id": 457
+  },
+  "demanda": {
+    "obligacion": ["AUDIOPRESTAMO", "460091173/ 460090745"],
+    "llaveProceso": "11001400307920180087200",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 2476547500,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-09-07T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2018-07-18T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00872",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-01-26T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3108881287
+    },
+    "primerNombre": "SOLINCON",
+    "segundoNombre": null,
+    "primerApellido": "LIMITADA",
+    "segundoApellido": null,
+    "cedula": 900237555,
+    "direccion": "CARRERA 58 No 15-54 PISO 2",
+    "email": "solinconltda@yahoo.es"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400307920180087200",
+  "nombre": "SOLINCON LIMITADA",
+  "numero": 457,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:21.754Z"
+}

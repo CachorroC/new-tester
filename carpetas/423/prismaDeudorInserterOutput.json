@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 419,
+    "cedula": "80059977",
+    "primerNombre": "andres",
+    "primerApellido": "garcia",
+    "segundoNombre": "pedraza",
+    "segundoApellido": null,
+    "direccion": "carrer 1 este no 67 a - 60 sur  apto 103 torre 7",
+    "email": "andrespedraza12933@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 423
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 285,
+    "numero": 285,
+    "llaveProceso": "11001400300520170132600",
+    "nombre": "adriana maria perez gomez",
+    "idProcesos": [50720040],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307020190055100",
+  "numero": 519,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1030529007,
+    "direccion": "carrera 98d # 61a-24 sur (kr 113a # 61a-24 sur bosa porvenir)",
+    "email": "catalinalosada_w@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "leidy",
+    "segundoNombre": "catalina",
+    "primerApellido": "losada",
+    "segundoApellido": "cabrera"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2019-06-02T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307020190055100",
+    "capitalAdeudado": 30056041,
+    "etapaProcesal": "1.100140030702019e+22",
+    "municipio": "BOGOTA",
+    "obligacion": ["2273 320150109"],
+    "radicado": "2019 - 00551",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1030529007,
+  "idProcesos": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": 79205977,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12645083", "12340733"],
+    "llaveProceso": "25175400300320170026900",
+    "notificacion": {
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": "43236"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-10-07T05:00:00.000Z",
+      "medidaSolicitada": "VEHICULO"
+    },
+    "capitalAdeudado": 67068123,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-11-05T05:00:00.000Z",
+    "etapaProcesal": "AUDIENCIA",
+    "fechaPresentacion": ["2017-05-30T05:00:00.000Z"],
+    "mandamientoPago": "2017-10-07T05:00:00.000Z",
+    "municipio": "CHIA",
+    "radicado": "2017 - 00269",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-04-27T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "LUIS",
+    "segundoNombre": "ENRIQUE",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": "CHAVARRIA",
+    "cedula": 79205977,
+    "direccion": "cra 4 No. 5-51 Chía",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25175400300320170026900",
+  "nombre": "LUIS ENRIQUE ACOSTA CHAVARRIA",
+  "numero": 18,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:45.140Z"
+}

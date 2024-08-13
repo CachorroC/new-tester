@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 586,
+    "cedula": "80257279",
+    "primerNombre": "orlando",
+    "primerApellido": "calderon",
+    "segundoNombre": "silva",
+    "segundoApellido": null,
+    "direccion": "calle 72 g- sur no 35-13 sur",
+    "email": "jjanzola@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 489
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "13/03/2022",
+    "obligacion": {
+      "A": 2010085214,
+      "B": 3778150000000
+    },
+    "capitalAdeudado": "15.720.013.94",
+    "entregaGarantiasAbogado": "03/08/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2018 - 00389",
+    "llaveProceso": "11001418900920180038900",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "09/08/2018",
+    "mandamientoPago": "25/10/2018",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 43417
+      },
+      "certimail": "CERTIMAIL"
+    }
+  },
+  "demandas": [],
+  "numero": 472,
+  "llaveProceso": "11001418900920180038900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "SERGIO",
+    "segundoNombre": "ESPINEL",
+    "primerApellido": "CORREAL",
+    "segundoApellido": null,
+    "cedula": 91250936,
+    "direccion": "CARRERA 7 D No 151-40 APTO 101",
+    "email": "sergioespinel5@gmail.com"
+  },
+  "cc": 91250936,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "SERGIO ESPINEL CORREAL",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      }
+    ],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

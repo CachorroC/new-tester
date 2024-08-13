@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 251,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "12993948",
+    "entregaGarantiasAbogado": "2017-08-28T00:00:00.000Z",
+    "tipoProceso": "SINGULAR",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-09-08T00:00:00.000Z",
+    "municipio": "CHIA",
+    "obligacion": ["9460081795", "5303727444531025"],
+    "radicado": "2017 - 00477",
+    "vencimientoPagare": ["2018-05-01T00:00:00.000Z"],
+    "expediente": "25175408900320170047700",
+    "carpetaNumero": 254,
+    "despacho": null
+  }
+}

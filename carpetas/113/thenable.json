@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303020170181700",
+  "numero": 113,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53178044,
+    "direccion": "calle 153 # 97b - 30 casa alta",
+    "email": "bibi0225@hotmail.es",
+    "tel": {
+      "fijo": 6210512,
+      "celular": 3167289932
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "bibiana",
+    "primerApellido": "urrego",
+    "segundoApellido": "mayorga"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-08-01T00:00:00.000Z",
+    "expediente": "11001400303020170181700",
+    "capitalAdeudado": 16305609,
+    "etapaProcesal": "1.100140030302017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [860669],
+    "radicado": "2017 - 01817",
+    "vencimientoPagare": ["2021-05-16T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 28052816,
+    "direccion": "CALLE 153 # 97B - 30 CASA ALTA",
+    "nombre": "miriam mayorga",
+    "telefono": 6210515
+  },
+  "cc": 53178044,
+  "idProcesos": null
+}

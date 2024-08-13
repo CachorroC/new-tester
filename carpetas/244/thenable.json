@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400302620170100600",
+  "numero": 244,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80144827,
+    "direccion": "calle 62 a sur 87c -58",
+    "email": "pajulo8@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ricardo",
+    "segundoNombre": "andres",
+    "primerApellido": "nocua",
+    "segundoApellido": "guatama"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-19T00:00:00.000Z",
+    "mandamientoPago": "2017-10-10T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-12T00:00:00.000Z",
+    "expediente": "11001400302620170100600",
+    "capitalAdeudado": 3780091106,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [161786],
+    "radicado": "2017 - 01006",
+    "vencimientoPagare": ["2033-02-28T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1012324304,
+    "direccion": "CALLE 62A87C-58",
+    "nombre": "janeth eliana sarmiento gamba",
+    "telefono": 7839314
+  },
+  "cc": 80144827,
+  "idProcesos": null
+}

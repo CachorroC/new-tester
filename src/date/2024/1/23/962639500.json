@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:15.958Z",
+  "savedDate": "2018-06-15T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 962639500,
+    "llaveProceso": "11001400304020170150900",
+    "consActuacion": 62,
+    "fechaActuacion": "2020-03-06T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "Vencido el termino de 6o dias, proceso se envia para rearchivar en la caja 292//JUANMANUEL//",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-03-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 62,
+    "isUltimaAct": true,
+    "idProceso": 50771340
+  }
+}

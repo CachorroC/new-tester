@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 404,
+    "numero": 404,
+    "llaveProceso": "257544189003201800177",
+    "nombre": "cesar augusto pineda rios",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

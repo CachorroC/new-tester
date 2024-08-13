@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25436408900120180006300",
+  "numero": 503,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 3096755,
+    "direccion": "diagonal 2 no 6 a-29",
+    "email": "jclm152@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "juan",
+    "segundoNombre": "carlos",
+    "primerApellido": "leon",
+    "segundoApellido": "montenegro"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-07-11T05:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-10-10T05:00:00.000Z",
+    "expediente": "25436408900120180006300",
+    "capitalAdeudado": 1563192300,
+    "etapaProcesal": "ADMISIION",
+    "municipio": "MANTA",
+    "obligacion": ["AUDIOPRESTAMO", "3360084365 / 3360084819"],
+    "radicado": "2018 - 00063",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 3096755,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 73,
+    "cedula": "31877993",
+    "primerNombre": "sonia",
+    "primerApellido": "mazuera",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "carrera 55 a no. 165-27 int 7 apto 102",
+    "email": "mrocha@hotmail.com",
+    "telCelular": null,
+    "telFijo": "2333333",
+    "carpetaNumero": 73
+  }
+}

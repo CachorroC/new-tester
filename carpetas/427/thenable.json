@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25126408900220180004800",
+  "numero": 427,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 1069738339,
+    "direccion": "vereda la 22 kilometro 30 (cajica) // vereda subia norte parte baja finca el rincon lote 2 (granada- cund): vereda subia norte parte baja finca el rincon lote 2 (granada - cund)",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "juan",
+    "segundoNombre": "camilo",
+    "primerApellido": "chingate",
+    "segundoApellido": "penagos"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-02-01T00:00:00.000Z",
+    "mandamientoPago": "2018-02-26T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-01-19T00:00:00.000Z",
+    "expediente": "25126408900220180004800",
+    "capitalAdeudado": 21049112,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "CAJICA",
+    "obligacion": [12730779],
+    "radicado": "2018 - 00048",
+    "vencimientoPagare": ["2021-01-16T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1069738339,
+  "idProcesos": null
+}

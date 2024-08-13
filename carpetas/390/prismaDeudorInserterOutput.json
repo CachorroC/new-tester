@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 387,
+    "cedula": "71603563",
+    "primerNombre": "gilberto",
+    "primerApellido": "betancourt",
+    "segundoNombre": "jaime",
+    "segundoApellido": null,
+    "direccion": "carrera 82  no  19 - 20",
+    "email": "gilbertojaime@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 390
+  }
+}

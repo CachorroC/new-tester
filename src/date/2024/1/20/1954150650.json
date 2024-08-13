@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:45.515Z",
+  "savedDate": "2021-09-22T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1954150650,
+    "llaveProceso": "11001400300420180047500",
+    "consActuacion": 129,
+    "fechaActuacion": "2024-02-19T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 1782-2024, No. Reloj Radicador: 18820, Entidad o Señor(a): SENA - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Memorial, Observaciones: ASUNTO: RESPUESTA AL OFICIO N° OOECM-1223JZ-3560",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-19T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 129,
+    "isUltimaAct": true,
+    "idProceso": 51149410
+  }
+}

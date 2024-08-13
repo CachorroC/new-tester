@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400304520170106300",
+  "numero": 204,
+  "tipoProceso": "PRENDARIO",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 46679232,
+    "direccion": "carrera 34 # 9 - 60",
+    "email": "carito220@hotmail.es",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "flor",
+    "primerApellido": "esperanza",
+    "segundoApellido": "gutierrez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-30T00:00:00.000Z",
+    "mandamientoPago": "2017-09-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-28T00:00:00.000Z",
+    "expediente": "11001400304520170106300",
+    "capitalAdeudado": 41990538,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": [12743098],
+    "radicado": "2017 - 01063",
+    "vencimientoPagare": ["2020-08-23T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 46679232,
+  "idProcesos": null
+}

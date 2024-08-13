@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 520,
+    "cedula": "900520023",
+    "primerNombre": "dimoin",
+    "primerApellido": "s.a.s.",
+    "segundoNombre": "colombia",
+    "segundoApellido": null,
+    "direccion": "av boyaca 63d - 26 oficina 103",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 532
+  }
+}

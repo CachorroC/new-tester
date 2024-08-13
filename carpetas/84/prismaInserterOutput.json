@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 84,
+    "numero": 84,
+    "llaveProceso": "11001400303920170080000",
+    "nombre": "edgar null hernandez rubio",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304720170106500",
+  "numero": 71,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 53015307,
+    "direccion": "cl 146a # 53a - 10 apt 102",
+    "email": "stephanytorresrojas@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "betty",
+    "segundoNombre": "stephani",
+    "primerApellido": "torres",
+    "segundoApellido": "rojas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-20T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400304720170106500",
+    "capitalAdeudado": 24193522,
+    "etapaProcesal": "1.100140030472017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12615209],
+    "radicado": "2017 - 01065",
+    "vencimientoPagare": ["2017-06-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 80799160,
+    "direccion": "CL 118 # 93 - 22",
+    "nombre": "argelino andres gomez pineda",
+    "telefono": 6819627
+  },
+  "cc": 53015307,
+  "idProcesos": null
+}

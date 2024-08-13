@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001310302120170047100",
+  "numero": 196,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80130064,
+    "direccion": "transversal 5q  # 48p - 06 sur",
+    "email": "jairotibata@hotmail.com",
+    "tel": {
+      "fijo": 7677881,
+      "celular": 3157303099
+    },
+    "primerNombre": "jairo",
+    "primerApellido": "tibata",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-30T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001310302120170047100",
+    "capitalAdeudado": 124710637,
+    "etapaProcesal": "1.100131030212017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      2330086807,
+      "200865 // 377813427489837 // 4513070249553475 // 5303710103729395"
+    ],
+    "radicado": "2017 - 00471",
+    "vencimientoPagare": ["2037-03-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80130064,
+  "idProcesos": null
+}

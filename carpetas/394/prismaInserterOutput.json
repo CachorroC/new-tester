@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 394,
+    "numero": 394,
+    "llaveProceso": "11001400305120180029900",
+    "nombre": "omar hernando quiroga torres",
+    "idProcesos": [11496423],
+    "category": "Terminados"
+  }
+}

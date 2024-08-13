@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 357,
+    "cedula": "52327561",
+    "primerNombre": "nohora",
+    "primerApellido": "pilar",
+    "segundoNombre": "del",
+    "segundoApellido": "vargas,bernal",
+    "direccion": "carrera 110 c no 77- 15",
+    "email": "jana578@hotmail.com",
+    "telCelular": "3002261859",
+    "telFijo": "7416881",
+    "carpetaNumero": 360
+  }
+}

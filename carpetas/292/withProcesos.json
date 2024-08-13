@@ -1,0 +1,92 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "KELLI YOJANA ORTIZ SALAMANCA",
+    "cedula": "52831430",
+    "direccion": "DIAGONAL 82B SUR No 7C - 19",
+    "telefono": "3105719302",
+    "id": 292,
+    "carpetaNumero": 292
+  },
+  "demanda": {
+    "vencimientoPagare": "31/08/2020",
+    "obligacion": {
+      "A": 300094317
+    },
+    "capitalAdeudado": "$ 25.766.204",
+    "entregaGarantiasAbogado": "13/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00128",
+    "llaveProceso": "11001410375220170012800",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "21/09/2017",
+    "mandamientoPago": "17/10/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "27/02/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "6/07/2018"
+      },
+      "292": {
+        "fechaAporta": "06/07/018",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "CERTIMAIL",
+      "autoNotificado": "6/03/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "17/10/2017",
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    }
+  },
+  "demandas": [],
+  "numero": 292,
+  "llaveProceso": "11001410375220170012800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 7641957,
+      "celular": null
+    },
+    "primerNombre": "JOHN",
+    "segundoNombre": "FREDY",
+    "primerApellido": "HERREÑO",
+    "segundoApellido": "RAMIREZ",
+    "cedula": 80205694,
+    "direccion": "DIAGONAL 82 A SUR No 7C 19  ESTE",
+    "email": "kellyo.1508@hotmail.com"
+  },
+  "cc": 80205694,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "JOHN FREDY HERREÑO RAMIREZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-02-27T05:00:00.000Z",
+        "fechaAporta": "2018-07-06T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-07-06T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": "6/03/2018"
+  }
+}

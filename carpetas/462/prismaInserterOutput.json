@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 462,
+    "numero": 462,
+    "llaveProceso": "25754418900120180070000",
+    "nombre": "yamid null gelves caceres",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

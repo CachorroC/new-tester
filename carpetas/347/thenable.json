@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303920170152500",
+  "numero": 347,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 41888857,
+    "direccion": "calle 19 no  18 - 54 apartamento 301",
+    "email": "equiposysuministroscapital@hotmail.com",
+    "tel": {
+      "fijo": 2869149,
+      "celular": null
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "elena",
+    "primerApellido": "zuluaga",
+    "segundoApellido": "uribe"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-11-21T00:00:00.000Z",
+    "mandamientoPago": "2018-02-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-10T00:00:00.000Z",
+    "expediente": "11001400303920170152500",
+    "capitalAdeudado": 1183174786,
+    "etapaProcesal": "SENTENCIA",
+    "municipio": "BOGOTA",
+    "obligacion": [4513080135113862, "AUDIOPRESTAMO"],
+    "radicado": "2017 - 01525",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 41888857,
+  "idProcesos": null
+}

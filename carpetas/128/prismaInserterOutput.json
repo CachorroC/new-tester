@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 128,
+    "numero": 128,
+    "llaveProceso": "11001400307820170073300",
+    "nombre": "maria gladys  gonzalez,sosa",
+    "idProcesos": [51463930],
+    "category": "Terminados"
+  }
+}

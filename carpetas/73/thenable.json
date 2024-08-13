@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300420170057500",
+  "numero": 73,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 31877993,
+    "direccion": "carrera 55 a no. 165-27 int 7 apto 102",
+    "email": "mrocha@hotmail.com",
+    "tel": {
+      "fijo": 2333333,
+      "celular": null
+    },
+    "primerNombre": "sonia",
+    "primerApellido": "mazuera",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400300420170057500",
+    "capitalAdeudado": 78297335,
+    "etapaProcesal": "1.100140030042017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12537545],
+    "radicado": "2017 - 00575",
+    "vencimientoPagare": ["2018-08-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 31877993,
+  "idProcesos": null
+}

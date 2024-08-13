@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 334,
+    "cedula": "79666742",
+    "primerNombre": "hector",
+    "primerApellido": "torres",
+    "segundoNombre": "alfonso",
+    "segundoApellido": "rios",
+    "direccion": "transversal 17 no  64 f - 04 casa 1 bifamiliar marly",
+    "email": "rubypaez71@hotmail.com",
+    "telCelular": "3115030138",
+    "telFijo": "7651426",
+    "carpetaNumero": 337
+  }
+}

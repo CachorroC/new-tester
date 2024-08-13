@@ -1,0 +1,241 @@
+{
+  "id": 19352146,
+  "actuaciones": [
+    {
+      "idRegActuacion": 764147220,
+      "llaveProceso": "11001400303420170147100",
+      "consActuacion": 6,
+      "fechaActuacion": "2018-02-27T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "AUTORIZADA PARTE ACTORA",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-02-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50834080,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:54:49.515Z"
+    },
+    {
+      "idRegActuacion": 764147210,
+      "llaveProceso": "11001400303420170147100",
+      "consActuacion": 5,
+      "fechaActuacion": "2017-12-12T05:00:00.000Z",
+      "actuacion": "Oficio Elaborado",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-12-12T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50834080,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:49.515Z"
+    },
+    {
+      "idRegActuacion": 764147200,
+      "llaveProceso": "11001400303420170147100",
+      "consActuacion": 4,
+      "fechaActuacion": "2017-12-04T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 04/12/2017 a las 15:10:18.",
+      "fechaInicial": "2017-12-05T05:00:00.000Z",
+      "fechaFinal": "2017-12-05T05:00:00.000Z",
+      "fechaRegistro": "2017-12-04T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50834080,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:49.515Z"
+    },
+    {
+      "idRegActuacion": 764147190,
+      "llaveProceso": "11001400303420170147100",
+      "consActuacion": 3,
+      "fechaActuacion": "2017-12-04T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-12-04T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50834080,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:49.515Z"
+    },
+    {
+      "idRegActuacion": 764147180,
+      "llaveProceso": "11001400303420170147100",
+      "consActuacion": 2,
+      "fechaActuacion": "2017-11-15T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-11-15T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50834080,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:49.515Z"
+    },
+    {
+      "idRegActuacion": 764147170,
+      "llaveProceso": "11001400303420170147100",
+      "consActuacion": 1,
+      "fechaActuacion": "2017-11-09T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 09/11/2017 a las 08:35:05",
+      "fechaInicial": "2017-11-09T05:00:00.000Z",
+      "fechaFinal": "2017-11-09T05:00:00.000Z",
+      "fechaRegistro": "2017-11-09T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50834080,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:49.515Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 326
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "19550288",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.035Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.041Z"],
+    "id": 326,
+    "llaveProceso": "11001400303420170147100",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 326,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "1970-01-01T00:00:43.073Z",
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "2515-01-01T00:00:00.000Z",
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["103162"],
+    "radicado": "2017 - 01471",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:44.891Z"],
+    "medidasCautelares": {
+      "id": 326,
+      "fechaOrdenaMedida": "2024-02-10T00:54:49.482Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 326,
+    "telCelular": "3138267838",
+    "telFijo": "7102329 ",
+    "primerNombre": "JORGE",
+    "segundoNombre": "ELIECER",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "LOPEZ",
+    "cedula": "19352146",
+    "direccion": "DIAGONAL 58 No 28 - 72    APARTAMENTO 603 INTERIOR 6",
+    "email": "elpotegomez@hotmail.com"
+  },
+  "fecha": "2018-02-27T05:00:00.000Z",
+  "idProcesos": [50834080],
+  "idRegUltimaAct": 764147220,
+  "llaveProceso": "11001400303420170147100",
+  "nombre": "jorge eliecer gomez lopez",
+  "numero": 326,
+  "procesos": [
+    {
+      "idProceso": 50834080,
+      "idConexion": 259,
+      "llaveProceso": "11001400303420170147100",
+      "fechaProceso": "2017-11-09T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-02-27T05:00:00.000Z",
+      "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JORGE ELIECER GÓMEZ LÓPEZ ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 34,
+        "tipo": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-34-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 764147220,
+    "llaveProceso": "11001400303420170147100",
+    "consActuacion": 6,
+    "fechaActuacion": "2018-02-27T05:00:00.000Z",
+    "actuacion": "Retiro demanda",
+    "anotacion": "AUTORIZADA PARTE ACTORA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-02-27T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 50834080,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 326,
+      "createdAt": "2024-02-10T00:54:49.482Z",
+      "pathname": null,
+      "dueDate": "2018-03-27T05:00:00.000Z",
+      "text": "EL 27/02/2018 SE DIO POR TERMINADO EL PROCESO CON RETIRO DE LA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 326,
+      "createdAt": "2024-02-10T00:54:49.482Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 1(03/2018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 326,
+      "createdAt": "2024-02-10T00:54:49.482Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " CON MANDAMIENTO DE PAGO NO SE RETIRO OFICIO DE EMBARGO NI SE RADICO EMBAEGO DEL INMUEBLE",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:49.482Z"
+}

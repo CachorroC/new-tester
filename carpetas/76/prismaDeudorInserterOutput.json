@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 76,
+    "cedula": "20493423",
+    "primerNombre": "estela",
+    "primerApellido": "garzón",
+    "segundoNombre": "marin",
+    "segundoApellido": null,
+    "direccion": "calle 8 # 2 - 32 choconta",
+    "email": "stellamarin23@hotmail.com",
+    "telCelular": "3112110025",
+    "telFijo": null,
+    "carpetaNumero": 76
+  }
+}

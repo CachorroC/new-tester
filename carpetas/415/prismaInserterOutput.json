@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 415,
+    "numero": 415,
+    "llaveProceso": "11001400304320180047400",
+    "nombre": "ingrid catherine tapias rico",
+    "idProcesos": [9342243],
+    "category": "Terminados"
+  }
+}

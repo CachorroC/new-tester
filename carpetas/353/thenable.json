@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307320170156300",
+  "numero": 353,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19297891,
+    "direccion": "calle 1 h  no 29 - 73",
+    "email": "ricardoagi1955@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ricardo",
+    "primerApellido": "arias",
+    "segundoApellido": "guzman",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-11-27T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-11-16T00:00:00.000Z",
+    "expediente": "11001400307320170156300",
+    "capitalAdeudado": 24172047,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["4513082447756537-4513085528567731", "5303728067784305/"],
+    "radicado": "2017 - 01563",
+    "vencimientoPagare": ["2017-05-15T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19297891,
+  "idProcesos": null
+}

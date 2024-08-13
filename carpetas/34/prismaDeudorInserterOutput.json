@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 34,
+    "cedula": "1070612757",
+    "primerNombre": "karen",
+    "primerApellido": "pinzon",
+    "segundoNombre": "julieth",
+    "segundoApellido": "gutierrez",
+    "direccion": "m 7 torre 6 apto 404 girardot// calle 3 no. 27-01 edificio torr 6 manzana 7 ciudadela cafam del sol apto 404",
+    "email": "kjpg_11@hotmail.com",
+    "telCelular": "3006308169",
+    "telFijo": null,
+    "carpetaNumero": 34
+  }
+}

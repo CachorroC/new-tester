@@ -1,0 +1,57 @@
+{
+  "id": 33307437,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": [
+      "335008770 /3350086329",
+      "53003710116636165/0377813180199052"
+    ],
+    "llaveProceso": "25126400300120170075600",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": "43298"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": null
+    },
+    "capitalAdeudado": 2416595999,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "LIQUIDACION",
+    "fechaPresentacion": ["2017-11-08T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "CAJICA",
+    "radicado": "2017 - 00756",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2017-12-05T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "GLORIA",
+    "segundoNombre": "ANGELICA",
+    "primerApellido": "PRASCA",
+    "segundoApellido": "MEJIA",
+    "cedula": 33307437,
+    "direccion": "CARRERA 2 No 1 - 23  cajica",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25126400300120170075600",
+  "nombre": "GLORIA ANGELICA PRASCA MEJIA",
+  "numero": 319,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:34.062Z"
+}

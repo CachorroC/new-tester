@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300520180071100",
+  "numero": 447,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79698506,
+    "direccion": "carrera 80 bis a no 70a-15",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "antonio",
+    "primerApellido": "pacheco",
+    "segundoApellido": "torres"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2018-06-21T00:00:00.000Z",
+    "expediente": "11001400300520180071100",
+    "capitalAdeudado": 1926050000,
+    "etapaProcesal": "ADMISION",
+    "municipio": "BOGOTA",
+    "obligacion": [1010082679],
+    "radicado": "2018 - 00711",
+    "vencimientoPagare": ["2027-10-27T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79698506,
+  "idProcesos": null
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 151,
+    "cedula": "52230614",
+    "primerNombre": "marbell",
+    "primerApellido": "dominguez",
+    "segundoNombre": "rocio",
+    "segundoApellido": "alvarez",
+    "direccion": "carrera 15b # 6 - 32 torre 8 apto 202",
+    "email": "rocio4332@hotmail.com",
+    "telCelular": "3214064280",
+    "telFijo": "5168872",
+    "carpetaNumero": 153
+  }
+}

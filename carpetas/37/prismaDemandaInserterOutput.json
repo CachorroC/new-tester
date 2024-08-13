@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 37,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "1270787716",
+    "entregaGarantiasAbogado": "2017-06-06T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-08-11T00:00:00.000Z",
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": null,
+    "municipio": "SIBATE",
+    "obligacion": ["12548843"],
+    "radicado": "2017 - 00217",
+    "vencimientoPagare": ["2020-05-01T00:00:00.000Z"],
+    "expediente": "25740418900120170021700",
+    "carpetaNumero": 37,
+    "despacho": null
+  }
+}

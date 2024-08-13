@@ -1,0 +1,250 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 764095850,
+      "llaveProceso": "11001400303420170123600",
+      "consActuacion": 6,
+      "fechaActuacion": "2018-02-08T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "AUTORIZADA PARTE ACTORA",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2018-02-08T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50745490,
+      "isUltimaAct": true,
+      "carpetaNumero": 252,
+      "createdAt": "2023-12-10T20:31:00.640Z"
+    },
+    {
+      "idRegActuacion": 764095840,
+      "llaveProceso": "11001400303420170123600",
+      "consActuacion": 5,
+      "fechaActuacion": "2017-11-01T05:00:00.000Z",
+      "actuacion": "Oficio Elaborado",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-11-01T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50745490,
+      "isUltimaAct": false,
+      "carpetaNumero": 252,
+      "createdAt": "2023-12-10T20:31:00.640Z"
+    },
+    {
+      "idRegActuacion": 764095830,
+      "llaveProceso": "11001400303420170123600",
+      "consActuacion": 4,
+      "fechaActuacion": "2017-10-25T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 25/10/2017 a las 17:18:13.",
+      "fechaInicial": "2017-10-26T05:00:00.000Z",
+      "fechaFinal": "2017-10-26T05:00:00.000Z",
+      "fechaRegistro": "2017-10-25T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50745490,
+      "isUltimaAct": false,
+      "carpetaNumero": 252,
+      "createdAt": "2023-12-10T20:31:00.640Z"
+    },
+    {
+      "idRegActuacion": 764095820,
+      "llaveProceso": "11001400303420170123600",
+      "consActuacion": 3,
+      "fechaActuacion": "2017-10-25T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-10-25T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50745490,
+      "isUltimaAct": false,
+      "carpetaNumero": 252,
+      "createdAt": "2023-12-10T20:31:00.640Z"
+    },
+    {
+      "idRegActuacion": 764095810,
+      "llaveProceso": "11001400303420170123600",
+      "consActuacion": 2,
+      "fechaActuacion": "2017-10-03T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-10-03T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50745490,
+      "isUltimaAct": false,
+      "carpetaNumero": 252,
+      "createdAt": "2023-12-10T20:31:00.640Z"
+    },
+    {
+      "idRegActuacion": 764095800,
+      "llaveProceso": "11001400303420170123600",
+      "consActuacion": 1,
+      "fechaActuacion": "2017-10-02T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 02/10/2017 a las 08:32:55",
+      "fechaInicial": "2017-10-02T05:00:00.000Z",
+      "fechaFinal": "2017-10-02T05:00:00.000Z",
+      "fechaRegistro": "2017-10-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 50745490,
+      "isUltimaAct": false,
+      "carpetaNumero": 252,
+      "createdAt": "2023-12-10T20:31:00.640Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 34,
+      "tipo": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-34-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": {
+    "nombre": "DAMARIS MILENA CAICEDO FARIETA",
+    "cedula": "1032423457",
+    "direccion": "CALLE 67 C SUR 1B 23 ESTE APARTAMENTO 503 TORRE 9",
+    "telefono": "10324223457",
+    "id": 252,
+    "carpetaNumero": 252
+  },
+  "demanda": {
+    "vencimientoPagare": "5/01/2027",
+    "obligacion": {
+      "A": 147600
+    },
+    "capitalAdeudado": "26.469.309.75",
+    "entregaGarantiasAbogado": "5/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 01236",
+    "llaveProceso": "11001400303420170123600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "14/09/2017",
+    "mandamientoPago": "25/10/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": 2253,
+        "resultado": "01/11/2017"
+      },
+      "292": {
+        "resultado": "28/11/2017"
+      },
+      "certimail": "25/10/2017",
+      "fisico": "INMUEBLE"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 50745490,
+      "idConexion": 259,
+      "llaveProceso": "11001400303420170123600",
+      "fechaProceso": "2017-10-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-02-08T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S,.A | Demandado: ANGEL JOAVANI SUAREZ GOMEZ | Demandado: DAMARIS MILENA CAICEDO FARIETA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": ["2027-01-01T05:00:00.000Z"],
+      "capitalAdeudado": 2646930975,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": "2017-05-09T05:00:00.000Z",
+      "tipoProceso": "HIPOTECARIO",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-09-14T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [147600],
+      "radicado": "2017 - 01236"
+    }
+  ],
+  "numero": 252,
+  "llaveProceso": "11001400303420170123600",
+  "fecha": "2018-02-08T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 764095850,
+    "llaveProceso": "11001400303420170123600",
+    "consActuacion": 6,
+    "fechaActuacion": "2018-02-08T00:00:00",
+    "actuacion": "Retiro demanda",
+    "anotacion": "AUTORIZADA PARTE ACTORA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2018-02-08T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 50745490,
+    "isUltimaAct": true
+  },
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ANGEL",
+    "segundoNombre": "JOVANI",
+    "primerApellido": "SUAREZ",
+    "segundoApellido": "GOMEZ",
+    "cedula": 1023863956,
+    "direccion": "CALLE 67 C SUR 1 B 23 EST",
+    "email": "angelsuarez.23@hotmail.com"
+  },
+  "cc": 1023863956,
+  "procesos": [
+    {
+      "idProceso": 50745490,
+      "idConexion": 259,
+      "llaveProceso": "11001400303420170123600",
+      "fechaProceso": "2017-10-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2018-02-08T05:00:00.000Z",
+      "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S,.A | Demandado: ANGEL JOAVANI SUAREZ GOMEZ | Demandado: DAMARIS MILENA CAICEDO FARIETA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [50745490],
+  "nombre": "ANGEL JOVANI SUAREZ GOMEZ",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      }
+    ],
+    "certimail": false,
+    "fisico": false,
+    "autoNotificado": null
+  }
+}

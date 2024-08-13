@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418901220190023500",
+  "numero": 521,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 40050052,
+    "direccion": "carrera 4a no 93-11p 1",
+    "email": "aquimaria1965@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "maria",
+    "segundoNombre": "aquilina",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "lancheros"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2019-08-02T05:00:00.000Z",
+    "expediente": "11001418901220190023500",
+    "capitalAdeudado": 2061677901,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [4099830177563670],
+    "radicado": "2019 - 00235",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 40050052,
+  "idProcesos": null
+}

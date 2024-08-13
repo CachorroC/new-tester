@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 177,
+    "cedula": "21016631",
+    "primerNombre": "alcira",
+    "primerApellido": "saenz",
+    "segundoNombre": "delia",
+    "segundoApellido": "garavis",
+    "direccion": "calle 3 # 5 - 31 viota",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 180
+  }
+}

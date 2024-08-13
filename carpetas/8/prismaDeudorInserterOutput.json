@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 8,
+    "cedula": "79642493",
+    "primerNombre": "jose",
+    "primerApellido": "rojas",
+    "segundoNombre": "wilson",
+    "segundoApellido": "valdes",
+    "direccion": "calle 118 no. 18-65 apto 504 anaya el parque bogota",
+    "email": null,
+    "telCelular": "3106980002",
+    "telFijo": null,
+    "carpetaNumero": 8
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25148408900120170009600",
+  "numero": 338,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 20427976,
+    "direccion": "carrera 3 no 9 - 02 /08  caparrapi (cundinamarca)",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "blanca",
+    "segundoNombre": "melba",
+    "primerApellido": "moyano",
+    "segundoApellido": "beltran"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-19T00:00:00.000Z",
+    "mandamientoPago": "2017-11-09T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-21T00:00:00.000Z",
+    "expediente": "25148408900120170009600",
+    "capitalAdeudado": 42530688,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "CAPARRAPI",
+    "obligacion": [7910080245],
+    "radicado": "2017 - 00096",
+    "vencimientoPagare": ["2020-04-01T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 20427976,
+  "idProcesos": null
+}

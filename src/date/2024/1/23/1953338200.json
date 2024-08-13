@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:12.775Z",
+  "savedDate": "2019-02-25T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1953338200,
+    "llaveProceso": "11001400304520170090500",
+    "consActuacion": 60,
+    "fechaActuacion": "2024-02-15T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 1112-2024, No. Reloj Radicador: 17252, Entidad o Señor(a): NANCY MERCED ACERO GONZALEZ - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Memorial, Observaciones: S INFORME DE TITULOS",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 60,
+    "isUltimaAct": true,
+    "idProceso": 50593640
+  }
+}

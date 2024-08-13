@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 249,
+    "numero": 249,
+    "llaveProceso": "11001400301620170087500",
+    "nombre": "jorge alberto martinez bendek",
+    "idProcesos": [50687430],
+    "category": "Reintegra"
+  }
+}

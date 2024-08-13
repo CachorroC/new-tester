@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25290400300120170043700",
+  "numero": 21,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 11309242,
+    "direccion": "calle 522 -68 fusagasuga",
+    "email": "edware960720@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ramiro",
+    "primerApellido": "cristancho",
+    "segundoApellido": "contreras",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-25T00:00:00.000Z",
+    "mandamientoPago": "2017-07-25T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "25290400300120170043700",
+    "capitalAdeudado": 0,
+    "etapaProcesal": "42886",
+    "municipio": "FUSAGASUGA",
+    "obligacion": [15537944, 42874],
+    "radicado": "2017 - 00437",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 11309242,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 314,
+    "numero": 314,
+    "llaveProceso": "25126408900220170076800",
+    "nombre": "tatiana null ramon pepicano",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400305620170059100",
+  "numero": 94,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1030527169,
+    "direccion": "carrera 70c # 1a - 86 sur",
+    "email": "o",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "aida",
+    "segundoNombre": "yurani",
+    "primerApellido": "grijalba",
+    "segundoApellido": "martinez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-29T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "expediente": "11001400305620170059100",
+    "capitalAdeudado": 9524471150,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [177994],
+    "radicado": "2017 - 00591",
+    "vencimientoPagare": ["2034-10-09T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1030527169,
+  "idProcesos": null
+}

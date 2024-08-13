@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25286310300120170100300",
+  "numero": 302,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79906707,
+    "direccion": "carrer 5  no 2-35  manzana 21 casa 208- mosquera",
+    "email": "s3curityinformation@gmail.com",
+    "tel": {
+      "fijo": 8272125,
+      "celular": 3005821212
+    },
+    "primerNombre": "edgar",
+    "primerApellido": "godoy",
+    "segundoApellido": "lopez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-19T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-10-12T00:00:00.000Z",
+    "expediente": "25286310300120170100300",
+    "capitalAdeudado": 15323634648,
+    "etapaProcesal": null,
+    "municipio": "FUNZA",
+    "obligacion": [159541],
+    "radicado": "2017 - 01003",
+    "vencimientoPagare": ["2032-12-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 39678085,
+    "direccion": "CARRERA 68 A  No 31  A- 06 SUR",
+    "nombre": "ruby aminta barrero cueca",
+    "telefono": 2705042
+  },
+  "cc": 79906707,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 335,
+    "numero": 335,
+    "llaveProceso": "11001400301120180011800",
+    "nombre": "cristian camilo garcia escobar",
+    "idProcesos": [50995460],
+    "category": "Terminados"
+  }
+}

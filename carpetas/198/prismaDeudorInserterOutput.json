@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 195,
+    "cedula": "1012318156",
+    "primerNombre": "hector",
+    "primerApellido": "ramirez",
+    "segundoNombre": "manuel",
+    "segundoApellido": "puentes",
+    "direccion": "carrera 80m # 74 - 04 sur",
+    "email": "hectormanuelverdolaga@gmail.com",
+    "telCelular": "3142998727",
+    "telFijo": "3142498",
+    "carpetaNumero": 198
+  }
+}

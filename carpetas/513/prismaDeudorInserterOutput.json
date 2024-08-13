@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 502,
+    "cedula": "80865782",
+    "primerNombre": "erik",
+    "primerApellido": "pinto",
+    "segundoNombre": "ricardo",
+    "segundoApellido": "rodriguez",
+    "direccion": null,
+    "email": "CALLE 64 C No 105 D- 36 PISO 3",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 513
+  }
+}

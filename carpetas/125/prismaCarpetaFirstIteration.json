@@ -1,0 +1,13 @@
+{
+  "category": "Reintegra",
+  "fecha": "2022-09-02T05:00:00.000Z",
+  "idProcesos": [97088411, 109959053],
+  "idRegUltimaAct": 1217234763,
+  "llaveProceso": "11001400304720170152000",
+  "nombre": "MILCIADES GALINDO CASTEBLANCO",
+  "numero": 125,
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "updatedAt": "2023-12-10T20:30:40.991Z"
+}

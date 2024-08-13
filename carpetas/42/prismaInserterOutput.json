@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 42,
+    "numero": 42,
+    "llaveProceso": "25035408900120170010800",
+    "nombre": "juan daniel moreno cifuentes",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

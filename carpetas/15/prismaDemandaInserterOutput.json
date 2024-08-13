@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 15,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "24792093",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-06-01T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-05-24T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["2450966"],
+    "radicado": "2017 - 00654",
+    "vencimientoPagare": [],
+    "expediente": "11001400307220170065400",
+    "carpetaNumero": 15,
+    "despacho": null
+  }
+}

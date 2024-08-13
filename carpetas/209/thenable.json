@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400306420170119100",
+  "numero": 209,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 79852094,
+    "direccion": "carrera 68m # 37d - 47 sur",
+    "email": "cesa861@hotmail.com",
+    "tel": {
+      "fijo": 1006108,
+      "celular": 3212406004
+    },
+    "primerNombre": "cesar",
+    "segundoNombre": "alfonso",
+    "primerApellido": "umaña",
+    "segundoApellido": "cañon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-28T00:00:00.000Z",
+    "mandamientoPago": "2017-09-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "expediente": "11001400306420170119100",
+    "capitalAdeudado": 54090336,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      2170085697,
+      "377813567054276 // 451377194627824 // 5303710806169667 // 5306726083237084 // AUDIOPRESTAMO"
+    ],
+    "radicado": "2017 - 01191",
+    "vencimientoPagare": ["2020-08-31T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79852094,
+  "idProcesos": null
+}

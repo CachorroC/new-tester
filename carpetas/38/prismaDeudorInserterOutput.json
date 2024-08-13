@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 38,
+    "cedula": "39808625",
+    "primerNombre": "luz",
+    "primerApellido": "gutíerrez",
+    "segundoNombre": "miryam",
+    "segundoApellido": "martínez",
+    "direccion": "calle 2 no. 1-24 casa 2 tabio",
+    "email": "hjg296@hotmail.com",
+    "telCelular": "3142310966",
+    "telFijo": null,
+    "carpetaNumero": 38
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 277,
+    "cedula": "19447966",
+    "primerNombre": "jose",
+    "primerApellido": "sanchez",
+    "segundoNombre": "hernando",
+    "segundoApellido": "valbuena",
+    "direccion": "cr 12b 24-37 sur",
+    "email": "jhernandosanchez@yahoo.es",
+    "telCelular": "3125826241",
+    "telFijo": "4789274",
+    "carpetaNumero": 280
+  }
+}

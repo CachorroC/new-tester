@@ -1,0 +1,121 @@
+{
+  "id": 7228260,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 582
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "16827889",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-08-24T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 582,
+    "llaveProceso": "25430400300120230129500",
+    "mandamientoPago": [],
+    "municipio": "MADRID",
+    "notificacion": {
+      "id": 582,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["3830095609"],
+    "radicado": "2023 - 01295",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-06T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 582,
+      "fechaOrdenaMedida": "2024-02-10T00:55:09.301Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 582,
+    "telCelular": "3133073186",
+    "telFijo": null,
+    "primerNombre": "PEDRO",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "DUARTE",
+    "segundoApellido": "VARGAS",
+    "cedula": "7228260",
+    "direccion": "Calle 23 NO. 12 - 50 Bloque 14 Apto 15 Madrid (Cundinamarca)",
+    "email": "duartepedroantonio@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25430400300120230129500",
+  "nombre": "pedro antonio duarte vargas",
+  "numero": 582,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 582,
+      "createdAt": "2024-02-10T00:55:09.301Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "25 AGOSTO 2023 SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 582,
+      "createdAt": "2024-02-10T00:55:09.301Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 28 AGOSTO INGRESA A DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 582,
+      "createdAt": "2024-02-10T00:55:09.301Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 21 NOV LIBRA MANDAMIENTO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 582,
+      "createdAt": "2024-02-10T00:55:09.301Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 31-11-2023 SE NOTIFICA PERSONALMENTE",
+      "content": []
+    },
+    {
+      "carpetaNumero": 582,
+      "createdAt": "2024-02-10T00:55:09.301Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "19-12-2023 SENTENCIA",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:09.301Z"
+}

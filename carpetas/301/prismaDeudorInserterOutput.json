@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 298,
+    "cedula": "35220385",
+    "primerNombre": "blanca",
+    "primerApellido": "acosta",
+    "segundoNombre": "yolanda",
+    "segundoApellido": "rodriguez",
+    "direccion": null,
+    "email": "CALLE 1 A - No 6-68 PORTAL  GUASCA",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 301
+  }
+}

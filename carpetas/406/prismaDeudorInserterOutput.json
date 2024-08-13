@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 403,
+    "cedula": "8510459",
+    "primerNombre": "santiago",
+    "primerApellido": "sarabia",
+    "segundoNombre": "javier",
+    "segundoApellido": "jimenez",
+    "direccion": "calle 86 a sur no 80k-40",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 406
+  }
+}

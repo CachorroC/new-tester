@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:39.884Z",
+  "proceso": {
+    "idProceso": 50764160,
+    "idConexion": 259,
+    "llaveProceso": "11001400303520170147500",
+    "fechaProceso": "2017-10-09T05:00:00.000Z",
+    "fechaUltimaActuacion": "2021-04-22T05:00:00.000Z",
+    "despacho": "JUZGADO 010 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JORGE HUGO LEAL SERRATO | Demandado: JUAN CARLOS ORTIZ LEAL ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 10,
+      "tipo": "JUZGADO 010 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-10-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

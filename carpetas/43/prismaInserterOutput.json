@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 43,
+    "numero": 43,
+    "llaveProceso": "11001400301220170088200",
+    "nombre": "jose freddy vargas ruiz",
+    "idProcesos": [50631800],
+    "category": "Terminados"
+  }
+}

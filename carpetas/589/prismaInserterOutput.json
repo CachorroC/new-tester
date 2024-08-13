@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 588,
+    "numero": 589,
+    "llaveProceso": null,
+    "nombre": "yurledy null parra hernandez",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

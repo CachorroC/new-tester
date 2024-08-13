@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 178,
+    "cedula": "1033783222",
+    "primerNombre": "leonardo",
+    "primerApellido": "garcia",
+    "segundoNombre": "alirio",
+    "segundoApellido": "guerrero",
+    "direccion": "calle 69j # 20b - 52",
+    "email": "leoguegar@hotmail.com",
+    "telCelular": "3103048137",
+    "telFijo": "7177769",
+    "carpetaNumero": 181
+  }
+}

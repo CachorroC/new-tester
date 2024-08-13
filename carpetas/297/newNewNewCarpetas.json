@@ -1,0 +1,64 @@
+{
+  "id": 6006685,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["5450082766", "5450083252"],
+    "llaveProceso": "15842408900120170009500",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-02-19T05:00:00.000Z",
+        "fechaAporta": "2018-02-23T05:00:00.000Z",
+        "resultado": true
+      },
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      },
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": "23/02/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE CULTIVOS"
+    },
+    "capitalAdeudado": null,
+    "departamento": "BOYACÁ",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-10-12T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "UMBITA",
+    "radicado": "2017 - 00095",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-07-10T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3123077900
+    },
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ANGEL",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "HUERTAS",
+    "cedula": 6006685,
+    "direccion": "CALLE 5 A No 6 - 23 UMBITA",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "15842408900120170009500",
+  "nombre": "MIGUEL ANGEL MARTINEZ HUERTAS",
+  "numero": 297,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:26.765Z"
+}

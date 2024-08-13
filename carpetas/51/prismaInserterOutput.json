@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 51,
+    "numero": 51,
+    "llaveProceso": "11001400300920170060700",
+    "nombre": "maria carolina martinez vera",
+    "idProcesos": [50537040],
+    "category": "Terminados"
+  }
+}

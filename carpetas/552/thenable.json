@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300420230062200",
+  "numero": 552,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1023874668,
+    "direccion": "cl 49 a bis sur no. 5 n 10",
+    "email": "oscar2794@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "oscar",
+    "segundoNombre": "mauricio",
+    "primerApellido": "gomez",
+    "segundoApellido": "mendoza"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-06-20T00:00:00.000Z",
+    "expediente": "11001400300420230062200",
+    "capitalAdeudado": 77376262,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [530104065, 530103261],
+    "radicado": "2023 - 00622",
+    "vencimientoPagare": ["2026-10-02T05:00:00.000Z", null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1023874668,
+  "idProcesos": null
+}

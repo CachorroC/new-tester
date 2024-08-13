@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 422,
+    "numero": 422,
+    "llaveProceso": "11001410307520180060200",
+    "nombre": "luz yolanda muñoz murcia",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

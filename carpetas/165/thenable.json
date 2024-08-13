@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307620170063500",
+  "numero": 165,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 86057132,
+    "direccion": "carrera 40 d no. 1h-28",
+    "email": "imagenfmr@yahoo.com",
+    "tel": {
+      "fijo": 4088069,
+      "celular": 3125312823
+    },
+    "primerNombre": "fredy",
+    "primerApellido": "meneses",
+    "segundoApellido": null,
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-07-21T00:00:00.000Z",
+    "mandamientoPago": "2017-08-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-07-19T00:00:00.000Z",
+    "expediente": "11001400307620170063500",
+    "capitalAdeudado": 44742148,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [2310089458, "4513088545588847// AUDIO PRESTAMO"],
+    "radicado": "2017 - 00635",
+    "vencimientoPagare": ["2019-08-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 86057132,
+  "idProcesos": null
+}

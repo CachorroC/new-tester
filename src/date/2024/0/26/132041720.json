@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:28.151Z",
+  "proceso": {
+    "idProceso": 132041720,
+    "idConexion": 262,
+    "llaveProceso": "11001400306920230127300",
+    "fechaProceso": "2023-08-03T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-11-23T05:00:00.000Z",
+    "despacho": "JUZGADO 069 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: SANDRA MILENA PALACIO RIVERA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 69,
+      "tipo": "JUZGADO 069 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-69-civil-municipal-de-bogota"
+    }
+  }
+}

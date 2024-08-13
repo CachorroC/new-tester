@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 576,
+    "numero": 577,
+    "llaveProceso": "11001400300520230084300",
+    "nombre": "indira mayerly florez castro",
+    "idProcesos": [132581550],
+    "category": "Bancolombia"
+  }
+}

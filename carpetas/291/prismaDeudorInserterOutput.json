@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 288,
+    "cedula": "35427969",
+    "primerNombre": "yeimmy",
+    "primerApellido": "fino",
+    "segundoNombre": "carolina",
+    "segundoApellido": "ballen",
+    "direccion": "carrera 91 no 157 b - 82  torre 2 apartamento 40",
+    "email": "carof111@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 291
+  }
+}

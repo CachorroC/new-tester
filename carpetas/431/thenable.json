@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400302220180060400",
+  "numero": 431,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1014181498,
+    "direccion": null,
+    "email": "CARRERA 75 No 64 A- 22",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "duvy",
+    "segundoNombre": "mariela",
+    "primerApellido": "rodriguez",
+    "segundoApellido": "rocha"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-06-07T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400302220180060400",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "43228",
+    "municipio": "BOGOTA",
+    "obligacion": [5303719576623800, "15.796.908.07"],
+    "radicado": "2018 - 00604",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 44609
+  },
+  "cc": 1014181498,
+  "idProcesos": null
+}

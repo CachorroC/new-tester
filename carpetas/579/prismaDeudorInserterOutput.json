@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 567,
+    "cedula": "1024481233",
+    "primerNombre": "andrea",
+    "primerApellido": "diaz",
+    "segundoNombre": "carolina",
+    "segundoApellido": "barreto",
+    "direccion": "calle 114 no. 6 a 92",
+    "email": "suenopandapijamas@gmail.com",
+    "telCelular": "3108012331",
+    "telFijo": "8027134",
+    "carpetaNumero": 579
+  }
+}

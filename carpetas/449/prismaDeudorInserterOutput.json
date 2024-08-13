@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 444,
+    "cedula": "4271429",
+    "primerNombre": "tulio",
+    "primerApellido": "tellez",
+    "segundoNombre": "ernesto",
+    "segundoApellido": "rojas",
+    "direccion": "diagonal 85 no 85a-22",
+    "email": null,
+    "telCelular": "3204265908",
+    "telFijo": "7510457",
+    "carpetaNumero": 449
+  }
+}

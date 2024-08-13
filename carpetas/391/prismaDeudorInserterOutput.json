@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 388,
+    "cedula": "52190973",
+    "primerNombre": "yaneth",
+    "primerApellido": "vargas",
+    "segundoNombre": "bibiana",
+    "segundoApellido": "cano",
+    "direccion": "avenida(calle) 68 sur no 70d-71 apartamento 1302",
+    "email": "bibianvargas@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 391
+  }
+}

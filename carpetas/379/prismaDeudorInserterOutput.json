@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 376,
+    "cedula": "79804965",
+    "primerNombre": "jhon",
+    "primerApellido": "alarcon",
+    "segundoNombre": "alexander",
+    "segundoApellido": "galvis",
+    "direccion": "calle 36c no 3a - 25",
+    "email": "jhondoblea@hotmail.com",
+    "telCelular": "3157236856",
+    "telFijo": "5686327",
+    "carpetaNumero": 379
+  }
+}

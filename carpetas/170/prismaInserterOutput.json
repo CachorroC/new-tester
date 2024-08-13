@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 170,
+    "numero": 170,
+    "llaveProceso": "11001400301320170111400",
+    "nombre": "isabel cristina garcia duran",
+    "idProcesos": [50668010],
+    "category": "Terminados"
+  }
+}

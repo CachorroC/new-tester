@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 330,
+    "numero": 330,
+    "llaveProceso": "11001400307020170121800",
+    "nombre": "nelson arbey cangrejo suarez",
+    "idProcesos": [113385910],
+    "category": "Terminados"
+  }
+}

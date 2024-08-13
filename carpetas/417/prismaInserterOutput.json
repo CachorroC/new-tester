@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 417,
+    "numero": 417,
+    "llaveProceso": "11001400307120170125000",
+    "nombre": "oscar humberto gomez chuchin",
+    "idProcesos": [64793050],
+    "category": "Reintegra"
+  }
+}

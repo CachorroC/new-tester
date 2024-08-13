@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 134,
+    "numero": 134,
+    "llaveProceso": "25430400300120170108300",
+    "nombre": "fredy alexander bueno parada",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 79004127,
+  "actuaciones": [],
+  "category": "Insolvencia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 27
+  },
+  "demanda": {
+    "liquidacion": "19102017",
+    "avaluo": "1000",
+    "capitalAdeudado": "96608106",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-05-19T05:00:16.000Z",
+    "etapaProcesal": "25320318900120170019500",
+    "fechaPresentacion": [],
+    "id": 27,
+    "llaveProceso": "25320310300120170019500",
+    "mandamientoPago": ["2017-05-31T05:00:16.000Z"],
+    "municipio": "GUADUAS",
+    "notificacion": {
+      "id": 27,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": "2017-07-19T05:00:16.000Z",
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["7910080321"],
+    "radicado": "2017 - 00195",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2017-04-11T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 27,
+      "fechaOrdenaMedida": "2024-02-10T00:54:22.623Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 27,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "",
+    "segundoNombre": "NORBEY",
+    "primerApellido": "LOMBANA",
+    "segundoApellido": "MAHECHA",
+    "cedula": "79004127",
+    "direccion": "CALLE 4 No. 14-161 GUADUAS (CUNDINAMARCA)",
+    "email": "347620"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25320310300120170019500",
+  "nombre": " norbey lombana mahecha",
+  "numero": 27,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 27,
+      "createdAt": "2024-02-10T00:54:22.623Z",
+      "pathname": null,
+      "dueDate": "2021-07-22T05:00:00.000Z",
+      "text": "22/06/2021 JUZGADO SUSPENDE PROCESO Y REMITE ACUTACION A CENTRO DE CONCILIACION DE ACUERDO CON DECISION DE JUZGADO DE GUADUAS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:22.623Z"
+}

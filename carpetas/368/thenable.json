@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25307400300120180006600",
+  "numero": 368,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 39577914,
+    "direccion": "carrera 19 no 13-20 girardot",
+    "email": "caro_23mc@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "carolina",
+    "primerApellido": "martinez",
+    "segundoApellido": "calderon",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-11-12T05:00:00.000Z",
+    "expediente": "25307400300120180006600",
+    "capitalAdeudado": 3630771654,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "GIRARDOT",
+    "obligacion": [6841],
+    "radicado": "2018 - 00066",
+    "vencimientoPagare": ["2026-02-05T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39577914,
+  "idProcesos": null
+}

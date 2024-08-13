@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 276,
+    "numero": 276,
+    "llaveProceso": "25754400300420170038100",
+    "nombre": "nelson null mayorga gomez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:06.746Z",
+  "savedDate": "2017-06-21T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 265091220,
+    "llaveProceso": "11001400306520170093400",
+    "consActuacion": 8,
+    "fechaActuacion": "2017-07-17T05:00:00.000Z",
+    "actuacion": "Retiro demanda",
+    "anotacion": "APODERADO PARTE ACTORA MARIA HELENA SUAREZ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2017-07-17T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "isUltimaAct": true,
+    "idProceso": 18162740
+  }
+}

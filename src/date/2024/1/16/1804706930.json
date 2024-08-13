@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:02.800Z",
+  "savedDate": 1509339600000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1804706930,
+    "llaveProceso": "11001400303720170083900",
+    "consActuacion": 48,
+    "fechaActuacion": "2023-07-10T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE ENVIA AL AREA DE OFICIOS HENRYBERNAL",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-07-10T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 47,
+    "isUltimaAct": false,
+    "idProceso": 50508570
+  }
+}

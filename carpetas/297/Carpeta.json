@@ -1,0 +1,113 @@
+{
+  "id": 6006685,
+  "actuaciones": [],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 297
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "28485816",
+    "departamento": "BOYACÁ",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": ["2017-10-12T05:00:00.000Z"],
+    "id": 297,
+    "llaveProceso": "15842408900120170009500",
+    "mandamientoPago": ["2017-10-23T05:00:00.000Z"],
+    "municipio": "UMBITA",
+    "notificacion": {
+      "id": 297,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": true
+        }
+      ],
+      "certimail": false,
+      "fisico": true,
+      "autoNotificado": null
+    },
+    "obligacion": ["5450082766", "5450083252"],
+    "radicado": "2017 - 00095",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2019-07-10T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 297,
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "EMBARGO DE CULTIVOS"
+    }
+  },
+  "deudor": {
+    "id": 297,
+    "telCelular": "3123077900",
+    "telFijo": null,
+    "primerNombre": "MIGUEL",
+    "segundoNombre": "ANGEL",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "HUERTAS",
+    "cedula": "6006685",
+    "direccion": "CALLE 5 A No 6 - 23 UMBITA",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "15842408900120170009500",
+  "nombre": "miguel angel martinez huertas",
+  "numero": 297,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 297,
+      "createdAt": "2024-02-10T00:54:47.553Z",
+      "pathname": null,
+      "dueDate": "2023-01-08T05:00:00.000Z",
+      "text": "8/12/2022 SE SOLICITA AL JUZGADO INSPECCION OCULAR CULTIVOS CREDITO FINAGRO Y RENDICION CUENTAS SECUESTRE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 297,
+      "createdAt": "2024-02-10T00:54:47.553Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 26 ENERO REQUIERE PODER CINFERIDO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 297,
+      "createdAt": "2024-02-10T00:54:47.553Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 3 FEB 2023 SE ENVIA MEMORIAL PODER CONFERIDO CCR Y CAMARA DE COMERCIO RYS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 297,
+      "createdAt": "2024-02-10T00:54:47.553Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "3 DE AGOSTO DE 2023 SE ENVIA CESION REINTEGRA Y RATIFIICACION PODER A CCR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:47.553Z"
+}

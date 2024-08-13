@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:16.803Z",
+  "savedDate": 1537333200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 961171510,
+    "llaveProceso": "11001400305620180011000",
+    "consActuacion": 64,
+    "fechaActuacion": "2020-02-28T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "Proceso se envia a archivo definitivo caja 287**LinaMartin**",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2020-02-28T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 64,
+    "isUltimaAct": true,
+    "idProceso": 50980370
+  }
+}

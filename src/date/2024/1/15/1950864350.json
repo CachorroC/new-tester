@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-15T23:00:17.010Z",
+  "savedDate": 1662958800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1950864350,
+    "llaveProceso": "11001418901420190065600",
+    "consActuacion": 110,
+    "fechaActuacion": "2024-02-06T05:00:00.000Z",
+    "actuacion": "Al despacho",
+    "anotacion": "(FIL543) CESION RAD 19597 // DIGITAL// CLAUDIA ESCOBAR   \r\n",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-02-06T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 110,
+    "isUltimaAct": true,
+    "idProceso": 51816100
+  }
+}

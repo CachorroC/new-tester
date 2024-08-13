@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 225,
+    "cedula": "80740039",
+    "primerNombre": "fabian",
+    "primerApellido": "gil",
+    "segundoNombre": "alexander",
+    "segundoApellido": "gil",
+    "direccion": "calle 48b sur # 6c - 06",
+    "email": "fabianalexanderg@yahoo.es",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 228
+  }
+}

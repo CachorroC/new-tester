@@ -1,0 +1,59 @@
+{
+  "id": 79004127,
+  "actuaciones": [],
+  "category": "Insolvencia",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["7910080321"],
+    "llaveProceso": "25320310300120170019500",
+    "notificacion": {
+      "292": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": "PERSONAL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "19/07/2017"
+    },
+    "capitalAdeudado": null,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "25320318900120170019500",
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "GUADUAS",
+    "radicado": "2017 - 00195",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2017-04-11T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "NORBEY",
+    "segundoNombre": "LOMBANA",
+    "primerApellido": "MAHECHA",
+    "segundoApellido": null,
+    "cedula": 79004127,
+    "direccion": "CALLE 4 No. 14-161 GUADUAS (CUNDINAMARCA)",
+    "email": "347620"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25320310300120170019500",
+  "nombre": "NORBEY LOMBANA MAHECHA",
+  "numero": 27,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:47.952Z"
+}

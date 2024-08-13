@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 51,
+    "cedula": "37549188",
+    "primerNombre": "maria",
+    "primerApellido": "martinez",
+    "segundoNombre": "carolina",
+    "segundoApellido": "vera",
+    "direccion": "carrera 54c no. 143-a-90//carrera 54c no. 143-a-90 apto 213 torre 2 conjunto residencial barcelona ph",
+    "email": "caromartinezvera@gmail.com",
+    "telCelular": "3175921396",
+    "telFijo": null,
+    "carpetaNumero": 51
+  }
+}

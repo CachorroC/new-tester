@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 523,
+    "cedula": "51918944",
+    "primerNombre": "amanda",
+    "primerApellido": "gaitan",
+    "segundoNombre": "lucia",
+    "segundoApellido": "rincón",
+    "direccion": "calle 55 sur 24c-28 apto 502",
+    "email": "amandagaitan@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 535
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308520170108400",
+  "numero": 70,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 14250539,
+    "direccion": "calle 54 # 22 - 50",
+    "email": "ariascesaraugustoarias@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3152248920
+    },
+    "primerNombre": "cesar",
+    "primerApellido": "augusto",
+    "segundoApellido": "arias",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-14T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400308520170108400",
+    "capitalAdeudado": 74069982,
+    "etapaProcesal": "1.1001400308520171e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12587175],
+    "radicado": "2017 - 01084",
+    "vencimientoPagare": ["2017-06-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 14250539,
+  "idProcesos": null
+}

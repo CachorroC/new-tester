@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303820180083500",
+  "numero": 455,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52434815,
+    "direccion": "calle 43 sur no 51f-23 piso 2",
+    "email": "yemargol@yahoo.es",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "yenny",
+    "segundoNombre": "marcela",
+    "primerApellido": "gomez",
+    "segundoApellido": "olarte"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-07-06T00:00:00.000Z",
+    "mandamientoPago": "2018-08-02T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-29T00:00:00.000Z",
+    "expediente": "11001400303820180083500",
+    "capitalAdeudado": 1499744800,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": ["AUDIOPRESTAMO"],
+    "radicado": "2018 - 00835",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52434815,
+  "idProcesos": null
+}

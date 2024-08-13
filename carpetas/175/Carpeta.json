@@ -1,0 +1,97 @@
+{
+  "id": 91354321,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LUZ HELENA SOLANO ARDILA ",
+    "cedula": "53065435",
+    "direccion": "CALLE 36 # 1 - 81 CASA 11 BLOQUE 21 ",
+    "telefono": "3118570587 // 7515699",
+    "id": 175
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "16618551",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.971Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": ["1970-01-01T00:00:42.978Z"],
+    "id": 175,
+    "llaveProceso": "25754418900220170076100",
+    "mandamientoPago": [],
+    "municipio": "SOACHA",
+    "notificacion": {
+      "id": 175,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["20990117740"],
+    "radicado": "2017 - 00761",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:45.404Z"],
+    "medidasCautelares": {
+      "id": 175,
+      "fechaOrdenaMedida": "2024-02-10T00:54:36.112Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 175,
+    "telCelular": "3118866968",
+    "telFijo": "8212461 ",
+    "primerNombre": "OMAR",
+    "segundoNombre": "GUSTAVO",
+    "primerApellido": "FULA",
+    "segundoApellido": "AVILA",
+    "cedula": "91354321",
+    "direccion": "CALLE 36 # 1 ESTE - 81 BLOQUE 21 CASA 11 SOACHA",
+    "email": "omarfula@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25754418900220170076100",
+  "nombre": "omar gustavo fula avila ",
+  "numero": 175,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 175,
+      "createdAt": "2024-02-10T00:54:36.112Z",
+      "pathname": null,
+      "dueDate": "2018-09-29T05:00:00.000Z",
+      "text": "EL 29/08/2018 EL JUZGADO DA POR TERMINADO EL PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 175,
+      "createdAt": "2024-02-10T00:54:36.112Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " DESGLOSE DE GARANTIAS Y LEVANTAMIENTO DE MEDADAS CAUTELARES A CARGO DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:36.113Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": 17139148,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": " ",
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 562
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "25252953",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 562,
+    "llaveProceso": "2023-00985",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 562,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": [
+      "9960086465",
+      "TARJETA DE CREDITO MASTER CARD 5303720132348190"
+    ],
+    "radicado": "2023 - 00985",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-05-10T05:00:00.000Z",
+      "2026-03-06T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 562,
+      "fechaOrdenaMedida": "2024-02-10T00:55:07.511Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 562,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "MARIO",
+    "segundoNombre": "HERNAN",
+    "primerApellido": "SALAMANCA",
+    "segundoApellido": "PATIÑO",
+    "cedula": "17139148",
+    "direccion": "Carrera 80 NO. 8 - 11 Torre 3 Interior 5 Apartamento 519 Torres de Santa Barbara Conjunto ReSIdencial",
+    "email": "ajasalama@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-00985",
+  "nombre": "mario hernan salamanca patiño",
+  "numero": 562,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 562,
+      "createdAt": "2024-02-10T00:55:07.511Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "31 JULIO RADIICO DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 562,
+      "createdAt": "2024-02-10T00:55:07.511Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 9 AGOSTO INGRESA AL DESPACHO.",
+      "content": []
+    },
+    {
+      "carpetaNumero": 562,
+      "createdAt": "2024-02-10T00:55:07.511Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 2 OCT 2023 CONTINUA AL DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 562,
+      "createdAt": "2024-02-10T00:55:07.511Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 2-02-2024 NADA EN ESTADOS",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:07.511Z"
+}

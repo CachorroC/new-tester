@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:30.591Z",
+  "proceso": {
+    "idProceso": 132372990,
+    "idConexion": 259,
+    "llaveProceso": "11001400301720230078200",
+    "fechaProceso": "2023-08-02T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-12-01T05:00:00.000Z",
+    "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CARLOS HERNEY QUINTERO R. ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 17,
+      "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-municipal-de-bogota"
+    }
+  }
+}

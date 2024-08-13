@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 28,
+    "numero": 28,
+    "llaveProceso": "25290400300120170036900",
+    "nombre": "maria socorro torres de,gonzalez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

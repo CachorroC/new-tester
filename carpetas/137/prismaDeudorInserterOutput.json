@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 135,
+    "cedula": "52818134",
+    "primerNombre": "edna",
+    "primerApellido": "muñoz",
+    "segundoNombre": "milena",
+    "segundoApellido": "sanchez",
+    "direccion": "calle 181c # 11 - 75 torre 3 apto 302",
+    "email": "ednita22ms@hotmail.com",
+    "telCelular": "3002908272",
+    "telFijo": "3002766",
+    "carpetaNumero": 137
+  }
+}

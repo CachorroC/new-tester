@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302720180057700",
+  "numero": 538,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 41564331,
+    "direccion": "calle 40 no 8-86",
+    "email": "grovida@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "gloria",
+    "segundoNombre": "giraldo",
+    "primerApellido": "de",
+    "segundoApellido": "rovida"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-05-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-05-17T00:00:00.000Z",
+    "expediente": "11001400302720180057700",
+    "capitalAdeudado": 16862840,
+    "etapaProcesal": "1.100140030272018e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [4099840046475270],
+    "radicado": "2018 - 00577",
+    "vencimientoPagare": ["2020-09-24T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 41564331,
+  "idProcesos": null
+}

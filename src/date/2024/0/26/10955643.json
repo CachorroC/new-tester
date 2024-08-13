@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:59.611Z",
+  "proceso": {
+    "idProceso": 10955643,
+    "idConexion": 261,
+    "llaveProceso": "11001400304920180019100",
+    "fechaProceso": "2018-02-22T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-04-17T05:00:00.000Z",
+    "despacho": "JUZGADO 049 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CLAUDIA YANNET VALENCIA AYA | Demandado: BERTHA JUDITH AYA DE VALENCIA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 49,
+      "tipo": "JUZGADO 049 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-049-civil-municipal-de-bogota"
+    }
+  }
+}

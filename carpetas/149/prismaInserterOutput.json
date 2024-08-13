@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 149,
+    "numero": 149,
+    "llaveProceso": "25754400300220170025600",
+    "nombre": "magda tatiana torres gonzalez",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

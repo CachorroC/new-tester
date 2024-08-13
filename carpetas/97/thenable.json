@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308520160031900",
+  "numero": 97,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19270589,
+    "direccion": "calle 52 a bis  no 35 b 41 sur",
+    "email": "conjuexeu@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jose",
+    "segundoNombre": "alfredo",
+    "primerApellido": "riaño",
+    "segundoApellido": "maldonado"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-01-12T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-20T00:00:00.000Z",
+    "expediente": "11001400308520160031900",
+    "capitalAdeudado": 7986288623,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [20990137187],
+    "radicado": "2016 - 00319",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19270589,
+  "idProcesos": null
+}

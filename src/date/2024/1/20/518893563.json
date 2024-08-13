@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:06.664Z",
+  "savedDate": "2017-06-29T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 518893563,
+    "llaveProceso": "11001400304620170056100",
+    "consActuacion": 29,
+    "fechaActuacion": "2019-05-24T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "PAQ. 285",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-05-24T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 29,
+    "isUltimaAct": true,
+    "idProceso": 10130493
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": null,
+  "numero": 589,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 1030573651,
+    "direccion": "carrera 99 d bis no. 38 - 37 sur",
+    "email": "yurledyparra2024@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3143490829
+    },
+    "primerNombre": "yurledy",
+    "primerApellido": "parra",
+    "segundoApellido": "hernandez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-10-07T00:00:00.000Z",
+    "expediente": null,
+    "capitalAdeudado": 58421147,
+    "etapaProcesal": null,
+    "municipio": "SOACHA",
+    "obligacion": [90000218729, 2010089751],
+    "radicado": null,
+    "vencimientoPagare": ["2052-11-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1030573651,
+  "idProcesos": null
+}

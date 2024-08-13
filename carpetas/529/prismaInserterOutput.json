@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 528,
+    "numero": 529,
+    "llaveProceso": "11001400305220190110300",
+    "nombre": "gonzalo null contreras poveda",
+    "idProcesos": [66898433],
+    "category": "Terminados"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 500,
+    "numero": 500,
+    "llaveProceso": "11001400300620180045400",
+    "nombre": "smartitech null s.a.s null",
+    "idProcesos": [51154840, 81649171],
+    "category": "Reintegra"
+  }
+}

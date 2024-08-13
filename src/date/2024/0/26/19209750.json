@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:34.727Z",
+  "proceso": {
+    "idProceso": 19209750,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820170105100",
+    "fechaProceso": "2017-08-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-06-18T05:00:00.000Z",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: JOVANI EMILIO RESTREPO RAMIREZ | Demandado: RUBIN EMILCE ROJAS CALDERON ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 68,
+      "tipo": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-068-civil-municipal-de-bogota"
+    }
+  }
+}

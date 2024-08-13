@@ -1,0 +1,270 @@
+{
+  "id": 1030551366,
+  "actuaciones": [
+    {
+      "idRegActuacion": 265091220,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 8,
+      "fechaActuacion": "2017-07-17T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "APODERADO PARTE ACTORA MARIA HELENA SUAREZ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-07-17T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091210,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 7,
+      "fechaActuacion": "2017-07-10T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 10/07/2017 a las 17:02:31.",
+      "fechaInicial": "2017-07-11T05:00:00.000Z",
+      "fechaFinal": "2017-07-11T05:00:00.000Z",
+      "fechaRegistro": "2017-07-10T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091200,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 6,
+      "fechaActuacion": "2017-07-10T05:00:00.000Z",
+      "actuacion": "Auto rechaza demanda",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-07-10T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091190,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 5,
+      "fechaActuacion": "2017-07-10T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": "No subsanó la demanda",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-07-10T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091180,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 4,
+      "fechaActuacion": "2017-06-27T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 27/06/2017 a las 17:19:50.",
+      "fechaInicial": "2017-06-28T05:00:00.000Z",
+      "fechaFinal": "2017-06-28T05:00:00.000Z",
+      "fechaRegistro": "2017-06-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091170,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 3,
+      "fechaActuacion": "2017-06-27T05:00:00.000Z",
+      "actuacion": "Auto inadmite demanda",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-06-27T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091160,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 2,
+      "fechaActuacion": "2017-06-22T05:00:00.000Z",
+      "actuacion": "Al Despacho Por Reparto",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2017-06-22T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    },
+    {
+      "idRegActuacion": 265091150,
+      "llaveProceso": "11001400306520170093400",
+      "consActuacion": 1,
+      "fechaActuacion": "2017-06-21T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 21/06/2017 a las 12:53:19",
+      "fechaInicial": "2017-06-21T05:00:00.000Z",
+      "fechaFinal": "2017-06-21T05:00:00.000Z",
+      "fechaRegistro": "2017-06-21T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 8,
+      "idProceso": 18162740,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:54:28.259Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 89
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "8451598",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.898Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": [
+      "2017-07-21T05:00:00.000Z",
+      "2017-09-18T05:00:00.000Z"
+    ],
+    "id": 89,
+    "llaveProceso": "11001400306520170093400",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 89,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["12431049"],
+    "radicado": "2017 - 00615",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.895Z"],
+    "medidasCautelares": {
+      "id": 89,
+      "fechaOrdenaMedida": "2024-02-10T00:54:28.219Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 89,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JULIAN",
+    "segundoNombre": "ARMANDO",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": "1030551366",
+    "direccion": "CARRERA 78P BIS # 33A - 91 SUR",
+    "email": "jvargas88@hotmail.com"
+  },
+  "fecha": "2017-07-17T05:00:00.000Z",
+  "idProcesos": [18162740],
+  "idRegUltimaAct": 265091220,
+  "llaveProceso": "11001400306520170093400",
+  "nombre": "julian armando acosta rodriguez",
+  "numero": 89,
+  "procesos": [
+    {
+      "idProceso": 18162740,
+      "idConexion": 260,
+      "llaveProceso": "11001400306520170093400",
+      "fechaProceso": "2017-06-21T05:00:00.000Z",
+      "fechaUltimaActuacion": "2017-07-17T05:00:00.000Z",
+      "despacho": "JUZGADO 065 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JULIAN ARMANDO ACOSTA RODRIGUEZ ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 65,
+        "tipo": "JUZGADO 065 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-65-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 265091220,
+    "llaveProceso": "11001400306520170093400",
+    "consActuacion": 8,
+    "fechaActuacion": "2017-07-17T05:00:00.000Z",
+    "actuacion": "Retiro demanda",
+    "anotacion": "APODERADO PARTE ACTORA MARIA HELENA SUAREZ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2017-07-17T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 8,
+    "idProceso": 18162740,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 89,
+      "createdAt": "2024-02-10T00:54:28.219Z",
+      "pathname": null,
+      "dueDate": "2017-11-17T05:00:00.000Z",
+      "text": "EL 17/10/2017 LA APODERADA DEL BANCOLOMBIA S.A. RETIRA LA DEMANDA DEL JUZGADO EN ETAPA DE MANDAMIENTO DE PAGO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 89,
+      "createdAt": "2024-02-10T00:54:28.219Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " SIN MEDIDAS CAUTELARES DICTADAS POR EL JUZGADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:28.219Z"
+}

@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 515,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "29140667",
+    "entregaGarantiasAbogado": null,
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2019-05-06T00:00:00.000Z",
+    "etapaProcesal": "2.528640030012019e+22",
+    "fechaPresentacion": null,
+    "municipio": "FUNZA",
+    "obligacion": ["2273 320097153", "REF 42796745"],
+    "radicado": "2019 - 00418",
+    "vencimientoPagare": [
+      "2022-01-01T00:00:00.000Z",
+      "2022-05-01T00:00:00.000Z"
+    ],
+    "expediente": "25286400300120190041800",
+    "carpetaNumero": 527,
+    "despacho": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": [
+    {
+      "id": 47,
+      "tipo": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-047-civil-municipal-de-bogota"
+    },
+    {
+      "id": 47,
+      "tipo": "JUZGADO 047 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-047-civil-municipal-de-bogota"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 110,
+    "cedula": "1020743892",
+    "primerNombre": "karen",
+    "primerApellido": "castaño",
+    "segundoNombre": "viviana",
+    "segundoApellido": "coronado",
+    "direccion": "calle 141 # 7b - 50 apto 501",
+    "email": "karenvivicastano@gmail.com",
+    "telCelular": "3014347540",
+    "telFijo": "2131545",
+    "carpetaNumero": 111
+  }
+}

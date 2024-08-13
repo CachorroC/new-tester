@@ -1,0 +1,67 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": "22/09/2017",
+    "telefono": null,
+    "id": 271,
+    "carpetaNumero": 271
+  },
+  "demanda": {
+    "vencimientoPagare": 12600924,
+    "obligacion": {
+      "B": "39.495.993.87"
+    },
+    "capitalAdeudado": "26/09/2017",
+    "entregaGarantiasAbogado": "CUNDINAMARCA",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00990",
+    "llaveProceso": "11001400405420170099000",
+    "etapaProcesal": "05/10/2017",
+    "fechaPresentacion": "17/10/2017",
+    "mandamientoPago": "NIEGA CERTIMAIL",
+    "notificacion": {
+      "autoNotificado": "17/10/2017"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "VEHICULO",
+      "medidaSolicitada": "3877"
+    }
+  },
+  "demandas": [],
+  "numero": 271,
+  "llaveProceso": "11001400405420170099000",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "AURA",
+    "segundoNombre": "GEOVANA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MORA",
+    "cedula": 52850427,
+    "direccion": null,
+    "email": "CARRERA 16 No  24 - 34 APARTAMENTO 302"
+  },
+  "cc": 52850427,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "AURA GEOVANA RODRIGUEZ MORA",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "17/10/2017"
+  }
+}

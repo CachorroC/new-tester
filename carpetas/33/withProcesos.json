@@ -1,0 +1,112 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 82,
+      "tipo": "JUZGADO 082 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-082-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": {
+    "nombre": "NINI CORTES",
+    "cedula": "28936365",
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "telefono": "3134775602",
+    "id": 33,
+    "carpetaNumero": 33
+  },
+  "demanda": {
+    "vencimientoPagare": "3/03/2020",
+    "obligacion": {
+      "A": 377813824603022,
+      "B": 4513078713738027
+    },
+    "capitalAdeudado": "5303716097990273// AUDIOPRESTAMOS",
+    "entregaGarantiasAbogado": "30/05/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00649",
+    "llaveProceso": "11001400308220170064900",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "9/06/2017",
+    "mandamientoPago": "15/06/2017",
+    "notificacion": {
+      "tipo": "OK"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "15/06/2017"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 81869251,
+      "idConexion": 320,
+      "llaveProceso": "11001400308220170064900",
+      "fechaProceso": "2017-06-09T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": null,
+        "medidaSolicitada": null
+      },
+      "vencimientoPagare": ["2020-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-06-09T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [377813824603022, 4513078713738027],
+      "radicado": "2017 - 00649"
+    }
+  ],
+  "numero": 33,
+  "llaveProceso": "11001400308220170064900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3118113651
+    },
+    "primerNombre": "NINI",
+    "segundoNombre": "JOHANA",
+    "primerApellido": "CORTES",
+    "segundoApellido": "MONROY",
+    "cedula": 28936365,
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "email": "snaluistol@gmail.com"
+  },
+  "cc": 28936365,
+  "procesos": [
+    {
+      "idProceso": 81869251,
+      "idConexion": 320,
+      "llaveProceso": "11001400308220170064900",
+      "fechaProceso": "2017-06-09T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 082 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [81869251],
+  "nombre": "NINI JOHANA CORTES MONROY",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": null
+  }
+}

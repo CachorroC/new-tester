@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 527,
+    "cedula": "51937267",
+    "primerNombre": "adriana",
+    "primerApellido": "mora",
+    "segundoNombre": "lucia",
+    "segundoApellido": "plata",
+    "direccion": "callle 106 b- no 54-57 apto 201 puente largo",
+    "email": "amoplata@yahoo.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 539
+  }
+}

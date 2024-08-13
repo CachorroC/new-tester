@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 395,
+    "cedula": "52465659",
+    "primerNombre": "liliana",
+    "primerApellido": "erazo",
+    "segundoNombre": "andrea",
+    "segundoApellido": "lopez",
+    "direccion": "carrera 87 bis no 50 sur-75 piso 2",
+    "email": "liancridana@hotmail.com",
+    "telCelular": "3214771295",
+    "telFijo": null,
+    "carpetaNumero": 398
+  }
+}

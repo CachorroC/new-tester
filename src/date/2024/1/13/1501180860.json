@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-13T23:00:07.365Z",
+  "savedDate": 1528261200000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1501180860,
+    "llaveProceso": "11001400304520170077400",
+    "consActuacion": 53,
+    "fechaActuacion": "2022-11-10T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "C1-28, C2-123, C3-25                                                                                                           PROCESO ARCHIVADO //Caja 395//Laura Gutierrez ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-11-10T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 53,
+    "isUltimaAct": true,
+    "idProceso": 50518680
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 5,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "25184150",
+    "entregaGarantiasAbogado": "2017-05-11T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-10-05T00:00:00.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-06-05T00:00:00.000Z",
+    "municipio": "GUASCA",
+    "obligacion": ["2273 320172490"],
+    "radicado": "2017 - 00168",
+    "vencimientoPagare": ["1934-02-01T00:00:00.000Z"],
+    "expediente": "25322418900120170016800",
+    "carpetaNumero": 5,
+    "despacho": null
+  }
+}

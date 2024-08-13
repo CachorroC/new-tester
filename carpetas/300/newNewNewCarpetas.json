@@ -1,0 +1,47 @@
+{
+  "id": 79617611,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["12245382"],
+    "llaveProceso": "25286400300120170081600",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1967833490,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-10T05:00:00.000Z",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": ["2017-10-18T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "FUNZA",
+    "radicado": "2017 - 00816",
+    "tipoProceso": "PRENDARIO",
+    "vencimientoPagare": ["2017-05-26T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 2623688,
+      "celular": 3174280231
+    },
+    "primerNombre": "FABIO",
+    "segundoNombre": "EDILBERTO",
+    "primerApellido": "JARA",
+    "segundoApellido": "SANCHEZ",
+    "cedula": 79617611,
+    "direccion": "CARRERA 3 E No 11-60 INTERIOR 9 CASA 2  FUNZA",
+    "email": "fabiojara@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25286400300120170081600",
+  "nombre": "FABIO EDILBERTO JARA SANCHEZ",
+  "numero": 300,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:27.389Z"
+}

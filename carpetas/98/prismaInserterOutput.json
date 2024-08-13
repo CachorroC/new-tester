@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 98,
+    "numero": 98,
+    "llaveProceso": "11001400301120170062300",
+    "nombre": "maria del carmen chaparro,lemus",
+    "idProcesos": [50543070],
+    "category": "Terminados"
+  }
+}

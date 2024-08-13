@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 275,
+    "cedula": "35506033",
+    "primerNombre": "luz",
+    "primerApellido": "puerta",
+    "segundoNombre": "dary",
+    "segundoApellido": "jaramillo",
+    "direccion": "carrera  101  no 71 b - 53",
+    "email": "natis-rolita@hotmail.con",
+    "telCelular": "3103430010",
+    "telFijo": "4357832",
+    "carpetaNumero": 278
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": 4547635,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 189
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "71966685",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.969Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-08-29T05:00:00.000Z"],
+    "id": 189,
+    "llaveProceso": "25817418900120170049400",
+    "mandamientoPago": [],
+    "municipio": "TOCANCIPA",
+    "notificacion": {
+      "id": 189,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": "2629-01-01T00:00:00.000Z",
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["175217", "5303718084430842"],
+    "radicado": "2017 - 00494",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2034-06-09T05:00:00.000Z"],
+    "medidasCautelares": {
+      "id": 189,
+      "fechaOrdenaMedida": "2024-02-10T00:54:37.141Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 189,
+    "telCelular": "3142125039",
+    "telFijo": "3213559 ",
+    "primerNombre": "WILDER",
+    "segundoNombre": "DE",
+    "primerApellido": "JESUS",
+    "segundoApellido": "ROMAN",
+    "cedula": "4547635",
+    "direccion": "CALLE 10 # 8 - 07 TOCANCIPA",
+    "email": "wilderj11@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25817418900120170049400",
+  "nombre": "wilder de jesus roman grisales",
+  "numero": 189,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 189,
+      "createdAt": "2024-02-10T00:54:37.141Z",
+      "pathname": null,
+      "dueDate": "2018-05-03T05:00:00.000Z",
+      "text": "EL 3/04/2018 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 189,
+      "createdAt": "2024-02-10T00:54:37.141Z",
+      "pathname": null,
+      "dueDate": "2018-06-09T05:00:00.000Z",
+      "text": " EL 9/05/2018 SE DEVOLVIERON GARANTIAS A ECSA S.A. ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 189,
+      "createdAt": "2024-02-10T00:54:37.141Z",
+      "pathname": null,
+      "dueDate": "2022-09-30T05:00:00.000Z",
+      "text": " EL 30/08/2022 SE SOLICITO CERTIFICADO DE TRADICION SIN REGISTRO DE MEDIDAS CAUTELARES",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:37.141Z"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-09T17:00:05.921Z",
+  "savedDate": null,
+  "ultimaActuacion": {
+    "idRegActuacion": 763999530,
+    "llaveProceso": "11001400303420170080900",
+    "consActuacion": 18,
+    "fechaActuacion": "2019-03-07T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "PAQUETE 615 TER ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-03-07T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 18,
+    "isUltimaAct": true,
+    "idProceso": 50506330
+  }
+}

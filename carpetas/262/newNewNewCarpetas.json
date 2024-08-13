@@ -1,0 +1,60 @@
+{
+  "id": 1069737167,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "RAFAEL ANTONIO MORENO FRANCO",
+    "cedula": "11383194",
+    "direccion": "DIAGONAL 1C No 25 B - 18  FUSAGASUFA",
+    "telefono": null,
+    "id": 262
+  },
+  "demanda": {
+    "obligacion": ["9450082213 /0377847716751531", "0377847593768038"],
+    "llaveProceso": "2590400300220170063100",
+    "notificacion": {
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": "2017-05-10T05:00:00.000Z",
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 1584054583,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2017-12-09T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-27T05:00:00.000Z"],
+    "mandamientoPago": "2017-05-10T05:00:00.000Z",
+    "municipio": "FUSAGASUGA",
+    "radicado": "2017 - 00631",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2018-08-01T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3103247146
+    },
+    "primerNombre": "RAFAEL",
+    "segundoNombre": "ANDRES",
+    "primerApellido": "MORENO",
+    "segundoApellido": "ZAMORA",
+    "cedula": 1069737167,
+    "direccion": "DIAGONAL 1C No 25B -18  FUSAGASUGA",
+    "email": "rafael_moreno.z@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "2590400300220170063100",
+  "nombre": "RAFAEL ANDRES MORENO ZAMORA",
+  "numero": 262,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:13.923Z"
+}

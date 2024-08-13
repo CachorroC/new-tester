@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 319,
+    "cedula": "63395806",
+    "primerNombre": "claudia",
+    "primerApellido": "suarez",
+    "segundoNombre": "yamile",
+    "segundoApellido": "poblador",
+    "direccion": "calle 127 c - no  2 b - 18  apartamento 101",
+    "email": "claudiasuarezp@gmail.com",
+    "telCelular": "3112326151",
+    "telFijo": "5205695",
+    "carpetaNumero": 322
+  }
+}

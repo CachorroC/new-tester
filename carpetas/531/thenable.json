@@ -1,0 +1,45 @@
+{
+  "llaveProceso": "11001400304220200053500",
+  "numero": 531,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 51813018,
+    "direccion": "kr 81 no. 127 a - 46 conjunto monte azul bogota",
+    "email": "yadelcis@hotmail.com",
+    "tel": {
+      "fijo": 6139147,
+      "celular": 3134386087
+    },
+    "primerNombre": "sandra",
+    "segundoNombre": "leonor",
+    "primerApellido": "paez",
+    "segundoApellido": "murcia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2020-10-07T00:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2020-10-07T00:00:00.000Z",
+    "expediente": "11001400304220200053500",
+    "capitalAdeudado": 35608653,
+    "etapaProcesal": "EJECUCION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      2020084294,
+      "2020087484 // 4594250317705437 //5303723260933890"
+    ],
+    "radicado": "2020 - 00535",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 19299851,
+    "direccion": "KR 81 No. 127 - 46 Torre 1 Apt 401",
+    "nombre": "marco tulio sanchez medina",
+    "telefono": 6139147
+  },
+  "cc": 51813018,
+  "idProcesos": null
+}

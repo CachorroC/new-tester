@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 145,
+    "numero": 145,
+    "llaveProceso": "11001400305520170081700",
+    "nombre": "jhon jaminton fuentes carreño",
+    "idProcesos": [65086550],
+    "category": "Terminados"
+  }
+}

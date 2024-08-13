@@ -1,0 +1,216 @@
+{
+  "id": 79424825,
+  "actuaciones": [
+    {
+      "idRegActuacion": 920378870,
+      "llaveProceso": "11001400306620190040900",
+      "consActuacion": 5,
+      "fechaActuacion": "2019-04-11T05:00:00.000Z",
+      "actuacion": "Retiro demanda",
+      "anotacion": "RETIRA LA DEMANDA LA APODERADA DEMANDANTE ",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2019-04-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 18852280,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:55:01.010Z"
+    },
+    {
+      "idRegActuacion": 920378860,
+      "llaveProceso": "11001400306620190040900",
+      "consActuacion": 4,
+      "fechaActuacion": "2019-04-02T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 02/04/2019 a las 09:05:01.",
+      "fechaInicial": "2019-04-03T05:00:00.000Z",
+      "fechaFinal": "2019-04-03T05:00:00.000Z",
+      "fechaRegistro": "2019-04-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 18852280,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:01.010Z"
+    },
+    {
+      "idRegActuacion": 920378850,
+      "llaveProceso": "11001400306620190040900",
+      "consActuacion": 3,
+      "fechaActuacion": "2019-04-02T05:00:00.000Z",
+      "actuacion": "Auto inadmite demanda",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2019-04-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 18852280,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:01.010Z"
+    },
+    {
+      "idRegActuacion": 920378840,
+      "llaveProceso": "11001400306620190040900",
+      "consActuacion": 2,
+      "fechaActuacion": "2019-03-15T05:00:00.000Z",
+      "actuacion": "Al Despacho Por Reparto",
+      "anotacion": "REPARTO",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2019-03-14T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 18852280,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:01.010Z"
+    },
+    {
+      "idRegActuacion": 920378830,
+      "llaveProceso": "11001400306620190040900",
+      "consActuacion": 1,
+      "fechaActuacion": "2019-03-14T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 14/03/2019 a las 15:18:21",
+      "fechaInicial": "2019-03-14T05:00:00.000Z",
+      "fechaFinal": "2019-03-14T05:00:00.000Z",
+      "fechaRegistro": "2019-03-14T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 5,
+      "idProceso": 18852280,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:01.010Z"
+    }
+  ],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "2028628",
+    "cedula": "CLAUDIA JASMIN GOMEZ GUERRERO",
+    "direccion": "43168",
+    "telefono": "DIAGONAL 31 No 24-63  SUR",
+    "id": 460
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "90725018",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "43294",
+    "fechaPresentacion": [],
+    "id": 460,
+    "llaveProceso": "11001400306620190040900",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 460,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["16.399.509.25"],
+    "radicado": "2019 - 00409",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-08-31T22:35:27.766Z"],
+    "medidasCautelares": {
+      "id": 460,
+      "fechaOrdenaMedida": "2024-02-10T00:55:00.970Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 460,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "JORGE",
+    "segundoNombre": "ABDOLONIO",
+    "primerApellido": "GUERRERO",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": "79424825",
+    "direccion": "52205842",
+    "email": "DIAGONAL 31 No 24-63 SUR"
+  },
+  "fecha": "2019-04-11T05:00:00.000Z",
+  "idProcesos": [18852280],
+  "idRegUltimaAct": 920378870,
+  "llaveProceso": "11001400306620190040900",
+  "nombre": "jorge abdolonio guerrero hernandez",
+  "numero": 460,
+  "procesos": [
+    {
+      "idProceso": 18852280,
+      "idConexion": 262,
+      "llaveProceso": "11001400306620190040900",
+      "fechaProceso": "2019-03-14T05:00:00.000Z",
+      "fechaUltimaActuacion": "2019-04-11T05:00:00.000Z",
+      "despacho": "JUZGADO 066 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: JORGE ABDOLONIO GUERRERO HERNANDEZ | Demandado: CLAUDIA YASMIN GOMEZ GUERRERO ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 66,
+        "tipo": "JUZGADO 066 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-066-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": {
+    "idRegActuacion": 920378870,
+    "llaveProceso": "11001400306620190040900",
+    "consActuacion": 5,
+    "fechaActuacion": "2019-04-11T05:00:00.000Z",
+    "actuacion": "Retiro demanda",
+    "anotacion": "RETIRA LA DEMANDA LA APODERADA DEMANDANTE ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2019-04-11T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 5,
+    "idProceso": 18852280,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 460,
+      "createdAt": "2024-02-10T00:55:00.970Z",
+      "pathname": null,
+      "dueDate": "2019-05-23T05:00:00.000Z",
+      "text": "DEVOLUCION DE GARANTIAS 23/04/2019 ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 460,
+      "createdAt": "2024-02-10T00:55:00.970Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 11 DE ABRIL DE 2019 POR INSTRUCCIÓN DE AECSA SE RETIRO LA DEMANDA Y GARANTIAS SIN MEDIDAS CAUTELARES VER ACTUACIONES EN EL JUZGADO",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:00.970Z"
+}

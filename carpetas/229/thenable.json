@@ -1,0 +1,41 @@
+{
+  "llaveProceso": "11001400306820170124000",
+  "numero": 229,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52818428,
+    "direccion": "calle 24d # 72a - 81  casa 9",
+    "email": "alejandramogollonbernal@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jennifer",
+    "segundoNombre": "alejandra",
+    "primerApellido": "mogollón",
+    "segundoApellido": "bernal"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2017-09-04T00:00:00.000Z",
+    "expediente": "11001400306820170124000",
+    "capitalAdeudado": 10282560306,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [141432],
+    "radicado": "2017 - 01240",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": "51597916 // 19315420",
+    "direccion": "CALLE 24D # 72A - 81  CASA 9",
+    "telefono": 4166717
+  },
+  "cc": 52818428,
+  "idProcesos": null
+}

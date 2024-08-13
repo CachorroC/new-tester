@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 177,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "6842126851",
+    "entregaGarantiasAbogado": "2017-08-22T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "2017-08-29T00:00:00.000Z",
+    "municipio": "VIOTA",
+    "obligacion": ["12594582"],
+    "radicado": "2017 - 00218",
+    "vencimientoPagare": ["2017-08-01T00:00:00.000Z"],
+    "expediente": "25878418900120170021800",
+    "carpetaNumero": 180,
+    "despacho": null
+  }
+}

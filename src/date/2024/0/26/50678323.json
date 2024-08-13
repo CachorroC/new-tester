@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:08.123Z",
+  "proceso": {
+    "idProceso": 50678323,
+    "idConexion": 135,
+    "llaveProceso": "11001410300120180040400",
+    "fechaProceso": "2018-07-26T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-08-28T05:00:00.000Z",
+    "despacho": "JUZGADO 001  MUNICIPAL DE PEQUEÑAS CAUSAS LABORALES DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: JAIME ORLANDO CARRILLO DAZA | Demandado: COOVIPORFAC LIMITADA ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 1,
+      "tipo": "JUZGADO 001  MUNICIPAL DE PEQUEÑAS CAUSAS LABORALES DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.cojuzgado-001--municipal-de-pequeñas-causas-laborales-de-bogotá-"
+    }
+  }
+}

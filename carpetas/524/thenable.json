@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307520190100800",
+  "numero": 524,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52433839,
+    "direccion": "carrera 15 # 33-17",
+    "email": "grpte@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3213987669
+    },
+    "primerNombre": "ingrit",
+    "segundoNombre": "yohana",
+    "primerApellido": "vasquez",
+    "segundoApellido": "rojas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2019-04-06T05:00:00.000Z",
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307520190100800",
+    "capitalAdeudado": 1995113595,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [20990138197],
+    "radicado": "2019 - 01008",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52433839,
+  "idProcesos": null
+}

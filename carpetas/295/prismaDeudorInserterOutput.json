@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 292,
+    "cedula": "36536419",
+    "primerNombre": "rita",
+    "primerApellido": "fernandez",
+    "segundoNombre": "cecilia",
+    "segundoApellido": "ibañez",
+    "direccion": "calle 124 no  20-76 apartamento 503",
+    "email": null,
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 295
+  }
+}

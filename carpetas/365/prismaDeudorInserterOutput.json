@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 362,
+    "cedula": "79861680",
+    "primerNombre": "richard",
+    "primerApellido": "iriarte",
+    "segundoNombre": "camilo",
+    "segundoApellido": "garcia",
+    "direccion": "carrera 105 a no 70 d- 90 int 1 apart 5",
+    "email": "richard.iriarte76@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 365
+  }
+}

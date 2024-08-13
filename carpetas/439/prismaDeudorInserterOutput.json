@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 434,
+    "cedula": "79812352",
+    "primerNombre": "miguel",
+    "primerApellido": "devia",
+    "segundoNombre": "esneyder",
+    "segundoApellido": "cepeda",
+    "direccion": "transversal 78 no 68a-15 sur",
+    "email": null,
+    "telCelular": "3123170535",
+    "telFijo": null,
+    "carpetaNumero": 439
+  }
+}

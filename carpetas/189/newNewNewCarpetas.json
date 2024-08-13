@@ -1,0 +1,56 @@
+{
+  "id": 4547635,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["175217", "5303718084430842"],
+    "llaveProceso": "25817418900120170049400",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 71966685,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-08-29T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "TOCANCIPA",
+    "radicado": "2017 - 00494",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2034-06-09T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 3213559,
+      "celular": 3142125039
+    },
+    "primerNombre": "WILDER",
+    "segundoNombre": "DE",
+    "primerApellido": "JESUS",
+    "segundoApellido": "ROMAN",
+    "cedula": 4547635,
+    "direccion": "CALLE 10 # 8 - 07 TOCANCIPA",
+    "email": "wilderj11@yahoo.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25817418900120170049400",
+  "nombre": "WILDER DE JESUS ROMAN GRISALES",
+  "numero": 189,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:47.881Z"
+}

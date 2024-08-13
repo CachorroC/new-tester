@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400303420170080900",
+  "numero": 40,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 19173252,
+    "direccion": "calle 70 no. 113 b - 40  barrio riviera",
+    "email": null,
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "josé",
+    "segundoNombre": "enrique",
+    "primerApellido": "riaño",
+    "segundoApellido": "henriquez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-13T00:00:00.000Z",
+    "mandamientoPago": "2017-08-03T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-07T00:00:00.000Z",
+    "expediente": "11001400303420170080900",
+    "capitalAdeudado": 19865254,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "4670083309 // 377813453296510",
+      "5303711693085438 / AUDIOPRESTAMO"
+    ],
+    "radicado": "2017 - 00809",
+    "vencimientoPagare": ["2021-07-22T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 19173252,
+  "idProcesos": null
+}

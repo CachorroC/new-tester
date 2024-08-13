@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 5,
+    "cedula": "20645940",
+    "primerNombre": "fany",
+    "primerApellido": "avellaneda",
+    "segundoNombre": "patricia",
+    "segundoApellido": "tovar",
+    "direccion": "carrera 9 no. 2-03 guasca",
+    "email": "patoavella8210@hotmail.com",
+    "telCelular": "3217662673",
+    "telFijo": null,
+    "carpetaNumero": 5
+  }
+}

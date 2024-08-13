@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1956575880,
+  "llaveProceso": "11001400308520170108400",
+  "consActuacion": 52,
+  "fechaActuacion": "2024-02-27T05:00:00.000Z",
+  "actuacion": "Recepción expediente",
+  "anotacion": "allegan proceso el dia 23/02/2024 el juzgado 35 CC",
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-02-27T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 52,
+  "isUltimaAct": true,
+  "idProceso": 65640840
+}

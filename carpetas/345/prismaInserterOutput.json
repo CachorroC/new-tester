@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 345,
+    "numero": 345,
+    "llaveProceso": "11001400304520170147600",
+    "nombre": "sandra jeannette prada gutierrez",
+    "idProcesos": [50866270],
+    "category": "Terminados"
+  }
+}

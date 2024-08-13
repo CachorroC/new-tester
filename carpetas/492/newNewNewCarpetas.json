@@ -1,0 +1,56 @@
+{
+  "id": 22444794,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["3360085515"],
+    "llaveProceso": "25736408900120180013500",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "2018-11-02T05:00:00.000Z",
+        "fechaAporta": null,
+        "resultado": null
+      },
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 12456703,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-09-25T05:00:00.000Z"],
+    "mandamientoPago": "2018-03-10T05:00:00.000Z",
+    "municipio": "SESQUILE",
+    "radicado": "2018 - 00135",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MARIBEL",
+    "segundoNombre": "DEL",
+    "primerApellido": "ROSARIO",
+    "segundoApellido": "RIVERA",
+    "cedula": 22444794,
+    "direccion": "CALLE 22 No 1-137",
+    "email": null
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25736408900120180013500",
+  "nombre": "MARIBEL DEL ROSARIO RIVERA JIMENEZ",
+  "numero": 492,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:30.364Z"
+}

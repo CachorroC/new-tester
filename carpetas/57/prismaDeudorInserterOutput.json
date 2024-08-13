@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 57,
+    "cedula": "39556705",
+    "primerNombre": "carmen",
+    "primerApellido": "aponte",
+    "segundoNombre": "cecilia",
+    "segundoApellido": "zambrano",
+    "direccion": "avda 80 no. 60-95  rio interior 3 apto 11",
+    "email": "ceciliaaponte@hotmail.com",
+    "telCelular": "3102279518",
+    "telFijo": null,
+    "carpetaNumero": 57
+  }
+}

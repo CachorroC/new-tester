@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 111,
+    "cedula": "23993605",
+    "primerNombre": "maria",
+    "primerApellido": "sotelo",
+    "segundoNombre": "trinidad",
+    "segundoApellido": "torres",
+    "direccion": "carrera 129 # 131 - 03",
+    "email": null,
+    "telCelular": "3124740888",
+    "telFijo": "5399415",
+    "carpetaNumero": 112
+  }
+}

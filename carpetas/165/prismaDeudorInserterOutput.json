@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 163,
+    "cedula": "86057132",
+    "primerNombre": "fredy",
+    "primerApellido": "meneses",
+    "segundoNombre": null,
+    "segundoApellido": null,
+    "direccion": "carrera 40 d no. 1h-28",
+    "email": "imagenfmr@yahoo.com",
+    "telCelular": "3125312823",
+    "telFijo": "4088069",
+    "carpetaNumero": 165
+  }
+}

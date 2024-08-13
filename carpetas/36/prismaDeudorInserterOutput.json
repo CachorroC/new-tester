@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 36,
+    "cedula": "52314251",
+    "primerNombre": "sandra",
+    "primerApellido": "agudelo",
+    "segundoNombre": "patricia",
+    "segundoApellido": "montagut",
+    "direccion": "calle 49 sur no. 89 b-30 etapa 1 casa1",
+    "email": null,
+    "telCelular": "3012419992",
+    "telFijo": null,
+    "carpetaNumero": 36
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "numero": 572,
+    "llaveProceso": "2547340030012023012900",
+    "nombre": "jaime enrique quintero mendoza",
+    "idProcesos": [],
+    "category": "Bancolombia",
+    "tipoProceso": "SINGULAR",
+    "fecha": null,
+    "revisado": false,
+    "updatedAt": "2023-11-29T08:38:28.336Z",
+    "terminado": false,
+    "idRegUltimaAct": null
+  }
+}

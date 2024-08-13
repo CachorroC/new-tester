@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400302420180052000",
+  "numero": 428,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1019016622,
+    "direccion": "carrera 47 a no 118-08 of 106",
+    "email": "gioser.87@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sergio",
+    "segundoNombre": "libardo",
+    "primerApellido": "espinosa",
+    "segundoApellido": "gomez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-08T00:00:00.000Z",
+    "mandamientoPago": "2018-06-15T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-30T00:00:00.000Z",
+    "expediente": "11001400302420180052000",
+    "capitalAdeudado": 2177074874,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [377814411512303],
+    "radicado": "2018 - 00520",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1019016622,
+  "idProcesos": null
+}

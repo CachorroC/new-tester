@@ -1,0 +1,89 @@
+{
+  "id": 79512506,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "YULI MARCELA PEÑA GARCIA",
+    "cedula": "52730300",
+    "direccion": "CALLE 24 No 24-26 SUR",
+    "telefono": "CEL 3103018266",
+    "id": 416
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "51606071",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:43.053Z",
+    "etapaProcesal": "11001400302020170147700",
+    "fechaPresentacion": [],
+    "id": 416,
+    "llaveProceso": "2017 - 01477",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 416,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": "1970-01-01T00:00:43.340Z",
+          "resultado": false
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": false
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["2330087192", "2330087423"],
+    "radicado": "EDIFICIO EJECUCION",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:43.863Z"],
+    "medidasCautelares": {
+      "id": 416,
+      "fechaOrdenaMedida": "2024-02-10T00:54:57.699Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 416,
+    "telCelular": "3134664560",
+    "telFijo": "2724305 ",
+    "primerNombre": "JOSE",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "MONTEALEGRE",
+    "segundoApellido": "HERNANDEZ",
+    "cedula": "79512506",
+    "direccion": "CALLE 24 No 24 - 16  SUR",
+    "email": "yulypgarcia.montplas@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2017 - 01477",
+  "nombre": "jose antonio montealegre hernandez",
+  "numero": 416,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 416,
+      "createdAt": "2024-02-10T00:54:57.699Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "25 ABRIL 2023 EN COMUNICACION CON AECSA SE NOS INFOMOR POR EL DR CARLOS DANIEL Y LA DRA  DIANA LEON QUE PROCESO FUE CEDIDO EL N 100% A CISA. ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:57.699Z"
+}

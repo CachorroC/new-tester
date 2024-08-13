@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 234,
+    "numero": 234,
+    "llaveProceso": "11001400304320170120500",
+    "nombre": "mauricio alexander aguirre bermudez",
+    "idProcesos": [9334913],
+    "category": "Terminados"
+  }
+}

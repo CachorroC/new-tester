@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 467,
+    "cedula": "91250936",
+    "primerNombre": "sergio",
+    "primerApellido": "correal",
+    "segundoNombre": "espinel",
+    "segundoApellido": null,
+    "direccion": "carrera 7 d no 151-40 apto 101",
+    "email": "sergioespinel5@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 472
+  }
+}

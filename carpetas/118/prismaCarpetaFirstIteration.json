@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2020-02-26T05:00:00.000Z",
+  "idProcesos": [12003633],
+  "idRegUltimaAct": 899594353,
+  "llaveProceso": "11001400305320170145600",
+  "nombre": "JAIME ORLANDO PEÑA ROJAS",
+  "numero": 118,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:30:39.919Z"
+}

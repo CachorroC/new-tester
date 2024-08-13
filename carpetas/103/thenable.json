@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400308220170068000",
+  "numero": 103,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 16831314,
+    "direccion": "carrera 74 no. 25 g-69",
+    "email": "kikearango@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3216066052
+    },
+    "primerNombre": "eduardo",
+    "segundoNombre": "enrique",
+    "primerApellido": "arango",
+    "segundoApellido": "chacon"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-06-16T00:00:00.000Z",
+    "mandamientoPago": "2017-07-17T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-12T00:00:00.000Z",
+    "expediente": "11001400308220170068000",
+    "capitalAdeudado": 43921469,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "1800088189//377813488630162",
+      "4513071987853655//5303715363121332"
+    ],
+    "radicado": "2017-00680",
+    "vencimientoPagare": ["2019-05-13T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 16831314,
+  "idProcesos": null
+}

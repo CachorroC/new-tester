@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 209,
+    "numero": 209,
+    "llaveProceso": "11001400306420170119100",
+    "nombre": "cesar alfonso umaña cañon",
+    "idProcesos": [50672820],
+    "category": "Reintegra"
+  }
+}

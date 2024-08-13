@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 589,
+    "cedula": "80854028",
+    "primerNombre": "manuel",
+    "primerApellido": "araque",
+    "segundoNombre": "arnulfo",
+    "segundoApellido": "muñoz",
+    "direccion": "calle 68 no 81 g-16",
+    "email": "huesos254@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 510
+  }
+}

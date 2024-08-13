@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420170116000",
+  "numero": 138,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52323645,
+    "direccion": "carrera 19 # 22c - 75",
+    "email": "ybarrantes@gmail.com",
+    "tel": {
+      "fijo": 5471164,
+      "celular": 3103446498
+    },
+    "primerNombre": "flor",
+    "segundoNombre": "yamile",
+    "primerApellido": "barrantes",
+    "segundoApellido": "caro"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-22T00:00:00.000Z",
+    "mandamientoPago": "2017-08-31T00:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400306420170116000",
+    "capitalAdeudado": 4575834768,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [156979],
+    "radicado": "2017 - 01160",
+    "vencimientoPagare": ["2027-10-11T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52323645,
+  "idProcesos": null
+}

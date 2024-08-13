@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 509,
+    "cedula": "40050052",
+    "primerNombre": "maria",
+    "primerApellido": "rodriguez",
+    "segundoNombre": "aquilina",
+    "segundoApellido": "lancheros",
+    "direccion": "carrera 4a no 93-11p 1",
+    "email": "aquimaria1965@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 521
+  }
+}

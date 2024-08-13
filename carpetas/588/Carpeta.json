@@ -1,0 +1,219 @@
+{
+  "id": 52711493,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1934876520,
+      "llaveProceso": "11001400308620230158700",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-02T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 02/11/2023 a las 11:27:40.",
+      "fechaInicial": "2023-11-03T05:00:00.000Z",
+      "fechaFinal": "2023-11-03T05:00:00.000Z",
+      "fechaRegistro": "2023-11-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 4,
+      "idProceso": 134200460,
+      "isUltimaAct": true,
+      "createdAt": "2024-02-10T00:55:09.775Z"
+    },
+    {
+      "idRegActuacion": 1934876510,
+      "llaveProceso": "11001400308620230158700",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-02T05:00:00.000Z",
+      "actuacion": "AUTO RECHAZA DEMANDA",
+      "anotacion": "RECHAZA DEMANDA POR COMPETENCIA",
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 4,
+      "idProceso": 134200460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.775Z"
+    },
+    {
+      "idRegActuacion": 1912952690,
+      "llaveProceso": "11001400308620230158700",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-10-20T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-10-20T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 4,
+      "idProceso": 134200460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.775Z"
+    },
+    {
+      "idRegActuacion": 1912952680,
+      "llaveProceso": "11001400308620230158700",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-10-20T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 20/10/2023 a las 18:54:03",
+      "fechaInicial": "2023-10-20T05:00:00.000Z",
+      "fechaFinal": "2023-10-20T05:00:00.000Z",
+      "fechaRegistro": "2023-10-20T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 4,
+      "idProceso": 134200460,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:09.775Z"
+    }
+  ],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 588
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "89544516",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-10-07T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "id": 588,
+    "llaveProceso": "11001400308620230158700",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 588,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["Q0000000052711493027001", "300103191 // 87122211"],
+    "radicado": "2023-1587",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [
+      "2026-08-15T05:00:00.000Z",
+      "2026-05-13T05:00:00.000Z",
+      "2026-09-04T05:00:00.000Z"
+    ],
+    "medidasCautelares": {
+      "id": 588,
+      "fechaOrdenaMedida": "2024-02-10T00:55:09.712Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 588,
+    "telCelular": "3123137083",
+    "telFijo": null,
+    "primerNombre": "KAREN",
+    "segundoNombre": "ALEXANDRA",
+    "primerApellido": "CASTAÑEDA",
+    "segundoApellido": "GUERRERO",
+    "cedula": "52711493",
+    "direccion": "Carrera 10 Bis NO. 8 - 82 Sur // Carrrera 28 NO. 11 - 67 Oficina 145 Bogotá",
+    "email": "kalexa17@hotmail.com"
+  },
+  "fecha": "2023-11-02T05:00:00.000Z",
+  "idProcesos": [134200460],
+  "idRegUltimaAct": 1934876520,
+  "llaveProceso": "11001400308620230158700",
+  "nombre": "karen alexandra castañeda guerrero",
+  "numero": 588,
+  "procesos": [
+    {
+      "idProceso": 134200460,
+      "idConexion": 259,
+      "llaveProceso": "11001400308620230158700",
+      "fechaProceso": "2023-10-20T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-02T05:00:00.000Z",
+      "despacho": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: KAREN ALEXANDRA CASTAÑEDA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 86,
+        "tipo": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-086-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1934876520,
+    "llaveProceso": "11001400308620230158700",
+    "consActuacion": 4,
+    "fechaActuacion": "2023-11-02T05:00:00.000Z",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 02/11/2023 a las 11:27:40.",
+    "fechaInicial": "2023-11-03T05:00:00.000Z",
+    "fechaFinal": "2023-11-03T05:00:00.000Z",
+    "fechaRegistro": "2023-11-02T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 4,
+    "idProceso": 134200460,
+    "isUltimaAct": true
+  },
+  "notas": [
+    {
+      "carpetaNumero": 588,
+      "createdAt": "2024-02-10T00:55:09.712Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "9 OCT 2023 SE RADICA DEMANDA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 588,
+      "createdAt": "2024-02-10T00:55:09.712Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 20 OCT 2023 AL DESPACHO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 588,
+      "createdAt": "2024-02-10T00:55:09.712Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 2 NOV 2023 RECHAZA DEMANDA X COMPETENCIA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 588,
+      "createdAt": "2024-02-10T00:55:09.712Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 23 NOV 2023 QUEDA POR REPARTO N EL 46 CM ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:09.713Z"
+}

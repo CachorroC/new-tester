@@ -1,0 +1,81 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "5/07/2019",
+    "obligacion": {
+      "A": 7300080586
+    },
+    "capitalAdeudado": "$ 50.000.000",
+    "entregaGarantiasAbogado": "12/06/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "MESITAS",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017-00239",
+    "llaveProceso": "25245408900120170023900",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "15/06/2017 // 29/08/2017",
+    "mandamientoPago": "7/11/2017",
+    "notificacion": {
+      "291": {
+        "fechaAporta": "17/05/2018"
+      },
+      "292": {
+        "fechaAporta": "17/05/2018",
+        "resultado": "POSITIVO"
+      },
+      "tipo": "CORREO",
+      "autoNotificado": "17/07/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "7/11/2017",
+      "medidaSolicitada": "EMBARGO DE DINEROS EN BANCOS"
+    }
+  },
+  "demandas": [],
+  "numero": 102,
+  "llaveProceso": "25245408900120170023900",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3114456631
+    },
+    "primerNombre": "ERIKA",
+    "segundoNombre": "ALEJANDRA",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "REYES",
+    "cedula": 1070329396,
+    "direccion": "CALL 2 No. 8-40 EL COLEGIO",
+    "email": null
+  },
+  "cc": 1070329396,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ERIKA ALEJANDRA QUINTERO REYES",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-05-17T05:00:00.000Z",
+        "resultado": null
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": "2018-05-17T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": null,
+    "fisico": null,
+    "autoNotificado": "17/07/2018"
+  }
+}

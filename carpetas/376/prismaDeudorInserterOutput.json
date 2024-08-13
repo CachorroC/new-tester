@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 373,
+    "cedula": "11203111",
+    "primerNombre": "roberto",
+    "primerApellido": "ruiz",
+    "segundoNombre": "rico",
+    "segundoApellido": null,
+    "direccion": "calle 128 96a - 05 casa 3 multifamiliar arrayanes",
+    "email": "roberto.rico.ruiz@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 376
+  }
+}

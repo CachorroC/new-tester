@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:30:19.678Z",
+  "proceso": {
+    "idProceso": 50542600,
+    "idConexion": 259,
+    "llaveProceso": "11001400300420170063900",
+    "fechaProceso": "2017-06-30T05:00:00.000Z",
+    "fechaUltimaActuacion": "2021-12-14T05:00:00.000Z",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: RUBER ANDRES VALENZUELA SIERRA | Demandado: SANDRA STELLA CASTRO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 11,
+      "tipo": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-11-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

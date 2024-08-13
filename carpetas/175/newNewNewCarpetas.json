@@ -1,0 +1,53 @@
+{
+  "id": 91354321,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "LUZ HELENA SOLANO ARDILA",
+    "cedula": "53065435",
+    "direccion": "CALLE 36 # 1 - 81 CASA 11 BLOQUE 21",
+    "telefono": "3118570587 // 7515699",
+    "id": 175
+  },
+  "demanda": {
+    "obligacion": ["20990117740"],
+    "llaveProceso": "25754418900220170076100",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 16618551,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": ["2017-08-31T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2017 - 00761",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2024-04-22T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 8212461,
+      "celular": 3118866968
+    },
+    "primerNombre": "OMAR",
+    "segundoNombre": "GUSTAVO",
+    "primerApellido": "FULA",
+    "segundoApellido": "AVILA",
+    "cedula": 91354321,
+    "direccion": "CALLE 36 # 1 ESTE - 81 BLOQUE 21 CASA 11 SOACHA",
+    "email": "omarfula@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900220170076100",
+  "nombre": "OMAR GUSTAVO FULA AVILA",
+  "numero": 175,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:09:43.423Z"
+}

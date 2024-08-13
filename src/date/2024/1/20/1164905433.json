@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-20T17:00:26.758Z",
+  "savedDate": "2018-02-06T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1164905433,
+    "llaveProceso": "11001400305020180012900",
+    "consActuacion": 30,
+    "fechaActuacion": "2022-07-07T05:00:00.000Z",
+    "actuacion": "Archivo Definitivo",
+    "anotacion": "CAJA 49  07-07-2022",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2022-07-07T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 30,
+    "isUltimaAct": true,
+    "idProceso": 11227193
+  }
+}

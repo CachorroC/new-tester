@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 125,
+    "numero": 125,
+    "llaveProceso": "11001400304720170152000",
+    "nombre": "milciades null galindo casteblanco",
+    "idProcesos": [97088411, 109959053],
+    "category": "Reintegra"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 383,
+    "cedula": "1070950842",
+    "primerNombre": "alexander",
+    "primerApellido": "palmar",
+    "segundoNombre": "prada",
+    "segundoApellido": null,
+    "direccion": "carrera 4 b  sur no 4 - 30  facatativa",
+    "email": "pradalexander@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 386
+  }
+}

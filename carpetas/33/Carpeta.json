@@ -1,0 +1,115 @@
+{
+  "id": 28936365,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "NINI CORTES",
+    "cedula": "28936365",
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "telefono": "3134775602",
+    "id": 33
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "5303716097990273",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.885Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:42.895Z"],
+    "id": 33,
+    "llaveProceso": "11001400308220170064900",
+    "mandamientoPago": [],
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 33,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["377813824603022", "4513078713738027"],
+    "radicado": "2017 - 00649",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["1970-01-01T00:00:43.893Z"],
+    "medidasCautelares": {
+      "id": 33,
+      "fechaOrdenaMedida": "2024-02-10T00:54:22.904Z",
+      "medidaSolicitada": "OK"
+    }
+  },
+  "deudor": {
+    "id": 33,
+    "telCelular": "3118113651",
+    "telFijo": null,
+    "primerNombre": "NINI",
+    "segundoNombre": "JOHANA",
+    "primerApellido": "CORTES",
+    "segundoApellido": "MONROY",
+    "cedula": "28936365",
+    "direccion": "CALLE 401 SUR 72 L -40 CRISTALES  BOGOTA",
+    "email": "snaluistol@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [81869251],
+  "idRegUltimaAct": null,
+  "llaveProceso": "11001400308220170064900",
+  "nombre": "nini johana cortes monroy ",
+  "numero": 33,
+  "procesos": [
+    {
+      "idProceso": 81869251,
+      "idConexion": 320,
+      "llaveProceso": "11001400308220170064900",
+      "fechaProceso": "2017-06-09T05:00:00.000Z",
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 082 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Defensor Privado: MARIA HELENA SUAREZ GARCIA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 82,
+        "tipo": "JUZGADO 082 CIVIL MUNICIPAL DE BOGOTÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-082-civil-municipal-de-bogota"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 33,
+      "createdAt": "2024-02-10T00:54:22.904Z",
+      "pathname": null,
+      "dueDate": "2018-06-21T05:00:00.000Z",
+      "text": "21/05/2018 AUTO TERMINA PROCESO POR PAGO TOTAL DE LA OBLIGACION ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 33,
+      "createdAt": "2024-02-10T00:54:22.904Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "GARANTIAS DEVUELTAS EN FAVOR DEL DEUDOR",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:22.904Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 3058707,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["3360084994"],
+    "llaveProceso": "25736408900120170016600",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": false
+      },
+      "certimail": false,
+      "fisico": false,
+      "autoNotificado": null
+    },
+    "medidasCautelares": null,
+    "capitalAdeudado": 3675627700,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2017-09-28T05:00:00.000Z"],
+    "mandamientoPago": "2017-12-10T05:00:00.000Z",
+    "municipio": "SESQUILE",
+    "radicado": "2017 - 00166",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2017-08-04T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3105683065
+    },
+    "primerNombre": "HECTOR",
+    "segundoNombre": "JULIO",
+    "primerApellido": "GARZON",
+    "segundoApellido": "PEÑA",
+    "cedula": 3058707,
+    "direccion": "VEREDA POTRERO LARGO  GUATAVITA",
+    "email": "N / A"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25736408900120170016600",
+  "nombre": "HECTOR JULIO GARZON PEÑA",
+  "numero": 264,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:14.426Z"
+}

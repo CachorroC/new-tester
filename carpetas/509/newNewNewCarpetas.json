@@ -1,0 +1,47 @@
+{
+  "id": 20401209,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["8270082134"],
+    "llaveProceso": "25214400300120180100200",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 1658559500,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "mandamientoPago": null,
+    "municipio": "COTA",
+    "radicado": "2018 - 01002",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2218-10-15T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "DIANA",
+    "segundoNombre": "CAROLINA",
+    "primerApellido": "PRADO",
+    "segundoApellido": "FIQUITIVA",
+    "cedula": 20401209,
+    "direccion": "CALLE 7 No 5-31",
+    "email": "todostienenzero@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25214400300120180100200",
+  "nombre": "DIANA CAROLINA PRADO FIQUITIVA",
+  "numero": 509,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:33.532Z"
+}

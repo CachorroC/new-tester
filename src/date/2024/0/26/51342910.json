@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:08.263Z",
+  "proceso": {
+    "idProceso": 51342910,
+    "idConexion": 259,
+    "llaveProceso": "11001400307720180085400",
+    "fechaProceso": "2018-08-01T05:00:00.000Z",
+    "fechaUltimaActuacion": "2018-09-18T05:00:00.000Z",
+    "despacho": "JUZGADO 077 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: GIOVANNY DURAN ANTONIO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 77,
+      "tipo": "JUZGADO 077 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-077-civil-municipal-de-bogota"
+    }
+  }
+}

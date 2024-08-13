@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 248,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "56386936",
+    "entregaGarantiasAbogado": "2020-04-25T00:00:00.000Z",
+    "tipoProceso": "PRENDARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": null,
+    "municipio": "BOGOTA",
+    "obligacion": ["12703441"],
+    "radicado": "2017 - 01162",
+    "vencimientoPagare": ["2017-08-01T00:00:00.000Z"],
+    "expediente": "11001400301320170116200",
+    "carpetaNumero": 251,
+    "despacho": null
+  }
+}

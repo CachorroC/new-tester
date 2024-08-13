@@ -1,0 +1,86 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "1/04/2020",
+    "obligacion": {
+      "A": 7910080245
+    },
+    "capitalAdeudado": "$ 42.530.688",
+    "entregaGarantiasAbogado": "21/09/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "CAPARRAPI",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00096",
+    "llaveProceso": "25148408900120170009600",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": "19/10/2017",
+    "mandamientoPago": "9/11/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "19/02/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "6/03/2018"
+      },
+      "292": {
+        "fechaRecibido": "27/02/2018",
+        "fechaAporta": "27/02/2018",
+        "resultado": "POSITIVO"
+      },
+      "certimail": "NO",
+      "fisico": "SI",
+      "tipo": "PERSONAL",
+      "autoNotificado": "27/02/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "9/11/2017",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 338,
+  "llaveProceso": "25148408900120170009600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Reintegra",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "BLANCA",
+    "segundoNombre": "MELBA",
+    "primerApellido": "MOYANO",
+    "segundoApellido": "BELTRAN",
+    "cedula": 20427976,
+    "direccion": "CARRERA 3 No 9 - 02 /08  CAPARRAPI (CUNDINAMARCA)",
+    "email": null
+  },
+  "cc": 20427976,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "BLANCA MELBA MOYANO BELTRAN",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-02-19T05:00:00.000Z",
+        "fechaAporta": "2018-03-06T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": "2018-02-27T05:00:00.000Z",
+        "fechaAporta": "2018-02-27T05:00:00.000Z",
+        "resultado": true
+      }
+    ],
+    "certimail": false,
+    "fisico": true,
+    "autoNotificado": "27/02/2018"
+  }
+}

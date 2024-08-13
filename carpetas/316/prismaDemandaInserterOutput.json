@@ -1,0 +1,24 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 313,
+    "departamento": "CUNDINAMARCA",
+    "capitalAdeudado": "44944657",
+    "entregaGarantiasAbogado": "2017-10-26T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": "2017-11-24T00:00:00.000Z",
+    "etapaProcesal": "EJECUCION",
+    "fechaPresentacion": "2017-11-01T00:00:00.000Z",
+    "municipio": "SOACHA",
+    "obligacion": [
+      "180049   53037120066499008",
+      "3778133433049336 /4513075801129044"
+    ],
+    "radicado": "2017 - 00323",
+    "vencimientoPagare": ["2030-01-01T00:00:00.000Z"],
+    "expediente": "25754400300120170032300",
+    "carpetaNumero": 316,
+    "despacho": null
+  }
+}

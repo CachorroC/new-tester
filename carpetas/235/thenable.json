@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400300820170113400",
+  "numero": 235,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 79853115,
+    "direccion": "diagonal 56 bis 84 a 10 sur tr 1",
+    "email": "fanor.diaz@gmail.com",
+    "tel": {
+      "fijo": 8060271,
+      "celular": 3212406193
+    },
+    "primerNombre": "fanor",
+    "primerApellido": "diaz",
+    "segundoApellido": "agudelo",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-18T00:00:00.000Z",
+    "mandamientoPago": "2017-09-21T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "11001400300820170113400",
+    "capitalAdeudado": 27603821,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [148931],
+    "radicado": "2017 - 01134",
+    "vencimientoPagare": ["2017-02-14T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79853115,
+  "idProcesos": null
+}

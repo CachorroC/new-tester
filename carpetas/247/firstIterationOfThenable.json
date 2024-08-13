@@ -1,0 +1,61 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "20/03/2017",
+    "obligacion": {
+      "A": "377815356092904//45130711799741999",
+      "B": 5303714068687853
+    },
+    "capitalAdeudado": "17.635.164.44",
+    "entregaGarantiasAbogado": "6/09/2017",
+    "departamento": "CUNDINNAMARCA",
+    "municipio": "ANAPOIMA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2017 - 00173",
+    "llaveProceso": "25035418900120170017300",
+    "fechaPresentacion": "SENTENCIA",
+    "mandamientoPago": "18/09/2017",
+    "notificacion": {
+      "certimail": "24/10/2017",
+      "autoNotificado": "CERTIMIAIL"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "5/06/2018",
+      "medidaSolicitada": "24/10/2017"
+    }
+  },
+  "demandas": [],
+  "numero": 247,
+  "llaveProceso": "25035418900120170017300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": 3115221604
+    },
+    "primerNombre": "DIONISIO",
+    "segundoNombre": "LANCHEROS",
+    "primerApellido": "NOVOA",
+    "segundoApellido": null,
+    "cedula": 179290,
+    "direccion": "CALLE 5 No  0-19 ANAPOIMA",
+    "email": "dlancheros92@hotmail.com"
+  },
+  "cc": 179290,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "DIONISIO LANCHEROS NOVOA",
+  "notificacion": {
+    "notifiers": [],
+    "certimail": false,
+    "fisico": null,
+    "autoNotificado": "CERTIMIAIL"
+  }
+}

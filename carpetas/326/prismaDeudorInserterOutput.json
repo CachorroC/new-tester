@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 323,
+    "cedula": "19352146",
+    "primerNombre": "jorge",
+    "primerApellido": "gomez",
+    "segundoNombre": "eliecer",
+    "segundoApellido": "lopez",
+    "direccion": "diagonal 58 no 28 - 72    apartamento 603 interior 6",
+    "email": "elpotegomez@hotmail.com",
+    "telCelular": "3138267838",
+    "telFijo": "7102329",
+    "carpetaNumero": 326
+  }
+}

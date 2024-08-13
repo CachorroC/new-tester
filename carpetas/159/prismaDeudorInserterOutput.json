@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 157,
+    "cedula": "98389962",
+    "primerNombre": "allan",
+    "primerApellido": "tobar",
+    "segundoNombre": "fredy",
+    "segundoApellido": "enciso",
+    "direccion": "carrera 14 # 11 - 14 sur bloque 10",
+    "email": "allantobar@gmail.com",
+    "telCelular": "3125586008",
+    "telFijo": null,
+    "carpetaNumero": 159
+  }
+}

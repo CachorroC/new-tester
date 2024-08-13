@@ -1,0 +1,218 @@
+{
+  "actuaciones": [
+    {
+      "idRegActuacion": 1937617870,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 6,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 24/11/2023 a las 18:53:35.",
+      "fechaInicial": "2023-11-27T05:00:00.000Z",
+      "fechaFinal": "2023-11-27T05:00:00.000Z",
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132372990,
+      "isUltimaAct": true,
+      "carpetaNumero": 557,
+      "createdAt": "2023-12-10T20:31:45.012Z"
+    },
+    {
+      "idRegActuacion": 1937617860,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 5,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Auto decreta medida cautelar",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "carpetaNumero": 557,
+      "createdAt": "2023-12-10T20:31:45.012Z"
+    },
+    {
+      "idRegActuacion": 1937617850,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 4,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Fijacion estado",
+      "anotacion": "Actuación registrada el 24/11/2023 a las 18:44:59.",
+      "fechaInicial": "2023-11-27T05:00:00.000Z",
+      "fechaFinal": "2023-11-27T05:00:00.000Z",
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "carpetaNumero": 557,
+      "createdAt": "2023-12-10T20:31:45.012Z"
+    },
+    {
+      "idRegActuacion": 1937617840,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 3,
+      "fechaActuacion": "2023-11-24T05:00:00.000Z",
+      "actuacion": "Auto libra mandamiento ejecutivo",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-11-24T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "carpetaNumero": 557,
+      "createdAt": "2023-12-10T20:31:45.012Z"
+    },
+    {
+      "idRegActuacion": 1844973770,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 2,
+      "fechaActuacion": "2023-08-11T05:00:00.000Z",
+      "actuacion": "Al despacho",
+      "anotacion": null,
+      "fechaInicial": null,
+      "fechaFinal": null,
+      "fechaRegistro": "2023-08-11T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "carpetaNumero": 557,
+      "createdAt": "2023-12-10T20:31:45.012Z"
+    },
+    {
+      "idRegActuacion": 1844913080,
+      "llaveProceso": "11001400301720230078200",
+      "consActuacion": 1,
+      "fechaActuacion": "2023-08-02T05:00:00.000Z",
+      "actuacion": " Radicación de Proceso",
+      "anotacion": "Actuación de  Radicación de Proceso  realizada el 02/08/2023 a las 09:24:37",
+      "fechaInicial": "2023-08-02T05:00:00.000Z",
+      "fechaFinal": "2023-08-02T05:00:00.000Z",
+      "fechaRegistro": "2023-08-02T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": false,
+      "cant": 6,
+      "idProceso": 132372990,
+      "isUltimaAct": false,
+      "carpetaNumero": 557,
+      "createdAt": "2023-12-10T20:31:45.012Z"
+    }
+  ],
+  "juzgados": [
+    {
+      "id": 17,
+      "tipo": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-17-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "18/07/2026 // 4/03/2026",
+    "obligacion": {
+      "A": 840093593,
+      "B": "PAGARE SIN NUMERO T. AMERICAN EXPRESS 0377844069636757"
+    },
+    "capitalAdeudado": "$ 49.329.779",
+    "entregaGarantiasAbogado": "26/07/2023",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "SINGULAR",
+    "radicado": "2023 - 00782",
+    "llaveProceso": "11001400301720230078200"
+  },
+  "demandas": [
+    {
+      "idProceso": 132372990,
+      "idConexion": 259,
+      "llaveProceso": "11001400301720230078200",
+      "fechaProceso": "2023-08-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-24T05:00:00.000Z",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CARLOS HERNEY QUINTERO R. ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "medidasCautelares": null,
+      "vencimientoPagare": [
+        "2026-01-01T05:00:00.000Z",
+        "2026-01-01T05:00:00.000Z"
+      ],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "SINGULAR",
+      "mandamientoPago": null,
+      "etapaProcesal": null,
+      "fechaPresentacion": [],
+      "municipio": "BOGOTA",
+      "obligacion": [
+        840093593,
+        "PAGARE SIN NUMERO T. AMERICAN EXPRESS 0377844069636757"
+      ],
+      "radicado": "2023 - 00782"
+    }
+  ],
+  "numero": 557,
+  "llaveProceso": "11001400301720230078200",
+  "fecha": "2023-11-24T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1937617870,
+    "llaveProceso": "11001400301720230078200",
+    "consActuacion": 6,
+    "fechaActuacion": "2023-11-24T00:00:00",
+    "actuacion": "Fijacion estado",
+    "anotacion": "Actuación registrada el 24/11/2023 a las 18:53:35.",
+    "fechaInicial": "2023-11-27T00:00:00",
+    "fechaFinal": "2023-11-27T00:00:00",
+    "fechaRegistro": "2023-11-24T00:00:00",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 6,
+    "idProceso": 132372990,
+    "isUltimaAct": true
+  },
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "deudor": {
+    "tel": {
+      "fijo": 6485655,
+      "celular": 3002985587
+    },
+    "primerNombre": "CARLOS",
+    "segundoNombre": "HERNEY",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": null,
+    "cedula": 71685758,
+    "direccion": "KR 32 A 1 19 BARRIO SANTA MATILDE",
+    "email": "cahequi8097@gmail.com  fundaoyuki@gmail.com"
+  },
+  "cc": 71685758,
+  "procesos": [
+    {
+      "idProceso": 132372990,
+      "idConexion": 259,
+      "llaveProceso": "11001400301720230078200",
+      "fechaProceso": "2023-08-02T05:00:00.000Z",
+      "fechaUltimaActuacion": "2023-11-24T05:00:00.000Z",
+      "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CARLOS HERNEY QUINTERO R. ",
+      "esPrivado": false,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [132372990],
+  "nombre": "CARLOS HERNEY QUINTERO",
+  "notificacion": null
+}

@@ -1,0 +1,76 @@
+{
+  "id": 79399032,
+  "actuaciones": [],
+  "category": "Bancolombia",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 564
+  },
+  "demanda": {
+    "capitalAdeudado": "29090298",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2023-07-26T05:00:16.000Z",
+    "etapaProcesal": null,
+    "fechaPresentacion": [],
+    "llaveProceso": "2023-01280",
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "notificacion": {
+      "id": 564,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["9460085166"],
+    "radicado": "2023 - 01280",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": ["2026-03-08T05:00:16.000Z"],
+    "medidasCautelares": {
+      "id": 564,
+      "fechaOrdenaMedida": "2024-02-03T00:36:31.916Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 564,
+    "telCelular": "3125642401",
+    "telFijo": null,
+    "primerNombre": "JORGE",
+    "segundoNombre": "ALEX",
+    "primerApellido": "ABADIA",
+    "segundoApellido": "CARRILLO",
+    "cedula": "79399032",
+    "direccion": "Transversal 77 N 7A -16 Int 9 // Carrera 69 No. 31 - 68",
+    "email": "abadiajorgesa@gmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "2023-01280",
+  "nombre": "JORGE ALEX ABADIA CARRILLO",
+  "numero": 564,
+  "procesos": [],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-02-03T00:36:31.917Z"
+}

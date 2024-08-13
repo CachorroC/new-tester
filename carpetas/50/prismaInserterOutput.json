@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 50,
+    "numero": 50,
+    "llaveProceso": "11001400303420180061400",
+    "nombre": "gloria astrid rodríguez baquero",
+    "idProcesos": [51259250],
+    "category": "Terminados"
+  }
+}

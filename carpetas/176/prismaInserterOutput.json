@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 176,
+    "numero": 176,
+    "llaveProceso": "11001400300420170080100",
+    "nombre": "jhon fredy murillo daza",
+    "idProcesos": [112783650, 81628051],
+    "category": "Terminados"
+  }
+}

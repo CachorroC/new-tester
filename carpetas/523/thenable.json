@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418907620190043400",
+  "numero": 523,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1014185022,
+    "direccion": "calle 90a no 45 a- 05",
+    "email": "aleja202007@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3123704906
+    },
+    "primerNombre": "luisa",
+    "segundoNombre": "alejandra",
+    "primerApellido": "escobar",
+    "segundoApellido": "andrade"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001418907620190043400",
+    "capitalAdeudado": 2214474193,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [20990158449],
+    "radicado": "2019 -00434",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 1014185022,
+  "idProcesos": null
+}

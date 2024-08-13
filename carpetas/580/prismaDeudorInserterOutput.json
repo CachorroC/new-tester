@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 568,
+    "cedula": "19488050",
+    "primerNombre": "jose",
+    "primerApellido": "galeano",
+    "segundoNombre": "ignacio",
+    "segundoApellido": "alvarado",
+    "direccion": "transversal 78 no. 40j - 14 sur",
+    "email": "joseignaciogaleanoa@gmail.com",
+    "telCelular": "3103052825",
+    "telFijo": null,
+    "carpetaNumero": 580
+  }
+}

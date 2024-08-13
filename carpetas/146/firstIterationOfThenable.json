@@ -1,0 +1,98 @@
+{
+  "actuaciones": [],
+  "juzgados": [
+    {
+      "id": 86,
+      "tipo": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-086-civil-municipal-de-bogota"
+    }
+  ],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "11/08/2017",
+    "obligacion": {
+      "A": 12730731,
+      "B": "377813515714351."
+    },
+    "capitalAdeudado": "377813515714351 // 4513084893961108",
+    "entregaGarantiasAbogado": "17/08/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "BOGOTA",
+    "tipoProceso": "PRENDARIO",
+    "radicado": "2017 - 00826",
+    "llaveProceso": "11001400308620170082600",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": "22/08/2017",
+    "mandamientoPago": "11/12/2017",
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "11/12/2017",
+      "medidaSolicitada": "VEHICULO"
+    }
+  },
+  "demandas": [
+    {
+      "idProceso": 81888371,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620170082600",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1,
+      "medidasCautelares": {
+        "fechaOrdenaMedida": "2017-11-12T05:00:00.000Z",
+        "medidaSolicitada": "VEHICULO"
+      },
+      "vencimientoPagare": ["2017-01-01T05:00:00.000Z"],
+      "capitalAdeudado": null,
+      "departamento": "CUNDINAMARCA",
+      "entregaGarantiasAbogado": null,
+      "tipoProceso": "PRENDARIO",
+      "mandamientoPago": "2017-11-12T05:00:00.000Z",
+      "etapaProcesal": "NOTIFICACION",
+      "fechaPresentacion": ["2017-08-22T05:00:00.000Z"],
+      "municipio": "BOGOTA",
+      "obligacion": [12730731, "377813515714351."],
+      "radicado": "2017 - 00826"
+    }
+  ],
+  "numero": 146,
+  "llaveProceso": "11001400308620170082600",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "PRENDARIO",
+  "deudor": {
+    "tel": {
+      "fijo": 2103564,
+      "celular": 3116216567
+    },
+    "primerNombre": "PEDRO",
+    "segundoNombre": "NEL",
+    "primerApellido": "PELAEZ",
+    "segundoApellido": "TISNES",
+    "cedula": 4520757,
+    "direccion": "TRANVERSAL 3 # 52B - 09 APTO 405",
+    "email": "pelaezpedro@hotmail.com"
+  },
+  "cc": 4520757,
+  "procesos": [
+    {
+      "idProceso": 81888371,
+      "idConexion": 320,
+      "llaveProceso": "11001400308620170082600",
+      "fechaProceso": null,
+      "fechaUltimaActuacion": null,
+      "despacho": "JUZGADO 086 CIVIL MUNICIPAL DE BOGOTÁ ",
+      "departamento": "BOGOTÁ",
+      "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+      "esPrivado": true,
+      "cantFilas": -1
+    }
+  ],
+  "idProcesos": [81888371],
+  "nombre": "PEDRO NEL PELAEZ TISNES",
+  "notificacion": null
+}

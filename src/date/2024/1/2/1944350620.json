@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-02T23:00:02.964Z",
+  "savedDate": 1662958800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1944350620,
+    "llaveProceso": "11001418901420190065600",
+    "consActuacion": 109,
+    "fechaActuacion": "2024-01-15T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "Radicado No. 191-2024, No. Reloj Radicador: 19597, Entidad o Señor(a): CORPORATIVO QNT - Tercer Interesado, Aportó Documento: Memorial, Con La Solucitud: Otras",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-15T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 109,
+    "isUltimaAct": true,
+    "idProceso": 51816100
+  }
+}

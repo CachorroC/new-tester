@@ -1,0 +1,13 @@
+{
+  "category": "Terminados",
+  "fecha": "2018-02-27T05:00:00.000Z",
+  "idProcesos": [50834080],
+  "idRegUltimaAct": 764147220,
+  "llaveProceso": "11001400303420170147100",
+  "nombre": "JORGE ELIECER GOMEZ LOPEZ",
+  "numero": 326,
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "updatedAt": "2023-12-10T20:31:11.021Z"
+}

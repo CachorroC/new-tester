@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:08.341Z",
+  "savedDate": "2019-10-31T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1791736800,
+    "llaveProceso": "11001400308520170108400",
+    "consActuacion": 51,
+    "fechaActuacion": "2023-06-28T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "Radicada en juzgado 35 Civil Circuito",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-06-28T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 51,
+    "isUltimaAct": true,
+    "idProceso": 65640840
+  }
+}

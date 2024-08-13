@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 580,
+    "cedula": "79888775",
+    "primerNombre": "marcel",
+    "primerApellido": "machado",
+    "segundoNombre": "leonardo",
+    "segundoApellido": "romero,y,viviana,martinez,arias",
+    "direccion": "calle 6 sur no. 24 - 180 ap 1203 to 7 conjunto residencial \"la prosperidad - fontana 3 p.h. madrid - cundinamarca",
+    "email": "marcel-leo@hotmail.com dillavivi@hotmail.com",
+    "telCelular": "3209005114",
+    "telFijo": "4575011",
+    "carpetaNumero": 592
+  }
+}

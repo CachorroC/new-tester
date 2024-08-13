@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307920170108200",
+  "numero": 191,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 80231798,
+    "direccion": "carrera 32 b # 2 - 64",
+    "email": "jhon.valencia@jvtel.com.co",
+    "tel": {
+      "fijo": 2376454,
+      "celular": 3004525014
+    },
+    "primerNombre": "john",
+    "segundoNombre": "alexander",
+    "primerApellido": "valencia",
+    "segundoApellido": "marquez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-23T00:00:00.000Z",
+    "mandamientoPago": "2017-09-13T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-11T00:00:00.000Z",
+    "expediente": "11001400307920170108200",
+    "capitalAdeudado": 87649981,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [1220084112],
+    "radicado": "2017 - 01082",
+    "vencimientoPagare": ["2020-11-30T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80231798,
+  "idProcesos": null
+}

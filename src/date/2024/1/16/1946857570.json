@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:20.090Z",
+  "savedDate": 1690952400000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1946857570,
+    "llaveProceso": "11001418903220230061200",
+    "consActuacion": 30,
+    "fechaActuacion": "2024-01-23T05:00:00.000Z",
+    "actuacion": "Recepción memorial",
+    "anotacion": "REF: 2023-00612 - APORTANDO LIQUIDACION DE CREDITO - BANCOLOMBIA VS. MILTON MARINO LUGO G -\r\nR & S ASESORIA JURIDICA SAS <rscojuez@gmail.com>\r\nLun 22/01/2024 16:57\r\nPara:Juzgado 32 Pequeñas Causas Competencia Múltiple - Bogotá - Bogotá D.C. <j32pccmbta@cendoj.ramajudicial.gov.co>\r\n4 archivos adjuntos (169 KB)\r\nMILTON MARINO LUGO GOMEZ N° 6890084347.pdf; MILTON MARINO LUGO GOMEZ N° 6890083869.pdf; MILTON MARINO LUGO GOMEZ N°\r\n0377815043687256.pdf; APORTANDO LIQUIDACION DE CREDITO MILTON MARINO LUGO.pdf",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2024-01-23T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 30,
+    "isUltimaAct": true,
+    "idProceso": 132020490
+  }
+}

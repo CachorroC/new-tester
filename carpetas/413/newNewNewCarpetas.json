@@ -1,0 +1,56 @@
+{
+  "id": 1018430139,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "JHON  HADER OTALVARO  ROMO",
+    "cedula": "79793904",
+    "direccion": "CALLLE 183 No 11-55 BLQ 9 APTO 102",
+    "telefono": "4805457",
+    "id": 413
+  },
+  "demanda": {
+    "obligacion": ["20990182990"],
+    "llaveProceso": "25754418900220180036300",
+    "notificacion": null,
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "INMUEBLE"
+    },
+    "capitalAdeudado": 21470052,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2018-12-04T05:00:00.000Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-04-26T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "SOACHA",
+    "radicado": "2018 - 00363",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2035-04-20T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "LUISA",
+    "segundoNombre": "FERNANDA",
+    "primerApellido": "SALAZAR",
+    "segundoApellido": "",
+    "cedula": 1018430139,
+    "direccion": "CARRERA 38 No 14-93 BLOQUE 9 APTO 102",
+    "email": "luifermkt889@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "25754418900220180036300",
+  "nombre": "LUISA FERNANDA SALAZAR  PATARROYO",
+  "numero": 413,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:11:09.023Z"
+}

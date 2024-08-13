@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 351,
+    "cedula": "80032437",
+    "primerNombre": "bernardo",
+    "primerApellido": "gil",
+    "segundoNombre": "anibal",
+    "segundoApellido": "torres",
+    "direccion": "carrera 102 no 155 - 19 interior 5 apartamento  230",
+    "email": "bagilt@yahoo.com",
+    "telCelular": "3003813863",
+    "telFijo": "6854161",
+    "carpetaNumero": 354
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 390,
+    "cedula": "79134529",
+    "primerNombre": "miguel",
+    "primerApellido": "garcia",
+    "segundoNombre": "alejandro",
+    "segundoApellido": "rodriguez",
+    "direccion": "carrera 79 no 19a - 28. apartamento 1102",
+    "email": "aeljogarcia69@gmail.com",
+    "telCelular": "3013377704",
+    "telFijo": "6356262",
+    "carpetaNumero": 393
+  }
+}

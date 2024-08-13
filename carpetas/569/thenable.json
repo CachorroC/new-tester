@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306320230162700",
+  "numero": 569,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 52514115,
+    "direccion": "tv 96 b 20 d 70 casa 3",
+    "email": "dsilvarar28@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3203477527
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "patricia",
+    "primerApellido": "silvara",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-08-04T00:00:00.000Z",
+    "expediente": "11001400306320230162700",
+    "capitalAdeudado": 28820731,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [2990086384],
+    "radicado": "2023 - 00167",
+    "vencimientoPagare": ["2026-03-18T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52514115,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 115,
+    "numero": 115,
+    "llaveProceso": "11001400305220170080900",
+    "nombre": "silvia maria valenzuela velasquez",
+    "idProcesos": [11719343],
+    "category": "Terminados"
+  }
+}

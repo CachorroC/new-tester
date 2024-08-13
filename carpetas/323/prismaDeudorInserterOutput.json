@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 320,
+    "cedula": "11319802",
+    "primerNombre": "luis",
+    "primerApellido": "medina",
+    "segundoNombre": "fernando",
+    "segundoApellido": "potes",
+    "direccion": "calle 40 sur  no  72 g -01  apartamento 101",
+    "email": "fermedina11@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 323
+  }
+}

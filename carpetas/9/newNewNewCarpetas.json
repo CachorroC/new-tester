@@ -1,0 +1,54 @@
+{
+  "id": 1020731500,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": null,
+  "demanda": {
+    "obligacion": ["2290099308    /2170086682"],
+    "llaveProceso": "1100140030442017099800",
+    "notificacion": {
+      "certimail": false,
+      "fisico": null,
+      "autoNotificado": "43150"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedida": null,
+      "medidaSolicitada": "VEHICULO"
+    },
+    "capitalAdeudado": 7807192168,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "SENTENCIA",
+    "fechaPresentacion": ["2017-09-25T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2017 - 00998",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": []
+  },
+  "deudor": {
+    "tel": {
+      "fijo": 731500,
+      "celular": 1020731500
+    },
+    "primerNombre": "DANIELA",
+    "segundoNombre": "ALEJANDRA",
+    "primerApellido": "CARDENAS",
+    "segundoApellido": "RODRIGUEZ",
+    "cedula": 1020731500,
+    "direccion": "DIAGONAL 77  B No 19 A - 73",
+    "email": "dany_aleja@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "1100140030442017099800",
+  "nombre": "DANIELA ALEJANDRA CARDENAS RODRIGUEZ",
+  "numero": 9,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:08:42.748Z"
+}

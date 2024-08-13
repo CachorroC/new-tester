@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 96,
+    "numero": 96,
+    "llaveProceso": "11001400305320170087100",
+    "nombre": "yuranny null polanco cespedes",
+    "idProcesos": [11998913],
+    "category": "Terminados"
+  }
+}

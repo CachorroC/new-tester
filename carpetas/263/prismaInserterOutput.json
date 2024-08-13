@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 263,
+    "numero": 263,
+    "llaveProceso": "11001400307020170100700",
+    "nombre": "ancizar null giraldo botero",
+    "idProcesos": [18366380],
+    "category": "Terminados"
+  }
+}

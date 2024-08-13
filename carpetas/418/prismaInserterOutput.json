@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 418,
+    "numero": 418,
+    "llaveProceso": "25269400300120180024600",
+    "nombre": "aura leticia gamez rojas",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

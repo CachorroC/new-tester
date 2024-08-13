@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25035418900120170017300",
+  "numero": 247,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 179290,
+    "direccion": "calle 5 no  0-19 anapoima",
+    "email": "dlancheros92@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3115221604
+    },
+    "primerNombre": "dionisio",
+    "primerApellido": "lancheros",
+    "segundoApellido": "novoa",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-18T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-06T00:00:00.000Z",
+    "expediente": "25035418900120170017300",
+    "capitalAdeudado": 1763516444,
+    "etapaProcesal": null,
+    "municipio": "ANAPOIMA",
+    "obligacion": ["377815356092904//45130711799741999", 5303714068687853],
+    "radicado": "2017 - 00173",
+    "vencimientoPagare": ["2017-03-20T00:00:00.000Z"],
+    "departamento": "CUNDINNAMARCA",
+    "juzgados": []
+  },
+  "cc": 179290,
+  "idProcesos": null
+}

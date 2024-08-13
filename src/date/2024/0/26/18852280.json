@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:13.628Z",
+  "proceso": {
+    "idProceso": 18852280,
+    "idConexion": 262,
+    "llaveProceso": "11001400306620190040900",
+    "fechaProceso": "2019-03-14T05:00:00.000Z",
+    "fechaUltimaActuacion": "2019-04-11T05:00:00.000Z",
+    "despacho": "JUZGADO 066 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: JORGE ABDOLONIO GUERRERO HERNANDEZ | Demandado: CLAUDIA YASMIN GOMEZ GUERRERO ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 66,
+      "tipo": "JUZGADO 066 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-066-civil-municipal-de-bogota"
+    }
+  }
+}

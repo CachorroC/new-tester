@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 329,
+    "cedula": "91284725",
+    "primerNombre": "miguel",
+    "primerApellido": "sanchez",
+    "segundoNombre": "antonio",
+    "segundoApellido": "marroquin",
+    "direccion": "carrera 7 a  no  2 a - 35 torre 10 apartamento 303",
+    "email": "nichemen@hotmail.com",
+    "telCelular": "3168017488",
+    "telFijo": "9032416",
+    "carpetaNumero": 332
+  }
+}

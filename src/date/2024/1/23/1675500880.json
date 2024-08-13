@@ -1,0 +1,20 @@
+{
+  "today": "2024-02-23T17:00:21.843Z",
+  "savedDate": "2018-07-03T05:00:00.000Z",
+  "ultimaActuacion": {
+    "idRegActuacion": 1675500880,
+    "llaveProceso": "11001400306420170162300",
+    "consActuacion": 58,
+    "fechaActuacion": "2023-03-13T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "PROCESO HIBRIDO, SE RECEPCIONA   EN LA AREA DE ESTADOS // SONIA  REYES     LETRA",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-03-13T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 58,
+    "isUltimaAct": true,
+    "idProceso": 112730580
+  }
+}

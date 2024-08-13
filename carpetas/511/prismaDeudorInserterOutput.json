@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 590,
+    "cedula": "52851677",
+    "primerNombre": "diana",
+    "primerApellido": "romero",
+    "segundoNombre": "marjorie",
+    "segundoApellido": "montoya",
+    "direccion": "carrra 102 no 69-22",
+    "email": "dhyanitaco@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 511
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 338,
+    "numero": 338,
+    "llaveProceso": "25148408900120170009600",
+    "nombre": "blanca melba moyano beltran",
+    "idProcesos": [],
+    "category": "Reintegra"
+  }
+}

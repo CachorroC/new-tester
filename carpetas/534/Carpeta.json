@@ -1,0 +1,180 @@
+{
+  "id": 11337530,
+  "actuaciones": [
+    {
+      "idRegActuacion": 1054412501,
+      "llaveProceso": "25899400300220200028900",
+      "consActuacion": 21163228,
+      "fechaActuacion": "2021-09-16T05:00:00.000Z",
+      "actuacion": "Auto Emplaza",
+      "anotacion": "AUTO EMPLAZA PEDRO JULIO TRIVIÑO VALVUENA",
+      "fechaInicial": "2021-09-22T05:00:00.000Z",
+      "fechaFinal": "2021-10-12T05:00:00.000Z",
+      "fechaRegistro": "2021-09-21T05:00:00.000Z",
+      "codRegla": "00                              ",
+      "conDocumentos": true,
+      "cant": 1,
+      "idProceso": 119099861,
+      "isUltimaAct": false,
+      "createdAt": "2024-02-10T00:55:05.422Z"
+    }
+  ],
+  "category": "Reintegra",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 534
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "33000833",
+    "departamento": "CNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "2020-09-05T05:00:16.000Z",
+    "etapaProcesal": "EJECUCIÓN",
+    "fechaPresentacion": [],
+    "id": 534,
+    "llaveProceso": "25899400300220200028900",
+    "mandamientoPago": [],
+    "municipio": "ZIPAQUIRA",
+    "notificacion": {
+      "id": 534,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["377814085773793", "4513070445120640"],
+    "radicado": "2020 - 00289",
+    "tipoProceso": "SINGULAR",
+    "vencimientoPagare": [],
+    "medidasCautelares": {
+      "id": 534,
+      "fechaOrdenaMedida": "2024-02-10T00:55:05.392Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 534,
+    "telCelular": "3115159670",
+    "telFijo": null,
+    "primerNombre": "PEDRO",
+    "segundoNombre": "JULIO",
+    "primerApellido": "TRIVIÑO",
+    "segundoApellido": "VALBUENA",
+    "cedula": "11337530",
+    "direccion": "VEREDA SAN JORGE ZIPAQUIRA",
+    "email": "maribelbonita86@hotmail.com"
+  },
+  "fecha": "2021-09-16T05:00:00.000Z",
+  "idProcesos": [119099861],
+  "idRegUltimaAct": 1054412501,
+  "llaveProceso": "25899400300220200028900",
+  "nombre": "pedro julio triviño valbuena",
+  "numero": 534,
+  "procesos": [
+    {
+      "idProceso": 119099861,
+      "idConexion": 320,
+      "llaveProceso": "25899400300220200028900",
+      "fechaProceso": "2020-10-14T05:00:00.000Z",
+      "fechaUltimaActuacion": "2021-09-16T05:00:00.000Z",
+      "despacho": "JUZGADO 002 CIVIL MUNICIPAL DE ZIPAQUIRÁ ",
+      "departamento": "CUNDINAMARCA",
+      "sujetosProcesales": "Demandado/indiciado/causante: PEDRO JULIO TRIVIÑO VALVUENA (Emplazado) | Defensor Privado: CARMEN CECILIA RAMIREZ MUÑOZ | Defensor Privado: Banco Bancolombia SA ",
+      "esPrivado": false,
+      "cantFilas": -1,
+      "juzgado": {
+        "id": 2,
+        "tipo": "JUZGADO 002 CIVIL MUNICIPAL DE ZIPAQUIRÁ",
+        "url": "https://www.ramajudicial.gov.co/web/juzgado-002-civil-municipal-de-zipaquira"
+      }
+    }
+  ],
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "SINGULAR",
+  "ultimaActuacion": {
+    "idRegActuacion": 1054412501,
+    "llaveProceso": "25899400300220200028900",
+    "consActuacion": 21163228,
+    "fechaActuacion": "2021-09-16T05:00:00.000Z",
+    "actuacion": "Auto Emplaza",
+    "anotacion": "AUTO EMPLAZA PEDRO JULIO TRIVIÑO VALVUENA",
+    "fechaInicial": "2021-09-22T05:00:00.000Z",
+    "fechaFinal": "2021-10-12T05:00:00.000Z",
+    "fechaRegistro": "2021-09-21T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": true,
+    "cant": 1,
+    "idProceso": 119099861,
+    "isUltimaAct": false
+  },
+  "notas": [
+    {
+      "carpetaNumero": 534,
+      "createdAt": "2024-02-10T00:55:05.392Z",
+      "pathname": null,
+      "dueDate": "2023-12-11T05:00:00.000Z",
+      "text": "11/23/2022 SE APORTA LIQUIDACION DE CREDITO A JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 534,
+      "createdAt": "2024-02-10T00:55:05.392Z",
+      "pathname": null,
+      "dueDate": "2022-02-18T05:00:00.000Z",
+      "text": " 18/01/2022 SE ENVIA DERECHO DE PETICIÓN A FAMISANAR PARA PEDIR DATOS BASE DE DATOS ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 534,
+      "createdAt": "2024-02-10T00:55:05.392Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 24 ENERO RTA FAMISANAR SOLICTANDO INFO PROCESO Y DESPACHO PARA ENVIAR INFO A JUEZ ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 534,
+      "createdAt": "2024-02-10T00:55:05.392Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 26 ENERO 2023 SE CONTESTA REQUERIMIENTO A FAMISANAR APORTANDO DATOS PROCESO Y JUZGADO ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 534,
+      "createdAt": "2024-02-10T00:55:05.392Z",
+      "pathname": null,
+      "dueDate": "2023-04-03T05:00:00.000Z",
+      "text": " 3/03/2023 SE ENVIA MEMORIAL AL JUZGADO SOLICITANDO INFORMACION NO SUMINISTRADA POR FAMISANAR ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 534,
+      "createdAt": "2024-02-10T00:55:05.392Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " 6 JUNIO 2023 SE ENVIA OFICIO A FAMISANAR.",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:55:05.393Z"
+}

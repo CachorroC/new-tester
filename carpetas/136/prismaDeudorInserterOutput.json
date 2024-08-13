@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 134,
+    "cedula": "79463388",
+    "primerNombre": "jorge",
+    "primerApellido": "roa",
+    "segundoNombre": "ernesto",
+    "segundoApellido": "manrique",
+    "direccion": "calle 46 sur # 81g - 15",
+    "email": "jorgeernesto@hotmail.com",
+    "telCelular": "3125225701",
+    "telFijo": "2990898",
+    "carpetaNumero": 136
+  }
+}

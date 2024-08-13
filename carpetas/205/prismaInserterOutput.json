@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 205,
+    "numero": 205,
+    "llaveProceso": "11001400301220170097100",
+    "nombre": "nelida del carmen rivera,mesa",
+    "idProcesos": [50669130],
+    "category": "Reintegra"
+  }
+}

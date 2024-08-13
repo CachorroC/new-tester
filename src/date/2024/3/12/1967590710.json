@@ -1,0 +1,16 @@
+{
+  "idRegActuacion": 1967590710,
+  "llaveProceso": "11001400300920230130200",
+  "consActuacion": 16,
+  "fechaActuacion": "2024-04-12T05:00:00.000Z",
+  "actuacion": "Auto resuelve corrección providencia",
+  "anotacion": null,
+  "fechaInicial": null,
+  "fechaFinal": null,
+  "fechaRegistro": "2024-04-12T05:00:00.000Z",
+  "codRegla": "00                              ",
+  "conDocumentos": false,
+  "cant": 17,
+  "isUltimaAct": false,
+  "idProceso": 138696760
+}

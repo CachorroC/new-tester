@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400301220170095000",
+  "numero": 133,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80820336,
+    "direccion": "calle 89a bis b 113 - 23",
+    "email": "carlosrondon2008@hotmail.com",
+    "tel": {
+      "fijo": 4316891,
+      "celular": 3125757941
+    },
+    "primerNombre": "carlos",
+    "segundoNombre": "giovanny",
+    "primerApellido": "rondon",
+    "segundoApellido": "garcia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-08-22T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-11T00:00:00.000Z",
+    "expediente": "11001400301220170095000",
+    "capitalAdeudado": 24624884,
+    "etapaProcesal": "1.100140030122017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [130201],
+    "radicado": "2017 - 00950",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 1014188433,
+    "direccion": "CALLE 70 A BIS A 116 C 21  BLOQUE 9",
+    "nombre": "lida arcelia perez gomez",
+    "telefono": "6417865 // 3112288329"
+  },
+  "cc": 80820336,
+  "idProcesos": null
+}

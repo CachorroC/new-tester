@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 274,
+    "cedula": "39687966",
+    "primerNombre": "olga",
+    "primerApellido": "herazo",
+    "segundoNombre": "lucia",
+    "segundoApellido": "perdomo",
+    "direccion": "diagonal 76 # 6 - 12 apto 604",
+    "email": "olgalucia.herazo@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 277
+  }
+}

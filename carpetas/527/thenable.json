@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25286400300120190041800",
+  "numero": 527,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80654935,
+    "direccion": "calle 7a #7a-15 funza",
+    "email": "jmarcelo_78@yahoo.com // samvari12@gmail.com",
+    "tel": {
+      "fijo": 8233553,
+      "celular": 3108090708
+    },
+    "primerNombre": "jairo",
+    "segundoNombre": "marcelo",
+    "primerApellido": "guiza",
+    "segundoApellido": "rodriguez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2019-05-06T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "25286400300120190041800",
+    "capitalAdeudado": 29140667,
+    "etapaProcesal": "2.528640030012019e+22",
+    "municipio": "FUNZA",
+    "obligacion": ["2273 320097153", "REF 42796745"],
+    "radicado": "2019 - 00418",
+    "vencimientoPagare": ["2022-03-01T05:00:00.000Z", null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 52661952,
+    "direccion": "CALLE 7A # 7A-15 FUNZA",
+    "nombre": "sandra milena valbuena rincon",
+    "telefono": "F 8259768"
+  },
+  "cc": 80654935,
+  "idProcesos": null
+}

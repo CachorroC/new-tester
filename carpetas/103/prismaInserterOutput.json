@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 103,
+    "numero": 103,
+    "llaveProceso": "11001400308220170068000",
+    "nombre": "eduardo enrique arango chacon",
+    "idProcesos": [51619370, 81869501],
+    "category": "Reintegra"
+  }
+}

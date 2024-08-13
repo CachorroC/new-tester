@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:20.585Z",
+  "proceso": {
+    "idProceso": 72721150,
+    "idConexion": 259,
+    "llaveProceso": "11001418902120190029100",
+    "fechaProceso": "2019-12-16T05:00:00.000Z",
+    "fechaUltimaActuacion": "2022-03-23T05:00:00.000Z",
+    "despacho": "JUZGADO 001 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: OSCAR ARMANDO TORRES ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 1,
+      "tipo": "JUZGADO 001 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-01-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

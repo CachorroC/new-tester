@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400307020170116400",
+  "numero": 318,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 51673703,
+    "direccion": null,
+    "email": "CALLE 52 SUR No 97 C - 20",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "sonia",
+    "primerApellido": "janeth",
+    "segundoApellido": "rodriguez",
+    "segundoNombre": null
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400307020170116400",
+    "capitalAdeudado": 43,
+    "etapaProcesal": "43041",
+    "municipio": "BOGOTA",
+    "obligacion": ["14.703.952.55"],
+    "radicado": "2017 - 01164",
+    "vencimientoPagare": ["+121594-01-01T05:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "direccion": 45531
+  },
+  "cc": 51673703,
+  "idProcesos": null
+}

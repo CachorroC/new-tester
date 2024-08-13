@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001418900920190016200",
+  "numero": 518,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80222254,
+    "direccion": "carrera 86 # 77 - 35 int 13 apto 339",
+    "email": "CYBERGEORGE82@HOTMAIL.COM",
+    "tel": {
+      "fijo": null,
+      "celular": 3124487509
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "ivan",
+    "primerApellido": "avendaño",
+    "segundoApellido": "vanegas"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001418900920190016200",
+    "capitalAdeudado": 1220364980,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [377816507543324, 4513070013675100],
+    "radicado": "2019 - 00162",
+    "vencimientoPagare": [],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80222254,
+  "idProcesos": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": 80850549,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": "ELIZABETH YAYA SIERRA",
+    "cedula": "52936062",
+    "direccion": "CARRERA 96 D # 6 - 55 CASA 81 ESTAPA 1",
+    "telefono": "7326829",
+    "id": 374
+  },
+  "demanda": {
+    "obligacion": ["121543"],
+    "llaveProceso": "11001400308620180006700",
+    "notificacion": null,
+    "medidasCautelares": null,
+    "capitalAdeudado": 27006100,
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": null,
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["2018-01-22T05:00:00.000Z"],
+    "mandamientoPago": null,
+    "municipio": "BOGOTA",
+    "radicado": "2018 - 00067",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["2024-08-26T05:00:00.000Z"]
+  },
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "JHOAN",
+    "segundoNombre": "ANTONIO",
+    "primerApellido": "BARAJAS",
+    "segundoApellido": "MONTENEGRO",
+    "cedula": 80850549,
+    "direccion": "CALLE 2 SUR 16 - 36 MANZANA 104 // CARRERA 96 D 6 - 55 CADA 81 ET 1",
+    "email": "jjhoan_27@hotmail.com"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "llaveProceso": "11001400308620180006700",
+  "nombre": "JHOAN ANTONIO BARAJAS MONTENEGRO",
+  "numero": 374,
+  "procesos": [],
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "updatedAt": "2024-01-02T02:10:55.796Z"
+}

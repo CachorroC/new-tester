@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400307720170056800",
+  "numero": 140,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 80933170,
+    "direccion": "carrera 8 # 13 - 34 sur bloque 6 apto 101",
+    "email": "Jfcomercializadorajb@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jhon",
+    "segundoNombre": "faber",
+    "primerApellido": "forigua",
+    "segundoApellido": "garcia"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-06-29T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-06-28T00:00:00.000Z",
+    "expediente": "11001400307720170056800",
+    "capitalAdeudado": 38664283,
+    "etapaProcesal": "1.100140030772017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12480702],
+    "radicado": "2017 - 00568",
+    "vencimientoPagare": ["2020-06-12T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 80933170,
+  "idProcesos": null
+}

@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 168,
+    "numero": 168,
+    "llaveProceso": "11001400301920170087200",
+    "nombre": "maria stella hernandez beltran",
+    "idProcesos": [50667300],
+    "category": "Terminados"
+  }
+}

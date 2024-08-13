@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 81,
+    "numero": 81,
+    "llaveProceso": "11001400303620170055400",
+    "nombre": "ds&d soluciones constructivas s.a.s.",
+    "idProcesos": [50527610],
+    "category": "Terminados"
+  }
+}

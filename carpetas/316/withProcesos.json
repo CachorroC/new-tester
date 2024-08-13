@@ -1,0 +1,85 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": null,
+  "demanda": {
+    "vencimientoPagare": "23/03/2020",
+    "obligacion": {
+      "A": "180049   53037120066499008",
+      "B": "3778133433049336 /4513075801129044"
+    },
+    "capitalAdeudado": "$ 44.944.657",
+    "entregaGarantiasAbogado": "26/10/2017",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIO",
+    "radicado": "2017 - 00323",
+    "llaveProceso": "25754400300120170032300",
+    "etapaProcesal": "EJECUCION",
+    "fechaPresentacion": "1/11/2017",
+    "mandamientoPago": "24/11/2017",
+    "notificacion": {
+      "291": {
+        "fechaRecibido": "15/02/2018",
+        "resultado": "POSITIVO",
+        "fechaAporta": "15/02/2018"
+      },
+      "292": {
+        "resultado": "POSITIVO"
+      },
+      "certimail": "SI",
+      "fisico": "NO",
+      "tipo": "CERTIMAIL",
+      "autoNotificado": "22/02/2018"
+    },
+    "medidasCautelares": {
+      "fechaOrdenaMedidas": "24/11/2017",
+      "medidaSolicitada": "EMBARGO DE INMUEBLE"
+    }
+  },
+  "demandas": [],
+  "numero": 316,
+  "llaveProceso": "25754400300120170032300",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Bancolombia",
+  "revisado": false,
+  "terminado": false,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "MANUEL",
+    "segundoNombre": "ENRIQUE",
+    "primerApellido": "ARTEAGA",
+    "segundoApellido": "OROZCO",
+    "cedula": 8799171,
+    "direccion": "CARRERA 18 B No 4 C -  20  SOACHA",
+    "email": "saliradelante2012@hotmail.com"
+  },
+  "cc": 8799171,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "MANUEL ENRIQUE ARTEAGA OROZCO",
+  "notificacion": {
+    "notifiers": [
+      {
+        "tipo": "291",
+        "fechaRecibido": "2018-02-15T05:00:00.000Z",
+        "fechaAporta": "2018-02-15T05:00:00.000Z",
+        "resultado": true
+      },
+      {
+        "tipo": "292",
+        "fechaRecibido": null,
+        "fechaAporta": null,
+        "resultado": true
+      }
+    ],
+    "certimail": true,
+    "fisico": false,
+    "autoNotificado": "22/02/2018"
+  }
+}

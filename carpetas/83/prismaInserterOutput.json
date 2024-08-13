@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 83,
+    "numero": 83,
+    "llaveProceso": "11001400301920170102500",
+    "nombre": "luis adolfo peña arciniegas",
+    "idProcesos": [50738970],
+    "category": "Terminados"
+  }
+}

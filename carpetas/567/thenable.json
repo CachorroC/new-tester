@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306520230124300",
+  "numero": 567,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 94254761,
+    "direccion": "calle 71 f no. 78 c - 50 sur",
+    "email": "wilsonmolina16@hotmail.com",
+    "tel": {
+      "fijo": 7766244,
+      "celular": 3144005060
+    },
+    "primerNombre": "wilson",
+    "segundoNombre": "de",
+    "primerApellido": "jesus",
+    "segundoApellido": ["molina", "quirama"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2023-07-26T00:00:00.000Z",
+    "expediente": "11001400306520230124300",
+    "capitalAdeudado": 19188290,
+    "etapaProcesal": null,
+    "municipio": "BOGOTA",
+    "obligacion": [1000094307],
+    "radicado": "2023 - 01284",
+    "vencimientoPagare": ["2027-08-02T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 94254761,
+  "idProcesos": null
+}

@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "25754418900220180036300",
+  "numero": 413,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 1018430139,
+    "direccion": "carrera 38 no 14-93 bloque 9 apto 102",
+    "email": "luifermkt889@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luisa",
+    "segundoNombre": "fernanda",
+    "primerApellido": "salazar",
+    "segundoApellido": ["", "patarroyo"]
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-04-26T00:00:00.000Z",
+    "mandamientoPago": "2018-05-18T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-04-12T00:00:00.000Z",
+    "expediente": "25754418900220180036300",
+    "capitalAdeudado": 2147005205,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "SOACHA",
+    "obligacion": [20990182990],
+    "radicado": "2018 - 00363",
+    "vencimientoPagare": ["2035-04-20T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 79793904,
+    "direccion": "CALLLE 183 No 11-55 BLQ 9 APTO 102",
+    "nombre": "jhon  hader otalvaro  romo",
+    "telefono": 4805457
+  },
+  "cc": 1018430139,
+  "idProcesos": null
+}

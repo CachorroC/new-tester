@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 346,
+    "numero": 346,
+    "llaveProceso": "11001400307320170154500",
+    "nombre": "paula andrea gomez lopez",
+    "idProcesos": [50866190],
+    "category": "Terminados"
+  }
+}

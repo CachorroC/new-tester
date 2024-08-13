@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 488,
+    "cedula": "17099495",
+    "primerNombre": "pablo",
+    "primerApellido": "mendoza",
+    "segundoNombre": "elias",
+    "segundoApellido": "murillo",
+    "direccion": "calle 29 no 23-46  torre 1 apto 701",
+    "email": "pablomendoza44@gmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 495
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400306420170149000",
+  "numero": 306,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 7217446,
+    "direccion": "calle 127 b no 19-60 apto 402",
+    "email": "N MI",
+    "tel": {
+      "fijo": 2953878,
+      "celular": 3102050752
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "arturo",
+    "primerApellido": "jimenez",
+    "segundoApellido": "leal"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-10-24T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-10-20T00:00:00.000Z",
+    "expediente": "11001400306420170149000",
+    "capitalAdeudado": 18368757,
+    "etapaProcesal": "1.1001400306420171e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [11788203],
+    "radicado": "2017 - 01490",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 7217446,
+  "idProcesos": null
+}

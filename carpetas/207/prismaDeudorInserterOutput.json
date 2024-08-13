@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 204,
+    "cedula": "51993007",
+    "primerNombre": "sandra",
+    "primerApellido": "ruge",
+    "segundoNombre": "bibiana",
+    "segundoApellido": "rodriguez",
+    "direccion": "calle 148 # 94a - 10-60 apto 408 etapa 5",
+    "email": "sanbiru_69@hotmail.com",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 207
+  }
+}

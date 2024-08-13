@@ -1,0 +1,20 @@
+{
+  "date": "2024-02-16T17:00:19.798Z",
+  "savedDate": 1557118800000,
+  "ultimaActuacion": {
+    "idRegActuacion": 1676204610,
+    "llaveProceso": "11001400300220170100200",
+    "consActuacion": 56,
+    "fechaActuacion": "2023-03-14T05:00:00.000Z",
+    "actuacion": "Constancia secretarial",
+    "anotacion": "SE RECEPCIONA EXPEDIENTE HIBRIDO FISICO POR ESTADO CON 2 CUADERNOS //PASA A  LETRA/// ALEJANDRA LEGUIZAMÓN ",
+    "fechaInicial": null,
+    "fechaFinal": null,
+    "fechaRegistro": "2023-03-14T05:00:00.000Z",
+    "codRegla": "00                              ",
+    "conDocumentos": false,
+    "cant": 56,
+    "isUltimaAct": true,
+    "idProceso": 50780430
+  }
+}

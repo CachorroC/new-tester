@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 559,
+    "cedula": "53132436",
+    "primerNombre": "erli",
+    "primerApellido": "oyuela",
+    "segundoNombre": "yaneth",
+    "segundoApellido": "martinez",
+    "direccion": "carrera 10 no. 5 - 62 bloque torre 1 apartamento 202 conjunto residencial belverde i del municipio de mosquera",
+    "email": "capryeyom@hotmail.com",
+    "telCelular": "3126172174",
+    "telFijo": "5751066",
+    "carpetaNumero": 571
+  }
+}

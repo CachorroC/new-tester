@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 219,
+    "cedula": "79332273",
+    "primerNombre": "dufresny",
+    "primerApellido": "pinilla",
+    "segundoNombre": "augusto",
+    "segundoApellido": null,
+    "direccion": "carrera 13 # 155 - 88 casa 39",
+    "email": "htcolombia@gmail.com",
+    "telCelular": "3005705869",
+    "telFijo": "5705869",
+    "carpetaNumero": 222
+  }
+}

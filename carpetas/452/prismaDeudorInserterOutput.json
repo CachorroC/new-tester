@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 447,
+    "cedula": "25126734",
+    "primerNombre": "maria",
+    "primerApellido": "de",
+    "segundoNombre": "marin",
+    "segundoApellido": "orozco",
+    "direccion": "carrera 103 a  no 77d-22 molinos- bogota",
+    "email": "mauriciosamu1128@gmail.com",
+    "telCelular": "3124885346",
+    "telFijo": "4412100",
+    "carpetaNumero": 452
+  }
+}

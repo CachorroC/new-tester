@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001400303520170147500",
+  "numero": 268,
+  "tipoProceso": "PRENDARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79592811,
+    "direccion": "carrera 72 no 23 - 24 apartamento 402  i",
+    "email": "johuleal@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "jorge",
+    "segundoNombre": "hugo",
+    "primerApellido": "leal",
+    "segundoApellido": "serrato"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-05-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001400303520170147500",
+    "capitalAdeudado": 48855784,
+    "etapaProcesal": "1.100140030352017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [12649406],
+    "radicado": "2017 - 01475",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "nombre": "juan carlos ortiz leal"
+  },
+  "cc": 79592811,
+  "idProcesos": null
+}

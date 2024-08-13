@@ -1,0 +1,54 @@
+{
+  "actuaciones": null,
+  "juzgados": [],
+  "codeudor": {
+    "nombre": "LUZ MERY SALCEDO ESPINOSA",
+    "cedula": "10336884340",
+    "direccion": "TRANSVERSAL 4B No 3-75 CASA 87",
+    "telefono": "7308097",
+    "id": 489,
+    "carpetaNumero": 489
+  },
+  "demanda": {
+    "vencimientoPagare": "19/02/2025",
+    "obligacion": {
+      "A": 20990126542
+    },
+    "capitalAdeudado": "23.041.704.34",
+    "entregaGarantiasAbogado": "13/09/2018",
+    "departamento": "CUNDINAMARCA",
+    "municipio": "SOACHA",
+    "tipoProceso": "HIPOTECARIA",
+    "radicado": "2018 - 01008",
+    "llaveProceso": "25754418900320180100800",
+    "etapaProcesal": "ADMISION",
+    "fechaPresentacion": "20/09/2018"
+  },
+  "demandas": [],
+  "numero": 489,
+  "llaveProceso": "25754418900320180100800",
+  "fecha": null,
+  "ultimaActuacion": null,
+  "category": "Terminados",
+  "revisado": true,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "deudor": {
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "ORLANDO",
+    "segundoNombre": "SILVA",
+    "primerApellido": "CALDERON",
+    "segundoApellido": null,
+    "cedula": 80257279,
+    "direccion": "CALLE 72 G- SUR No 35-13 SUR",
+    "email": "jjanzola@hotmail.com"
+  },
+  "cc": 80257279,
+  "procesos": [],
+  "idProcesos": [],
+  "nombre": "ORLANDO SILVA CALDERON",
+  "notificacion": null
+}

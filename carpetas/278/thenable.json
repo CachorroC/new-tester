@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400303720170139100",
+  "numero": 278,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 35506033,
+    "direccion": "carrera  101  no 71 b - 53",
+    "email": "natis-rolita@hotmail.con",
+    "tel": {
+      "fijo": 4357832,
+      "celular": 3103430010
+    },
+    "primerNombre": "luz",
+    "segundoNombre": "dary",
+    "primerApellido": "puerta",
+    "segundoApellido": "jaramillo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-10-10T05:00:00.000Z",
+    "mandamientoPago": "2016-01-16T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-28T00:00:00.000Z",
+    "expediente": "11001400303720170139100",
+    "capitalAdeudado": 12347548,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [4670083154],
+    "radicado": "2017 - 01391",
+    "vencimientoPagare": [null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 4337296,
+    "direccion": "CARRERA  115 No 89 A - 31 INT 12 APART 202",
+    "nombre": "jose noel puerta puerta",
+    "telefono": 3103431255
+  },
+  "cc": 35506033,
+  "idProcesos": null
+}

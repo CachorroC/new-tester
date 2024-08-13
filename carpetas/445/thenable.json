@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "25754400300120180057200",
+  "numero": 445,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 79978846,
+    "direccion": "carrera 10bis b este no 63-44 sur",
+    "email": "juangarzon21@hotmail.com",
+    "tel": {
+      "fijo": 3654986,
+      "celular": 3212282328
+    },
+    "primerNombre": "juan",
+    "segundoNombre": "carlos",
+    "primerApellido": "garzon",
+    "segundoApellido": "bejarano"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2018-06-19T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2018-06-14T00:00:00.000Z",
+    "expediente": "25754400300120180057200",
+    "capitalAdeudado": 29143861,
+    "etapaProcesal": "2.575441890012018e+22",
+    "municipio": "SOACHA",
+    "obligacion": [20990165615],
+    "radicado": "2018 - 00572",
+    "vencimientoPagare": ["2028-07-03T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 79978846,
+  "idProcesos": null
+}

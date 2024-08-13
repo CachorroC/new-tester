@@ -1,0 +1,21 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 195,
+    "departamento": "BOGOTÁ",
+    "capitalAdeudado": "2920487950",
+    "entregaGarantiasAbogado": "2017-08-29T00:00:00.000Z",
+    "tipoProceso": "HIPOTECARIO",
+    "mandamientoPago": null,
+    "etapaProcesal": null,
+    "fechaPresentacion": "2017-09-04T00:00:00.000Z",
+    "municipio": "BOGOTA",
+    "obligacion": ["167542"],
+    "radicado": "2017 - 01329",
+    "vencimientoPagare": ["2028-09-01T00:00:00.000Z"],
+    "expediente": "11001400304020170132900",
+    "carpetaNumero": 198,
+    "despacho": null
+  }
+}

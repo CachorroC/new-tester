@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 299,
+    "cedula": "79906707",
+    "primerNombre": "edgar",
+    "primerApellido": "lopez",
+    "segundoNombre": "godoy",
+    "segundoApellido": null,
+    "direccion": "carrer 5  no 2-35  manzana 21 casa 208- mosquera",
+    "email": "s3curityinformation@gmail.com",
+    "telCelular": "3005821212",
+    "telFijo": "8272125",
+    "carpetaNumero": 302
+  }
+}

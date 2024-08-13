@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 324,
+    "numero": 324,
+    "llaveProceso": "11001400300120170084900",
+    "nombre": "jose edwin morales alfonso",
+    "idProcesos": [50548450],
+    "category": "Terminados"
+  }
+}

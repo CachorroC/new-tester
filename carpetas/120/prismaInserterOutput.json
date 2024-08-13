@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 120,
+    "numero": 120,
+    "llaveProceso": "25754418900320170075500",
+    "nombre": "jencell null e.u. null",
+    "idProcesos": [],
+    "category": "Bancolombia"
+  }
+}

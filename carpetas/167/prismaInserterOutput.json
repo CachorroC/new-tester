@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 167,
+    "numero": 167,
+    "llaveProceso": "11001310301020170071000",
+    "nombre": "jose mauricio gonzalez calderon",
+    "idProcesos": [28842484],
+    "category": "Terminados"
+  }
+}

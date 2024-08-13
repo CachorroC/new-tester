@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:25.320Z",
+  "proceso": {
+    "idProceso": 132789600,
+    "idConexion": 259,
+    "llaveProceso": "11001400303320230105600",
+    "fechaProceso": "2023-08-28T05:00:00.000Z",
+    "fechaUltimaActuacion": "2023-12-05T05:00:00.000Z",
+    "despacho": "JUZGADO 033 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandante: AECSA SA | Demandado: EDISON ANDRES TUTA FORERO | Demandado: ANGELICA GODOY GUTIERREZ ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 33,
+      "tipo": "JUZGADO 033 CIVIL MUNICIPAL DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-033-civil-municipal-de-bogota"
+    }
+  }
+}

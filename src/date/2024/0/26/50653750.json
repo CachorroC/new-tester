@@ -1,0 +1,20 @@
+{
+  "date": "2024-01-26T13:31:39.076Z",
+  "proceso": {
+    "idProceso": 50653750,
+    "idConexion": 259,
+    "llaveProceso": "11001400305920170074700",
+    "fechaProceso": "2017-08-23T05:00:00.000Z",
+    "fechaUltimaActuacion": "2021-08-13T05:00:00.000Z",
+    "despacho": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: MILTON ANDRES LAITON RINCON ",
+    "esPrivado": false,
+    "cantFilas": -1,
+    "juzgado": {
+      "id": 18,
+      "tipo": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ",
+      "url": "https://www.ramajudicial.gov.co/web/juzgado-18-de-ejecucion-civil-municipal-de-bogota"
+    }
+  }
+}

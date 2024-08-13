@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 325,
+    "numero": 325,
+    "llaveProceso": "11001400308020170076000",
+    "nombre": "marcela patricia diaz pereira",
+    "idProcesos": [],
+    "category": "Terminados"
+  }
+}

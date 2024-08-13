@@ -1,0 +1,17 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 1,
+    "cedula": "39581581",
+    "primerNombre": "alexandra",
+    "primerApellido": "jimenez",
+    "segundoNombre": "milena",
+    "segundoApellido": "aguilar",
+    "direccion": "mz 7 cs 6 ub hda/ girardot",
+    "email": "34|",
+    "telCelular": null,
+    "telFijo": null,
+    "carpetaNumero": 1
+  }
+}

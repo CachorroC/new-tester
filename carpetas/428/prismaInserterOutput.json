@@ -1,0 +1,12 @@
+{
+  "StatusCode": 200,
+  "Message": "ok",
+  "data": {
+    "id": 428,
+    "numero": 428,
+    "llaveProceso": "11001400302420180052000",
+    "nombre": "sergio libardo espinosa gomez",
+    "idProcesos": [51177440],
+    "category": "Terminados"
+  }
+}

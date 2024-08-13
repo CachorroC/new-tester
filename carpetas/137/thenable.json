@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001400304720170171300",
+  "numero": 137,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52818134,
+    "direccion": "calle 181c # 11 - 75 torre 3 apto 302",
+    "email": "ednita22ms@hotmail.com",
+    "tel": {
+      "fijo": 3002766,
+      "celular": 3002908272
+    },
+    "primerNombre": "edna",
+    "segundoNombre": "milena",
+    "primerApellido": "muñoz",
+    "segundoApellido": "sanchez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-08-23T00:00:00.000Z",
+    "mandamientoPago": "2017-12-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-08-15T00:00:00.000Z",
+    "expediente": "11001400304720170171300",
+    "capitalAdeudado": 1992608489,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [235349],
+    "radicado": "2017 - 01713",
+    "vencimientoPagare": ["2023-10-31T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "codeudor": {
+    "cedula": 51568155,
+    "direccion": "TRANSVERSAL 96A # 75B - 10 INTERIOR 10",
+    "nombre": "luz marina muñoz sanchez",
+    "telefono": "2124131 77 3004482243"
+  },
+  "cc": 52818134,
+  "idProcesos": null
+}

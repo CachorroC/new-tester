@@ -1,0 +1,39 @@
+{
+  "llaveProceso": "11001418904120230021200",
+  "numero": 578,
+  "tipoProceso": "SINGULAR",
+  "category": "Bancolombia",
+  "deudor": {
+    "cedula": 35422519,
+    "direccion": "cl 4 16 10 ap 201 barrio algarra iii",
+    "email": "dicrisare@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": 3203172020
+    },
+    "primerNombre": "diana",
+    "segundoNombre": "cristina",
+    "primerApellido": "arevalo",
+    "segundoApellido": "arboleda"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": null,
+    "entregaGarantiasAbogado": "2021-08-18T00:00:00.000Z",
+    "expediente": "11001418904120230021200",
+    "capitalAdeudado": 140332319,
+    "etapaProcesal": null,
+    "municipio": "ZIPAQUIRA",
+    "obligacion": [
+      3320096675,
+      "83942050 X T.C MASTER 5491580158404844 Y AMERICAN 377816059851588"
+    ],
+    "radicado": "2023 - 00442",
+    "vencimientoPagare": [null, null, null],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 35422519,
+  "idProcesos": null
+}

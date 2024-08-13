@@ -1,0 +1,42 @@
+{
+  "llaveProceso": "11001418901220180064400",
+  "numero": 542,
+  "tipoProceso": "SINGULAR",
+  "category": "Reintegra",
+  "deudor": {
+    "cedula": 53106069,
+    "direccion": "calle 65 bis no 86-50",
+    "email": "bicato10@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "bibiana",
+    "segundoNombre": "patricia",
+    "primerApellido": "esguerra",
+    "segundoApellido": "vasquez"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2018-05-09T05:00:00.000Z",
+    "mandamientoPago": "2018-12-10T05:00:00.000Z",
+    "entregaGarantiasAbogado": null,
+    "expediente": "11001418901220180064400",
+    "capitalAdeudado": 12864472,
+    "etapaProcesal": "EJECUCIÓN",
+    "municipio": "BOGOTA",
+    "obligacion": [
+      "AMERICAN 377813618831557",
+      "VISA 4513070030495183 // 5303715376619405"
+    ],
+    "radicado": "2018 - 00644",
+    "vencimientoPagare": [
+      "2021-06-04T05:00:00.000Z",
+      "2021-06-04T05:00:00.000Z"
+    ],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 53106069,
+  "idProcesos": null
+}

@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400303920170125600",
+  "numero": 259,
+  "tipoProceso": "HIPOTECARIO",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 52770471,
+    "direccion": "carrera 87 f - no 26-74 sur",
+    "email": "nelly_ruiz1980@hotmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "luz",
+    "segundoNombre": "nelly",
+    "primerApellido": "ruiz",
+    "segundoApellido": "lara"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": "2017-09-21T00:00:00.000Z",
+    "mandamientoPago": "2017-11-01T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-13T00:00:00.000Z",
+    "expediente": "11001400303920170125600",
+    "capitalAdeudado": 7926636898,
+    "etapaProcesal": "NOTIFICACION",
+    "municipio": "BOGOTA",
+    "obligacion": [153884],
+    "radicado": "2017 - 01256",
+    "vencimientoPagare": ["2017-04-23T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 52770471,
+  "idProcesos": null
+}

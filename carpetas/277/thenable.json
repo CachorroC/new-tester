@@ -1,0 +1,36 @@
+{
+  "llaveProceso": "11001400308320170098000",
+  "numero": 277,
+  "tipoProceso": "SINGULAR",
+  "category": "Terminados",
+  "deudor": {
+    "cedula": 39687966,
+    "direccion": "diagonal 76 # 6 - 12 apto 604",
+    "email": "olgalucia.herazo@gmail.com",
+    "tel": {
+      "fijo": null,
+      "celular": null
+    },
+    "primerNombre": "olga",
+    "segundoNombre": "lucia",
+    "primerApellido": "herazo",
+    "segundoApellido": "perdomo"
+  },
+  "demanda": {
+    "tipoProceso": "SINGULAR",
+    "fechaPresentacion": null,
+    "mandamientoPago": "2017-09-06T00:00:00.000Z",
+    "entregaGarantiasAbogado": "2017-09-01T00:00:00.000Z",
+    "expediente": "11001400308320170098000",
+    "capitalAdeudado": 23454012,
+    "etapaProcesal": "1.100140030832017e+22",
+    "municipio": "BOGOTA",
+    "obligacion": [1710090192, "AUDIOPRESTAMO"],
+    "radicado": "2017 - 00980",
+    "vencimientoPagare": ["2019-08-07T00:00:00.000Z"],
+    "departamento": "CUNDINAMARCA",
+    "juzgados": []
+  },
+  "cc": 39687966,
+  "idProcesos": null
+}

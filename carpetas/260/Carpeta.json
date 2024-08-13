@@ -1,0 +1,105 @@
+{
+  "id": 11384155,
+  "actuaciones": [],
+  "category": "Terminados",
+  "codeudor": {
+    "nombre": null,
+    "cedula": null,
+    "direccion": null,
+    "telefono": null,
+    "id": 260
+  },
+  "demanda": {
+    "liquidacion": "1000",
+    "avaluo": "1000",
+    "capitalAdeudado": "16242560",
+    "departamento": "CUNDINAMARCA",
+    "despacho": null,
+    "entregaGarantiasAbogado": "1970-01-01T00:00:42.996Z",
+    "etapaProcesal": "NOTIFICACION",
+    "fechaPresentacion": ["1970-01-01T00:00:43.005Z"],
+    "id": 260,
+    "llaveProceso": "25290400300120170063400",
+    "mandamientoPago": [],
+    "municipio": "FUSAGASUGA",
+    "notificacion": {
+      "id": 260,
+      "notifiers": [
+        {
+          "tipo": "291",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        },
+        {
+          "tipo": "292",
+          "fechaRecibido": null,
+          "fechaAporta": null,
+          "resultado": null
+        }
+      ],
+      "certimail": null,
+      "fisico": null,
+      "autoNotificado": null
+    },
+    "obligacion": ["132687", "3778133800181884"],
+    "radicado": "2017 - 00634",
+    "tipoProceso": "HIPOTECARIO",
+    "vencimientoPagare": ["1970-01-01T00:00:42.990Z"],
+    "medidasCautelares": {
+      "id": 260,
+      "fechaOrdenaMedida": "2024-02-10T00:54:43.682Z",
+      "medidaSolicitada": null
+    }
+  },
+  "deudor": {
+    "id": 260,
+    "telCelular": null,
+    "telFijo": null,
+    "primerNombre": "HERNAN",
+    "segundoNombre": "ALVAREZ",
+    "primerApellido": "PARDO",
+    "segundoApellido": null,
+    "cedula": "11384155",
+    "direccion": "CARRERA 4 ESTE 4-42  FUSAGASUGA ",
+    "email": "heralvarezpa@misena.edu.co"
+  },
+  "fecha": null,
+  "idProcesos": [],
+  "idRegUltimaAct": null,
+  "llaveProceso": "25290400300120170063400",
+  "nombre": "hernan alvarez pardo",
+  "numero": 260,
+  "procesos": [],
+  "revisado": false,
+  "terminado": true,
+  "tipoProceso": "HIPOTECARIO",
+  "ultimaActuacion": null,
+  "notas": [
+    {
+      "carpetaNumero": 260,
+      "createdAt": "2024-02-10T00:54:43.682Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": "EL 7 DE DICIEMBRE DE 2018 SE DEVOLVIERON GARANTIAS A AECSA ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 260,
+      "createdAt": "2024-02-10T00:54:43.682Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 18 DE ENERO DE 2019 SE LEVANTARON MEDIDAS CAUTELARES SOBRE EL INMUEBLE ",
+      "content": []
+    },
+    {
+      "carpetaNumero": 260,
+      "createdAt": "2024-02-10T00:54:43.682Z",
+      "pathname": null,
+      "dueDate": null,
+      "text": " EL 31 DE JULIO DE 2.018 EL JUZGADO DECRETO LA TERMINACION DEL PROCESO POR PAGO CUOTAS EN MORA ",
+      "content": []
+    }
+  ],
+  "updatedAt": "2024-02-10T00:54:43.682Z"
+}
