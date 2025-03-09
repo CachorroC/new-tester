@@ -20,6 +20,9 @@ async function tryAsyncCarpetas() {
   );
 
   for await ( const carpeta of generateCarpetas() ) {
+    await sleep(
+      1000
+    );
     mapCarpetas.set(
       carpeta.numero, carpeta
     );

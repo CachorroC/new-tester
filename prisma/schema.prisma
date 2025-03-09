@@ -24,8 +24,8 @@ model Carpeta {
   fechaUltimaRevision DateTime?  @db.Date
   ciudad              String?
   juzgadoTipo         String?
-  juzgadoId           String?
   juzgadoCiudad       String?
+  juzgadoId           String?
   ultimaActuacion     Actuacion? @relation(fields: [idRegUltimaAct], references: [idRegActuacion])
   juzgado             Juzgado?   @relation(fields: [juzgadoId, juzgadoTipo, juzgadoCiudad], references: [id, tipo, ciudad])
   codeudor            Codeudor?
@@ -216,7 +216,6 @@ model Juzgado {
 }
 
 model Proceso {
-  id                   Int         @id @default(autoincrement())
   cantFilas            Int
   carpetaNumero        Int
   departamento         String
@@ -225,7 +224,7 @@ model Proceso {
   fechaProceso         DateTime?   @db.Date
   fechaUltimaActuacion DateTime?   @db.Date
   idConexion           Int
-  idProceso            Int         @unique
+  idProceso            Int         @id @unique
   juzgadoTipo          String
   llaveProceso         String
   sujetosProcesales    String
